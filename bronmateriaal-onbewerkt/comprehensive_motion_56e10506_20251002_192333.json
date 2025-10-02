@@ -1,0 +1,30 @@
+{
+  "decision": {
+    "Id": "56e10506-35db-4633-9434-698165dda1d2",
+    "Agendapunt_Id": "a697a3a1-bcd0-447f-82f9-08076a44d566",
+    "StemmingsSoort": "Hoofdelijk",
+    "BesluitSoort": "Stemmen - verworpen",
+    "BesluitTekst": "Verworpen. (72-74)",
+    "Opmerking": null,
+    "Status": "Besluit",
+    "AgendapuntZaakBesluitVolgorde": 2,
+    "GewijzigdOp": "2025-10-01T14:10:23.563+02:00",
+    "ApiGewijzigdOp": "2025-10-01T12:10:27.801263Z",
+    "Verwijderd": false,
+    "_votes": [
+      {
+        "Id": "41aa3e85-4773-4df8-9dcb-21c9a482cdfb",
+        "Besluit_Id": "56e10506-35db-4633-9434-698165dda1d2",
+        "Soort": "Tegen",
+        "FractieGrootte": 8,
+        "ActorNaam": "Wijen-Nass, M.J.M.H.",
+        "ActorFractie": "BBB",
+        "Vergissing": false,
+        "SidActorLid": "S-1-365867521-2120874753-677847367-1241105165-2469263033-3747099900",
+        "SidActorFractie": "S-1-365867521-2120874753-3989062109-1173306659-2208517255-2082135607",
+        "Persoon_Id": "30e10ef9-217c-4df6-a47f-21431d3e4159",
+        "Fractie_Id": "626555ac-e836-44e3-9978-a6a7f0abc3ce",
+        "GewijzigdOp": "2025-10-02T10:02:45.95+02:00",
+        "ApiGewijzigdOp": "2025-10-02T08:03:01.7358626Z",
+        "Verwijderd": false,
+        "Besluit": 

@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "fetched_at": "2025-10-02T18:54:55.164032",
+    "api_base": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0",
+    "total_requested": 20,
+    "actual_fetched": 0
+  },
+  "parties": [
+    {
+      "Id": "626555ac-e836-44e3-9978-a6a7f0abc3ce",
+      "Afkorting": "BBB",
+      "NaamNL": "BoerBurgerBeweging",
+      "AantalZetels": 8
+    },
+    {
+      "Id": "62c1a13c-85ff-40ed-90f7-a9546d61f869",
+      "Afkorting": "CDA",
+      "NaamNL": "Christen-Democratisch Appèl",
+      "AantalZetels": 5
+    },
+    {
+      "Id": "d720f5af-0516-408a-b830-0b6ffb8a581c",
+      "Afkorting": "ChristenUnie",
+      "NaamNL": "ChristenUnie",
+      "AantalZetels": 3
+    },
+    {
+      "Id": "4e9f6f5b-2544-4667-8134-6b85c4ebb4e0",
+      "Afkorting": "D66",
+      "NaamNL": "Democraten 66",
+      "AantalZetels": 9
+    },
+    {
+      "Id": "deb74bb5-63a9-4ffc-98ed-af577167452e",
+      "Afkorting": "DENK",
+      "NaamNL": "DENK",
+      "AantalZetels": 3
+    },
+    {
+      "Id": "e0b7b638-de3c-47cc-85bd-341dd65ea33d",
+      "Afkorting": "FVD",
+      "NaamNL": "Forum voor Democratie",
+      "AantalZetels": 3
+    },
+    {
+      "Id": "0208097d-ef04-438a-8c29-eebb84956204",
+      "Afkorting": "GroenLinks-PvdA",
+      "NaamNL": "GroenLinks-PvdA",
+      "AantalZetels": 25
+    },
+    {
+      "Id": "fab6e7e1-9d63-446a-a6e1-e1c74e3f679e",
+      "Afkorting": "JA21",
+      "NaamNL": "JA21",
+      "AantalZetels": 1
+    },
+    {
+      "Id": "ad182a43-bc8c-40b3-894d-4a92515e70e7",
+      "Afkorting": "Nieuw Sociaal Contract",
+      "NaamNL": "Nieuw Sociaal Contract",
+      "AantalZetels": 19
+    },
+    {
+      "Id": "d3b4d880-ef37-4ce6-99ec-4940266ac466",
+      "Afkorting": "PvdD",
+      "NaamNL": "Partij voor de Dieren",
+      "AantalZetels": 3
+    },
+    {
+      "Id": "65129918-f256-4975-9da4-488da34d6695",
+      "Afkorting": "PVV",
+      "NaamNL": "Partij voor de Vrijheid",
+      "AantalZetels": 37
+    },
+    {
+      "Id": "a3689bb6-3914-4d5c-a6a8-42e24582e299",
+      "Afkorting": "SP",
+      "NaamNL": "Socialistische Partij",
+      "AantalZetels": 5
+    },
+    {
+      "Id": "77f9b6f1-b1a9-4d1b-a05e-9936e79d8fa5",
+      "Afkorting": "SGP",
+      "NaamNL": "Staatkundig Gereformeerde Partij",
+      "AantalZetels": 3
+    },
+    {
+      "Id": "7476e97a-3243-4122-9df6-ba7d82a5279b",
+      "Afkorting": "VVD",
+      "NaamNL": "Volkspartij voor Vrijheid en Democratie",
+      "AantalZetels": 24
+    },
+    {
+      "Id": "ae48391e-ce4d-47e0-86e3-ee310282f66f",
+      "Afkorting": "Volt",
+      "NaamNL": "Volt",
+      "AantalZetels": 2
+    }
+  ],
+  "motions": []
+}

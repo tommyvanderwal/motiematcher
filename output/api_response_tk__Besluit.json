@@ -1,0 +1,59 @@
+{
+  "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Besluit",
+  "params": {
+    "$top": 3,
+    "$orderby": "Id desc"
+  },
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+    "OData-Version": "4.0",
+    "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'",
+    "Date": "Thu, 02 Oct 2025 16:49:07 GMT",
+    "Transfer-Encoding": "chunked"
+  },
+  "data": {
+    "@odata.context": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/$metadata#Besluit",
+    "value": [
+      {
+        "Id": "7f3488c5-627b-4bea-9365-ffffe9e8dc3c",
+        "Agendapunt_Id": "361d573f-d110-4363-9f1e-316105777a74",
+        "StemmingsSoort": null,
+        "BesluitSoort": "Afvoeren van de stand der werkzaamheden (plenair)",
+        "BesluitTekst": "Afgevoerd van de stand der werkzaamheden.",
+        "Opmerking": null,
+        "Status": "Besluit",
+        "AgendapuntZaakBesluitVolgorde": 8,
+        "GewijzigdOp": "2020-01-23T10:10:15.207+01:00",
+        "ApiGewijzigdOp": "2020-01-23T09:11:03.8450445Z",
+        "Verwijderd": false
+      },
+      {
+        "Id": "be6f8196-2331-4e75-a852-ffffcf093816",
+        "Agendapunt_Id": "1e45a27c-cae8-46bc-b893-6e3a3f6db17d",
+        "StemmingsSoort": null,
+        "BesluitSoort": "Behandelen [en afdoen]",
+        "BesluitTekst": "Behandeld.",
+        "Opmerking": null,
+        "Status": "Besluit",
+        "AgendapuntZaakBesluitVolgorde": 8,
+        "GewijzigdOp": "2016-11-18T09:06:34.773+01:00",
+        "ApiGewijzigdOp": "2019-06-29T08:51:38.0466283Z",
+        "Verwijderd": false
+      },
+      {
+        "Id": "4af77fd5-dd41-44c4-bd45-ffffa27ea6ee",
+        "Agendapunt_Id": "4bffdb0d-90e0-464a-91dc-452d0f2db11e",
+        "StemmingsSoort": null,
+        "BesluitSoort": "Afvoeren van de stand der werkzaamheden (plenair)",
+        "BesluitTekst": "Afvoeren van de stand der werkzaamheden",
+        "Opmerking": null,
+        "Status": "Besluit",
+        "AgendapuntZaakBesluitVolgorde": 153,
+        "GewijzigdOp": "2012-03-01T14:06:57.39+01:00",
+        "ApiGewijzigdOp": "2019-06-29T02:11:05.3288855Z",
+        "Verwijderd": false
+      }
+    ]
+  }
+}

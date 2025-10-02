@@ -1,0 +1,203 @@
+{
+  "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/",
+  "params": {},
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+    "OData-Version": "4.0",
+    "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'",
+    "Date": "Thu, 02 Oct 2025 16:49:07 GMT",
+    "Set-Cookie": "TS01b46c01=01e9e0fda3757744dc306d5595865c82237715af1546e553dfe66c4d91f7d9ab48cbeacf94684bf75cff5031ccf5996f78e650b79f; Path=/; Domain=.gegevensmagazijn.tweedekamer.nl",
+    "Transfer-Encoding": "chunked"
+  },
+  "data": {
+    "@odata.context": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/$metadata",
+    "value": [
+      {
+        "name": "Persoon",
+        "kind": "EntitySet",
+        "url": "Persoon"
+      },
+      {
+        "name": "PersoonContactinformatie",
+        "kind": "EntitySet",
+        "url": "PersoonContactinformatie"
+      },
+      {
+        "name": "PersoonGeschenk",
+        "kind": "EntitySet",
+        "url": "PersoonGeschenk"
+      },
+      {
+        "name": "PersoonLoopbaan",
+        "kind": "EntitySet",
+        "url": "PersoonLoopbaan"
+      },
+      {
+        "name": "PersoonNevenfunctie",
+        "kind": "EntitySet",
+        "url": "PersoonNevenfunctie"
+      },
+      {
+        "name": "PersoonNevenfunctieInkomsten",
+        "kind": "EntitySet",
+        "url": "PersoonNevenfunctieInkomsten"
+      },
+      {
+        "name": "PersoonOnderwijs",
+        "kind": "EntitySet",
+        "url": "PersoonOnderwijs"
+      },
+      {
+        "name": "PersoonReis",
+        "kind": "EntitySet",
+        "url": "PersoonReis"
+      },
+      {
+        "name": "Commissie",
+        "kind": "EntitySet",
+        "url": "Commissie"
+      },
+      {
+        "name": "CommissieContactinformatie",
+        "kind": "EntitySet",
+        "url": "CommissieContactinformatie"
+      },
+      {
+        "name": "CommissieZetel",
+        "kind": "EntitySet",
+        "url": "CommissieZetel"
+      },
+      {
+        "name": "CommissieZetelVastPersoon",
+        "kind": "EntitySet",
+        "url": "CommissieZetelVastPersoon"
+      },
+      {
+        "name": "CommissieZetelVastVacature",
+        "kind": "EntitySet",
+        "url": "CommissieZetelVastVacature"
+      },
+      {
+        "name": "CommissieZetelVervangerPersoon",
+        "kind": "EntitySet",
+        "url": "CommissieZetelVervangerPersoon"
+      },
+      {
+        "name": "CommissieZetelVervangerVacature",
+        "kind": "EntitySet",
+        "url": "CommissieZetelVervangerVacature"
+      },
+      {
+        "name": "Fractie",
+        "kind": "EntitySet",
+        "url": "Fractie"
+      },
+      {
+        "name": "FractieZetel",
+        "kind": "EntitySet",
+        "url": "FractieZetel"
+      },
+      {
+        "name": "FractieZetelPersoon",
+        "kind": "EntitySet",
+        "url": "FractieZetelPersoon"
+      },
+      {
+        "name": "FractieZetelVacature",
+        "kind": "EntitySet",
+        "url": "FractieZetelVacature"
+      },
+      {
+        "name": "Activiteit",
+        "kind": "EntitySet",
+        "url": "Activiteit"
+      },
+      {
+        "name": "ActiviteitActor",
+        "kind": "EntitySet",
+        "url": "ActiviteitActor"
+      },
+      {
+        "name": "Agendapunt",
+        "kind": "EntitySet",
+        "url": "Agendapunt"
+      },
+      {
+        "name": "Besluit",
+        "kind": "EntitySet",
+        "url": "Besluit"
+      },
+      {
+        "name": "Stemming",
+        "kind": "EntitySet",
+        "url": "Stemming"
+      },
+      {
+        "name": "Zaak",
+        "kind": "EntitySet",
+        "url": "Zaak"
+      },
+      {
+        "name": "ZaakActor",
+        "kind": "EntitySet",
+        "url": "ZaakActor"
+      },
+      {
+        "name": "Zaal",
+        "kind": "EntitySet",
+        "url": "Zaal"
+      },
+      {
+        "name": "Reservering",
+        "kind": "EntitySet",
+        "url": "Reservering"
+      },
+      {
+        "name": "Document",
+        "kind": "EntitySet",
+        "url": "Document"
+      },
+      {
+        "name": "DocumentActor",
+        "kind": "EntitySet",
+        "url": "DocumentActor"
+      },
+      {
+        "name": "DocumentVersie",
+        "kind": "EntitySet",
+        "url": "DocumentVersie"
+      },
+      {
+        "name": "DocumentPublicatie",
+        "kind": "EntitySet",
+        "url": "DocumentPublicatie"
+      },
+      {
+        "name": "DocumentPublicatieMetadata",
+        "kind": "EntitySet",
+        "url": "DocumentPublicatieMetadata"
+      },
+      {
+        "name": "Kamerstukdossier",
+        "kind": "EntitySet",
+        "url": "Kamerstukdossier"
+      },
+      {
+        "name": "Vergadering",
+        "kind": "EntitySet",
+        "url": "Vergadering"
+      },
+      {
+        "name": "Verslag",
+        "kind": "EntitySet",
+        "url": "Verslag"
+      },
+      {
+        "name": "Toezegging",
+        "kind": "EntitySet",
+        "url": "Toezegging"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1646 @@
+{
+  "metadata": {
+    "fetched_at": "2025-10-02T18:58:32.013664",
+    "api_base": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0",
+    "total_requested": 20,
+    "actual_fetched": 2
+  },
+  "motions": [
+    {
+      "id": "56e10506-35db-4633-9434-698165dda1d2",
+      "type": "besluit_met_stemming",
+      "title": "Verworpen. (72-74)",
+      "decision_type": "Stemmen - verworpen",
+      "decision_status": "Besluit",
+      "voting_type": "Hoofdelijk",
+      "date": "2025-10-02T10:02:45.95+02:00",
+      "voting_records": [
+        {
+          "party_name": "Wijen-Nass, M.J.M.H.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Richardson, S.M.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Koekkoek, M.",
+          "party_abbreviation": "Volt",
+          "vote": "voor",
+          "num_members": 2,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Eerdmans, B.J.",
+          "party_abbreviation": "JA21",
+          "vote": "tegen",
+          "num_members": 1,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Burg van der, E.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mohandis, M.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Uppelschoten, N.A.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hoop de, H.E.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hartsuiker, R.J.J.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Meetelen van, R.F.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Podt, A.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk van, D.J.H. (Diederik)",
+          "party_abbreviation": "SGP",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Nijhof-Leeuw, J.M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Jong de, L.W.E. (Léon)",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Veltman, H.N.",
+          "party_abbreviation": "VVD",
+          "vote": "onthouding",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.95+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Pool, J.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Lee van der, T.M.T.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Deen, M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dobbe, S.E.M.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hertzberger, R.Y.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mutluer, S.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Stultiens, L.C.J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ouwehand, E.",
+          "party_abbreviation": "PvdD",
+          "vote": "onthouding",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mulder, E. (Edgar)",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Crijns, P.P.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vroonhoven van, J.N.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Waveren van, A.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vondeling, M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.947+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Boutkan, W.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ellian, U.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vos de, L.G.",
+          "party_abbreviation": "FVD",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bikkers, B.T.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Thiadens, F.M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Paulusma, W.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Flach, A.J.",
+          "party_abbreviation": "SGP",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Rikkers-Oosterkamp, M.G.F.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Meijeren van, G.F.C.",
+          "party_abbreviation": "FVD",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Oostenbrink, M.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Sneller, J.C.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.943+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Baarle van, S.R.T.",
+          "party_abbreviation": "DENK",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bosma, M. (Martin)",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk van, I. (Inge)",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Wilders, G.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Verkuijlen, R.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Buijsse, M.R.G.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Born van den, V.H.",
+          "party_abbreviation": "PVV",
+          "vote": "onthouding",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Baudet, T.H.P.",
+          "party_abbreviation": "FVD",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Grinwis, P.A.",
+          "party_abbreviation": "ChristenUnie",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Rooderkerk, I.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Meulenkamp, W.J.H.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Campen van, A.A.H.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bontenbal, H.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijck van, A.P.C. (Tony)",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bruyning, F.H.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Haage, M.W.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Velde van der, M.K.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Patijn, M.H.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Holman, H.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.94+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kahraman, I.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Thijssen, J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "White, R.J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Heutink, H.D.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Chakor, G.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Rajkowski, Q.M.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bamenga, P.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kent van, B.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Wingelaar, N.T.P.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Martens-America, C.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Korte de, M.C.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Pijpelink, A.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.937+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hijum van, Y.J.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk, J.P.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vree de, J.H.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Roon de, R.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ceder, D.G.M.",
+          "party_abbreviation": "ChristenUnie",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Gabriëls, G.J.W.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kops, A.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Welzijn, R.M.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kathmann, B.C.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Zanten van, C.R.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Yesilgöz-Zegerius, D.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.933+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Beer de, M.E.E.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ergin, D.A.",
+          "party_abbreviation": "DENK",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Idsinga, F.L.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Lahlah, A.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Boon, M.C.H.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Rep, R.J.H.H.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Pierik, C.R.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Paternotte, J.M.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Markuszower, G.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Koops, W.J.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.93+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mooiman, J.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Jetten, R.A.A.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Westerveld, E.M.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hirsch, D.H.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Stoffer, C.",
+          "party_abbreviation": "SGP",
+          "vote": "tegen",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vlottes, E.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Abassi el, I.",
+          "party_abbreviation": "DENK",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.927+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Slagt-Tichelman, E.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Smitskam, P.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kröger, S.C.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Graus, D.J.G.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Becker, B.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Heite, A.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Michon-Derkzen, I.J.M.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Erkens, S.P.A.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Saris, I.G.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bromet, L.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.923+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Nispen van, M.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Timmermans, F.C.G.M.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dral, R.M.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Eijk van, W.P.J.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kort de, A.H.J.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kostic, I.",
+          "party_abbreviation": "PvdD",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Klaver, J.F.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Krul, H.M.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Aardema, M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Faddegon, C.J.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kouwenhoven, A.J.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Esser, E.R.F.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ram, D.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Six Dijkstra, J.P.S.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Blaauw, R.B.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Plas van der, C.A.M.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.92+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bikker, M.H.",
+          "party_abbreviation": "ChristenUnie",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Beckerman, S.M.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Werf van der, J.J.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vermeer, H.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Joseph, A.S.",
+          "party_abbreviation": "BBB",
+          "vote": "tegen",
+          "num_members": 8,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Tseggai, M.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk van, O.C. (Olger)",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kisteman, A.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Boswijk, D.G.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Piri, K.P.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Teunissen, C. (Christine)",
+          "party_abbreviation": "PvdD",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Claassen, R.A.B.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Haasen van, J.P.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Nordkamp, J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.917+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hoeff van der, P.H.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vijlbrief, J.A.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Postma, W.L.",
+          "party_abbreviation": "NSC",
+          "vote": "onthouding",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Valize, J.J.T.M.",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Groot de, P.C. (Peter)",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bushoff, T.J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dassen, L.A.J.M.",
+          "party_abbreviation": "Volt",
+          "vote": "voor",
+          "num_members": 2,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bevers, H.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Verouden, V.C.H.M.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Groningen van, D.A.",
+          "party_abbreviation": "VVD",
+          "vote": "tegen",
+          "num_members": 24,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vedder, E.C.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk van, E. (Emiel)",
+          "party_abbreviation": "PVV",
+          "vote": "tegen",
+          "num_members": 37,
+          "vote_date": "2025-10-02T10:02:45.913+02:00",
+          "is_correction": false
+        }
+      ],
+      "vote_summary": {
+        "voor": 72,
+        "tegen": 74,
+        "onthouding": 4
+      },
+      "enrichment_status": "completed",
+      "parties_count": 150
+    },
+    {
+      "id": "93c64c34-fc1e-4de5-b812-66f5226cacde",
+      "type": "besluit_met_stemming",
+      "title": "Verworpen. (72-74)",
+      "decision_type": "Stemmen - verworpen",
+      "decision_status": "Besluit",
+      "voting_type": "Hoofdelijk",
+      "date": "2025-10-02T09:33:03.797+02:00",
+      "voting_records": [
+        {
+          "party_name": "Waveren van, A.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dobbe, S.E.M.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Veltman, H.N.",
+          "party_abbreviation": "VVD",
+          "vote": "onthouding",
+          "num_members": 24,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Koekkoek, M.",
+          "party_abbreviation": "Volt",
+          "vote": "voor",
+          "num_members": 2,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Podt, A.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Paulusma, W.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hoop de, H.E.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Lee van der, T.M.T.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mutluer, S.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Sneller, J.C.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hertzberger, R.Y.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Mohandis, M.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Vroonhoven van, J.N.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Stultiens, L.C.J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ouwehand, E.",
+          "party_abbreviation": "PvdD",
+          "vote": "onthouding",
+          "num_members": 3,
+          "vote_date": "2025-10-02T09:33:03.797+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Patijn, M.H.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Thijssen, J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bamenga, P.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Haage, M.W.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bontenbal, H.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk van, I. (Inge)",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Ceder, D.G.M.",
+          "party_abbreviation": "ChristenUnie",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Korte de, M.C.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Bruyning, F.H.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kent van, B.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Wingelaar, N.T.P.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "White, R.J.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Baarle van, S.R.T.",
+          "party_abbreviation": "DENK",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Rooderkerk, I.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Pijpelink, A.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Born van den, V.H.",
+          "party_abbreviation": "PVV",
+          "vote": "onthouding",
+          "num_members": 37,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Grinwis, P.A.",
+          "party_abbreviation": "ChristenUnie",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Dijk, J.P.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kahraman, I.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Chakor, G.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kathmann, B.C.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Holman, H.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.793+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Hirsch, D.H.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Gabriëls, G.J.W.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Kröger, S.C.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Paternotte, J.M.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Welzijn, R.M.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Slagt-Tichelman, E.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Werf van der, J.J.",
+          "party_abbreviation": "D66",
+          "vote": "voor",
+          "num_members": 9,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Six Dijkstra, J.P.S.",
+          "party_abbreviation": "NSC",
+          "vote": "voor",
+          "num_members": 19,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Klaver, J.F.",
+          "party_abbreviation": "GroenLinks-PvdA",
+          "vote": "voor",
+          "num_members": 25,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Boswijk, D.G.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Krul, H.M.",
+          "party_abbreviation": "CDA",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Beckerman, S.M.",
+          "party_abbreviation": "SP",
+          "vote": "voor",
+          "num_members": 5,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        },
+        {
+          "party_name": "Abassi el, I.",
+          "party_abbreviation": "DENK",
+          "vote": "voor",
+          "num_members": 3,
+          "vote_date": "2025-10-02T09:33:03.79+02:00",
+          "is_correction": false
+        }
+      ],
+      "vote_summary": {
+        "voor": 47,
+        "tegen": 0,
+        "onthouding": 3
+      },
+      "enrichment_status": "completed",
+      "parties_count": 50
+    }
+  ]
+}

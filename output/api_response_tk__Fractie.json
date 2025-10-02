@@ -1,0 +1,68 @@
+{
+  "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Fractie",
+  "params": {
+    "$top": 3,
+    "$orderby": "Id desc"
+  },
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+    "OData-Version": "4.0",
+    "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'",
+    "Date": "Thu, 02 Oct 2025 16:49:07 GMT",
+    "Transfer-Encoding": "chunked"
+  },
+  "data": {
+    "@odata.context": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/$metadata#Fractie",
+    "value": [
+      {
+        "Id": "a9639966-5a30-4676-aafa-fd990e0f8b36",
+        "Nummer": null,
+        "Afkorting": null,
+        "NaamNL": null,
+        "NaamEN": null,
+        "AantalZetels": null,
+        "AantalStemmen": null,
+        "DatumActief": null,
+        "DatumInactief": null,
+        "ContentType": null,
+        "ContentLength": null,
+        "GewijzigdOp": null,
+        "ApiGewijzigdOp": null,
+        "Verwijderd": null
+      },
+      {
+        "Id": "8fd1a907-0355-4d27-8dc1-fd5a531b471e",
+        "Nummer": 2756,
+        "Afkorting": "GL",
+        "NaamNL": "GroenLinks",
+        "NaamEN": "Green Left",
+        "AantalZetels": 0,
+        "AantalStemmen": 537308,
+        "DatumActief": "1990-11-24T00:00:00+01:00",
+        "DatumInactief": "2023-10-26T00:00:00+02:00",
+        "ContentType": "image/png",
+        "ContentLength": 3715,
+        "GewijzigdOp": "2023-10-27T10:46:51+02:00",
+        "ApiGewijzigdOp": "2023-10-27T08:47:20.8011393Z",
+        "Verwijderd": false
+      },
+      {
+        "Id": "7585424c-f0c1-4f77-be71-fbce77a77a32",
+        "Nummer": null,
+        "Afkorting": null,
+        "NaamNL": null,
+        "NaamEN": null,
+        "AantalZetels": null,
+        "AantalStemmen": null,
+        "DatumActief": null,
+        "DatumInactief": null,
+        "ContentType": null,
+        "ContentLength": null,
+        "GewijzigdOp": null,
+        "ApiGewijzigdOp": null,
+        "Verwijderd": null
+      }
+    ]
+  }
+}

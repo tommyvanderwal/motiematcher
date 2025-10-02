@@ -1,0 +1,92 @@
+{
+  "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Document",
+  "params": {
+    "$top": 3,
+    "$orderby": "Id desc"
+  },
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+    "OData-Version": "4.0",
+    "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'",
+    "Date": "Thu, 02 Oct 2025 16:49:07 GMT",
+    "Transfer-Encoding": "chunked"
+  },
+  "data": {
+    "@odata.context": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/$metadata#Document",
+    "value": [
+      {
+        "Id": "41e85593-d544-4c13-a74b-ffffff5d0cdc",
+        "Soort": "Antwoord schriftelijke vragen",
+        "DocumentNummer": "2017D09969",
+        "Titel": null,
+        "Onderwerp": "Antwoord op vragen van de leden Van Raak en Futselaar over het bericht dat de politie weer niet op tijd is bij spoedmeldingen",
+        "Datum": "2017-04-12T00:00:00+02:00",
+        "Vergaderjaar": "2016-2017",
+        "Kamer": 2,
+        "Volgnummer": -1,
+        "Citeertitel": null,
+        "Alias": null,
+        "DatumRegistratie": "2017-04-11T00:00:00+02:00",
+        "DatumOntvangst": null,
+        "Aanhangselnummer": "161701603",
+        "KenmerkAfzender": null,
+        "Organisatie": "Tweede Kamer",
+        "ContentType": "application/pdf",
+        "ContentLength": 27807,
+        "GewijzigdOp": "2024-02-19T10:56:03.63+01:00",
+        "ApiGewijzigdOp": "2024-02-20T23:21:37.6723228Z",
+        "Verwijderd": false,
+        "HuidigeDocumentVersie_Id": "a314af53-08b7-40a9-8f17-c769dd7a2c57"
+      },
+      {
+        "Id": "245d6d3a-bea5-4d45-a9ea-fffff5a8d2bf",
+        "Soort": null,
+        "DocumentNummer": null,
+        "Titel": null,
+        "Onderwerp": null,
+        "Datum": null,
+        "Vergaderjaar": null,
+        "Kamer": null,
+        "Volgnummer": null,
+        "Citeertitel": null,
+        "Alias": null,
+        "DatumRegistratie": null,
+        "DatumOntvangst": null,
+        "Aanhangselnummer": null,
+        "KenmerkAfzender": null,
+        "Organisatie": null,
+        "ContentType": null,
+        "ContentLength": null,
+        "GewijzigdOp": "2020-01-23T10:58:06.607+01:00",
+        "ApiGewijzigdOp": "2020-01-23T09:59:14.5723849Z",
+        "Verwijderd": true,
+        "HuidigeDocumentVersie_Id": null
+      },
+      {
+        "Id": "43bf654b-07df-45ab-92df-ffffeccab12d",
+        "Soort": "Brief regering",
+        "DocumentNummer": "2008D07509",
+        "Titel": "Suriname",
+        "Onderwerp": "Gesprekken 100 procent-controle Suriname",
+        "Datum": "2008-09-29T00:00:00+02:00",
+        "Vergaderjaar": "2008-2009",
+        "Kamer": 2,
+        "Volgnummer": 132,
+        "Citeertitel": null,
+        "Alias": null,
+        "DatumRegistratie": "2008-09-30T00:00:00+02:00",
+        "DatumOntvangst": "2008-09-30T00:00:00+02:00",
+        "Aanhangselnummer": null,
+        "KenmerkAfzender": null,
+        "Organisatie": "Tweede Kamer",
+        "ContentType": "application/pdf",
+        "ContentLength": 17632,
+        "GewijzigdOp": "2024-02-19T10:56:03.63+01:00",
+        "ApiGewijzigdOp": "2024-02-22T04:41:11.8038779Z",
+        "Verwijderd": false,
+        "HuidigeDocumentVersie_Id": "d1a43eb7-5d40-4bd0-bdac-c0c000342484"
+      }
+    ]
+  }
+}

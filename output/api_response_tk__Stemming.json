@@ -1,0 +1,68 @@
+{
+  "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Stemming",
+  "params": {
+    "$top": 3,
+    "$orderby": "Id desc"
+  },
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json; odata.metadata=minimal; odata.streaming=true; charset=utf-8",
+    "OData-Version": "4.0",
+    "Content-Security-Policy": "default-src 'self'; frame-ancestors 'self'",
+    "Date": "Thu, 02 Oct 2025 16:49:07 GMT",
+    "Transfer-Encoding": "chunked"
+  },
+  "data": {
+    "@odata.context": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/$metadata#Stemming",
+    "value": [
+      {
+        "Id": "06594abc-367b-4524-b862-ffffffa25e92",
+        "Besluit_Id": "bab0683f-11cd-40f5-abad-703a0b81c09d",
+        "Soort": "Tegen",
+        "FractieGrootte": 10,
+        "ActorNaam": "GroenLinks",
+        "ActorFractie": "GroenLinks",
+        "Vergissing": false,
+        "SidActorLid": null,
+        "SidActorFractie": "S-1-365867521-2120874753-2386850707-1282307975-941586345-2594443466",
+        "Persoon_Id": null,
+        "Fractie_Id": "8fd1a907-0355-4d27-8dc1-fd5a531b471e",
+        "GewijzigdOp": "2019-10-21T11:54:59.69+02:00",
+        "ApiGewijzigdOp": "2019-10-22T00:33:39.5461045Z",
+        "Verwijderd": false
+      },
+      {
+        "Id": "582db71c-9cd7-459b-baf4-fffff9c0d0e8",
+        "Besluit_Id": "635add84-3406-4f00-ae84-01d070022060",
+        "Soort": "Voor",
+        "FractieGrootte": 1,
+        "ActorNaam": "Fractie Den Haan",
+        "ActorFractie": "Fractie Den Haan",
+        "Vergissing": false,
+        "SidActorLid": null,
+        "SidActorFractie": "S-1-365867521-2120874753-513075457-1269738686-1978012338-2999242761",
+        "Persoon_Id": null,
+        "Fractie_Id": "ea1ba564-db2c-4c57-b867-91ac4dcc5643",
+        "GewijzigdOp": "2023-02-15T09:05:03.047+01:00",
+        "ApiGewijzigdOp": "2023-02-15T08:06:11.2638954Z",
+        "Verwijderd": false
+      },
+      {
+        "Id": "f73c49be-d163-432d-8c40-ffffde74755c",
+        "Besluit_Id": null,
+        "Soort": null,
+        "FractieGrootte": null,
+        "ActorNaam": null,
+        "ActorFractie": null,
+        "Vergissing": false,
+        "SidActorLid": null,
+        "SidActorFractie": null,
+        "Persoon_Id": null,
+        "Fractie_Id": null,
+        "GewijzigdOp": "2020-05-04T13:28:18.373+02:00",
+        "ApiGewijzigdOp": "2020-05-04T11:28:52.6640988Z",
+        "Verwijderd": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collection_date": "2025-10-02T19:24:15.732698",
+  "days_back": 10,
+  "total_motions": 2,
+  "motions_summary": [
+    {
+      "id": "56e10506-35db-4633-9434-698165dda1d2",
+      "title": "Verworpen. (72-74)",
+      "date": "2025-10-01T14:10:23.563+02:00",
+      "voting_count": 150,
+      "document_count": 0
+    },
+    {
+      "id": "93c64c34-fc1e-4de5-b812-66f5226cacde",
+      "title": "Verworpen. (72-74)",
+      "date": "2025-10-01T14:10:23.56+02:00",
+      "voting_count": 100,
+      "document_count": 0
+    }
+  ]
+}
