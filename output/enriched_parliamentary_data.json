@@ -1,0 +1,371 @@
+[
+  {
+    "id": "tk-2024-1234",
+    "type": "motie",
+    "title": "Motie van lid X over klimaatbeleid",
+    "summary": "Een motie betreffende aanscherping van het klimaatbeleid",
+    "date": "2024-03-15",
+    "proposer": "Lid X (Partij Y)",
+    "status": "aangenomen",
+    "text_url": "https://zoek.officielebekendmakingen.nl/kst-12345",
+    "voting_url": "https://opendata.tweedekamer.nl/stemming/12345",
+    "voting_records": [
+      {
+        "party_name": "Volkspartij voor Vrijheid en Democratie",
+        "party_abbreviation": "VVD",
+        "vote": "voor",
+        "num_members": 34,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Vrijheid",
+        "party_abbreviation": "PVV",
+        "vote": "tegen",
+        "num_members": 17,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Christen-Democratisch Appèl",
+        "party_abbreviation": "CDA",
+        "vote": "voor",
+        "num_members": 15,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Democraten 66",
+        "party_abbreviation": "D66",
+        "vote": "voor",
+        "num_members": 24,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "GroenLinks",
+        "party_abbreviation": "GL",
+        "vote": "voor",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Socialistische Partij",
+        "party_abbreviation": "SP",
+        "vote": "voor",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij van de Arbeid",
+        "party_abbreviation": "PvdA",
+        "vote": "tegen",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "ChristenUnie",
+        "party_abbreviation": "CU",
+        "vote": "voor",
+        "num_members": 5,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Dieren",
+        "party_abbreviation": "PvdD",
+        "vote": "tegen",
+        "num_members": 6,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Staatkundig Gereformeerde Partij",
+        "party_abbreviation": "SGP",
+        "vote": "voor",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "DENK",
+        "party_abbreviation": "DENK",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Forum voor Democratie",
+        "party_abbreviation": "FVD",
+        "vote": "tegen",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "JA21",
+        "party_abbreviation": "JA21",
+        "vote": "voor",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Volt Nederland",
+        "party_abbreviation": "Volt",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "BoerBurgerBeweging",
+        "party_abbreviation": "BBB",
+        "vote": "onthouding",
+        "num_members": 1,
+        "vote_date": "2024-03-20"
+      }
+    ],
+    "total_votes_voor": 8,
+    "total_votes_tegen": 6,
+    "total_votes_onthouding": 1,
+    "voting_date": "2024-03-20",
+    "enrichment_status": "completed"
+  },
+  {
+    "id": "wet-2024-5678",
+    "type": "wet",
+    "title": "Wet klimaatakkoord implementatie",
+    "summary": "Wet ter implementatie van het klimaatakkoord",
+    "date": "2024-05-20",
+    "proposer": "Minister van Klimaat",
+    "status": "aangenomen",
+    "text_url": "https://zoek.officielebekendmakingen.nl/stb-2024-123",
+    "voting_url": null,
+    "voting_records": [
+      {
+        "party_name": "Volkspartij voor Vrijheid en Democratie",
+        "party_abbreviation": "VVD",
+        "vote": "voor",
+        "num_members": 34,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Vrijheid",
+        "party_abbreviation": "PVV",
+        "vote": "tegen",
+        "num_members": 17,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Christen-Democratisch Appèl",
+        "party_abbreviation": "CDA",
+        "vote": "voor",
+        "num_members": 15,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Democraten 66",
+        "party_abbreviation": "D66",
+        "vote": "voor",
+        "num_members": 24,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "GroenLinks",
+        "party_abbreviation": "GL",
+        "vote": "voor",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Socialistische Partij",
+        "party_abbreviation": "SP",
+        "vote": "onthouding",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij van de Arbeid",
+        "party_abbreviation": "PvdA",
+        "vote": "voor",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "ChristenUnie",
+        "party_abbreviation": "CU",
+        "vote": "voor",
+        "num_members": 5,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Dieren",
+        "party_abbreviation": "PvdD",
+        "vote": "onthouding",
+        "num_members": 6,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Staatkundig Gereformeerde Partij",
+        "party_abbreviation": "SGP",
+        "vote": "onthouding",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "DENK",
+        "party_abbreviation": "DENK",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Forum voor Democratie",
+        "party_abbreviation": "FVD",
+        "vote": "tegen",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "JA21",
+        "party_abbreviation": "JA21",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Volt Nederland",
+        "party_abbreviation": "Volt",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "BoerBurgerBeweging",
+        "party_abbreviation": "BBB",
+        "vote": "voor",
+        "num_members": 1,
+        "vote_date": "2024-03-20"
+      }
+    ],
+    "total_votes_voor": 7,
+    "total_votes_tegen": 5,
+    "total_votes_onthouding": 3,
+    "voting_date": "2024-03-20",
+    "enrichment_status": "completed"
+  },
+  {
+    "id": "amend-2024-9012",
+    "type": "amendement",
+    "title": "Amendement-X op wetsvoorstel Y",
+    "summary": "Amendement ter uitbreiding van de bepalingen",
+    "date": "2024-04-10",
+    "proposer": "Lid Z (Partij W)",
+    "status": "verworpen",
+    "text_url": null,
+    "voting_url": null,
+    "voting_records": [
+      {
+        "party_name": "Volkspartij voor Vrijheid en Democratie",
+        "party_abbreviation": "VVD",
+        "vote": "voor",
+        "num_members": 34,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Vrijheid",
+        "party_abbreviation": "PVV",
+        "vote": "tegen",
+        "num_members": 17,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Christen-Democratisch Appèl",
+        "party_abbreviation": "CDA",
+        "vote": "voor",
+        "num_members": 15,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Democraten 66",
+        "party_abbreviation": "D66",
+        "vote": "voor",
+        "num_members": 24,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "GroenLinks",
+        "party_abbreviation": "GL",
+        "vote": "voor",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Socialistische Partij",
+        "party_abbreviation": "SP",
+        "vote": "tegen",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij van de Arbeid",
+        "party_abbreviation": "PvdA",
+        "vote": "onthouding",
+        "num_members": 9,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "ChristenUnie",
+        "party_abbreviation": "CU",
+        "vote": "tegen",
+        "num_members": 5,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Partij voor de Dieren",
+        "party_abbreviation": "PvdD",
+        "vote": "voor",
+        "num_members": 6,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Staatkundig Gereformeerde Partij",
+        "party_abbreviation": "SGP",
+        "vote": "voor",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "DENK",
+        "party_abbreviation": "DENK",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Forum voor Democratie",
+        "party_abbreviation": "FVD",
+        "vote": "tegen",
+        "num_members": 8,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "JA21",
+        "party_abbreviation": "JA21",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "Volt Nederland",
+        "party_abbreviation": "Volt",
+        "vote": "tegen",
+        "num_members": 3,
+        "vote_date": "2024-03-20"
+      },
+      {
+        "party_name": "BoerBurgerBeweging",
+        "party_abbreviation": "BBB",
+        "vote": "tegen",
+        "num_members": 1,
+        "vote_date": "2024-03-20"
+      }
+    ],
+    "total_votes_voor": 6,
+    "total_votes_tegen": 8,
+    "total_votes_onthouding": 1,
+    "voting_date": "2024-03-20",
+    "enrichment_status": "completed"
+  }
+]

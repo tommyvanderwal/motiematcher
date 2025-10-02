@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tk-2024-1234",
+    "type": "motie",
+    "title": "Motie van lid X over klimaatbeleid",
+    "summary": "Een motie betreffende aanscherping van het klimaatbeleid",
+    "date": "2024-03-15",
+    "proposer": "Lid X (Partij Y)",
+    "status": "aangenomen",
+    "text_url": "https://zoek.officielebekendmakingen.nl/kst-12345",
+    "voting_url": "https://opendata.tweedekamer.nl/stemming/12345"
+  },
+  {
+    "id": "wet-2024-5678",
+    "type": "wet",
+    "title": "Wet klimaatakkoord implementatie",
+    "summary": "Wet ter implementatie van het klimaatakkoord",
+    "date": "2024-05-20",
+    "proposer": "Minister van Klimaat",
+    "status": "aangenomen",
+    "text_url": "https://zoek.officielebekendmakingen.nl/stb-2024-123",
+    "voting_url": null
+  },
+  {
+    "id": "amend-2024-9012",
+    "type": "amendement",
+    "title": "Amendement-X op wetsvoorstel Y",
+    "summary": "Amendement ter uitbreiding van de bepalingen",
+    "date": "2024-04-10",
+    "proposer": "Lid Z (Partij W)",
+    "status": "verworpen",
+    "text_url": null,
+    "voting_url": null
+  }
+]
