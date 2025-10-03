@@ -1,0 +1,17 @@
+{
+  "name": "MotieeMatcher",
+  "short_name": "MotieeMatcher",
+  "description": "Vind je partij op basis van stemgedrag in de Tweede Kamer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c5aa0",
+  "theme_color": "#2c5aa0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🗳️</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

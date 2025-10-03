@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ontdek welke partij het beste bij jouw standpunten past. Vergelijk jouw antwoorden met het daadwerkelijke stemgedrag van politieke partijen in de Tweede Kamer.">
+    <meta name="keywords" content="stemwijzer, tweede kamer, partijen, moties, stemgedrag, politiek, nederland">
+    <meta name="theme-color" content="#2c5aa0">
+    <title>MotieeMatcher - Vind je partij op basis van stemgedrag</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🗳️ MotieeMatcher</h1>
+            <p class="subtitle">Ontdek welke partij het beste bij jouw standpunten past</p>
+        </header>
+
+        <main>
+            <section id="intro" class="section">
+                <div class="intro-content">
+                    <h2>Hoe werkt het?</h2>
+                    <p>Beantwoord vragen over actuele moties uit de Tweede Kamer. We vergelijken jouw antwoorden met het daadwerkelijke stemgedrag van politieke partijen.</p>
+                    <button id="start-button" class="btn-primary">Start de test</button>
+                </div>
+            </section>
+
+            <section id="questions" class="section hidden">
+                <div class="progress-bar">
+                    <div id="progress" class="progress-fill"></div>
+                </div>
+                <div class="question-counter">
+                    <span id="current-question">1</span> / <span id="total-questions">10</span>
+                </div>
+                
+                <div id="question-container">
+                    <h2 id="question-title"></h2>
+                    <p id="question-description"></p>
+                    
+                    <div class="voting-options">
+                        <button class="vote-btn" data-vote="voor">
+                            <span class="vote-icon">✓</span>
+                            <span>Voor</span>
+                        </button>
+                        <button class="vote-btn" data-vote="neutraal">
+                            <span class="vote-icon">—</span>
+                            <span>Geen mening</span>
+                        </button>
+                        <button class="vote-btn" data-vote="tegen">
+                            <span class="vote-icon">✗</span>
+                            <span>Tegen</span>
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <section id="results" class="section hidden">
+                <h2>Jouw resultaten</h2>
+                <p class="results-intro">Op basis van jouw antwoorden matchen deze partijen het beste met jouw standpunten:</p>
+                
+                <div id="results-container"></div>
+                
+                <div class="results-actions">
+                    <button id="restart-button" class="btn-secondary">Opnieuw beginnen</button>
+                    <button id="share-button" class="btn-primary">Deel resultaat</button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>MotieeMatcher - Gebaseerd op daadwerkelijk stemgedrag in de Tweede Kamer</p>
+            <p class="disclaimer">Deze tool is bedoeld als indicatie en niet als stemadvies.</p>
+        </footer>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
