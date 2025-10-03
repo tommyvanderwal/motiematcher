@@ -1,6 +1,6 @@
 
 # MotieMatcher ETL Pipeline Summary Report
-Generated: 2025-10-02T15:41:58.403234
+Generated: 2025-10-03T09:22:18.418769
 
 ## Data Collection Summary
 - **Total Items Collected:** 3
@@ -14,13 +14,13 @@ Generated: 2025-10-02T15:41:58.403234
   - completed: 3
 
 ## Top Party Voting Patterns
-- **VVD** (total: 3): Voor: 3, Tegen: 0, Onthouding: 0
-- **PVV** (total: 3): Voor: 0, Tegen: 3, Onthouding: 0
-- **CDA** (total: 3): Voor: 3, Tegen: 0, Onthouding: 0
-- **D66** (total: 3): Voor: 3, Tegen: 0, Onthouding: 0
-- **GL** (total: 3): Voor: 3, Tegen: 0, Onthouding: 0
+- **VVD** (total: 3): Voor: 2, Tegen: 1, Onthouding: 0
+- **PVV** (total: 3): Voor: 0, Tegen: 2, Onthouding: 1
+- **CDA** (total: 3): Voor: 1, Tegen: 1, Onthouding: 1
+- **D66** (total: 3): Voor: 2, Tegen: 0, Onthouding: 1
+- **GL** (total: 3): Voor: 2, Tegen: 1, Onthouding: 0
 
 ## Output Files Generated
-- **json_local:** output/parliamentary_data_20251002_154158.json
-- **csv_local:** output/parliamentary_data_20251002_154158.csv
-- **web_json_local:** output/web_data_20251002_154158.json
+- **json_local:** output/parliamentary_data_20251003_092218.json
+- **csv_local:** output/parliamentary_data_20251003_092218.csv
+- **web_json_local:** output/web_data_20251003_092218.json

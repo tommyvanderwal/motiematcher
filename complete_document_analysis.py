@@ -1,63 +1,60 @@
 #!/usr/bin/env python3
 """
-Complete document analysis to find laws and legal documents.
-Analyzes all document files to identify document types and locate wetten/wetsartikelen.
+Complete Document Analysis Script
+Analyzes all document files to understand their structure and content types.
+Handles the direct list structure (not wrapped in 'value' key like zaak files).
 """
 
 import json
 from pathlib import Path
 from collections import Counter
 
-def analyze_all_documents():
-    """Analyze all document files to find document types and locate laws."""
+def analyze_document_files():
+    """Analyze all document files in the bronmateriaal-onbewerkt/document directory."""
 
-    # Find all document files
-    doc_dir = Path("bronmateriaal-onbewerkt/document")
-    doc_files = list(doc_dir.glob("*fullterm*.json"))
+    document_dir = Path("bronmateriaal-onbewerkt/document")
+    if not document_dir.exists():
+        print(f"Directory {document_dir} does not exist!")
+        return
 
-    print(f"Found {len(doc_files)} document files")
+    # Get all fullterm document files
+    document_files = list(document_dir.glob("*fullterm*.json"))
+    print(f"Found {len(document_files)} document files")
 
-    # Counters for analysis
-    total_docs = 0
-    doc_types = Counter()
-    doc_soorten = Counter()
-    doc_categories = Counter()
+    if not document_files:
+        print("No document files found!")
+        return
 
-    # Sample some documents for detailed analysis
-    sample_docs = []
+    total_records = 0
+    all_document_types = Counter()
+    sample_records = []
 
-    for file_path in sorted(doc_files):
+    for file_path in sorted(document_files):
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
-            # Process each document in the file
-            for doc in data.get('value', []):
-                total_docs += 1
+            # Document files are direct lists, not wrapped in {'value': [...]}
+            if isinstance(data, list):
+                records = data
+            else:
+                print(f"Unexpected data structure in {file_path}: {type(data)}")
+                continue
 
-                # Collect document types
-                doc_type = doc.get('Soort', 'Unknown')
-                doc_soorten[doc_type] += 1
+            total_records += len(records)
 
-                # Collect categories if available
-                category = doc.get('Categorie', 'Unknown')
-                doc_categories[category] += 1
+            # Analyze document types
+            for record in records:
+                if isinstance(record, dict):
+                    doc_type = record.get('Soort', 'Unknown')
+                    all_document_types[doc_type] += 1
 
-                # Collect document types (different field)
-                doc_type_field = doc.get('DocumentType', 'Unknown')
-                doc_types[doc_type_field] += 1
-
-                # Sample first few documents for detailed inspection
-                if len(sample_docs) < 10:
-                    sample_docs.append({
-                        'id': doc.get('Id'),
-                        'soort': doc_type,
-                        'categorie': category,
-                        'type': doc_type_field,
-                        'onderwerp': doc.get('Onderwerp', '')[:100] if doc.get('Onderwerp') else '',
-                        'nummer': doc.get('Nummer'),
-                        'datum': doc.get('Datum')
-                    })
+                    # Collect sample records for inspection
+                    if len(sample_records) < 5:
+                        sample_records.append({
+                            'file': file_path.name,
+                            'record': record
+                        })
 
         except Exception as e:
             print(f"Error processing {file_path}: {e}")
@@ -65,48 +62,26 @@ def analyze_all_documents():
 
     # Print results
     print(f"\n=== DOCUMENT ANALYSIS RESULTS ===")
-    print(f"Total documents analyzed: {total_docs:,}")
-    print(f"Document files processed: {len(doc_files)}")
+    print(f"Total document records: {total_records}")
+    print(f"Files processed: {len(document_files)}")
 
-    print(f"\n=== DOCUMENT SOORTEN (Types) ===")
-    for soort, count in sorted(doc_soorten.items(), key=lambda x: x[1], reverse=True):
-        percentage = (count / total_docs) * 100
-        print("25")
+    print(f"\n=== DOCUMENT TYPES DISTRIBUTION ===")
+    for doc_type, count in sorted(all_document_types.items(), key=lambda x: x[1], reverse=True):
+        percentage = (count / total_records) * 100 if total_records > 0 else 0
+        print(f"{doc_type}: {count} ({percentage:.1f}%)")
 
-    print(f"\n=== DOCUMENT CATEGORIEEN (Categories) ===")
-    for cat, count in sorted(doc_categories.items(), key=lambda x: x[1], reverse=True):
-        percentage = (count / total_docs) * 100
-        print("25")
+    print(f"\n=== SAMPLE RECORDS ===")
+    for i, sample in enumerate(sample_records, 1):
+        print(f"\n--- Sample {i} from {sample['file']} ---")
+        record = sample['record']
+        print(f"ID: {record.get('Id', 'N/A')}")
+        print(f"Soort: {record.get('Soort', 'N/A')}")
+        print(f"Onderwerp: {record.get('Onderwerp', 'N/A')[:100]}..." if record.get('Onderwerp') else "Onderwerp: N/A")
+        print(f"Datum: {record.get('Datum', 'N/A')}")
 
-    print(f"\n=== DOCUMENT TYPES ===")
-    for dtype, count in sorted(doc_types.items(), key=lambda x: x[1], reverse=True):
-        percentage = (count / total_docs) * 100
-        print("25")
-
-    # Look for law-related documents
-    law_related = []
-    for soort in doc_soorten:
-        if any(keyword in soort.lower() for keyword in ['wet', 'wets', 'wetten', 'artikel', 'artikel', 'bepaling']):
-            law_related.append((soort, doc_soorten[soort]))
-
-    if law_related:
-        print(f"\n=== POTENTIAL LAW-RELATED DOCUMENTS ===")
-        for soort, count in law_related:
-            print(f"- {soort}: {count:,} documents")
-    else:
-        print(f"\n=== NO LAW-RELATED DOCUMENTS FOUND IN DOCUMENT ENTITY ===")
-
-    # Show sample documents
-    print(f"\n=== SAMPLE DOCUMENTS (first 10) ===")
-    for i, doc in enumerate(sample_docs, 1):
-        print(f"\nDocument {i}:")
-        print(f"  ID: {doc['id']}")
-        print(f"  Soort: {doc['soort']}")
-        print(f"  Categorie: {doc['categorie']}")
-        print(f"  Type: {doc['type']}")
-        print(f"  Nummer: {doc['nummer']}")
-        print(f"  Datum: {doc['datum']}")
-        print(f"  Onderwerp: {doc['onderwerp'][:100]}...")
+        # Check for law-related content
+        if 'wet' in str(record.get('Soort', '')).lower() or 'wet' in str(record.get('Onderwerp', '')).lower():
+            print("*** POTENTIAL LAW CONTENT ***")
 
 if __name__ == "__main__":
-    analyze_all_documents()
+    analyze_document_files()

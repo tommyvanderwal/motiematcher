@@ -1,0 +1,46 @@
+id,type,title,summary,date,proposer,status,total_votes_voor,total_votes_tegen,total_votes_onthouding,voting_date,enrichment_status,party_name,party_abbreviation,vote,num_members
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Volkspartij voor Vrijheid en Democratie,VVD,voor,34
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Partij voor de Vrijheid,PVV,tegen,17
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Christen-Democratisch Appèl,CDA,onthouding,15
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Democraten 66,D66,voor,24
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,GroenLinks,GL,tegen,8
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Socialistische Partij,SP,onthouding,9
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Partij van de Arbeid,PvdA,tegen,9
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,ChristenUnie,CU,voor,5
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Partij voor de Dieren,PvdD,onthouding,6
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Staatkundig Gereformeerde Partij,SGP,voor,3
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,DENK,DENK,voor,3
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Forum voor Democratie,FVD,tegen,8
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,JA21,JA21,tegen,3
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,Volt Nederland,Volt,tegen,3
+tk-2024-1234,motie,Motie van lid X over klimaatbeleid,Een motie betreffende aanscherping van het klimaatbeleid,2024-03-15,Lid X (Partij Y),aangenomen,6,6,3,2024-03-20,completed,BoerBurgerBeweging,BBB,voor,1
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Volkspartij voor Vrijheid en Democratie,VVD,tegen,34
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Partij voor de Vrijheid,PVV,onthouding,17
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Christen-Democratisch Appèl,CDA,voor,15
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Democraten 66,D66,voor,24
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,GroenLinks,GL,voor,8
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Socialistische Partij,SP,tegen,9
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Partij van de Arbeid,PvdA,onthouding,9
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,ChristenUnie,CU,voor,5
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Partij voor de Dieren,PvdD,voor,6
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Staatkundig Gereformeerde Partij,SGP,tegen,3
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,DENK,DENK,voor,3
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Forum voor Democratie,FVD,voor,8
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,JA21,JA21,tegen,3
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,Volt Nederland,Volt,voor,3
+wet-2024-5678,wet,Wet klimaatakkoord implementatie,Wet ter implementatie van het klimaatakkoord,2024-05-20,Minister van Klimaat,aangenomen,8,5,2,2024-03-20,completed,BoerBurgerBeweging,BBB,tegen,1
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Volkspartij voor Vrijheid en Democratie,VVD,voor,34
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Partij voor de Vrijheid,PVV,tegen,17
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Christen-Democratisch Appèl,CDA,tegen,15
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Democraten 66,D66,onthouding,24
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,GroenLinks,GL,voor,8
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Socialistische Partij,SP,onthouding,9
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Partij van de Arbeid,PvdA,tegen,9
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,ChristenUnie,CU,onthouding,5
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Partij voor de Dieren,PvdD,tegen,6
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Staatkundig Gereformeerde Partij,SGP,tegen,3
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,DENK,DENK,tegen,3
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Forum voor Democratie,FVD,tegen,8
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,JA21,JA21,onthouding,3
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,Volt Nederland,Volt,tegen,3
+amend-2024-9012,amendement,Amendement-X op wetsvoorstel Y,Amendement ter uitbreiding van de bepalingen,2024-04-10,Lid Z (Partij W),verworpen,2,8,5,2024-03-20,completed,BoerBurgerBeweging,BBB,onthouding,1

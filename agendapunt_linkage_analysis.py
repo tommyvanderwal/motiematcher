@@ -6,6 +6,7 @@ Fix agendapunt-zaak koppeling onderzoek
 import json
 from pathlib import Path
 from collections import defaultdict, Counter
+import os
 
 def analyze_agendapunt_linkage():
     data_dir = Path("bronmateriaal-onbewerkt")
@@ -129,16 +130,24 @@ def analyze_agendapunt_linkage():
             print(f"   {key}: {value}")
     
     # Test via activiteit koppeling
-    activiteit_files = list((data_dir / "activiteit").glob("*.json"))
-    if activiteit_files:
-        with open(activiteit_files[0], 'r', encoding='utf-8') as f:
-            sample_activiteit = json.load(f)[0] if json.load(f) else None
-            if sample_activiteit:
-                print(f"\n📅 Sample activiteit structure:")
-                for key, value in sample_activiteit.items():
-                    if isinstance(value, str) and len(value) > 100:
-                        value = value[:100] + "..."
-                    print(f"   {key}: {value}")
+    activiteit_path = os.path.join(data_dir, "activiteit")
+    if os.path.exists(activiteit_path) and os.listdir(activiteit_path):
+        print("\n📋 Sample activiteit structure:")
+        activiteit_files = [f for f in os.listdir(activiteit_path) if f.endswith('.json')]
+        if activiteit_files:
+            with open(os.path.join(activiteit_path, activiteit_files[0]), 'r', encoding='utf-8') as f:
+                try:
+                    data = json.load(f)
+                    sample_activiteit = data[0] if data else None
+                except json.JSONDecodeError:
+                    sample_activiteit = None
+        else:
+            sample_activiteit = None
+        if sample_activiteit:
+            for key, value in sample_activiteit.items():
+                if isinstance(value, str) and len(value) > 100:
+                    value = value[:100] + "..."
+                print(f"   {key}: {value}")
     
     return False
 

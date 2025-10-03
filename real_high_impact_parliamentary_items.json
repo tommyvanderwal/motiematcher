@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-03T09:41:47.581873",
+    "total_analyzed": 8,
+    "data_source": "real_parliamentary_data",
+    "analysis_focus": "long_term_democratic_impact_10_years",
+    "priority_categories": [
+      "democratie_fundamenteel",
+      "vrijheid_meningsuiting",
+      "eu_na_influence",
+      "monetair_systeem"
+    ]
+  },
+  "selected_items": [
+    {
+      "id": "6ff8123e-d3a7-4d8f-8a1d-da1dfc86818f",
+      "type": "Amendement",
+      "title": "Wijziging van de Wet werk en bijstand, de Wet sociale werkvoorziening, de Wet werk en arbeidsondersteuning jonggehandicapten en enige andere wetten gericht op bevordering deelname aan de arbeidsmarkt voor mensen met arbeidsvermogen en harmonisatie van deze regelingen (Invoeringswet Wet werken naar vermogen)",
+      "subject": "Amendement van het lid Koser Kaya over het laten vervallen van de ontheffing van de arbeidsverplichting voor alleenstaande ouders",
+      "date": "2012-04-16T00:00:00+02:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 14,
+      "impact_categories": [
+        "belasting_fiscale",
+        "sociale_zekerheid_lang"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 14, Categories: ['belasting_fiscale', 'sociale_zekerheid_lang']"
+    },
+    {
+      "id": "9ff70d63-3f8d-4a58-9ec0-da26b5b26832",
+      "type": "Motie",
+      "title": "Wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met het verbeteren van toezicht, opsporing, naleving en handhaving ",
+      "subject": "Motie van het lid Volp over controle door verzekeraars op rechtmatige besteding van premiegeld",
+      "date": "2016-09-08T00:00:00+02:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 14,
+      "impact_categories": [
+        "monetair_systeem",
+        "sociale_zekerheid_lang"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 14, Categories: ['monetair_systeem', 'sociale_zekerheid_lang']"
+    },
+    {
+      "id": "43bdf300-641c-4f28-a34a-da2220d3896d",
+      "type": "Brief regering",
+      "title": "Natuurbeleid",
+      "subject": "Reactie op de motie van het lid Thijssen over met passend kapbeleid uitkap bevorderen en vlaktekap minimaliseren (Kamerstuk 35925-XIV-45)",
+      "date": "2022-02-09T00:00:00+01:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 10,
+      "impact_categories": [
+        "democratie_fundamenteel"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 10, Categories: ['democratie_fundamenteel']"
+    },
+    {
+      "id": "52f6c1cd-b40f-4784-9c31-da1ddbba4963",
+      "type": "Brief regering",
+      "title": "Navo helikopterproject NH-90",
+      "subject": "Voortgang NH-90 project",
+      "date": "2014-06-27T00:00:00+02:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 8,
+      "impact_categories": [
+        "eu_na_influence"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 8, Categories: ['eu_na_influence']"
+    },
+    {
+      "id": "fdf609f6-b3ca-4e96-b7e9-da1e0a3eaa1a",
+      "type": "Schriftelijke vragen",
+      "title": null,
+      "subject": "Het bericht ‘Notarissen staken jarenlang kadastergeld in eigen zak’ ",
+      "date": "2019-02-21T00:00:00+01:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 8,
+      "impact_categories": [
+        "monetair_systeem"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 8, Categories: ['monetair_systeem']"
+    },
+    {
+      "id": "000d5edf-adbe-484f-bf11-da20f3721257",
+      "type": "Verzoek bij regeling van werkzaamheden",
+      "title": null,
+      "subject": "Brief van de staatssecretaris van Volksgezondheid, Welzijn en Sport over miljoenen zorggeld graaiende kleine instellingen via BV-constructies ",
+      "date": "2016-06-28T00:00:00+02:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 8,
+      "impact_categories": [
+        "monetair_systeem"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 8, Categories: ['monetair_systeem']"
+    },
+    {
+      "id": "20eb8482-429a-4f73-b06b-da21471c5826",
+      "type": "Motie",
+      "title": "Europese Raad",
+      "subject": "Motie van de leden Maeijer en Wilders over de top in Sibiu gebruiken om het verbod op de pulsvisserij van tafel te vegen",
+      "date": "2019-04-25T00:00:00+02:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 8,
+      "impact_categories": [
+        "monetair_systeem"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 8, Categories: ['monetair_systeem']"
+    },
+    {
+      "id": "cb73bc2d-6768-4223-a85b-da24707a3eb1",
+      "type": "Brief regering",
+      "title": "Wijziging van de Wet aansprakelijkheid kernongevallen in verband met de toepassing van artikel 1, onderdeel b, van het Verdrag van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van kernenergie",
+      "subject": "Toelichting bij de nota naar aanleiding van het verslag en een nota van wijziging en aanbieding van de reactie op een consultatie van de Europese Commissie over het onderwerp nucleaire aansprakelijkheid",
+      "date": "2013-12-03T00:00:00+01:00",
+      "status": "Vrijgegeven",
+      "long_term_impact": true,
+      "impact_score": 8,
+      "impact_categories": [
+        "monetair_systeem"
+      ],
+      "voting_records": [],
+      "analysis_reasoning": "Impact score: 8, Categories: ['monetair_systeem']"
+    }
+  ]
+}
