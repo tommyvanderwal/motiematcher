@@ -1,0 +1,1352 @@
+[
+  {
+    "Id": "bacc967a-5af8-4a14-8e70-03dc0eeec66d",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:37.7223517Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f030dab8-c044-4830-a62a-042e61a518dd",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:13.4566728Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "75578026-c61e-47fe-b091-08988cdc2740",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:09.6369298Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "a0fa150b-c66f-4310-a73e-09ee89f4c934",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-08-03T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:43+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:37:36.8162722Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "3356d9fb-7bf6-4ecd-a87c-0a7456bc49fa",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.626693Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d50d0bd2-dcdb-442b-9608-0cca153813d3",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:37.0937856Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2b4111e8-665c-4c23-9ad1-0dab180d0144",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.7430783Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d8d989d8-e518-47ec-bfb3-1018c0299078",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:39.6136434Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "88534c35-3aec-4389-8288-112081103b6f",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.1962108Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2002282b-88ee-49b1-8dfe-136919ab3729",
+    "Functie": "Lid",
+    "Van": "2012-09-20T00:00:00+02:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:11:05+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:12:29.7812018Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c961a59c-64a4-47c8-ab8f-15a3ea27370d",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:03.7754257Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "226d8a82-dcc3-4460-8048-171c87bc0855",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.5798028Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b5938136-92a1-4c1a-b4be-1806de2152a0",
+    "Functie": "Lid",
+    "Van": "2006-11-30T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:28.6017167Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "57d89a45-ec45-4261-b0f8-185edb5f9eb1",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.5484465Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ad0d94f7-ea21-427f-9d42-1e274528f58d",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.1109833Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2e567a42-fe22-4b33-88ee-23d14751076e",
+    "Functie": "Lid",
+    "Van": "2021-09-07T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:39+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:22:29.4442753Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "5d1d51de-d132-4937-b2ac-25ce062198d3",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:34.3404438Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "082e8348-c775-4333-adf1-2660c1ba26aa",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.5399627Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6110b5e7-2ab9-4341-8268-2a2ca2c7708e",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:01.2284982Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "5e791592-c8e2-4853-8562-2a309815158b",
+    "Functie": "Lid",
+    "Van": "2021-03-30T00:00:00+02:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:11:18+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:12:29.9687052Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "749c91d4-067c-4165-aa1a-2eb2c9858341",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2023-12-07T00:00:00+01:00",
+    "GewijzigdOp": "2023-12-08T10:53:22+01:00",
+    "ApiGewijzigdOp": "2023-12-08T09:54:15.6157743Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c464a213-dce4-49e6-b738-2f57b214c03b",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:29.5105644Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "dc9996af-606a-4f99-8903-3214025b6687",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2025-06-03T00:00:00+02:00",
+    "GewijzigdOp": "2025-06-03T13:19:21.214864+02:00",
+    "ApiGewijzigdOp": "2025-06-03T11:20:10.8738193Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "94230488-f0c4-4f0c-a548-3366887127ef",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:13.4410549Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c380e02c-4d03-4126-b60e-33dd4dbf6f46",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:36.671899Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "3a7df280-0abc-471f-8695-3418a26a9804",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:09.840122Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e2421f6d-86ce-4574-bf78-39530920cfe3",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.5329401Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f1513eb1-b282-4921-82bf-3a689a182b90",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:34.0435708Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f9db28bc-888a-4f3a-9b44-3da51992c498",
+    "Functie": "Lid",
+    "Van": "2023-07-05T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:43+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:37:34.988114Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "dbf7c09f-fba7-4eb7-ab03-3f1da71fa265",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:07.2190602Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "08de2a0b-7a33-434f-ad8c-41211669bd37",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-11-19T00:00:00+01:00",
+    "GewijzigdOp": "2024-11-20T11:10:37+01:00",
+    "ApiGewijzigdOp": "2024-11-20T10:11:19.1533563Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "bbf3d372-f3a9-4701-880e-41a29abe1ad6",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:36.9608251Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "0498fc02-ad8f-4df2-a346-423ebee9842e",
+    "Functie": "Lid",
+    "Van": "2017-10-31T00:00:00+01:00",
+    "TotEnMet": "2025-06-18T00:00:00+02:00",
+    "GewijzigdOp": "2025-06-19T16:37:48.182816+02:00",
+    "ApiGewijzigdOp": "2025-06-19T14:38:11.7284208Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "7b7d34dd-7ca2-4116-800d-437cc55ee69c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.626693Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e80977f3-92de-484e-8fe0-47c15ebfb666",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:33.6529541Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "8562a918-14a3-4863-b29c-47cbe6f3b33d",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:35.3717285Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6d716d93-0e9b-4758-a121-47e68ddac6f6",
+    "Functie": "Lid",
+    "Van": "2023-09-01T00:00:00+02:00",
+    "TotEnMet": "2025-03-04T00:00:00+01:00",
+    "GewijzigdOp": "2025-02-28T12:50:53.9868801+01:00",
+    "ApiGewijzigdOp": "2025-02-28T11:51:11.5060451Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "045ca53e-a907-4702-9b34-4a1c6d147ccd",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2025-01-28T00:00:00+01:00",
+    "GewijzigdOp": "2025-01-28T17:06:54+01:00",
+    "ApiGewijzigdOp": "2025-01-28T22:59:10.4466127Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2f7e1b04-8b27-46e4-8675-4a46b27550e7",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:25.3218706Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d77eb3ee-7f18-4805-bf54-4af301b2a733",
+    "Functie": "Lid",
+    "Van": "2014-04-02T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:28:27.7366658Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "4dee4dc2-91f5-4d18-9383-4b428816fc9c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.876579Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "4570f24b-8466-40d4-9ed8-4b7782059656",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:11:36+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:12:30.2031025Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b01c5250-01a3-4088-abe1-4bc1c95e7a34",
+    "Functie": "Lid",
+    "Van": "2006-11-30T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:29.2892279Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "82a65f00-6cdd-4dff-8d2d-4cede13ec4f5",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.017207Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "028d1038-8fb2-4128-94cc-50e7a2da0b89",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-07T09:54:58+01:00",
+    "ApiGewijzigdOp": "2023-12-07T08:56:16.415724Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b83fc5d2-337a-4e92-b865-58a81a3b3f3a",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:28:35.0348837Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "410e001b-5024-40e4-af65-5a58eb7877e8",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.1578734Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "a122f795-7835-4446-9353-5ac7bf94b6c3",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.6578233Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "620c511a-c8ca-445a-aaf1-5b937ace3d81",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:34.9029634Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2318e164-71e4-436e-a389-5c8907e14f5a",
+    "Functie": "Fractievoorzitter",
+    "Van": "2006-11-30T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:27.3978851Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "77a6a276-6c08-4606-a12f-5cfb2ecd6fb4",
+    "Functie": "Lid",
+    "Van": "2023-02-07T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:42+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:33:31.7960407Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "41ad1034-ff4f-4099-9d95-5d2d4b6bb041",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2023-12-07T00:00:00+01:00",
+    "GewijzigdOp": "2023-12-08T10:50:54+01:00",
+    "ApiGewijzigdOp": "2023-12-08T09:51:21.9148481Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "bd4358f2-2eac-4843-9eb0-5e378cf6c5ac",
+    "Functie": "Fractievoorzitter",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:38.1175103Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "a472ba2b-7b9d-434c-a987-60828ed7c7af",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-09-05T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-09-05T15:25:47+02:00",
+    "ApiGewijzigdOp": "2023-09-05T13:26:18.3871964Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c69c95b7-5005-421e-8c85-60ae242ebb8a",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:15:28+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:16:33.3628044Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "7fbfc6de-34a2-4f1e-88f8-6189440e14af",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:28:33.7067312Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "a384aac6-e84c-4fbc-b3bd-647dc35b98a7",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:33.9341937Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c176c8a3-ae29-4d6b-bd8e-64c4f98e609e",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:13.4722993Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6a7fa191-fe23-427f-bb56-65fbfc7d844a",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.3681254Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "8e23ef16-9396-4fae-9f66-668ad98e39b5",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.9547025Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c5d48e12-b037-4438-bfd2-669637d57141",
+    "Functie": "Lid",
+    "Van": "2017-10-31T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:26+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:31:27.4266315Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ce8d169b-490d-4948-ac51-698525cdb794",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2023-12-07T00:00:00+01:00",
+    "GewijzigdOp": "2023-12-08T10:51:35+01:00",
+    "ApiGewijzigdOp": "2023-12-08T09:52:18.6511628Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "8080c8e7-de7a-4590-aadb-699f45f0254e",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-03-25T00:00:00+01:00",
+    "GewijzigdOp": "2025-03-26T10:15:43.3413171+01:00",
+    "ApiGewijzigdOp": "2025-03-26T09:16:10.2348551Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d303f308-3e95-42e3-9155-6a2a69565386",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-06-18T00:00:00+02:00",
+    "GewijzigdOp": "2025-06-19T16:38:26.3869938+02:00",
+    "ApiGewijzigdOp": "2025-06-19T14:40:11.8717595Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6c072a3a-90ed-489b-a6a6-6b93785d2ab6",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:36.8593967Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "63ee44ba-0f41-4131-834b-6d2a64aca3ce",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2024-01-15T00:00:00+01:00",
+    "GewijzigdOp": "2024-01-16T11:55:35+01:00",
+    "ApiGewijzigdOp": "2024-01-16T10:56:24.2824207Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6f83b7ba-29fd-49d5-ae62-7135e55cc8ac",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": "2024-12-17T00:00:00+01:00",
+    "GewijzigdOp": "2024-12-05T13:56:24+01:00",
+    "ApiGewijzigdOp": "2024-12-17T22:59:24.2621716Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ac14b2ff-481c-4527-bffb-716a5a1e7d86",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.7984464Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "022c7096-b9fa-4afc-859a-734d3ed4d89d",
+    "Functie": "Lid",
+    "Van": "2021-04-15T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:39+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:19:34.8960997Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "3f4c818e-c398-44c0-a843-738fc3e1c83b",
+    "Functie": "Lid",
+    "Van": "2023-04-20T00:00:00+02:00",
+    "TotEnMet": "2023-12-13T00:00:00+01:00",
+    "GewijzigdOp": "2023-12-13T13:57:43+01:00",
+    "ApiGewijzigdOp": "2023-12-13T12:59:19.9138678Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f348dc9a-3569-40b9-84fa-75056c90449a",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.6109443Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2a045c63-1eaf-4b20-a718-7ca1071a5886",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:10.0901012Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "266d58f5-b1d7-4d93-a285-7d6170c29898",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.5087158Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "bada9e2c-dde9-4b3b-8622-7e4016364c0c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:27.9167771Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "9303c3c5-e429-465a-9935-80a6b4ddfec6",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:33.7467875Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6e8c37ad-79bc-4a1a-ae05-8107d3cbc851",
+    "Functie": "Lid",
+    "Van": "2023-05-10T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:43+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:35:32.0137828Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "4926dda8-4046-4062-989c-819c3b70cfb5",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.0484668Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "89da9d67-896f-4eea-b92b-8482be89231c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.5173525Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c771f17e-51b8-4640-9841-874a76530f40",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.8297072Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c4f8675b-9571-45cf-abc6-883bca9a35eb",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.6337239Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "0b2fa877-6a8f-4b71-8032-8b3028a1e3c7",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.6890733Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "7d4a2207-9c33-4d34-8712-8bd8d6ab3bac",
+    "Functie": "Lid",
+    "Van": "2006-11-30T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:27.8666528Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f89aaaea-1208-4c36-8fb8-8dc034fec1e1",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.6110514Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "43ca4887-58e3-474e-aa4b-8f77a0d5497c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:13.4254283Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "c172c13b-b6f6-4c47-b0a1-9831b2fe7694",
+    "Functie": "Lid",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:36.9062732Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "a0a72562-1582-4837-96d6-9b0e95374d5c",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-07-31T00:00:00+02:00",
+    "GewijzigdOp": "2025-07-31T11:25:56.1739644+02:00",
+    "ApiGewijzigdOp": "2025-07-31T09:26:10.9815595Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e83a1345-6b2b-4b34-b638-9c82fcc224ed",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-04-18T00:00:00+02:00",
+    "GewijzigdOp": "2025-04-22T16:04:10.9942326+02:00",
+    "ApiGewijzigdOp": "2025-04-22T14:05:11.7991262Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d677c643-30e7-42c8-9344-9d8c804e84a2",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:14:39+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:15:39.5580402Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d38d6d34-21d4-4c5b-86cc-9dc157336a46",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:13.4566728Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "9c884b32-4e8a-4931-ac92-9f558782937a",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:09.7307192Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "04628f01-3bc7-436f-a774-a1909f83ff27",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.6423083Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ea30b3d8-d801-4549-99ad-a19efaa2b79e",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-11-14T00:00:00+01:00",
+    "GewijzigdOp": "2024-11-15T12:42:48+01:00",
+    "ApiGewijzigdOp": "2024-11-15T11:43:29.5382624Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "0b27b410-d28f-492a-a673-a27c945881bd",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.9859545Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "810e621a-8061-47ab-bbe0-a2820cee17d2",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:39.6605302Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "972cccc4-18cb-4623-94dc-a2cde7911bfe",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-10-26T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-26T12:32:31+02:00",
+    "ApiGewijzigdOp": "2023-10-26T10:33:21.2017158Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "fff875c7-8a3a-4d3d-a6ce-a33afb62cd71",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:35.4498553Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "32caa492-0a97-4423-9574-a39780aa4563",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:37.7067206Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "243d5ecc-d7a2-4594-a80a-a3f08d7519d1",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-09-05T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-09-05T15:24:26+02:00",
+    "ApiGewijzigdOp": "2023-09-05T13:25:17.6392628Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "97c801dd-aca9-443d-a7ce-a4744c48b5d2",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:14:58+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:15:51.0889674Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b88d7214-a41f-4cfb-903b-a51f426a989f",
+    "Functie": "Fractievoorzitter",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:38.3358461Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "4eb18951-1be6-4ea2-be4e-a577f18e30df",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:12:41+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:13:38.1335919Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "1a52b3b0-9554-403d-8988-a91efe1972c9",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:35.1373513Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b1170759-3b13-435b-9a62-a9c59337a198",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-07T09:50:09+01:00",
+    "ApiGewijzigdOp": "2023-12-07T08:51:27.5871396Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "31b5d610-6d3b-480c-a5a5-aa03b0593538",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-12-11T00:00:00+01:00",
+    "GewijzigdOp": "2024-12-12T18:32:48+01:00",
+    "ApiGewijzigdOp": "2024-12-12T17:33:24.23687Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "65fac7fb-2d35-4a15-90f5-adbefbfa669f",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:09.4484334Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "92420962-ff34-4632-aca1-ae85e008b361",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:27.9480323Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "04323475-5d6f-431d-b2be-aee4ba5b06f2",
+    "Functie": "Fractievoorzitter",
+    "Van": "2017-12-13T00:00:00+01:00",
+    "TotEnMet": "2023-12-12T00:00:00+01:00",
+    "GewijzigdOp": "2023-12-12T13:53:21+01:00",
+    "ApiGewijzigdOp": "2023-12-12T22:59:25.9536438Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "130ace90-5f91-469c-bea2-af2ae98197eb",
+    "Functie": "Lid",
+    "Van": "2012-01-31T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:25+02:00",
+    "ApiGewijzigdOp": "2023-08-29T13:27:28.9454792Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "0fb4c192-5fc6-4188-9dc7-af5c86f5c6b8",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-07T09:54:03+01:00",
+    "ApiGewijzigdOp": "2023-12-07T08:55:20.3593938Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6f677d23-ac9f-4d2d-8dd9-af78e3dfc1aa",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:01.3691249Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e196a61a-2072-4159-93e4-afc0e6838969",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:24.3055887Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d664ff4d-d2b4-45e3-b100-b1b6c7c1e98b",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:25.1499946Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "9e999316-d46d-45ba-93d9-b32fcc36f51d",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:07.250312Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "04cccb2a-afca-4a5f-b252-b4139b53e19f",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.1265821Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e9fbf252-62bc-4550-8970-bd7c81719acc",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-07T09:50:29+01:00",
+    "ApiGewijzigdOp": "2023-12-07T08:51:27.5558915Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "1c24e298-3bd6-4fcf-b4d4-bdcae51e00d3",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-04-18T00:00:00+02:00",
+    "GewijzigdOp": "2025-04-22T16:04:28.0300507+02:00",
+    "ApiGewijzigdOp": "2025-04-22T14:05:11.8256137Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "65290d53-6e9e-4437-a848-c302f65bc2f1",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.5642282Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "51778962-aab3-4918-aa98-c86a13519024",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:10.0432253Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "04816671-a661-45a4-b0c5-c9cda5927797",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:07.2346935Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "fab98cc4-080a-4785-9320-c9ded442c9b2",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:15.7672024Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b0e48cc4-10dd-419e-8e22-cbd3d6893941",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:14:23+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:15:45.1601468Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b4e3807d-44e8-4f14-a988-ccf0051350f3",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.6579786Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "416664d3-16b0-4ef3-8d50-cd68aa741636",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-11-19T00:00:00+01:00",
+    "GewijzigdOp": "2024-11-20T11:11:22+01:00",
+    "ApiGewijzigdOp": "2024-11-20T10:12:25.2136085Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e3e32f4b-ef10-4e92-8b5a-cde6b4667be1",
+    "Functie": "Lid",
+    "Van": "2018-09-13T00:00:00+02:00",
+    "TotEnMet": "2025-06-18T00:00:00+02:00",
+    "GewijzigdOp": "2025-06-19T16:37:15.2545126+02:00",
+    "ApiGewijzigdOp": "2025-06-19T14:38:13.0288813Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "9e218ade-4a3d-4834-9b04-ce3f479d2dcd",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:30.5105903Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "66f1cff5-eb73-4781-82f9-d1944ad57d15",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:13:36+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:14:36.6607325Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b86d3316-8877-4094-a269-d3a8662d87af",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:10.1525974Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "3ea23064-1d4f-4e7d-8242-d629dad0dd8e",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:08:21+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:09:27.2204268Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "7775dd12-1de9-446e-8c81-d9499a4e875a",
+    "Functie": "Lid",
+    "Van": "2015-05-05T00:00:00+02:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:10:42+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:11:33.2798113Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "eb6b2fa3-c341-4036-8f7a-da8bce6b9be5",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:01.3378699Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6f217a59-81a6-4f90-bf9f-dea5cba9d354",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-07T09:55:17+01:00",
+    "ApiGewijzigdOp": "2023-12-07T08:56:16.3532233Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "4a355832-065b-423f-a04e-e2a762d23c76",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:25.6823434Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ce8fa2b6-8cff-4ef7-b658-e3bbbab91164",
+    "Functie": "Fractievoorzitter",
+    "Van": "2017-03-23T00:00:00+01:00",
+    "TotEnMet": "2025-01-12T00:00:00+01:00",
+    "GewijzigdOp": "2025-01-14T10:38:47+01:00",
+    "ApiGewijzigdOp": "2025-01-14T09:39:49.9177838Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "44b2beda-354b-4a0b-a1c8-e5580b0e95e9",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:30.2449429Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ccb10e1a-d6ab-4016-94a9-e848cbb442a5",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:35.2779668Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "8e3a4351-9f01-41ee-a18a-e92c7efb156c",
+    "Functie": "Fractievoorzitter",
+    "Van": "2023-01-17T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:42+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:32:39.1417448Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "48f5eff0-eda4-4201-a93e-ea7e598323b2",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-07-25T00:00:00+02:00",
+    "GewijzigdOp": "2025-07-25T13:58:05.5599444+02:00",
+    "ApiGewijzigdOp": "2025-07-25T11:58:16.1981616Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "2d141af0-6583-4ccf-b419-ed47e25d6faa",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:16.0797094Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "29939749-cf41-458c-89b3-ef245095aecb",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:13:54+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:14:36.8794889Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6b475ace-1886-49e3-9639-f01d13b9b7b3",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-07-02T12:08:36+02:00",
+    "ApiGewijzigdOp": "2024-07-02T10:09:33.925734Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "6e38bb8b-f90b-48b6-a20c-f0676eb173ee",
+    "Functie": "Lid",
+    "Van": "2023-10-26T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-26T12:32:13+02:00",
+    "ApiGewijzigdOp": "2023-10-26T10:33:21.2017158Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "e91cf228-e495-46dc-9142-f1bb708f5610",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:27.9324005Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "b02c30e4-cb90-488f-a5b9-f2936a949213",
+    "Functie": "Lid",
+    "Van": "2023-10-27T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-10-27T08:36:24+02:00",
+    "ApiGewijzigdOp": "2023-10-27T06:37:34.4654588Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "963b2536-046c-41ab-8122-f552d55193c2",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:51:01.3066608Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "85b7cd76-2c4d-493e-8d56-f65a6029af99",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2024-07-01T00:00:00+02:00",
+    "GewijzigdOp": "2024-11-27T13:49:01+01:00",
+    "ApiGewijzigdOp": "2024-11-27T12:49:28.4737656Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "658ff04f-18e8-4906-8d4b-f66e437c7cbc",
+    "Functie": "Lid",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:37.1795784Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "64b4b56f-1332-4a51-8b49-f896fe565a00",
+    "Functie": "Fractievoorzitter",
+    "Van": "2021-03-31T00:00:00+02:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:37+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:10:38.1952226Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "f4cab680-a3ce-43d8-ba76-fa13aaff7da0",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": "2025-09-04T00:00:00+02:00",
+    "GewijzigdOp": "2025-09-08T09:45:43.6779338+02:00",
+    "ApiGewijzigdOp": "2025-09-08T07:46:09.8784268Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "d147101d-68d4-4387-85f9-fe6d054f0de3",
+    "Functie": "Lid",
+    "Van": "2022-11-28T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-08-29T13:10:42+02:00",
+    "ApiGewijzigdOp": "2023-08-29T14:31:37.8149702Z",
+    "Verwijderd": false
+  },
+  {
+    "Id": "ff885079-8941-4ad7-8686-ffcbce4f722f",
+    "Functie": "Lid",
+    "Van": "2023-12-06T00:00:00+01:00",
+    "TotEnMet": null,
+    "GewijzigdOp": "2023-12-06T12:30:01+01:00",
+    "ApiGewijzigdOp": "2023-12-06T13:50:20.595516Z",
+    "Verwijderd": false
+  }
+]
