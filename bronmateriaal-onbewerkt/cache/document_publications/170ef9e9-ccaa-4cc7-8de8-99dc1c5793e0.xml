@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36502-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 502</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van het lid Inge van Dijk over bescherming van de rechten van belastingbetalers en toeslagontvangers</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-03-17">17 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat het handvest voor de praktische omgang met en de bescherming van de rechten van belastingbetalers en toeslagenontvangers, conform de initiatiefnota van het lid Inge van Dijk, een goed idee is;</al>
+            <al>constaterende dat de misstanden bij de uitvoering van de WIA ons leren dat ook bij andere uitvoeringsinstanties mensen vermalen kunnen worden door het recht;</al>
+            <al>van mening dat zo'n handvest dus niet alleen zou moeten gelden voor de Belasting- en de Toeslagendienst, maar ook voor andere uitvoeringsinstanties, zoals het UWV;</al>
+            <al>verzoekt de regering om naast een concepthandvest voor de Belasting- en de Toeslagendienst ook een concepthandvest op te stellen voor het UWV, en dat binnen vier maanden aan de Kamer te doen toekomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Vroonhoven</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

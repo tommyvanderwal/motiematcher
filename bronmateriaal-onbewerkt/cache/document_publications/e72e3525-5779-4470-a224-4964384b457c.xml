@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32805-180/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 805</dossiernr>
+      </dossiernummer>
+      <titel>Hulpmiddelenbeleid in de gezondheidszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">180</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PAULUSMA EN BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat private partijen voornamelijk geneesmiddelen ontwikkelen op basis van het verwachte financieel rendement;</al>
+            <al-groep>
+              <al>overwegende dat nieuwe geneesmiddelen hierdoor niet altijd aansluiten bij een onvervulde medische behoefte van de Nederlandse patiënt en dat sommige ziektes met een grote ervaren ziektelast nu beperkt te behandelen zijn met geneesmiddelen;</al>
+              <al>van mening dat de Nederlandse overheid meer regie moet nemen op geneesmiddelenontwikkeling;</al>
+            </al-groep>
+            <al>verzoekt de Minister om concrete beleidsvoorstellen zodat geneesmiddelenontwikkeling beter aansluit bij de onvervulde medische behoefte van patiënten en internationaal een voortrekkersrol te spelen aangezien geneesmiddelenontwikkeling bij uitstek internationaal plaatsvindt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Bushoff</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

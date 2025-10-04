@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Kamer zich in 2020, 2023 en 2024 achter moties tegen het EU-Mercosur-verdrag heeft geschaard, maar dat opeenvolgende Ministers nog altijd geen standpunt hebben willen innemen;</al>
+            <al>overwegende dat in het hoofdlijnenakkoord staat «we willen niet importeren wat we in Nederland niet mogen produceren» en «bij het afsluiten van internationale handelsverdragen staat het gelijke speelveld voorop»;</al>
+            <al>overwegende dat het EU-Mercosur-verdrag een ongelijk speelveld veroorzaakt voor Nederlandse boeren, omdat voor boeren uit de Mercosur-landen lagere standaarden gelden voor onder andere dierenwelzijn, mestbeleid en gewasbescherming;</al>
+            <al>overwegende dat de afspraken over landbouw sinds het politieke akkoord in 2019 vastliggen en de nog lopende onderhandelingen over andere thema's gaan;</al>
+            <al>spreekt zich uit tegen het EU-Mercosur-verdrag;</al>
+            <al>verzoekt de regering om de Europese Commissie en de Europese Raad te laten weten dat Nederland het EU-Mercosur-verdrag niet zal ondertekenen en samen met Frankrijk en andere tegenstanders op te trekken om te voorkomen dat het EU-Mercosur-verdrag wordt goedgekeurd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Van der Plas</al>
+              <al>Dobbe</al>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+              <al>Van Baarle</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

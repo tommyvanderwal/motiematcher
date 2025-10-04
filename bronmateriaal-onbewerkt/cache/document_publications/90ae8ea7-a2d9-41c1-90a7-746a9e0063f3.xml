@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31125-137"/>
+      <meta name="OVERHEIDop.ondernummer" content="137"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31125"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Nordkamp c.s. over een duidelijker &quot;Europees, tenzij&quot;-beleid hanteren bij defensie-inkopen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Heite"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Nordkamp"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Defensie Industrie Strategie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Defensie Industrie Strategie; Motie; Motie van het lid Nordkamp c.s. over een duidelijker &quot;Europees, tenzij&quot;-beleid hanteren bij defensie-inkopen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Defensie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 125</dossiernr>
+         </dossiernummer>
+         <titel>Defensie Industrie Strategie </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">137</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID NORDKAMP C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat zonder Europa de Nederlandse veiligheid een illusie is;</al>
+                  <al>constaterende dat het kabinet de doelstelling van 35% gezamenlijke Europese inkopen al jaren niet haalt en dat het huidige aandeel op circa 22% blijft steken;</al>
+                  <al>constaterende dat ook investeringen in research and technology achterblijven, met meer dan 80 miljoen euro aan onbenut budget in 2024;</al>
+                  <al>overwegende dat het versterken van een gezamenlijke Europese defensie-industrie en het terugdringen van onze afhankelijkheden een cruciale pijler vormen van het Nederlandse veiligheidsbeleid;</al>
+                  <al>verzoekt de regering een duidelijker Europees-tenzijbeleid te hanteren en zich actiever in te spannen om de eigen research-and-technologydoelstellingen te halen door het gebruik van Europese mogelijkheden hiervoor,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Nordkamp</al>
+                     <al>Heite</al>
+                     <al>Dassen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

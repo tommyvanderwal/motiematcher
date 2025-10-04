@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-161/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">161</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Wageningen Economic Research (WER) in opdracht van het Ministerie van LNV onderzoek doet naar het stimuleren van innovaties, in het bijzonder fermentatie (de motie-Gündoğan);</al>
+            <al>constaterende dat met het faillissement van de Bioprocess Pilot Facility (BPF) in Delft in 2022 een belangrijke opschalingsfaciliteit die innovatie en verduurzaming moest aanwakkeren is weggevallen in Nederland;</al>
+            <al>van mening dat de ontwikkeling van innovatieve technologieën een belangrijke bijdrage kan leveren aan een duurzamere productie van voedsel, materialen en chemicaliën;</al>
+            <al>van mening dat Nederland koploper zou moeten zijn als het gaat om baanbrekende biotechnologieën, zoals fermentatietechnologie, en dit momenteel geenszins het geval is omdat omringende landen ruimer omgaan met Europese staatssteunregels;</al>
+            <al>verzoekt de regering het lopende onderzoek te verbreden met een plan van aanpak om te komen tot een gelijk Europees speelveld voor biotechnologie in relatie tot de toepassing van staatssteunregels en daarnaast te verkennen welke faciliteit het wegvallen van BPF zou kunnen ondervangen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Martens-America</al>
+              <al>Bromet</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

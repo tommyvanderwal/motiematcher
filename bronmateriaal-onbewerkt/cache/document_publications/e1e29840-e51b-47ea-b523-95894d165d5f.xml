@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-19637-3465"/>
+      <meta name="OVERHEIDop.ondernummer" content="3465"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="19637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Zanten over inzetten op intrekking van de tijdelijke beschermingsstatus als ontheemden voor niet-noodzakelijke redenen naar Oekraïne afreizen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vreemdelingenbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Vreemdelingenbeleid; Motie; Motie van het lid Van Zanten over inzetten op intrekking van de tijdelijke beschermingsstatus als ontheemden voor niet-noodzakelijke redenen naar Oekraïne afreizen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>19 637</dossiernr>
+         </dossiernummer>
+         <titel>Vreemdelingenbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3465</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Oekraïense ontheemden in Nederland verblijfsrecht hebben op grond van de Europese Richtlijn Tijdelijke Bescherming;</al>
+                  <al>constaterende dat een deel van de Oekraïense ontheemden tijdelijk terugkeert naar Oekraïne;</al>
+                  <al>constaterende dat de Kamer met de aangenomen motie-Van Zanten/Boomsma (<extref doc="kst-36600-XX-34" soort="document" status="actief">36 600-XX, nr. 34</extref>) de regering heeft verzocht om asielprocedures te beëindigen en verblijfsvergunningen in te trekken als vreemdelingen terugkeren naar het land van herkomst;</al>
+                  <al>overwegende dat een terugkeer naar Oekraïne erop kan wijzen dat de betrokkene de bescherming in Nederland niet langer noodzakelijk acht;</al>
+                  <al>verzoekt de regering zich er in de Europese onderhandelingen over een mogelijke verlenging dan wel tussentijdse aanpassing van de RTB ervoor in te zetten dat lidstaten de bevoegdheid krijgen om de tijdelijke beschermingsstatus in te trekken wanneer ontheemden voor niet-noodzakelijke redenen naar Oekraïne afreizen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Zanten</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

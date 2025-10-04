@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29689-1298"/>
+      <meta name="OVERHEIDop.ondernummer" content="1298"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29689"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Krul over de voorbereiding staken voor het wetsvoorstel om het eigen risico per 2027 voor iedereen te verlagen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Herziening Zorgstelsel"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.title" scheme="" content="Herziening Zorgstelsel; Motie; Motie van het lid Krul over de voorbereiding staken voor het wetsvoorstel om het eigen risico per 2027 voor iedereen te verlagen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 689</dossiernr>
+         </dossiernummer>
+         <titel>Herziening Zorgstelsel</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1298</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KRUL</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-18">18 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het kabinet werkt aan een wetsvoorstel om per 1 januari 2027 het eigen risico te verlagen naar € 165;</al>
+                  <al>constaterende dat de Raad van State in zijn advies over het wetsvoorstel aangeeft dat de maatregel ongericht is, dat de toegang tot zorg niet verbetert en dat kwetsbare groepen erop achteruit gaan omdat de zorgpremie stijgt en onduidelijk is waar de compenserende lastenverlichting neerslaat;</al>
+                  <al>overwegende dat deze maatregel bovendien de zorgvraag verder aanwakkert, terwijl de houdbaarheid van de zorg onder druk staat gezien de vergrijzing en personeelstekorten in de zorg;</al>
+                  <al>overwegende dat het kabinet demissionair is;</al>
+                  <al>verzoekt de regering de voorbereiding voor het wetsvoorstel om het eigen risico per 2027 voor iedereen te verlagen, te staken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Krul</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

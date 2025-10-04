@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WIJEN-NASS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het doel van de Wet betaalbare huur is om meer betaalbare huurwoningen en kamers te krijgen in het totale aanbod van woningen;</al>
+            <al>constaterende dat de Raad van State in een advies over deze wet gewaarschuwd heeft voor mogelijke externe effecten zoals uitponden, welke het aanbod van huurwoningen zouden doen krimpen;</al>
+            <al>constaterende dat sinds het ingaan van de Wet betaalbare huur het uitpondeffect zichtbaar is geworden en het totale aanbod van huurwoningen omlaag is gegaan;</al>
+            <al>overwegende dat het krimpen van het aanbod van huurwoningen heeft geleid tot meer prijsstijgingen in de vrije huursector en er daarmee niet meer betaalbare huurwoningen en kamers zijn gerealiseerd;</al>
+            <al>verzoekt de regering aanvullende methoden te onderzoeken voor het realiseren van meer betaalbare huurwoningen, deze uit te werken en zo snel mogelijk aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Wijen-Nass</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

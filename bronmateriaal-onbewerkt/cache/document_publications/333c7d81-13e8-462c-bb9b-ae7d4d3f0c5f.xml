@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-120/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">120</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKER EN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Nationaal Programma Leefbaarheid en Veiligheid (NPLV) zich richt op twintig wijken met een stapeling van problemen rond armoede, sociale cohesie, wonen en veiligheid;</al>
+            <al>constaterende dat in deze volkswijken ook sprake is van verloedering, onveiligheid en sociale spanningen, ook als gevolg van migratie- en integratieproblematiek;</al>
+            <al>overwegende dat het van groot belang is om te zorgen voor leefbare, veilige en diverse wijken waarin we samen leven, en iedereen zich thuis voelt;</al>
+            <al>overwegende dat er vanuit de Agenda Veerkrachtige en Weerbare Samenleving middelen in het NPLV zijn gestort om expliciet ook problematiek rond integratie en sociale cohesie aan te pakken;</al>
+            <al>verzoekt de Minister van VRO om binnen de budgettaire kaders van het NPLV met deelnemende gemeenten een extra inzet op integratie en sociale cohesie aan te brengen en bij een eventueel vervolg van het NPLV deze onderwerpen hoog op de agenda te zetten;</al>
+            <al>verzoekt de Minister van VRO om zo snel mogelijk een overzicht te verstrekken in welke volksbuurten, naast de twintig wijken uit de NPLV-aanpak, de genoemde problematiek nog meer speelt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Becker</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3121/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3121</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Israël meer gebied in het zuiden van Gaza wil innemen en Rafah wil ontruimen;</al>
+            <al>overwegende dat sinds president Trump aan de macht is de Israëlische regering escalatie verkiest in plaats van aansturen op het staakt-het-vuren;</al>
+            <al>overwegende dat een actieve en eensgezinde rol van de EU essentieel is voor een duurzaam staakt-het-vuren;</al>
+            <al-groep>
+              <al>verzoekt de regering Israël op te roepen tot onmiddellijke toelating van humanitaire hulp en herstel van stroomvoorziening in Gaza, en zich, mede gezien de opstelling van de VS, in te zetten voor een leidende EU-rol in het vredesproces, gericht op een staakt-het-vuren, vrijlating van gijzelaars,</al>
+              <al>terugtrekking van Israëlische troepen en een duurzaam perspectief,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

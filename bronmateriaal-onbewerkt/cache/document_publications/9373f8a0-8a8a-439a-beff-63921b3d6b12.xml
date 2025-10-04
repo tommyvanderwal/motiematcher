@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-23432-574"/>
+      <meta name="OVERHEIDop.ondernummer" content="574"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-08-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="23432"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Dobbe c.s. over de organisatie van tijdelijke medische evacuaties met het recht op terugkeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="K.P. Piri"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. Ouwehand"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="De situatie in het Midden-Oosten"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-08-21"/>
+      <meta name="DC.title" scheme="" content="De situatie in het Midden-Oosten; Motie; Motie van het lid Dobbe c.s. over de organisatie van tijdelijke medische evacuaties met het recht op terugkeer"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Internationale samenwerking"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>23 432</dossiernr>
+         </dossiernummer>
+         <titel>De situatie in het Midden-Oosten</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">574</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DOBBE C.S.</titel>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat volgens de Wereldgezondheidsorganisatie ten minste 4.500 kinderen dringende medische hulp nodig hebben en wachten op medische evacuatie;</al>
+                  <al>constaterende dat er volgens de WHO niet genoeg capaciteit is in de regio om deze kinderen op te nemen;</al>
+                  <al>constaterende dat de WHO Europese landen actief heeft opgeroepen om ernstig zieke en gewonde patiënten uit Gaza op te nemen en via het EU-mechanisme medische evacuaties te ondersteunen;</al>
+                  <al>overwegende dat landen als het Verenigd Koninkrijk, Italië en Frankrijk geëvacueerde patiënten opnemen;</al>
+                  <al>overwegende dat er een grotere kans van slagen is als een verzoek tot medische evacuatie gedaan wordt door een bevriende natie;</al>
+                  <al>verzoekt de regering tijdelijke medische evacuaties van ernstig gewonde of zieke Gazaanse kinderen met naaste familie naar Nederlandse ziekenhuizen te organiseren, met het recht op terugkeer,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Paternotte</al>
+                     <al>Ouwehand</al>
+                     <al>Piri</al>
+                     <al>Dassen</al>
+                     <al>Ceder</al>
+                     <al>Boswijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

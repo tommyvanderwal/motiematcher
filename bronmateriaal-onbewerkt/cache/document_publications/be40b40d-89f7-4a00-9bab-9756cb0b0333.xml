@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31793-260/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 793</dossiernr>
+      </dossiernummer>
+      <titel>Internationale klimaatafspraken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">260</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat onderzoek van het Environmental Investigation Agency in 2022 vaststelde dat vrachtwagens met boomstammen, gekapt in Natura 2000-gebieden en andere natuurreservaten, hun oogst rechtstreeks afleveren bij fabrikanten van houtpellets in vier Europese landen;</al>
+            <al>overwegende dat Nederland de grootste importeur is van biomassa in de EU en dat niet gegarandeerd kan worden dat alle houtige biomassa die wordt geïmporteerd op een duurzame manier wordt geproduceerd;</al>
+            <al>constaterende dat het RIVM al in 2018 waarschuwde voor gezondheidsschade door energieproductie op basis van houtige biomassa;</al>
+            <al>overwegende dat uit de klimaatraadpleging blijkt dat het overgrote deel van de Nederlandse burgers tegen het importeren van biomassa uit het buitenland is;</al>
+            <al>verzoekt de regering zich in Europees verband in te zetten om biomassaverbranding niet langer aan te merken als duurzame energiebron,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

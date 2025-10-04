@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32847-1341"/>
+      <meta name="OVERHEIDop.ondernummer" content="1341"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32847"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Nader gewijzigde motie van het lid Rooderkerk over het eigen verbruik van zonnestroom stimuleren (t.v.v. 32847-1330)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Integrale visie op de woningmarkt"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-13"/>
+      <meta name="DC.title" scheme="" content="Integrale visie op de woningmarkt; Motie (gewijzigd/nader); Nader gewijzigde motie van het lid Rooderkerk over het eigen verbruik van zonnestroom stimuleren (t.v.v. 32847-1330)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 847</dossiernr>
+         </dossiernummer>
+         <titel>Integrale visie op de woningmarkt</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1341</ondernummer>
+         </stuknr>
+         <titel>NADER GEWIJZIGDE MOTIE VAN HET LID ROODERKERK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1330</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-13">13 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het stoppen van de salderingsregeling leidt tot een langere terugverdientijd voor zonnepaneelbezitters;</al>
+                  <al>overwegende dat het verhogen van het eigen verbruik van zonnestroom de terugverdientijd kan verkorten en goed is voor het tegengaan van netcongestie;</al>
+                  <al>overwegende dat in het landelijk actieplan netcongestie wordt gewerkt aan het «slim» maken van apparaten zoals zonnepanelen, laadpalen en warmtepompen.</al>
+                  <al-groep>
+                     <al>verzoekt de regering om het eigen verbruik van zonnestroom te stimuleren door:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>opties voor een flexbonus te verkennen;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>technologieën die het eigen verbruik verhogen, en daarmee netcongestie verminderen, en passen bij de doelstelling van de ISDE (CO<inf>2</inf> reduceren) te standaardiseren en waar mogelijk te stimuleren in de ISDE;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>en daarbij interoperabiliteit met zonnepanelen mee te nemen als randvoorwaarde bij het slim maken van apparaten, zoals warmtepompen;</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al>Rooderkerk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

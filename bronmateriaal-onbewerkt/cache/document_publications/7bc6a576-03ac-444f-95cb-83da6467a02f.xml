@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-24515-808"/>
+      <meta name="OVERHEIDop.ondernummer" content="808"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="24515"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Dassen en Bikkers over de uitvoering van de studietoeslag overhevelen naar DUO"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.T. Bikkers"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Preventie en bestrijding van stille armoede en sociale uitsluiting"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Preventie en bestrijding van stille armoede en sociale uitsluiting; Motie; Motie van de leden Dassen en Bikkers over de uitvoering van de studietoeslag overhevelen naar DUO"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Sociale zekerheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>24 515</dossiernr>
+         </dossiernummer>
+         <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">808</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DASSEN EN BIKKERS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er sinds 2015 extra taken en regelingen bij gemeenten zijn belegd, die het Rijk ook kan uitvoeren;</al>
+                  <al>constaterende dat rapporten van de Commissie sociaal minimum en IPE voorstellen om landelijk te doen wat landelijk kan, zoals de studietoeslag;</al>
+                  <al>constaterende dat DUO de kennis, de mogelijkheden en contacten van studenten heeft om de studietoeslag uit te voeren;</al>
+                  <al>verzoekt de regering voorbereidingen te treffen om de uitvoering van de studietoeslag over te hevelen naar DUO, en de Kamer hierover te informeren aan het begin van 2026,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dassen</al>
+                     <al>Bikkers</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

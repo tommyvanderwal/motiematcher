@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22112-4122"/>
+      <meta name="OVERHEIDop.ondernummer" content="4122"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22112"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Zanten over de interpretatie van het EVRM herzien"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Motie; Motie van het lid Van Zanten over de interpretatie van het EVRM herzien"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 112</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">4122</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat burgers in Nederland zich ernstige zorgen maken over immigratie, integratie en veiligheid;</al>
+                  <al>overwegende dat een meerderheid van de Kamer in juni jongstleden de motie-Van Zanten/Boomsma (<extref doc="kst-32317-961" soort="document" status="actief">32 317, nr. 961</extref>) heeft aangenomen, die de regering vraagt verouderde internationale verdragen aan te passen;</al>
+                  <al>verzoekt de regering allianties te smeden in EU-verband en zich aan te sluiten bij de EU-landen die pleiten voor herziening van de interpretatie van het Europees Verdrag voor de Rechten van de Mens uit 1953, opdat in juridische procedures de uitkomst aansluit bij het aanpakken van de problemen van deze tijd,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Zanten</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

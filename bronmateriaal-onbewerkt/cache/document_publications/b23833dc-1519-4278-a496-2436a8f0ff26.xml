@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32802-86/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 802</dossiernr>
+      </dossiernummer>
+      <titel>Toepassing van de Wet open overheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">86</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat, ondanks een explosieve groei van overheidsbesluiten en informatie, de Open State Foundation concludeert dat het beheer en openbaren van overheidsinformatie door de overheid slechts als bijzaak wordt beschouwd;</al>
+            <al>constaterende dat er tussen de 8.000 en 10.000 ambtenaren zijn aangetrokken om te ondersteunen bij de uitvoering van de Wet open overheid, om zo de informatiehuishouding van het Rijk op orde te krijgen;</al>
+            <al>overwegende dat het aantrekken van inhoudelijke expertise voor openbaarmaking uiteraard een zeer goede ontwikkeling is, maar dat deze aantallen buiten proportie zijn;</al>
+            <al>verzoekt de regering te onderzoeken welke aanpassingen leiden tot het sneller, actief en meer geautomatiseerd openbaar maken van overheidsinformatie waarbij de inzet van extra ambtenaren, in de parafenlijn, beperkt kan worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Palmen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

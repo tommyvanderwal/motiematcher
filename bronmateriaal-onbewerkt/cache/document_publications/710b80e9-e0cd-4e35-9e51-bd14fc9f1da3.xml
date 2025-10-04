@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XX-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Asiel en Migratie (XX) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOOMSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat migratiepartnerschappen met derde landen buiten de EU belangrijk zijn om grip op migratie te krijgen;</al>
+            <al>overwegende dat artikel 21 uit het EU-verdrag stelt dat het respecteren van democratische, rechtsstatelijke en mensenrechtelijke principes een integraal onderdeel dient te zijn van partnerschappen met derde landen;</al>
+            <al-groep>
+              <al>overwegende dat er nu geen richtlijnen zijn op basis waarvan de voortgang en implementatie van migratiepartnerschappen periodiek worden getoetst;</al>
+              <al>overwegende dat migranten het risico lopen op uitbuiting en schendingen van hun fundamentele rechten;</al>
+            </al-groep>
+            <al>overwegende dat schending van mensenrechten het verlangen naar en de kans op doorreis juist vergroot;</al>
+            <al>verzoekt de regering om voor EU- en bilaterale migratiepartnerschappen protocollen op te stellen over de naleving van mensenrechten en bescherming tegen uitbuiting, inclusief een risicoanalyse en afspraken over de voortgang en de naleving ervan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Diederik van Dijk</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

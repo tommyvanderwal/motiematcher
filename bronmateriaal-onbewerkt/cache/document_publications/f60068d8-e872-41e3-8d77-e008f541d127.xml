@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-571/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">571</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in de volgende actieprogrammaperiode voor de Nitraatrichtlijn gekozen zal worden voor een meer gebiedsgerichte aanpak op basis van doelsturing;</al>
+            <al>overwegende dat het actieprogramma of de gebiedsspecifieke actieprogramma's voor kwetsbare gebieden al in 2026 in zullen gaan;</al>
+            <al>van mening dat het voor zorgvuldige besluitvorming van belang is dat de Kamer vroegtijdig meegenomen wordt bij de vormgeving van het actieprogramma;</al>
+            <al>verzoekt de regering de Kamer voor het eerstvolgende commissiedebat Mestbeleid te informeren over de uitkomst van de eerste twee fases van het ex ante onderzoek en over de hoofdlijnen van het actieprogramma,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

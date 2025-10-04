@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1302/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1302</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een op de vier jongeren kenmerken van smartphoneverslaving vertoont en dat de gevolgen van te veel schermtijd extreem schadelijk kunnen zijn;</al>
+            <al>constaterende dat elke dag dat we niks doen onze jongeren verder in een mentalegezondheidscrisis worden gestort;</al>
+            <al>constaterende dat de gezondheid en veiligheid van hele generaties op het spel worden gezet voor de winsten van techmiljardairs;</al>
+            <al>van mening dat we jongeren moeten beschermen en dat de meest schadelijke ontwerpfuncties, zoals de eindeloze scroll en het automatisch afspelen van filmpjes, zo snel mogelijk verboden moeten worden;</al>
+            <al>verzoekt de regering om blijvend en ondubbelzinnig aan te dringen op een verstrekkend Europees verbod op verslavend en polariserend ontwerp op sociale media en dit op alle mogelijke manieren uit te dragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kathmann</al>
+              <al>Dral</al>
+              <al>Van Nispen</al>
+              <al>Koekkoek</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

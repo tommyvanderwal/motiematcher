@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32735-395/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 735</dossiernr>
+      </dossiernummer>
+      <titel>Mensenrechten in het buitenlands beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">395</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-06-17">17 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat twee van de drie eisen om een misdaad te bestempelen voor genocide, een uitspraak van het Internationaal Strafhof, waar China geen lid van is, of het vaststellen door de VN, waar China een veto over kan uitspreken, het lastig maakt om deze routes te belopen;</al>
+            <al>constaterende dat eenduidige conclusies uit wetenschappelijk onderzoek de enige overgebleven methode vormen om de Chinese aanpak van Oeigoeren te bestempelen als genocide;</al>
+            <al>verzoekt de regering een stappenplan te maken voor het verkrijgen van deze wetenschappelijke onderbouwing en dit met gelijkgestemde landen te doen, en dit bij de begroting van BuZa aan de Kamer te presenteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

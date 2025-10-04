@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-755/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">755</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DANIËLLE JANSEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 752</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het belangrijk is om vroegtijdig overgewicht aan te pakken met een brede aanpak, inclusief beperking van kindermarketing,</al>
+            <al>overwegende dat de naleving van de reclamecode nog niet optimaal werkt,</al>
+            <al>overwegende dat de Minister heeft aangegeven dat het kabinet kindermarketing voor ongezonde voeding wettelijk wil beperken.</al>
+            <al>overwegende dat wetgeving een langdurig proces vergt, terwijl er nu al actie nodig is,</al>
+            <al>overwegende dat zelfregulering strakker aangepakt moet worden,</al>
+            <al>verzoekt de regering vooruitlopend op wetgeving kindermarketing, in gesprek te gaan met voedingsmiddelenproducenten en de Stichting Reclame Code om tot een voorstel te komen om naleving van de code actief te controleren, ook op social media, door online-influencers en digitale bloggers,</al>
+            <al>verzoekt de regering overtredingen te melden bij de Reclame Code Commissie en een boeteclausule te introduceren voor niet-naleving, met een leeftijdsgrens van 18 jaar, en welk aanvullend beleid van de overheid daarbij nodig is;</al>
+            <al>verzoekt de regerering dit najaar de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

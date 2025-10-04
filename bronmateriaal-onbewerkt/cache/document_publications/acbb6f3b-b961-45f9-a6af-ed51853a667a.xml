@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1605/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1605</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-07">7 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer en opeenvolgende kabinetten zich hebben uitgesproken voor het verbieden van langeafstandstransporten, waaronder de massale export van schapen naar het Midden-Oosten;</al>
+            <al>constaterende dat de Kamer heeft opgeroepen om een einde te maken aan dagenlange diertransporten op zee;</al>
+            <al>constaterende dat de Europese regels voor transporten met levende dieren na bijna twintig jaar eindelijk zullen worden herzien;</al>
+            <al>constaterende dat met het nu uitgelekte voorstel van de Europese Commissie geen einde wordt gemaakt aan die vreselijke langeafstandstransporten, transporten met levende dieren naar landen buiten Europa en diertransporten bij extreme temperaturen;</al>
+            <al-groep>
+              <al>verzoekt de regering zich sterk te verzetten tegen het voorstel van de Europese Commissie over diertransporten en zich in te zetten voor een wijziging waarmee ernstig dierenleed bij diertransporten alsnog wordt tegengegaan, houdende zoals de Kamer heeft uitgesproken:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>geen diertransporten meer naar landen buiten Europa;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>verlaging van de maximumtemperatuur;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>geen diertransporten meer die langer duren dan acht uur.</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

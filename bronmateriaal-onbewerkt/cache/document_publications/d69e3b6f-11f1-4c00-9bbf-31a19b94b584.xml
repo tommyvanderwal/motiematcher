@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-784/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">784</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-01">1 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij het UWV veel fouten zijn gemaakt die de bestaanszekerheid van kwetsbare inwoners raken;</al>
+            <al>overwegende dat juist deze kwetsbare inwoners mogen verwachten dat ze door de overheid beschermd worden;</al>
+            <al>overwegende dat we binnen de Belastingdienst en Dienst Toeslagen een betere rechtsbescherming binnen de organisatie zelf gaan organiseren door een belangenbehartiger op te zetten die mee kan kijken in vastgelopen dossiers;</al>
+            <al>verzoekt het kabinet te onderzoeken of zo'n vorm van rechtsbescherming binnen de organisatie ook kan worden opgezet bij het UWV, zodat de rechten van kwetsbare inwoners beter kunnen worden beschermd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Vijlbrief</al>
+              <al>Saris</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

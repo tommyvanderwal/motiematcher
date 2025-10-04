@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-V-37/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">37</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er sprake is van ernstige mensenrechtenschendingen in Xinjiang tegen de Oeigoeren, waaronder grootschalige arbitraire detentie, seksueel geweld en dwangarbeid;</al>
+            <al>verzoekt de regering om blijvend in bilateraal contact met China en in contact met gelijkgestemde landen de mensenrechtenschendingen tegen de Oeigoeren te adresseren;</al>
+            <al>verzoekt de regering tevens om de naar verwachting eind dit jaar in werking tredende EU anti-dwangarbeidsverordening aan te wenden om in Europees verband aanvullende stappen te zetten om producten die vervaardigd zijn met Oeigoerse dwangarbeid te weren;</al>
+            <al>verzoekt de regering voorts om in internationaal verband zich in te spannen voor de totstandkoming van een coalitie van landen voor het instellen van een VN fact-finding mission in Xinjiang,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

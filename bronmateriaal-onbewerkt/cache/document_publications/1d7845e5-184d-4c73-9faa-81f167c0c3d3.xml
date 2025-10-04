@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Israëlische Ministerie van Diaspora en Antisemitismebestrijding in een special report in kaart heeft gebracht dat pro-Palestijnse organisaties gelieerd aan Hamas medeverantwoordelijk zijn voor de antisemitische pogrom in Amsterdam;</al>
+            <al>constaterende dat er een netwerk van Hamas in Europa actief is dat bestaat uit een woud van mantelorganisaties die onder wisselende namen naarstig naar legitimiteit zoeken;</al>
+            <al>constaterende dat personen binnen dit netwerk congressen organiseren, spreken op universiteiten en demonstraties gebruiken om Hamasideologieën te verspreiden die een voedingsbodem voor antisemitisme creëren;</al>
+            <al>verzoekt de regering om de organisaties die in dit special report benoemd worden vanwege hun banden met Hamas, door de veiligheidsdiensten onder de loep te laten nemen en in overleg met het Openbaar Ministerie en de inlichtingendiensten te bevorderen dat deze organisaties op de nationale sanctielijst terrorisme en in het CTER-register geplaatst worden;</al>
+            <al>verzoekt de regering tevens samen met de universiteiten een stuurgroep te vormen voor de bestrijding van antisemitisme in het hoger onderwijs, die zich onder andere richt op aanscherpingen om antisemitische sprekers en activiteiten te weren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Stoffer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-353/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">353</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID FLACH TER VERVANGING VAN DIE GEDRUKT ONDER NR. 339</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-04">4 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat voorkomen moet worden dat invoering van een verhoogde rekenkundige ondergrens leidt tot nieuwe knelgevallen dan wel dat lang gewacht moet worden op een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State in het kader van een proefproces om juridische zekerheid te krijgen;</al>
+            <al>overwegende dat een onherroepelijk verleende vergunning meer zekerheid biedt dan een vorm van vergunningvrijstelling of positieve weigering;</al>
+            <al>verzoekt de regering naast de toepassing van een verhoogde rekenkundige ondergrens bij de voortoets als vergunningvrijstelling ook de mogelijkheid om deze rekenkundige ondergrens als eenzelfde detectiegrens toe te passen in de fase van de passende beoordeling voor vergunningverlening mee te nemen in de adviesaanvraag richting Raad van State en in de daaropvolgende besluitvorming,</al>
+            <al>en gaat over tot de orde dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1292/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1292</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DE HOOP EN BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de woningbouw achterblijft bij de gestelde doelen;</al>
+            <al>overwegende dat het afromen van de winst van grondspeculanten een positieve bijdrage kan leveren aan de betaalbaarheid van woningbouwprojecten en de versnelling van de woningbouw;</al>
+            <al>overwegende dat de Kamer om die reden al geruime tijd, middels de motie-De Hoop c.s. (<extref doc="kst-32847-1167" soort="document" status="actief">32 847, nr. 1167</extref>) en de motie-Beckerman (<extref doc="kst-32847-1163" soort="document" status="actief">32 847, nr. 1163</extref>), vraagt om de uitwerking van een voorstel voor de invoering van een gemeentelijke planbatenheffing, maar dit tot op heden nog niet is ontvangen;</al>
+            <al>verzoekt de regering een voorstel voor de invoering van een gemeentelijke planbatenheffing uit te werken, en dit voor het meireces 2025 aan de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>De Hoop</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32317-912/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 317</dossiernr>
+      </dossiernummer>
+      <titel>JBZ-Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">912</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOOMSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Europese Commissie een wetsvoorstel heeft voorgelegd aan de Raad en het Europees parlement om een bedrag van 5 miljard euro aan macrofinanciële assistentie aan de Egyptische overheid toe te kennen;</al>
+            <al>overwegende dat de Europese Commissie gaat onderhandelen met de Egyptische autoriteiten over een memorandum met bepaalde voorwaarden voor de steun en hierbij volgens het wetsvoorstel inzet op financieel-economische hervormingen;</al>
+            <al>overwegende dat het belangrijk is om bij het bieden van steun voorwaarden te stellen aan het verbeteren van de rechtsstaat en het borgen van de fundamentele rechten;</al>
+            <al>verzoekt de Minister om bij de vorming van de Raadspositie aan te sturen op het stellen van concrete voorwaarden aan deze bedragen voor het verbeteren van de bescherming van fundamentele rechten en de rechtsstaat, en erop in te zetten dat het macrofinanciëleassistentiepakket (regular MFA, art. 212) wordt opgeknipt in vier aparte wetten ter waarde van 1 miljard, om het al dan niet behalen van de voorwaarden steviger te kunnen controleren en voorwaardelijk te maken aan concrete resultaten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boomsma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32156-134/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 156</dossiernr>
+      </dossiernummer>
+      <titel>Monumentenzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">134</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek van Hylkema Erfgoed en Fenicks blijkt dat voor grote restauratieopgaven het huidige financieringsstelsel niet toereikend is;</al>
+            <al>constaterende dat grote monumenten dan ook vaak naast subsidies grijpen en bijvoorbeeld in 2023 alle subsidieaanvragen binnen de Sim voor monumentale kerkgebouwen boven de € 410.000 zijn afgewezen;</al>
+            <al>overwegende dat het van belang is om grote monumenten in stand te houden zonder dat het ten koste gaat van de kleine restauratieopgaven;</al>
+            <al>verzoekt de regering te onderzoeken hoe binnen de beschikbare middelen een tijdelijke verhoging te realiseren voor de financiering van de restauratie van grote monumenten, waaronder kerken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

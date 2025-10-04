@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36471-87/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 471</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsformatie 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">87</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN BAARLE EN OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-07-04">4 juli 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de formele beëdiging van het kabinet de vertrouwensregel is ingegaan;</al>
+            <al>van mening dat dit kabinet, gevormd door partijen die de beginselen van de democratische rechtsstaat niet respecteren en die blijk geven van islamofoob en racistisch gedachtegoed, dat ook tot uiting komt in uitspraken van verschillende kabinetsleden, überhaupt niet op het vertrouwen van de Kamer zou mogen rekenen;</al>
+            <al>overwegende dat de Kamer al eerder in de motie-Ouwehand (<extref doc="kst-35788-28" soort="document" status="actief">35 788, nr. 28</extref>) heeft uitgesproken dat het respecteren van de rechtsstaat een niet-onderhandelbare voorwaarde vormt voor de formatie van een kabinet;</al>
+            <al>overwegende dat het normaliseren van het ter discussie stellen van de beginselen van de democratische rechtsstaat, van haat, racisme en moslimhaat in strijd is met de eed en gelofte die alle Kamerleden en bewindspersonen hebben afgelegd en dat het onvergefelijk is dat coalitiepartijen en bewindspersonen zich hier schuldig aan maken;</al>
+            <al>constaterende dat het kabinet ook in het debat over de regeringsverklaring heeft verzaakt om te normeren tegen uitsluiting en dat verschillende bewindspersonen in hun uitingen hebben gepersisteerd in uitsluitende retoriek, onder andere met giftige aanvallen in de richting van vrouwen met een hoofddoek;</al>
+            <al>zegt het vertrouwen in het kabinet op,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Baarle</al>
+              <al>Ouwehand</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

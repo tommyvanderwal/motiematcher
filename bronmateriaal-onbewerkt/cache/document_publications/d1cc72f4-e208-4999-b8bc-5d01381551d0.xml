@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1485/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1485</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat kinderen van gedupeerde ouders zelf ook gedupeerde zijn in de toeslagenaffaire;</al>
+            <al>constaterende dat het gevoel van erkenning hiervan ontbreekt, terwijl dit heel belangrijk is voor kinderen voor hun herstel;</al>
+            <al>constaterende dat het wenselijk is de kindregeling op onderdelen tegen het licht te houden om het herstel voor kinderen te verbeteren;</al>
+            <al-groep>
+              <al>verzoekt de regering om onderzoek te doen en erover te rapporteren wat kinderen aanvullend nodig hebben voor hun ontwikkeling richting de toekomst, met daarbij onder andere aandacht voor:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>erkenning;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>brede ondersteuning en mentaal welzijn, rekening houdend met het feit dat kinderen vaak niet nu al weten wat ze komende tijd nodig hebben (greencard);</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>schuldenproblematiek inclusief een antwoord hoe om te gaan met DUO-schulden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ondersteuning bij werk en opleiding;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering dit te betrekken bij de kabinetsreactie op het rapport van de commissie-Hamer, die voor de zomer naar de Kamer komt,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Dijk</al>
+              <al>Haage</al>
+              <al>Vijlbrief</al>
+              <al>Grinwis</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

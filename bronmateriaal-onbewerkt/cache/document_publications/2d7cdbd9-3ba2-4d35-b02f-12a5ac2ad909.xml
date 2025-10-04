@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29984-1209/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 984</dossiernr>
+      </dossiernummer>
+      <titel>Spoor: vervoer- en beheerplan</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1209</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de tarieven voor treinkaartjes naar verwachting met 6% zullen stijgen per 1 januari 2025;</al>
+            <al>overwegende dat deze tariefstijging een aanzienlijke financiële last vormt voor Nederlandse treinreizigers, en dat structurele overheidsfinanciering helpt om deze lasten te verlichten en het openbaar vervoer betaalbaar te houden;</al>
+            <al>verzoekt de regering om te onderzoeken hoe er structureel financiële steun verleend kan worden aan de Nederlandse Spoorwegen om toekomstige tariefstijgingen te beperken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

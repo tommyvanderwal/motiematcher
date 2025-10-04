@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-35334-378"/>
+      <meta name="OVERHEIDop.ondernummer" content="378"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="35334"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Podt over het extra budget voor ANLb primair gebiedsgericht inzetten voor zwaar beheer en de benodigde ruimtelijke concentratie"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Podt"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Problematiek rondom stikstof en PFAS"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Podt over het extra budget voor ANLb primair gebiedsgericht inzetten voor zwaar beheer en de benodigde ruimtelijke concentratie"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Bodem"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Lucht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Bouwnijverheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>35 334</dossiernr>
+         </dossiernummer>
+         <titel>Problematiek rondom stikstof en PFAS</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">378</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PODT</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat dit kabinet 500 miljoen per jaar beschikbaar stelt voor Agrarisch Natuur- en Landschapsbeheer;</al>
+                  <al>overwegende dat verschillende kennisinstituten, zoals Sovon, de WUR en het PBL, de effectiviteit van het ANLb hebben onderzocht en concluderen dat het potentie heeft, maar met de huidige invulling de achteruitgang van de natuur alleen maar vertraagt en niet stopt;</al>
+                  <al>overwegende dat de grootste ecologische winst te behalen valt door, naast extra budget, in te zetten op substantieel meer gebiedsgericht zwaar beheer en voldoende ruimtelijke concentratie;</al>
+                  <al>van mening dat de overheid zorgvuldig met belastinggeld dient om te gaan en de adviezen van de kennisinstituten om dit geld effectief in te zetten daarom zwaar zou moeten laten meewegen bij het opstellen van beleid;</al>
+                  <al>verzoekt de regering het extra budget voor het ANLb primair gebiedsgericht in te zetten voor zwaar beheer en de benodigde ruimtelijke concentratie, zodat er optimale effectiviteit wordt bereikt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Podt</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

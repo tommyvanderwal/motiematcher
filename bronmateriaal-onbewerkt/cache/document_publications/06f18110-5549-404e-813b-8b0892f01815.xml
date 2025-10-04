@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31289-574/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 289</dossiernr>
+      </dossiernummer>
+      <titel>Voortgezet Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">574</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Pvo Kapelle – Isaac Beeckman Academie (IBA) in een krimpregio staat en een regiofunctie vervult;</al>
+            <al>constaterende dat de IBA vooral onvoldoende scoort op administratieve taken, maar daarnaast een hoog slagingspercentage kent, een voldoende scoort op onderwijskwaliteit en veiligheid en op andere vlakken in korte tijd al behoorlijke stappen vooruit heeft gemaakt;</al>
+            <al>overwegende dat wanneer een school in een krimpregio staat en/of een regiofunctie vervult er een uitzondering op het beëindigen van de bekostiging kan worden gemaakt wanneer de opheffingsnorm niet wordt gehaald;</al>
+            <al>overwegende dat de leerlingen met veelal een speciale behoefte waarschijnlijk lastig zullen aarden op een reguliere middelbare school;</al>
+            <al-groep>
+              <al>overwegende dat de communicatie vanuit het ministerie naar de school over het al dan niet kunnen openblijven zeer onduidelijk is geweest;</al>
+              <al>verzoekt de regering de bekostiging voor Pvo Kapelle niet per 1 augustus 2024 te beëindigen, maar de IBA de kans te geven te voldoen aan de herstelopdrachten uit het op 2 januari 2024 gepubliceerde herstelonderzoek,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

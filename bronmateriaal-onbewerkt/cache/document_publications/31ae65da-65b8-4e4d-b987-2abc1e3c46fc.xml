@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36725-XVI-21"/>
+      <meta name="OVERHEIDop.ondernummer" content="21"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36725-XVI"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Dobbe en Paulusma over de ingeboekte bezuiniging op de ASG-regeling schrappen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W. Paulusma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota); Motie; Motie van de leden Dobbe en Paulusma over de ingeboekte bezuiniging op de ASG-regeling schrappen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 725</dossiernr>
+            <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Wijziging van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">21</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DOBBE EN PAULUSMA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-02">2 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de toename van het aantal hiv-diagnoses en de afname van het anticonceptiegebruik het grote belang van seksuele gezondheidszorg aantonen;</al>
+                  <al>overwegende dat er in meerdere regio's bezuinigingen op seksuele gezondheid dreigen te worden doorgevoerd, mede vanwege de dreigende bezuiniging van 5 miljoen op de ASG-regeling;</al>
+                  <al>constaterende dat de Kamer zich via de motie-Dobbe (<extref doc="kst-32793-838" soort="document" status="actief">32 793, nr. 838</extref>) al heeft uitgesproken tegen deze bezuinigingen, maar het kabinet weigert deze motie uit te voeren;</al>
+                  <al>verzoekt de regering om de ingeboekte bezuiniging op de ASG-regeling te schrappen en dit te dekken uit het verhogen van het belastingtarief in box 2,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Paulusma</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

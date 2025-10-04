@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1146/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1146</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WELZIJN EN DE HOOP </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de woningbouwopgave fors is en de vergunningverlening daalt;</al>
+            <al>constaterende dat hierdoor de noodzaak gestegen is om de bestaande voorraad beter te benutten;</al>
+            <al>constaterende dat woningsplitsen, woningdelen en optoppen een enorme potentie hebben in het verminderen van de wooncrisis en dat deze oplossingen met grote snelheid, lage kosten en weinig materialen (duurzaam) uitgevoerd kunnen worden;</al>
+            <al>verzoekt de regering om op zeer korte termijn concrete afspraken te maken met corporaties over het aantrekkelijk maken van woningdelen, over concrete aantallen te splitsen en op te toppen woningen per jaar en tevens met alle gemeenten te komen tot een eenduidig en eenvoudig proces voor alle aanvragers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

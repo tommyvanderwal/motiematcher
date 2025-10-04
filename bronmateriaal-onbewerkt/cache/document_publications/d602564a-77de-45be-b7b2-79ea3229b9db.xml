@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-49/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">49</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de procedure die is ingericht om te komen tot een keuze voor de aanschaf van de nieuwe onderzeeërs onder andere is ingericht op de factoren prijs, kwaliteit en betrokkenheid van de Nederlandse industrie;</al>
+            <al>overwegende dat een van de deelnemende partijen een staatsbedrijf is dat aanzienlijk lagere prijzen kan aanbieden door het ontbreken van kosten die private partijen mogelijk wel hebben;</al>
+            <al>overwegende dat het doen van beloftes voor het betrekken van de Nederlandse industrie een eerste stap is, maar het nakomen van die beloftes een veel belangrijkere tweede stap is;</al>
+            <al>constaterende dat een gelijke weging van de factor prijs van belang is voor het waarborgen van een gelijk speelveld voor de Nederlandse maritieme sector;</al>
+            <al>constaterende dat het nakomen van de beloftes van het betrekken van de lokale en nationale industrie bij dit soort projecten in het verleden niet altijd evident bleek;</al>
+            <al>verzoekt de regering nog geen keuze te maken of onomkeerbare stappen te zetten voordat de Auditdienst Rijk (ADR) de deelnemende bedrijven op deze factoren heeft geëvalueerd;</al>
+            <al>verzoekt de regering de Auditdienst Rijk specifiek ook te laten kijken naar de hardheid van de in de biedingen opgenomen garanties voor de Nederlandse industrie en de bijbehorende boeteclausules bij niet nakoming van de beloftes gedaan door de partijen in deze aanbesteding,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>Vermeer</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

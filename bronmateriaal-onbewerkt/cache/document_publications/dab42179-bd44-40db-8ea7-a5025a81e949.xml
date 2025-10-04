@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIII-39/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">39</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat familiebedrijven goed zijn voor bijna een derde van alle werknemersbanen en voor 30% van de toegevoegde waarde in het (niet-financiële) bedrijfsleven;</al>
+            <al>constaterende dat in omliggende landen, zoals Duitsland en België, specifieke regelingen bestaan die familiebedrijven ondersteunen bij bedrijfsoverdrachten met behulp van een familietoets die de continuïteit van familiebedrijven waarborgt;</al>
+            <al>overwegende dat familiebedrijven uniek zijn in hun langetermijnvisie en regionale betrokkenheid, en wet- en regelgeving daarop moet zijn ingericht;</al>
+            <al>verzoekt de regering bij de ontwikkeling van nieuw beleid, vergelijkbaar met omliggende landen, een familietoets in te voeren om te beoordelen in hoeverre het beleid bijdraagt aan het versterken van de positie van familiebedrijven, met bijzondere aandacht voor bedrijfsopvolging, toegang tot financiering en regionale betrokkenheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwi</al>
+              <al>Inge van Dijk</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

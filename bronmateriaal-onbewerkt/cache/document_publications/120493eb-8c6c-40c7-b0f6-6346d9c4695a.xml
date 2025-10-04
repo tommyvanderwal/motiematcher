@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-V-28/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">28</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER BURG C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het concept van een Europese veiligheidsraad al eerder is besproken in diverse NAVO- en EU-landen;</al>
+            <al>overwegende dat de veiligheid van Europa verder onder druk komt te staan als gevolg van grote dreigingen en ingrijpende geopolitieke verschuivingen, en dat met name de Europese afhankelijkheid van de VS op veiligheid ons kwetsbaar maakt;</al>
+            <al>overwegende dat een Europese veiligheidsraad complementair kan zijn aan de structuren van de NAVO en de EU en ook belangrijke niet-EU-landen als Noorwegen en het Verenigd Koninkrijk kan betrekken bij belangrijke Europese veiligheidsvraagstukken;</al>
+            <al>verzoekt de regering om in Europees verband de mogelijkheden voor een Europese veiligheidsraad te onderzoeken, hiervoor concrete voorstellen te doen, en de Kamer in Q3, kwartaal drie, van 2025 over de voortgang te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Burg</al>
+              <al>Boswijk</al>
+              <al>Paternotte</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

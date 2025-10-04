@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29861-133/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 861</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmigratie en sociale zekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">133</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is het aantal arbeidsmigranten te verminderen;</al>
+            <al>constaterende dat de Adviesraad Migratie heeft berekend dat de Nederlandse economie tot 2040 behoefte heeft aan meer arbeidsmigranten om de grijze druk gelijk te houden;</al>
+            <al>overwegende dat het verminderen van het aantal arbeidsmigranten (negatieve) gevolgen gaat hebben voor de Nederlandse economie;</al>
+            <al>verzoekt de regering om de economische en maatschappelijke gevolgen van het terugdringen van arbeidsmigratie in kaart te brengen, inclusief de effecten op sectoren met een hoge vraag naar arbeidskrachten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

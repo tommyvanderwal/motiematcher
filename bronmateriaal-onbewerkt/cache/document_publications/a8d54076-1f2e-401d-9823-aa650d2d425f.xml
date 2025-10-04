@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36579-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 579</dossiernr>
+      </dossiernummer>
+      <titel>Wijzigingen van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport om de grondslagen voor gegevensverwerking te verstevigen en enkele andere wijzigingen (Verzamelwet gegevensverwerking VWS II.a)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-27">27 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat informatiebeveiliging bij zorgaanbieders volgens de IGJ aantoonbaar tekortschiet door onvoldoende bewustzijn op het onderwerp informatiebeveiliging, doordat er onvoldoende middelen (tijd, geld, expertise) voor het onderwerp beschikbaar zijn en er soms onvoldoende aandacht is voor borging van het onderwerp binnen de organisatie;</al>
+            <al>overwegende dat er een toenemende dreiging is van cyberaanvallen en deze dreiging door toenemende digitalisering in de zorg groter wordt;</al>
+            <al>verzoekt de regering naast het uitbreiden van de handhavingsmogelijkheden van de IGJ aangaande informatiebeveiliging bij zorgaanbieders hen ook hierin te helpen en na overleg met het veld en experts de Kamer te informeren over welke ondersteuning nodig is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

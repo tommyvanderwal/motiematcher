@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-395/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">395</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN BIKKER EN ELLIAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 379</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat oplaaiend antisemitisme vraagt om een versterking van het strafrechtelijk en bestuurlijk instrumentarium om dit in het fysieke en digitale domein te bestrijden;</al>
+            <al-groep>
+              <al>overwegende dat de Kamer 27 mei aanstaande de initiatiefnota Ellian/Bikker bespreekt die een groot aantal aanbevelingen bevat om antisemitisme te bestrijden;</al>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>met politie, Openbaar Ministerie en Rechtspraak te verkennen wat er nodig is om de inzet van het snelrecht tegen antisemitische misdrijven te bevorderen</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>samen met het Nederlands Genootschap van Burgemeesters en de Vereniging van Nederlandse Gemeenten te komen tot een handelingskader rondom antisemitische uitingen in het fysieke en digitale domein en hierbij ook de omgang met antisemitische uitingen bij demonstraties te betrekken</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in de verkenning naar de strafbaarstelling van antisemitisme in andere landen nadrukkelijk de vraag betrekken of antisemitisme specifiek benoemd zou moeten worden in het Wetboek van Strafrecht;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voor de behandeling van de initiatiefnota Ellian/Bikker inzichtelijk te maken wat nodig is voor een krachtig Nationaal Plan Versterking Holocausteducatie;</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Ellian</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

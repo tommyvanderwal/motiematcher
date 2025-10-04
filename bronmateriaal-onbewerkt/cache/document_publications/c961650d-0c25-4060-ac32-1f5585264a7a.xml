@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-269/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">269</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DE HOOP EN CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-26">26 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat uit alle onderzoeken blijkt dat de natuurkwaliteit van de Waddenzee steeds verder achteruitgaat, onder andere door lozingen van vervuild water;</al>
+            <al>overwegende dat de Minister heeft toegezegd dat alle belangrijke lozingsvergunningen KRW-proof zullen worden;</al>
+            <al>overwegende dat de Minister in het debat heeft aangegeven dat het huidige systeem effectief is en dat de lozingen autonoom afnemen;</al>
+            <al>verzoekt de regering om te onderzoeken hoe het VTH-stelsel (Verbetering vergunningverlening, toezicht en handhaving) aan te passen zodat lozingsvergunningen voorwaardelijk en afhankelijk worden gesteld aan het tijdig behalen van de chemische en biologische grenswaarden die gelden voor het water waarin geloosd wordt;</al>
+            <al>verzoekt de regering tevens om te onderzoeken hoe lozingsvergunningen kunnen worden opgeschort als daar niet aan wordt voldaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>De Hoop</al>
+              <al>Chakor</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

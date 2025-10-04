@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36516-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 516</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet veiligheid en kwaliteit lichaamsmateriaal, de Wet op de orgaandonatie en enkele andere wetten in verband met ontwikkelingen in de lichaamsmateriaaldonatiepraktijk (Wet actualisering lichaamsmateriaalwetgeving)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-12">12 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in Nederland ten minste één bedrijf actief is in de commerciële handel in lichaamsdelen van mensen die hun lichaam na de dood beschikbaar hebben gesteld aan de wetenschap;</al>
+            <al>constaterende dat dit bedrijf adverteert met lichaamsdonatie als «budgetoptie» ten opzichte van begraven of cremeren;</al>
+            <al>overwegende dat zulke «body brokers» met de internationale handel in lichaamsdelen hoge winsten kunnen behalen;</al>
+            <al>overwegende dat bij de keuze voor lichaamsdonatie financiële overwegingen nooit een rol mogen spelen, omdat donatie te allen tijde een altruïstische daad moet zijn;</al>
+            <al>overwegende dat lichaamsdonatie ook mogelijk is via anatomische instituten van Nederlandse universiteiten;</al>
+            <al>overwegende dat duidelijke wettelijke kaders rondom commerciële lichaamsdonatie en advertentie-uitingen ontbreken;</al>
+            <al>verzoekt de regering om expliciet in de Wet zeggenschap lichaamsmateriaal vast te leggen dat de commerciële handel in gedoneerde lichaamsdelen verboden is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

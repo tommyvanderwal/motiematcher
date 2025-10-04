@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32847-1357"/>
+      <meta name="OVERHEIDop.ondernummer" content="1357"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32847"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Grinwis c.s. over de realisatiestimulans zo invullen dat middelen beschikbaar blijven voor de huisvesting van aandachtsgroepen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.E. de Hoop"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Integrale visie op de woningmarkt"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-25"/>
+      <meta name="DC.title" scheme="" content="Integrale visie op de woningmarkt; Motie; Motie van het lid Grinwis c.s. over de realisatiestimulans zo invullen dat middelen beschikbaar blijven voor de huisvesting van aandachtsgroepen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 847</dossiernr>
+         </dossiernummer>
+         <titel>Integrale visie op de woningmarkt</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1357</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-25">25 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het Nationaal Actieplan Dakloosheid «Eerst een Thuis» inzet op het terugdringen van dakloosheid tot nul in 2030, waarbij «wonen eerst» uitgangspunt is;</al>
+                  <al>overwegende dat gemeenten met de Regeling huisvesting aandachtsgroepen (RHA) in de periode tussen 2021 en 2025 in staat zijn gesteld om versneld huisvesting te realiseren voor aandachtsgroepen, waaronder studenten en dakloze mensen;</al>
+                  <al>overwegende dat de regering voornemens is de RHA op te laten gaan in de realisatiestimulans, maar dat daarin niet is vastgelegd hoeveel budget geoormerkt is voor huisvesting van aandachtsgroepen, waaronder dakloze mensen;</al>
+                  <al>verzoekt de regering in de begroting 2026 de realisatiestimulans zo in te vullen dat in lijn met de afgelopen jaren middelen beschikbaar blijven voor de huisvesting van aandachtsgroepen, waaronder dakloze mensen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Vijlbrief</al>
+                     <al>De Hoop</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

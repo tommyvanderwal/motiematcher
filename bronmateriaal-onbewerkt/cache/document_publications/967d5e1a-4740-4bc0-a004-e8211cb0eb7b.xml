@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BONTENBAL EN BIKKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-19">19 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet de financiering van de maatschappelijke diensttijd wil schrappen;</al>
+            <al>overwegende dat de mdt jongeren de kans biedt om hun talenten te ontwikkelen en daarmee een bijdrage te leveren aan de samenleving en zij daarmee de vrijwilligers van de toekomst zijn;</al>
+            <al>constaterende dat de mdt een effectief instrument is in het oplossen van vraagstukken als jeugdwerkloosheid, schulden, schooluitval en eenzaamheid;</al>
+            <al>verzoekt de regering de betrokken ministeries OCW, VWS en Defensie gezamenlijk de mdt incidenteel te laten financieren, bijvoorbeeld uit de onderuitputting,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bontenbal</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

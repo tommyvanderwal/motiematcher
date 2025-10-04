@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-B-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>B</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het gemeentefonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jaarlijks aanzienlijke financiële middelen beschikbaar worden gesteld voor natuurbehoud, natuurontwikkeling en natuurbeheer via provincies;</al>
+            <al>constaterende dat provinciale staten momenteel beperkte directe inspraak hebben in de besluitvorming over de toewijzing en besteding van deze natuurgelden;</al>
+            <al>overwegende dat een versterkte inspraak van provinciale staten bij de besteding van publieke middelen voor natuur bijdraagt aan transparantie en democratische controle;</al>
+            <al>overwegende dat een grotere betrokkenheid van provinciale staten bij de besteding van natuurgelden kan leiden tot een beter regionaal draagvlak en een effectievere aansluiting bij andere provinciale beleidsdoelen, zoals landbouw, recreatie en klimaatadaptatie;</al>
+            <al>verzoekt de regering in overleg te treden met de provinciale staten van alle provincies om te inventariseren of zij van mening zijn dat zij voldoende zeggenschap hebben over de besteding van natuurgelden, en waar nodig te onderzoeken of en hoe hun invloed kan worden versterkt, en hierover de Kamer voor het voorjaarsreces te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

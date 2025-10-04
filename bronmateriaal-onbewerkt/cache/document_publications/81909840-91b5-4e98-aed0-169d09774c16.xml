@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1319/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1319</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-13">13 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat cloudaanbieders uit de Verenigde Staten een dominante positie hebben in de Europese markt en dat Amerikaanse wetgeving, zoals de CLOUD Act, de Amerikaanse overheid toegang kan geven tot data van Europese burgers, bedrijven en overheden;</al>
+            <al>overwegende dat de geopolitieke situatie steeds onvoorspelbaarder wordt en dat de Amerikaanse president, via decreten en wetgeving, maatregelen kan nemen die de toegang tot of veiligheid van Europese data in Amerikaanse cloudomgevingen bedreigen;</al>
+            <al>overwegende dat strategische digitale autonomie van Europa essentieel is voor economische, technologische en nationale veiligheid;</al>
+            <al>verzoekt de regering in EU-verband te pleiten voor versnelde investeringen in Europese cloudalternatieven en digitale infrastructuur, en hierbij de Europese begrotingsmiddelen en investeringsfondsen maximaal te benutten;</al>
+            <al>verzoekt de regering in kaart te brengen welke aanvullende nationale middelen beschikbaar kunnen worden gesteld voor het stimuleren van Europese cloudoplossingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koekkoek</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36547-35"/>
+      <meta name="OVERHEIDop.ondernummer" content="35"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-06"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36547"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Ceder c.s. over de nota van wijziging op de Wrs voor het zomerreces naar de Kamer sturen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Bikker"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-05"/>
+      <meta name="DC.title" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel); Motie; Motie van het lid Ceder c.s. over de nota van wijziging op de Wrs voor het zomerreces naar de Kamer sturen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 547</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">35</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-05">5 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Wet regulering sekswerk (Wrs) al sinds 2021 in de Kamer ligt;</al>
+                  <al>constaterende dat de regering momenteel werkt aan een nota van wijziging op dit wetsvoorstel;</al>
+                  <al>van mening dat het van groot belang is dat de Wrs zo spoedig mogelijk behandeld wordt door de Kamer om de reeds lang geleden aangekondigde regulering in te voeren en misstanden tegen te gaan;</al>
+                  <al>verzoekt de regering de aangekondigde nota van wijziging op de Wrs zo snel mogelijk, maar in elk geval voor het zomerreces, naar de Kamer te verzenden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Ceder</al>
+                     <al>Bikker</al>
+                     <al>Krul</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

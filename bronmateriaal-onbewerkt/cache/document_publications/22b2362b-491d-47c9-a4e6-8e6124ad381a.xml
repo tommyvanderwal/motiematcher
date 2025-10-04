@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28362-81/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 362</dossiernr>
+      </dossiernummer>
+      <titel>Reikwijdte van artikel 68 Grondwet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">81</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN WAVEREN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 80</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de huidige tekst van aanwijzing 6 in de Aanwijzingen inzake externe contacten van rijksambtenaren belemmerend kan werken bij het informeren van de Kamer;</al>
+            <al>overwegende dat de werkgroep «Grip op informatie» aanbeveelt dat hier meer ruimte in komt, maar het Kabinet de regeling niet wil aanpassen;</al>
+            <al>verzoekt de regering Aanwijzing 6 zodanig te wijzigen dat contact opnemen met Kamerleden over de uitvoering van moties, toezeggingen of de beantwoording van schriftelijke vragen gestimuleerd wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Waveren</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

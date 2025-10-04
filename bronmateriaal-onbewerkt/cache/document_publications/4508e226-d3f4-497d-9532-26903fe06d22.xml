@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-B-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>B</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het gemeentefonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ROODERKERK EN SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemeenten een grote financiële verantwoordelijkheid dragen voor veel beleidsterreinen en maar beperkte mogelijkheden hebben om hun eigen inkomsten te beïnvloeden;</al>
+            <al>constaterende dat er al veel rapporten liggen over het beperkte lokale belastinggebied van gemeenten en hoe dat op verantwoorde wijze uitgebreid zou kunnen worden;</al>
+            <al>verzoekt de regering om tot concrete voorstellen voor de uitbreiding van het lokaal belastinggebied te komen, met als doel om deze te kunnen betrekken bij de aankomende voorjaarsbesluitvorming,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rooderkerk</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

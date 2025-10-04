@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36547-39"/>
+      <meta name="OVERHEIDop.ondernummer" content="39"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-06"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36547"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Nispen en Boomsma over een regeling ter bescherming van achtergelaten en uitgehuwelijkte vrouwen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-05"/>
+      <meta name="DC.title" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel); Motie; Motie van de leden Van Nispen en Boomsma over een regeling ter bescherming van achtergelaten en uitgehuwelijkte vrouwen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 547</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafrecht BES en andere wetten in verband met de modernisering van de strafbaarstelling van mensenhandel en de introductie van de zelfstandige strafbaarstelling van ernstige benadeling en van voordeeltrekking (Wet modernisering en uitbreiding strafbaarstelling mensenhandel)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">39</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN NISPEN EN BOOMSMA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-05">5 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat er sprake is van vrouwen die uitgehuwelijkt of achtergelaten zijn in het buitenland en daar onvrijwillig verbleven, vaak onder gruwelijke omstandigheden;</al>
+                  <al>constaterende dat er sprake is van vrouwen die de Nederlandse nationaliteit hadden maar deze zijn kwijtgeraakt, maar ook van vrouwen, dochters van bijvoorbeeld gastarbeiders, die langdurig in Nederland verbleven maar nooit de Nederlandse nationaliteit hebben gehad, die door uithuwelijking dan wel achterlating eveneens onder gruwelijke omstandigheden zijn vastgehouden en onvrijwillig in het buitenland waren;</al>
+                  <al>overwegende dat deze vrouwen, als ze inmiddels gescheiden of weggelopen zijn of dat willen gaan doen, niet op bescherming van Nederland kunnen rekenen, terwijl er een blijvende zorgplicht op Nederland rust omdat zij in hun jeugd uit het zicht zijn geraakt en er internationale verdragen zijn die gedwongen huwelijken en seksueel geweld bestrijden;</al>
+                  <al>constaterende dat Femmes for Freedom al geruime tijd pleit voor een «dochterregeling» en deze ook heeft uitgewerkt;</al>
+                  <al>verzoekt de regering in overleg met deskundigen tot een dergelijk voorstel ter bescherming van achtergelaten en uitgehuwelijkte vrouwen te komen, en de Kamer daarover te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Nispen</al>
+                     <al>Boomsma</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

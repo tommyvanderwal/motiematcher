@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2025/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2025</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN VELDKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de huidige situatie in Oekraïne een dringende behoefte aan versterking van zijn defensieve capaciteiten vereist;</al>
+            <al>overwegende dat de Duitse Tauruskruisraketten met hun precisie en langeafstandscapaciteit een significante versterking van de Oekraïense defensie zouden kunnen betekenen;</al>
+            <al>verzoekt de regering te streven naar een bemiddelende rol bij het leveren van Taurusraketten en andere langeafstandsraketten aan Oekraïne,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Veldkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

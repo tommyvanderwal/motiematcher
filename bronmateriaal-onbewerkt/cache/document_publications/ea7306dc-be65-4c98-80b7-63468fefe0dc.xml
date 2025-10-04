@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXIII-42/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">42</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TEUNISSEN EN BECKERMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat aanvullend en rechtvaardig beleid nodig is om de klimaatdoelen te halen;</al>
+            <al>overwegende dat uit onderzoek van Oxfam Novib blijkt dat de rijkste 1% van de Nederlandse bevolking ongeveer negen keer meer CO<inf>2</inf> uitstoot dan de armste 50%;</al>
+            <al>overwegende dat SUV's disproportioneel bijdragen aan CO2-uitstoot en luchtvervuiling;</al>
+            <al-groep>
+              <al>overwegende dat SUV's de op een na grootste oorzaak van de wereldwijde stijging van C02-emissies in het afgelopen decennium zijn en in Nederland het aantal voertuigen in de hoogste gewichtsklasse de afgelopen vijf jaar met 97% is gestegen;</al>
+              <al>overwegende dat belasten van sterk vervuilende vervoersmiddelen jaarlijks 3,7 tot 4,4 miljard euro kan opleveren;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering voor het einde van het jaar:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>maatregelen te onderzoeken om de CO2-uitstoot van de hoogste inkomensgroepen substantieel te verminderen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te onderzoeken hoe een specifieke belasting op SUV's en andere bovenmatig vervuilende personenvoertuigen kan worden ingevoerd, naar voorbeeld van andere Europese landen, en de uitkomsten naar de Kamer te sturen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de mogelijkheid te onderzoeken om de opbrengsten van deze maatregelen te oormerken voor klimaatdoeleinden,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

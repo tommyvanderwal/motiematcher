@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36594-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 594</dossiernr>
+      </dossiernummer>
+      <titel>Burgerinitiatief «Nicotinee'</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PAULUSMA EN TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-12">12 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het gebruik van e-sigaretten onder jongeren toeneemt en gezondheidsrisico's met zich meebrengt;</al>
+            <al>overwegende dat alleen het topje van de ijsberg van gezondheidsschade door vapen onder jongeren zichtbaar is, omdat zorgverleners enkel melding maken van de zeer ernstige gevallen;</al>
+            <al>overwegende dat het gebrek aan overzicht van gezondheidsproblemen door vapen onder jongeren gerichte inzet op preventie verhindert;</al>
+            <al>verzoekt de regering om met zorgverleners, waaronder kinderartsen en huisartsen, in gesprek te gaan, opdat brede vape-gerelateerde schade bij het te professionaliseren bestaande meldpunt laagdrempelig gemeld kan worden, waaronder de impact op mentale gezondheid;</al>
+            <al>verzoekt de regering de verzamelde gegevens mee te laten nemen in de monitoring en onderzoeken die onder andere het RIVM doet, opdat dit gebruikt kan worden bij beleidsvorming rondom het gebruik van e-sigaretten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

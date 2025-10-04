@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-536/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">536</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat ons stroomnet vol zit en het dus cruciaal is om de uitbouw hiervan te versnellen;</al>
+            <al>overwegende dat het doorlopen van het vergunningsproces voor de uitbreiding van het stroomnet nog steeds jaren duurt;</al>
+            <al>overwegende dat het dan ook noodzakelijk is om inzicht te krijgen of dit per regio goed verloopt of dat er zich knelpunten voordoen;</al>
+            <al>verzoekt de regering om alle juridisch houdbare versnellingsmogelijkheden in te zetten voor het versnellen van het vergunningsproces op het stroomnet;</al>
+            <al>verzoekt de regering om per regio te monitoren of alle mogelijke versnellingsopties worden toegepast, en om netbeheerders en lokale overheden aan te sporen versnellingsopties toe te passen als blijkt dat dit onvoldoende gebeurt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Erkens,</al>
+              <al>Grinwis</al>
+              <al>Kröger</al>
+              <al>Postma</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

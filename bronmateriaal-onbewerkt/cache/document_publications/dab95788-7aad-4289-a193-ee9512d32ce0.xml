@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29665-545"/>
+      <meta name="OVERHEIDop.ondernummer" content="545"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29665"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kostic c.s. over in de MER voor de integrale herziening van het LVB de bandbreedte aanpassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.E. de Hoop"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Evaluatie Schipholbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Evaluatie Schipholbeleid; Motie; Motie van het lid Kostic c.s. over in de MER voor de integrale herziening van het LVB de bandbreedte aanpassen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Luchtvaart"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 665</dossiernr>
+         </dossiernummer>
+         <titel>Evaluatie Schipholbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">545</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOSTIĆ C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het kabinet een milieueffectrapportage (MER) gaat uitvoeren voor de integrale herziening van het nieuwe luchthavenbesluit (LVB) om te toetsen of aan gelijkwaardigheidscriteria wordt voldaan;</al>
+                  <al>constaterende dat het kabinet momenteel enkel de effecten van 460.000 tot 500.000 vluchten in de MER wil gaan onderzoeken;</al>
+                  <al>constaterende dat uit onderzoeken blijkt dat om de geluidshinder voldoende te verminderen, een bandbreedte van maximaal 400.000 tot 460.000 vluchten nodig is;</al>
+                  <al>constaterende dat uit onderzoeken blijkt dat met die bandbreedte Schiphol ook nog zijn gewenste netwerk kan faciliteren;</al>
+                  <al>verzoekt de regering om in de MER voor de integrale herziening van het LVB de bandbreedte aan te passen van 460.000 tot 500.000 vluchten naar 400.000 tot 500.000 vluchten, zodat ook scenario's met vluchtaantallen opgenomen zijn waarvan eerdere onderzoeken hebben aangetoond dat aan gelijkwaardigheidscriteria voldaan wordt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kostić</al>
+                     <al>Bamenga</al>
+                     <al>De Hoop</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

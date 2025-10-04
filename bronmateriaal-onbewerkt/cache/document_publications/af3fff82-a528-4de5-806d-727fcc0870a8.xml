@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-352/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">352</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOOPS</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-04-14">14 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat slechts één leugen al het vertrouwen van duizenden kan ondermijnen, in elkaar en de instituties van de democratische rechtsstaat;</al>
+            <al>overwegende dat desinformatie daarmee grote, zelfs ontwrichtende gevolgen kan hebben voor onze samenleving;</al>
+            <al>verzoekt de regering middels een officiële vitaalverklaring onafhankelijke en betrouwbare informatievoorziening aan te merken als een vitaal onderdeel van de nationale infrastructuur,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koops</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

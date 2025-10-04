@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-440/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">440</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat overheidsinstanties in toenemende mate gebruikmaken van risicoprofilering, wat een aanzienlijk risico op discriminatie met zich meebrengt;</al>
+            <al>constaterende dat etnisch profileren nog steeds voorkomt, zoals onder meer blijkt uit gevallen bij de Koninklijke Marechaussee en DUO, en dat dit diepingrijpende gevolgen heeft voor de betrokkenen;</al>
+            <al>overwegende dat het College voor de Rechten van de Mens heeft vastgesteld dat instanties die risicoprofilering toepassen structureel meer moeten doen om discriminatie op basis van ras en nationaliteit te voorkomen;</al>
+            <al>overwegende dat het college hiertoe een nieuw toetsingskader voor risicoprofilering heeft gepubliceerd;</al>
+            <al>verzoekt de regering het toetsingskader voor risicoprofilering van het College voor de Rechten van de Mens integraal te implementeren bij alle overheidsinstanties die risicoprofilering toepassen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Van Nispen</al>
+              <al>Ceder</al>
+              <al>Van Baarle</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

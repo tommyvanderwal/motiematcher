@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1142/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1142</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet een brandbrief ontvangen heeft over de verkoop van sociale huurwoningen door woningcorporaties die in Nederland jaarlijks duizenden sociale huurwoningen verkopen;</al>
+            <al>constaterende dat ook commerciële verhuurders al jaren tiendduizenden sociale huurwoningen per jaar liberaliseren en verkopen en daarmee doorgaan;</al>
+            <al>overwegende dat het kabinet de wachtlijst voor een sociale huurwoning wil verkleinen;</al>
+            <al>verzoekt de regering pas op de plaats te laten maken bij de verkoop van sociale huurwoningen door woningcorporaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1033/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1033</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit artikel 12 van het VN-Kinderrechtenverdrag voortkomt dat alle jongeren het recht hebben hun mening te geven over zaken die hen aangaan;</al>
+            <al>constaterende dat er wel een landelijke financiële regeling is bij OCW voor jongeren die in het bestuur zitten van een politieke jongerenorganisatie (PJO) en van organisaties die de belangen van studenten en leerlingen vertegenwoordigen;</al>
+            <al>constaterende dat daarentegen de belangen van jongeren in een kwetsbare positie niet structureel zijn verankerd in beleid, zoals ervaringsdeskundigen in de (jeugd)zorg, chronisch zieke jongeren of zwerfjongeren;</al>
+            <al>verzoekt de regering dit soort organisaties net als politieke jongerenorganisaties en studenten- en scholierenorganisaties te faciliteren en structureel financieel te ondersteunen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

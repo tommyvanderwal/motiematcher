@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-114/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">114</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een tekort is aan studentenwoningen;</al>
+            <al>constaterende dat veel studenten voorkeur hebben voor een studentenwoning in de onzelfstandige woonvorm boven de zelfstandige woonvorm;</al>
+            <al>constaterende dat studentenstudio's financieel de voorkeur krijgen, omdat voor de zelfstandige woonvorm een huurtoeslag uitgekeerd kan worden;</al>
+            <al>constaterende dat huurtoeslag uitkeren aan studenten wonende in een onzelfstandige woning nu niet mogelijk is doordat op basis van bestaande registraties de huishoudens en hun inkomens niet van elkaar te onderscheiden zijn, waardoor het individuele recht op huurtoeslag niet te bepalen is;</al>
+            <al>constaterende dat de ontwikkeling van een systeem bezien wordt waarmee verschillende huishoudens woonachtig in een onzelfstandige woonruimte adequaat geregistreerd kunnen worden;</al>
+            <al>verzoekt de regering om, zodra de ontwikkeling van het bovengenoemde systeem bezien is, te onderzoeken of er budget is om de doelgroep in plaats van het woningtype te voorzien van een toeslag,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Vroonhoven</al>
+              <al>Welzijn</al>
+              <al>Vijlbrief</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

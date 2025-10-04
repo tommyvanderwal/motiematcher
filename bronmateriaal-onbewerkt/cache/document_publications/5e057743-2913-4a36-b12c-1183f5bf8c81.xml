@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31409-471/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 409</dossiernr>
+      </dossiernummer>
+      <titel>Zee- en binnenvaart</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">471</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de ontsluiting en bereikbaarheid van Ameland essentieel zijn, waarbij niet alleen de veerdienst maar ook de watertaxidiensten een cruciale rol vervullen;</al>
+            <al>constaterende dat de enige watertaxidienstverlening op Ameland haar activiteiten heeft moeten staken vanwege verdergaande beperkingen door wet- en regelgeving en hiermee de Amelanders zijn opgesloten in de nacht en er geen alternatieven zijn om het eiland te bereiken;</al>
+            <al>constaterende dat het rapport van de Onderzoeksraad voor Veiligheid naar de watertaxidiensten naar Ameland nog niet beschikbaar is en Amelanders hierdoor geconfronteerd worden met een onaanvaardbare beperking van hun mobiliteit;</al>
+            <al>constaterende dat de uitzonderingen op de beperkingen van de mobiliteit verder horen te gaan dan louter noodsituaties, en bijvoorbeeld ook kunnen gaan om gevallen van sociale spoed van eilanders en bezoekers, het overvaren van personeel van aannemers, het oplossen van storingen op het eiland of andere situaties die om een vlotte overtocht vragen;</al>
+            <al>constaterende dat de Kamer al meerdere moties heeft ingediend om tot oplossingen te komen die echter nog niet zijn bereikt;</al>
+            <al-groep>
+              <al>verzoekt de regering om op korte termijn met de watertaxidienstverlener op Ameland om tafel te gaan om praktische oplossingen te zoeken, bijvoorbeeld in de vorm van een uitzondering voor professionele binnenvaart- en zeeschepen die functioneren als watertaxi of al voldoen aan de (inter)nationale veiligheidseisen voor zeewaardigheid, of die al beschikken over een (inter)nationaal gecertificeerde bemanning en waarvan de exploitant bereid is om redelijke, praktische afspraken te maken over visuele zichtbaarheid op het water en over de communicatie tussen de watertaxi en de veerboot wanneer zij elkaar naderen;</al>
+              <al>verzoekt de regering om binnen zes weken een concrete oplossing te presenteren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Soepboer</al>
+              <al>Veltman</al>
+              <al>Heutink</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

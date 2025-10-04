@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29247-445/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 247</dossiernr>
+      </dossiernummer>
+      <titel>Acute zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">445</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BUSHOFF EN TIMMERMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij het lokaal bestuur in de mijnstreek nog steeds grote bezorgdheid is over betrokkenheid bij besluitvorming over de zorg in hun regio;</al>
+            <al>constaterende dat na het sluiten van de mijnen er grote sociaaleconomische achterstanden zijn ontstaan en de overheid onder andere met het Nationaal Programma Heerlen-Noord de ereschuld aan de mijnstreek probeert in te lossen;</al>
+            <al>overwegende dat het verdwijnen van een volwaardig ziekenhuis in Heerlen hier haaks op staat;</al>
+            <al>overwegende dat politiek leiders en een meerderheid in de Kamer zich op verschillende momenten hebben uitgesproken over het belang van volwaardige ziekenhuizen in Heerlen en Sittard-Geleen;</al>
+            <al>spreekt uit dat een nieuw kabinet verantwoordelijkheid blijft dragen voor het inlossen van de ereschuld aan de mijnstreek en daarom ook voor het behouden van volwaardige ziekenhuizen in Heerlen en Sittard-Geleen;</al>
+            <al>verzoekt de regering er zorg voor te dragen dat er geen onomkeerbare besluiten worden genomen inzake het afschalen van het Zuyderland ziekenhuis en eerst met het advies van de regietafel Zuyderland én de inbreng van het lokaal bestuur aan de Kamer te rapporteren wat nodig is voor het duurzaam behoud van een volwaardig ziekenhuis in de mijnstreek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Timmermans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

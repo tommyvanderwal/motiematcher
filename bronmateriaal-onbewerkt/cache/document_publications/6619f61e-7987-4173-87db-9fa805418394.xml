@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-348/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">348</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>verzoekt de regering in de volgende doelsturingsbrief, rond de zomer, duidelijkheid te geven over:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de hoogte van de doelen, zowel over de landelijke emissiedoelen als over de bedrijfsspecifieke normen (ter uitvoering van motie <extref doc="kst-33576-406" soort="document" status="actief">33 576, nr. 406</extref> en rekening houdend met motie <extref doc="kst-33576-305" soort="document" status="actief">33 576, nr. 305</extref>);</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de begrenzing en verwachte normen of maatregelen in de aangekondigde zonering rondom Natura 2000-gebieden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de verhouding tussen het voorgenomen landelijke doelsturingsbeleid gekoppeld aan fosfaat- en dierrechten en provinciale initiatieven voor areaalgebaseerde normen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de borging van doelsturing voor boer en overheid inclusief inzicht in de handhaafbaarheid;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de samenhang tussen bedrijfsnormen voor ammoniak en een norm voor het stikstofbedrijfsoverschot met het oog op de waterkwaliteit;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in welke mate en op welke wijze doelsturing gestalte krijgt in het achtste actieprogramma Nitraatrichtlijn;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het tijdpad van en de middelen voor het doelsturingsbeleid voor alle sectoren,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+              <al>Bromet</al>
+              <al>Vedder</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2067/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2067</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-16">16 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat multilayered luchtafweercapaciteiten recentelijk in Israël zeer effectief zijn gebleken;</al>
+            <al>constaterende dat Nederland en Europa tekortschieten, met name op het gebied van de verdediging tegen drones, kruisvluchtwapens en ballistische raketten;</al>
+            <al>constaterende dat multilayered luchtafweer een noodzakelijke capaciteit vormt voor Oekraïne om zijn steden en burgers te beschermen;</al>
+            <al>constaterende dat de Hoge Vertegenwoordiger Borrell lidstaten oproept luchtverdediging en munitie te leveren;</al>
+            <al>constaterende dat het European Sky Shield Initiative een kans biedt voor non-EU- en non-NAVO-landen;</al>
+            <al>overwegende dat Frankrijk, Polen en Italië zich tot op heden niet hebben aangesloten bij het European Sky Shield Initiative (ESSI);</al>
+            <al>verzoekt de regering het initiatief te nemen, bijvoorbeeld via European Sky Shield Initiative of NSPA, de NAVO-inkoopafdeling, om de Europese luchtverdediging te versterken;</al>
+            <al>verzoekt de regering via de Capability Coalition Integrated Air and Missile Defence Oekraïne te betrekken bij lopende Europese initiatieven als ESSI om de luchtverdediging zo spoedig mogelijk op peil te brengen,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+              <al>Van Campen</al>
+              <al>Kahraman</al>
+              <al>Ceder</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

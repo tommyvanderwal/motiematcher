@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30175-457/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 175</dossiernr>
+      </dossiernummer>
+      <titel>Luchtkwaliteit</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">457</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-23">23 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris werkt aan blauwdrukken waarmee gemeenten houtstookvrije zones kunnen instellen;</al>
+            <al>overwegende dat in deze zones ook woningen kunnen staan van mensen die afhankelijk zijn van een houtkachel of open haard om hun huis te verwarmen;</al>
+            <al>overwegende dat de demissionaire status van het kabinet om terughoudendheid vraagt met nieuw beleid;</al>
+            <al>overwegende dat het ieder vrijstaat om te stoken, mits verantwoord;</al>
+            <al>verzoekt de regering nadere uitwerking van beleid, zoals blauwdrukken, aan het nieuwe kabinet te laten en zich tot er een nieuw kabinet aantreedt te richten op het uitvoeren van het bestaande beleid en de ingezette voorlichtingsmaatregelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Veltman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

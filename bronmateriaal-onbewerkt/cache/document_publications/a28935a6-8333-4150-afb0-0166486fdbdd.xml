@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-876/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">876</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering maatregelen heeft gepresenteerd om strategische onafhankelijkheid op het gebied van genees- en hulpmiddelen vorm te geven en geneesmiddelentekorten tegen te gaan;</al>
+            <al>van mening dat een «Nationale apothekerskast» in de vorm van een alomvattende, samenhangende strategie koersvastheid biedt voor de toekomst en duidelijkheid voor patiënt en zorgveld;</al>
+            <al>verzoekt de regering om binnen de bestaande plannen tot een breedgedragen samenhangende strategie te komen met aandacht voor:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>de risico's van, en op toekomstige medicijntekorten;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>de strategische onafhankelijkheid en het vestigingsklimaat van Nederland en Europa;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>het potentieel van stand-byproductiecapaciteit op het gebied van genees- en hulpmiddelen in Nederland, en een voorstel te doen voor een informatieplicht bij tekorten;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>een evenwichtiger preferentiebeleid met onder meer de mogelijkheid om een tweede preferente aanbieder aan te wijzen in geval van tekorten,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tielen</al>
+              <al>Paulusma</al>
+              <al>Bushoff</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-107/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">107</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in het Belastingplan enkele posten onder het verlaagde btw-tarief zijn geselecteerd voor afschaffing;</al>
+            <al>overwegende dat deze door de Raad van State als «willekeurig» zijn aangemerkt en die daarbovenop adviseert om btw-maatregelen in een zelfstandig wetsvoorstel aan het parlement voor te leggen;</al>
+            <al>overwegende dat deze maatregel geen vereenvoudiging of verbetering van het stelsel inhoudt, terwijl dit de wens van het Kamer is;</al>
+            <al>overwegende dat de impact van deze maatregel niet is gemeten en er ook geen compenserende maatregelen worden genomen, terwijl dat mogelijk wel nodig is om grote negatieve effecten te voorkomen;</al>
+            <al>verzoekt de regering om voor de Voorjaarsnota in overleg met de Kamer een alternatieve invulling voor de afschaffing van verlaagde btw-tarieven te presenteren;</al>
+            <al>verzoekt de regering daarbij gebruik te maken van het handboek Omzetbelasting, willekeurige aanpassingen te voorkomen en te streven naar vereenvoudiging,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Vijlbrief</al>
+              <al>Grinwis</al>
+              <al>Stoffer</al>
+              <al>Maatoug</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

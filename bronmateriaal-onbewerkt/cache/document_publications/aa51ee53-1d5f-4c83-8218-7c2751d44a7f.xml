@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-314/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">314</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Nederlandse Publieke Omroep wordt hervormd zodat journalistiek, inclusief het veelzijdig aanbod, kwalitatief hoogwaardig vormgegeven en gewaarborgd wordt;</al>
+            <al>overwegende dat in een rechtsstaat betrouwbare informatievoorziening van wezenlijk belang is;</al>
+            <al>verzoekt de regering om bij de hervorming van de Nederlandse Publieke Omroep te bewerkstelligen dat het verspreiden van racistische complottheorieën en alle andere vormen van haat en geweld direct leidt tot intrekking van omroeplicentie(s),</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

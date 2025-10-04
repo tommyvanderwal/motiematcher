@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1381/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1381</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TEUNISSEN EN POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een significant deel van de houtige biomassa in Nederland wordt geïmporteerd uit het buitenland;</al>
+            <al>overwegende dat uit de klimaatraadpleging blijkt dat het overgrote deel van de Nederlandse bevolking tegen het importeren van biomassa uit het buitenland is;</al>
+            <al>overwegende dat de import van houtige biomassa leidt tot grootschalige natuurvernietiging en dat het transport over duizenden kilometers onnodig veel energie kost;</al>
+            <al>verzoekt de regering de import van houtige biomassa uit het buitenland sterk te ontmoedigen;</al>
+            <al>verzoekt de regering tevens geen nieuwe subsidies te verstrekken voor houtige biomassa afkomstig uit het buitenland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Postma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

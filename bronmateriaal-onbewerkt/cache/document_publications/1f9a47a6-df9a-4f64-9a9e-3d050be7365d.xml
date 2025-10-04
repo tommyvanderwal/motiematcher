@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29389-142/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 389</dossiernr>
+      </dossiernummer>
+      <titel>Vergrijzing en het integrale ouderenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">142</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JOSEPH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat door het scheiden van wonen en zorg de huurders van zorgwoningen zorg-, huur- en servicekosten apart moeten betalen;</al>
+            <al>overwegende dat de huur van zorgwoningen door de 35% opslag in het woningwaarderingsstelsel vaak hoger uitvalt dan de sociale huurgrens, terwijl de huurtoeslag geldt tot de liberalisatiegrens;</al>
+            <al>overwegende dat de combinatie van wonen en zorg betaalbaar en toegankelijk moet zijn voor iedereen;</al>
+            <al>verzoekt de regering te onderzoeken hoe voorkomen kan worden dat de combinatie van zorg-, huur- en servicekosten van (on)zelfstandige zorgwoningen te hoog wordt voor mensen uit de lage- en middeninkomensgroepen, en de Kamer hier in februari 2025 over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Joseph</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

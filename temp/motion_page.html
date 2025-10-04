@@ -1,0 +1,2407 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--kamerstukken--moties--detail.html.twig
+   ▪️ html--kamerstukken--moties.html.twig
+   ▪️ html--kamerstukken.html.twig
+   ✅ html.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/layout/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.tweedekamer.nl/kamerstukken/moties/detail" />
+<meta name="dcterms.title" content="Passend onderwijs" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.tweedekamer.nl/kamerstukken/moties/detail" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Passend onderwijs | Tweede Kamer der Staten-Generaal</title>
+
+    <link rel="icon" href="/themes/contrib/tk_theme/assets/favicon/favicon.ico">
+    <link rel="icon" href="/themes/contrib/tk_theme/assets/favicon/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/themes/contrib/tk_theme/assets/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-startup-image" href="/themes/contrib/tk_theme/assets/favicon/ios-startup.png" media="orientation: portrait">
+    <link rel="manifest" href="/themes/contrib/tk_theme/assets/favicon/site.webmanifest">
+    <meta name="theme-color" content="#121469">
+
+    <link rel="preload" href="/themes/contrib/tk_theme/assets/fonts/corpid-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/themes/contrib/tk_theme/assets/fonts/corpid-regular-italic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/themes/contrib/tk_theme/assets/fonts/corpid-bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="/themes/contrib/tk_theme/assets/fonts/corpid-bold-italic.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_B4PHmWNKz4DRvPIjkJllgMfH4CdgmCBmNsuSO5lW7d0.css?delta=0&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_6yPY1xUdbcIFQB1iYVPxA_yThI4eZxDRzE5EqIho0a4.css?delta=1&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_3MWDSEdOVsvYNucXz6DgLhZSGgBmrV5nYiYAIHbYcqI.css?delta=2&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_3KVXupgHtAI_lxec3LYduKZzsJua2dxBp-_QC5WVz9g.css?delta=3&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_pz5hON3ItjgWWMvKktwm9Mc2ZH7-_IGjQ4Nm-LDdrpo.css?delta=4&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_MgYERoOLORncmuPZdCVkedKVgUlJtybT5pDEfCbAdI0.css?delta=5&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_x8KKkh5YFrqNqpDDnhGxQ0zN60fzTTqnU3XxtQnEsuU.css?delta=6&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_J3DmM4YIHQLhPoCQheT_Iq1V1whtl-LZ2IRkPinzDT0.css?delta=7&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css__u71VbmFcHGzKsiMerG-4tOq9wp2AWYgbxR2tk6DMlE.css?delta=8&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_dpdTjfIVJXc94lPuLKnaxQrWU6X8b-a6_0Shp3b48H0.css?delta=9&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_lSjmWQQ4Amh_kHUjODxjKZd6zfQCVPjKT2S9Nci1YBs.css?delta=10&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_dPc88JfdVe7j3_plAvjs7GcG1mUcEN3_f2uNz9mkSSg.css?delta=11&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_2M0b4em-sPgPFkCbyqebcrbtjmNNDo8KUjL7-DVG2Xo.css?delta=12&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_AvOHaXv7F71qCZgc3IWb3wLyeb6WBUDchdvUDxoqff0.css?delta=13&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_e6EolmwNZBLFwXktBVPla8OsiSIxnmPRs6vP8h6qZDI.css?delta=14&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_0u4z1B8QfsaZ9OBnO0DSZ83_hDJTt_K-aLxx0qTr8hM.css?delta=15&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_n2vEyQzHTMy0HjYCBxVaX7NB9s_UvW-B8jjSRvEJtcI.css?delta=16&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_uL8pQ00ycYl18e9xFYuWAgwa8uu0cNDRkIjrbOyUXlM.css?delta=17&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_SDgghzoYtFrwUopjXkPOzi-BfYRB3rXsvFFI3iJdtSE.css?delta=18&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qoSRI_Ht-cmr10sUacKz2wR87Z4EAMX8yyem-mUFBtM.css?delta=19&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_vTf-O2AQ0Rc7cHXSfqmMX54BCWGLYBbzjnMqpE9dPlc.css?delta=20&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_EhvFpLRh56w_eTRfOk4d8lDaMkfK33DHfKHlcEUcrZc.css?delta=21&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_HVgDU3ZF-TEtudz3qf96ZrpxX6XsypFnznuzZ8NtB2I.css?delta=22&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_pSgFgmvDyuTS_RQvsDwY_OR-ZMzHaVmL-0ROwpr0zr0.css?delta=23&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_w4qbDoIe2A2UOqVGmdX8Z65_yif_GeQ6x-vKJNoODLY.css?delta=24&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_LbuG0QT9o_Ff-FpHTtUxSVcCgx-gLLw-XVFJ-B8BNmE.css?delta=25&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_bUKqlk8PM8z_hfKIkS0ScyCe-3eeNzrHRjCOnJA7Jvw.css?delta=26&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_42CdK22AQcGhqre7hjE8MJ6iPcxjQcBOE6efKFY4tUc.css?delta=27&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_75HIEiMvKaSwcEs11ycp2tj_zAoLUo3LjutcjSD6OS8.css?delta=28&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_vheaiPe36XxntQcDgWsYYN8zYwFg4OOjM12MnXBVyeM.css?delta=29&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_jxVr2HOdFLSPU9LeeP1DaAtaSxO1bXQiRWWB0TMPvVk.css?delta=30&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Pbkps_OAQo3t2fRu04wtEkOeQUC9vxPiak4auffCBA0.css?delta=31&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_1lEC8VMoum6yj5mPWBnY2VCdcI7E77RGQ4CqCZ9TkKs.css?delta=32&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx9ktFuwyAMRX9opJ80OeGWoBiMbNPu89dqUtsHZ48-xxhdA36caz8uWecgXvBXfvnx7TsaLoVlJX7XTRjbZNhCN3LSyKwKypvOtkZ2I80hF2Yahshl8pirjCz3HrmraIt43STsZ-plUkH6byhX85BLkYg3yfH2DKTbntZ4g7aThoHtqCM9X8hCyzUjHOhSCp8pYa_jrUQL9WrNlh36SHUHMg5q0Ndv-EAfWdFnuor4857zjka1n_jb42xS2GT_BUWEAxI" />
+
+    
+  </head>
+
+  <body>
+    <script type="text/javascript">
+// <![CDATA[
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString()}document.cookie=a+"="+b+d+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://pwk.tweedekamer.nl/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', 'da22e994-0181-45d4-befe-4ac9716956b5');
+// ]]>
+</script><noscript><iframe src="https://pwk.tweedekamer.nl/da22e994-0181-45d4-befe-4ac9716956b5/noscript.html" title="Piwik PRO embed snippet" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+
+        
+  
+
+
+
+  
+
+  <nav aria-label="Skiplinks" class="m-skip-links">
+    <ul class="m-skip-links__list">
+              <li class="m-skip-links__item">
+          
+          
+
+
+
+
+
+<a class="m-skip-links__link m-button" href="#main">
+  
+      <span class="m-button__label">Direct naar inhoud</span>
+  </a>
+</li>
+              <li class="m-skip-links__item">
+          
+          
+
+
+
+
+
+<a class="m-skip-links__link m-button" href="#main-menu">
+  
+      <span class="m-button__label">Direct naar hoofdnavigatie</span>
+  </a>
+</li>
+              <li class="m-skip-links__item">
+          
+          
+
+
+
+
+
+<a class="m-skip-links__link m-button" href="#search">
+  
+      <span class="m-button__label">Direct naar het zoekveld</span>
+  </a>
+</li>
+              <li class="m-skip-links__item">
+          
+          
+
+
+
+
+
+<a class="m-skip-links__link m-button" href="#footer-menu">
+  
+      <span class="m-button__label">Direct naar het servicemenu</span>
+  </a>
+</li>
+          </ul>
+  </nav>
+
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/layout/off-canvas-page-wrapper.html.twig' -->
+  <div class="t-wrapper dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ page--tk-kamerstukken.html.twig
+   ▪️ page--kamerstukken--moties--detail.html.twig
+   ▪️ page--kamerstukken--moties.html.twig
+   ▪️ page--kamerstukken.html.twig
+   ▪️ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/page/page--tk-kamerstukken.html.twig' -->
+
+  <header class="o-header">
+    <div class="u-bg-primary u-hidden md:u-block">
+      <div class="t-container">
+        
+
+
+
+
+<div class="m-language-dropdown">
+  <span class="m-icon" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM18.92 8H15.97C15.65 6.75 15.19 5.55 14.59 4.44C16.43 5.07 17.96 6.35 18.92 8ZM12 4.04C12.83 5.24 13.48 6.57 13.91 8H10.09C10.52 6.57 11.17 5.24 12 4.04ZM4.26 14C4.1 13.36 4 12.69 4 12C4 11.31 4.1 10.64 4.26 10H7.64C7.56 10.66 7.5 11.32 7.5 12C7.5 12.68 7.56 13.34 7.64 14H4.26ZM5.08 16H8.03C8.35 17.25 8.81 18.45 9.41 19.56C7.57 18.93 6.04 17.66 5.08 16ZM8.03 8H5.08C6.04 6.34 7.57 5.07 9.41 4.44C8.81 5.55 8.35 6.75 8.03 8ZM12 19.96C11.17 18.76 10.52 17.43 10.09 16H13.91C13.48 17.43 12.83 18.76 12 19.96ZM14.34 14H9.66C9.57 13.34 9.5 12.68 9.5 12C9.5 11.32 9.57 10.65 9.66 10H14.34C14.43 10.65 14.5 11.32 14.5 12C14.5 12.68 14.43 13.34 14.34 14ZM14.59 19.56C15.19 18.45 15.65 17.25 15.97 16H18.92C17.96 17.65 16.43 18.93 14.59 19.56ZM16.36 14C16.44 13.34 16.5 12.68 16.5 12C16.5 11.32 16.44 10.66 16.36 10H19.74C19.9 10.64 20 11.31 20 12C20 12.69 19.9 13.36 19.74 14H16.36Z" fill="white"/></svg>
+</span>
+
+
+
+
+
+<div class="m-dropdown js-dropdown m-dropdown--is-primary"><button class="m-language-dropdown__handler u-outline-white m-dropdown__handler" aria-expanded="false">
+    <span class="m-dropdown__label"><span class="h-visually-hidden">Taal selectie</span>NL</span>
+
+
+
+
+<span class="m-dropdown__arrow m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+</button>
+
+  
+  <div class="m-dropdown__menu m-dropdown__menu--align-right m-dropdown__menu--rounded m-dropdown__menu--border">
+    
+          
+      <ul class="m-dropdown__list">
+                              
+            <li class="m-dropdown__item">
+                    <div class="m-dropdown__content m-language-dropdown__content">
+        <a href=https://www.houseofrepresentatives.nl class="h-link-inverse m-language-dropdown__content-link">
+          
+          Go to English site<span class="m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span></a>
+      </div>
+                </li>
+                  
+              </ul>
+      </div>
+</div>
+</div>
+      </div>
+    </div>
+
+    <div class="t-container t-layout t-layout--inset-small o-header__content">
+                  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--system-branding-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-branding-block.html.twig' -->
+
+  
+
+
+
+
+<a class="o-header__logo m-logo" href="/" aria-label="Tweede Kamer der Staten-Generaal, to homepage">
+  <img src="/themes/custom/tweedekamer/logo.svg" alt="Logo Tweede Kamer der Staten-Generaal" class="m-logo__image" width="254" height="72">
+</a>
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-branding-block.html.twig' -->
+
+
+
+      
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--tk-autonomy-search.html.twig
+   ▪️ block--search.html.twig
+   ▪️ block--tk-external-data-autonomy-search-form-block.html.twig
+   ▪️ block--tk-external-data-autonomy-search.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/block/block--tk-autonomy-search.html.twig' -->
+
+
+
+  
+
+
+
+
+<div class="o-header__search m-search-bar" id="search">
+  
+  <form novalidate data-drupal-selector="tk-external-data-autonomy-search-form" class="m-search-bar__form" action="/zoeken">
+    <label for="edit-qry" class="h-visually-hidden">Zoeken</label>
+
+    
+    <input data-drupal-selector="edit-qry" id="edit-qry" type="search" name="qry" placeholder="Zoeken" class="m-search-bar__input">
+
+    <button class="form-actions m-search-bar__button" aria-label="Zoekactie indienen">
+      
+
+
+
+
+<span class="m-search-bar__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" focusable="false"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg></span>
+    </button>
+
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/form/form.html.twig' -->
+
+  
+
+
+
+
+<form novalidate data-drupal-selector="tk-external-data-autonomy-search-form" action="/zoeken" method="get" id="tk-external-data-autonomy-search-form" accept-charset="UTF-8" class="m-form js-form">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/form/input.html.twig' -->
+
+  
+
+
+
+
+  <input autocomplete="off" data-drupal-selector="form-i3df3uixxgyuhsww6jfizcl6surj4wverv80gvcso9m" type="hidden" name="form_build_id" value="form-I3DF3uiXxGyUHsww6jfiZCL6suRj4WVErV80gvcSo9M" class="m-form-item__input">
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/form/input.html.twig' -->
+
+  
+
+
+
+
+  <input data-drupal-selector="edit-tk-external-data-autonomy-search-form" type="hidden" name="form_id" value="tk_external_data_autonomy_search_form" class="m-form-item__input">
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/form/input.html.twig' -->
+
+
+    </form>
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/form/form.html.twig' -->
+
+
+  </form>
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/block/block--tk-autonomy-search.html.twig' -->
+
+
+    </div>
+
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--menu-block--main.html.twig
+   ▪️ block--menu-block.html.twig
+   ▪️ block--system-menu-block.html.twig
+   ▪️ block.html.twig
+-->
+<!-- INVALID FILE NAME SUGGESTIONS:
+   See https://api.drupal.org/api/drupal/core!lib!Drupal!Core!Render!theme.api.php/function/hook_theme_suggestions_alter
+   block__main-menu
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/block/block--menu-block--main.html.twig' -->
+
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/navigation/menu--main.html.twig' -->
+
+
+  
+
+
+
+
+
+<nav class="o-header__main-menu m-menu-main js-menu-main" id="main-menu" aria-label="Hoofdnavigatie">
+
+  <div class="u-flex">
+        
+
+
+
+
+
+
+<button class="m-menu-main__toggler js-menu-main__toggler u-outline-white u-outline-offset-invert-tiny m-hamburger js-hamburger" aria-expanded="false">
+  <span class="m-hamburger__icon" aria-hidden="true">
+    <span class="m-hamburger__line">-</span>
+    <span class="m-hamburger__line">-</span>
+    <span class="m-hamburger__line">-</span>
+  </span>
+
+      <span class="m-hamburger__label">Menu</span>
+  </button>
+
+    
+
+
+
+
+<div class="md:u-hidden m-language-dropdown">
+  <span class="m-icon" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.99 2C6.47 2 2 6.48 2 12C2 17.52 6.47 22 11.99 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 11.99 2ZM18.92 8H15.97C15.65 6.75 15.19 5.55 14.59 4.44C16.43 5.07 17.96 6.35 18.92 8ZM12 4.04C12.83 5.24 13.48 6.57 13.91 8H10.09C10.52 6.57 11.17 5.24 12 4.04ZM4.26 14C4.1 13.36 4 12.69 4 12C4 11.31 4.1 10.64 4.26 10H7.64C7.56 10.66 7.5 11.32 7.5 12C7.5 12.68 7.56 13.34 7.64 14H4.26ZM5.08 16H8.03C8.35 17.25 8.81 18.45 9.41 19.56C7.57 18.93 6.04 17.66 5.08 16ZM8.03 8H5.08C6.04 6.34 7.57 5.07 9.41 4.44C8.81 5.55 8.35 6.75 8.03 8ZM12 19.96C11.17 18.76 10.52 17.43 10.09 16H13.91C13.48 17.43 12.83 18.76 12 19.96ZM14.34 14H9.66C9.57 13.34 9.5 12.68 9.5 12C9.5 11.32 9.57 10.65 9.66 10H14.34C14.43 10.65 14.5 11.32 14.5 12C14.5 12.68 14.43 13.34 14.34 14ZM14.59 19.56C15.19 18.45 15.65 17.25 15.97 16H18.92C17.96 17.65 16.43 18.93 14.59 19.56ZM16.36 14C16.44 13.34 16.5 12.68 16.5 12C16.5 11.32 16.44 10.66 16.36 10H19.74C19.9 10.64 20 11.31 20 12C20 12.69 19.9 13.36 19.74 14H16.36Z" fill="white"/></svg>
+</span>
+
+
+
+
+
+<div class="m-dropdown js-dropdown m-dropdown--is-primary"><button class="m-language-dropdown__handler u-outline-white m-dropdown__handler" aria-expanded="false">
+    <span class="m-dropdown__label"><span class="h-visually-hidden">Taal selectie</span>NL</span>
+
+
+
+
+<span class="m-dropdown__arrow m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+</button>
+
+  
+  <div class="m-dropdown__menu m-dropdown__menu--align-right m-dropdown__menu--rounded m-dropdown__menu--border">
+    
+          
+      <ul class="m-dropdown__list">
+                              
+            <li class="m-dropdown__item">
+                    <div class="m-dropdown__content m-language-dropdown__content">
+        <a href=https://www.houseofrepresentatives.nl class="h-link-inverse m-language-dropdown__content-link">
+          
+          Go to English site<span class="m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span></a>
+      </div>
+                </li>
+                  
+              </ul>
+      </div>
+</div>
+</div>
+  </div>
+
+  <div class="m-menu-main__wrapper">
+
+    
+                  
+        <ul class="m-menu-main__list m-menu-main__list--level-0">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+                              
+                                                                
+                              <a href="/debat_en_vergadering"  aria-expanded="false" role="button" class="m-menu-main__link">
+              Debat en vergadering                                    
+
+
+
+
+<span class="m-menu-main__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+                
+              </a>
+
+                                            
+        <ul class="m-menu-main__list m-menu-main__list--level-1">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering"  title="" class="m-menu-main__link">
+              Live debatten
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering/plenaire_vergaderingen"  title="Plenaire vergaderingen" class="m-menu-main__link">
+              Plenaire vergaderingen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering/commissievergaderingen"  title="Commissievergaderingen" class="m-menu-main__link">
+              Commissievergaderingen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering/livedebatten"  class="m-menu-main__link">
+              Livestreams
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat-en-vergadering/debat-direct"  class="m-menu-main__link">
+              Debat Direct
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering/recessen"  class="m-menu-main__link">
+              Recessen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat_en_vergadering/uitgelicht"  class="m-menu-main__link">
+              Uitgelicht
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/plenaire_verslagen/kamer_in_het_kort"  title="" class="m-menu-main__link">
+              Debatten in het kort
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/debat-en-vergadering/reglement-van-orde"  class="m-menu-main__link">
+              Reglement van Orde
+              </a>
+
+                          </li>
+                  </ul>
+          
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+                              
+                                                                
+                              <a href="/kamerleden_en_commissies/alle_kamerleden?status=1"  aria-expanded="false" role="button" class="m-menu-main__link">
+              Kamerleden en commissies                                    
+
+
+
+
+<span class="m-menu-main__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+                
+              </a>
+
+                                            
+        <ul class="m-menu-main__list m-menu-main__list--level-1">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden-en-commissies/voorzitter"  class="m-menu-main__link">
+              Voorzitter
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden_en_commissies/presidium"  class="m-menu-main__link">
+              Presidium
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden_en_commissies/alle_kamerleden"  class="m-menu-main__link">
+              Alle Kamerleden
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden_en_commissies/alle_fractievoorzitters"  title="Alle fractievoorzitters" class="m-menu-main__link">
+              Alle fractievoorzitters
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden_en_commissies/fracties"  title="Fracties" class="m-menu-main__link">
+              Fracties
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden-en-commissies/beleid-van-fracties-op-het-gebied-van-werkveiligheid"  class="m-menu-main__link">
+              Beleid van fracties op het gebied van werkveiligheid
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden_en_commissies/commissies"  class="m-menu-main__link">
+              Commissies
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden-en-commissies/kennis-en-onderzoek-de-kamer"  class="m-menu-main__link">
+              Kennis en onderzoek
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerleden-en-commissies/integriteit-kamerleden"  class="m-menu-main__link">
+              Integriteit Kamerleden
+              </a>
+
+                          </li>
+                  </ul>
+          
+                          </li>
+                      
+            <li class="m-menu-main__item m-menu-main__item--is-active">
+                            
+              
+              
+                              
+                                                                
+                              <a href="/kamerstukken"  title="Kamerstukken" aria-expanded="false" role="button" class="m-menu-main__link">
+              Kamerstukken                                    
+
+
+
+
+<span class="m-menu-main__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+                
+              </a>
+
+                                            
+        <ul class="m-menu-main__list m-menu-main__list--level-1">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken"  title="" class="m-menu-main__link">
+              Recente Kamerstukken
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/amendementen"  title="Amendementen" class="m-menu-main__link">
+              Amendementen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/besluitenlijsten"  title="Besluitenlijsten" class="m-menu-main__link">
+              Besluitenlijsten
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/brieven_regering"  title="Brieven regering" class="m-menu-main__link">
+              Brieven regering
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/burgerinitiatieven"  class="m-menu-main__link">
+              Burgerinitiatieven
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/commissieverslagen"  title="Commissieverslagen" class="m-menu-main__link">
+              Commissieverslagen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/kamervragen"  title="Kamervragen" class="m-menu-main__link">
+              Kamervragen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item m-menu-main__item--is-active">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/moties"  title="Moties" class="m-menu-main__link" aria-current="page">
+              Moties
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/plenaire_verslagen"  title="Plenaire verslagen" class="m-menu-main__link">
+              Plenaire verslagen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/stemmingsuitslagen"  title="Stemmingsuitslagen" class="m-menu-main__link">
+              Stemmingsuitslagen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/toezeggingen"  class="m-menu-main__link">
+              Toezeggingen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/wetsvoorstellen"  title="Wetsvoorstellen" class="m-menu-main__link">
+              Wetsvoorstellen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/schriftelijke-kamervragen-die-niet-op-tijd-beantwoord-zijn"  class="m-menu-main__link">
+              Niet op tijd beantwoorde Kamervragen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/kamerstukken/kamerstukken_1814_heden"  title="" class="m-menu-main__link">
+              Kamerstukken 1814 - heden
+              </a>
+
+                          </li>
+                  </ul>
+          
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+                              
+                                                                
+                              <a href="/zo-werkt-de-kamer"  aria-expanded="false" role="button" class="m-menu-main__link">
+              Zo werkt de Kamer                                    
+
+
+
+
+<span class="m-menu-main__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+                
+              </a>
+
+                                            
+        <ul class="m-menu-main__list m-menu-main__list--level-1">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/verkiezingen-en-formatie-2025"  class="m-menu-main__link">
+              Kamerverkiezingen 2025
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/de-tweede-kamer-cijfers"  class="m-menu-main__link">
+              De Tweede Kamer in cijfers
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/de-tweede-kamer-introductie"  class="m-menu-main__link">
+              De Tweede Kamer: introductie
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/hoe-werkt-een-debat"  class="m-menu-main__link">
+              Hoe werkt een debat in de Tweede Kamer?
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/geschiedenis-van-de-tweede-kamer"  class="m-menu-main__link">
+              Geschiedenis van de Tweede Kamer
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/hoe-kun-je-invloed-uitoefenen"  class="m-menu-main__link">
+              Hoe kun je als burger de Tweede Kamer beïnvloeden?
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/hoe-komt-een-wet-tot-stand"  class="m-menu-main__link">
+              Hoe komt een wet tot stand?
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/prinsjesdag-en-rijksbegroting"  class="m-menu-main__link">
+              Prinsjesdag en rijksbegroting: de Tweede Kamer controleert
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo-werkt-de-kamer/verkiezingen-en-kabinetsformatie"  class="m-menu-main__link">
+              Wat gebeurt er tijdens de verkiezingen en kabinetsformatie?
+              </a>
+
+                          </li>
+                  </ul>
+          
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+                              
+                                                                
+                              <a href="/contact_en_bezoek/contact"  aria-expanded="false" role="button" class="m-menu-main__link">
+              Contact en bezoek                                    
+
+
+
+
+<span class="m-menu-main__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></span>
+                
+              </a>
+
+                                            
+        <ul class="m-menu-main__list m-menu-main__list--level-1">
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact_en_bezoek/contact"  class="m-menu-main__link">
+              Contact en adres
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/persinformatie"  class="m-menu-main__link">
+              Persinformatie
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/wet-open-overheid-woo"  class="m-menu-main__link">
+              Wet open overheid (Woo)
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact_en_bezoek/lobbyisten"  class="m-menu-main__link">
+              Lobbyisten
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/in-de-tweede-kamer"  class="m-menu-main__link">
+              In de Tweede Kamer
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/bezoek-de-tweede-kamer"  class="m-menu-main__link">
+              Bezoek de Tweede Kamer
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/volg-de-tweede-kamer-online"  class="m-menu-main__link">
+              Volg de Tweede Kamer online
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/tweede-kamer-en-jongeren"  class="m-menu-main__link">
+              Tweede Kamer en jongeren
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/zo_werkt_de_kamer/veel_gestelde_vragen"  class="m-menu-main__link">
+              Veelgestelde vragen
+              </a>
+
+                          </li>
+                      
+            <li class="m-menu-main__item">
+                            
+              
+              
+              
+                              <a href="/contact-en-bezoek/ontdek-de-kamer"  class="m-menu-main__link">
+              Ontdek de Kamer
+              </a>
+
+                          </li>
+                  </ul>
+          
+                          </li>
+                  </ul>
+          
+
+  </div>
+
+  <div class="m-menu-main__overlay"></div>
+</nav>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/navigation/menu--main.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/block/block--menu-block--main.html.twig' -->
+
+
+  </header>
+
+  <main class="o-main" id="main">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--content.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/layout/region.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--tweedekamer-content.html.twig
+   ✅ block--system-main-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-main-block.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'tk_kamerstukken__detail_page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ tk-kamerstukken--detail-page.html.twig
+   ▪️ tk-kamerstukken.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/kamerstukken/tk-kamerstukken--detail-page.html.twig' -->
+
+<article class="contextual-region">
+  
+
+    
+
+
+
+
+
+<section class="o-hero o-hero--has-shadow o-hero--has-visual o-hero--inset-top">
+  <div class="o-hero__inner">
+                <figure class="o-hero__visual">
+                      
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/modules/responsive_image/templates/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/media/image.html.twig' -->
+<img alt="" loading="lazy" class="o-hero__image--blur" src="/sites/default/files/atoms/images/plenaire_zaal_th_230821009.jpg" width="7087" height="4724"/>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/media/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/responsive_image/templates/responsive-image-formatter.html.twig' -->
+
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'responsive_image_formatter' -->
+<!-- BEGIN OUTPUT from 'core/modules/responsive_image/templates/responsive-image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/media/image.html.twig' -->
+<img alt="" loading="lazy" class="o-hero__image o-hero__image--max-width" src="/sites/default/files/atoms/images/plenaire_zaal_th_230821009.jpg" width="7087" height="4724"/>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/media/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'core/modules/responsive_image/templates/responsive-image-formatter.html.twig' -->
+
+
+                </figure>
+    
+    
+    
+          <div class="u-mt-24 o-hero__bottom">
+              
+      <section class="t-layout u-relative">
+        <div class="t-container u-pl-0 u-pr-0">
+          <div class="t-container">
+            <div class="t-grid t-grid--gutter-large">
+              <div class="t-grid__col t-grid__col--fourth-3-at-small u-rounded-t-lg u-bg-white u-ml-4 sm:u-ml-0 u-mr-4 sm:u-mr-0 u-pl-4 sm:u-pl-8 u-pr-4 sm:u-pr-8">
+                <div class="t-grid">
+                  <div class="t-grid__col">
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--system-breadcrumb-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-breadcrumb-block.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'breadcrumb' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/navigation/breadcrumb.html.twig' -->
+
+  
+
+
+
+
+<nav class="m-breadcrumb" aria-label="Kruimelpad">
+  
+  <ol class="m-breadcrumb__list">
+          
+      <li class="m-breadcrumb__item">
+        
+        <a href="/"  class="m-breadcrumb__link">Home</a>
+
+                  
+
+
+
+
+<span class="m-breadcrumb__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+              </li>
+          
+      <li class="m-breadcrumb__item">
+        
+        <a href="/kamerstukken"  class="m-breadcrumb__link">Kamerstukken</a>
+
+                  
+
+
+
+
+<span class="m-breadcrumb__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+              </li>
+          
+      <li class="m-breadcrumb__item">
+        
+        <a href="/kamerstukken/moties"  class="m-breadcrumb__link">Moties</a>
+
+              </li>
+      </ol>
+</nav>
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/navigation/breadcrumb.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-breadcrumb-block.html.twig' -->
+
+
+                  </div>
+                  <div class="t-grid__col t-grid__col--full t-grid__col--shrink-at-tiny u-pt-0 xs:u-pt-4">
+                    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--dictu-share-block.html.twig
+   ▪️ block--dictu-share.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/tk_theme/templates/block/block--dictu-share-block.html.twig' -->
+
+  
+
+
+
+
+<div class="m-share js-share">
+  <div class="m-share__handler" aria-hidden="true">
+    Delen
+
+    
+
+
+
+
+
+<div class="m-share__button m-button m-button--size-small m-button--style-outline m-button--only-icon">
+  
+
+
+
+
+<span class="m-button__icon m-icon" aria-hidden="true"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <path d="M17 16.08c-.76 0-1.44.3-1.96.77L7.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L7.04 9.81C6.5 9.31 5.79 9 5 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92 0-1.61-1.31-2.92-2.92-2.92z"/>
+</svg></span>
+
+  </div>
+  </div>
+
+  <div class="m-share__actions">
+      Delen
+
+              
+        
+
+
+
+
+
+<a class="m-share__button m-share__button--is-social m-button m-button--size-small m-button--only-icon" target="_blank" aria-label="Delen via Facebook" title="Open in nieuw venster" href="https://www.facebook.com/sharer.php?u=https%3A//www.tweedekamer.nl/kamerstukken/moties/detail%3Fdid%3D2025D31484%26id%3D2025Z13886&amp;t=Passend%20onderwijs"><span class="m-button__icon m-icon" aria-hidden="true"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 12a10 10 0 1 0-11.56 9.88v-7H7.9V12h2.54V9.8a3.52 3.52 0 0 1 3.77-3.89 15.72 15.72 0 0 1 2.24.19v2.46h-1.26a1.45 1.45 0 0 0-1.63 1.56V12h2.78l-.45 2.89h-2.33v7A10 10 0 0 0 22 12z"/></svg></span></a><a class="m-share__button m-share__button--is-social m-button m-button--size-small m-button--only-icon" target="_blank" aria-label="Delen via X" title="Open in nieuw venster" href="https://x.com/share?url=https%3A//www.tweedekamer.nl/kamerstukken/moties/detail%3Fdid%3D2025D31484%26id%3D2025Z13886&amp;text=Passend%20onderwijs"><span class="m-button__icon m-icon" aria-hidden="true"><svg focusable="false" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.9088 10.4686L21.3581 2H19.5929L13.1247 9.3532L7.95853 2H2L9.81221 13.1193L2 22H3.76534L10.5959 14.2348L16.0517 22H22.0103L13.9084 10.4686H13.9088ZM11.491 13.2173L10.6994 12.1101L4.40142 3.29968H7.11288L12.1954 10.4099L12.987 11.5172L19.5937 20.7594H16.8822L11.491 13.2177V13.2173Z" /></svg></span></a><a class="m-share__button m-share__button--is-social m-button m-button--size-small m-button--only-icon" target="_blank" aria-label="Delen via LinkedIn" title="Open in nieuw venster" href="https://www.linkedin.com/shareArticle?url=https%3A//www.tweedekamer.nl/kamerstukken/moties/detail%3Fdid%3D2025D31484%26id%3D2025Z13886&amp;title=Passend%20onderwijs"><span class="m-button__icon m-icon" aria-hidden="true"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" d="M20.52 22h-17A1.46 1.46 0 0 1 2 20.56V3.44A1.46 1.46 0 0 1 3.48 2h17A1.46 1.46 0 0 1 22 3.44v17.12A1.46 1.46 0 0 1 20.52 22zM5 19h3V9.5H5zM6.45 4.75a1.72 1.72 0 1 0 1.72 1.72 1.72 1.72 0 0 0-1.72-1.72zM19 13.81c0-2.57-.55-4.55-3.56-4.55a3.1 3.1 0 0 0-2.8 1.54V9.5H9.79V19h3v-4.68c0-1.24.23-2.45 1.78-2.45s1.54 1.42 1.54 2.53V19h3z"/></svg></span></a><a class="m-share__button m-share__button--is-social m-button m-button--size-small m-button--only-icon" target="_blank" aria-label="Delen via e-mail" title="Open in nieuw venster" href="mailto:?subject=Passend%20onderwijs&amp;body=https%3A//www.tweedekamer.nl/kamerstukken/moties/detail%3Fdid%3D2025D31484%26id%3D2025Z13886"><span class="m-button__icon m-icon" aria-hidden="true"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V8l8 5 8-5v10zm-8-7L4 6h16l-8 5z"/></svg></span></a></div></div>
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/block/block--dictu-share-block.html.twig' -->
+
+
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+          </div>
+      </div>
+</section>
+
+  <section class="t-layout t-layout--inset-huge u-pt-0">
+    <div class="t-container">
+      <div class="t-grid t-grid--gutter-large">
+        
+        <div class="t-grid__col t-grid__col--full t-grid__col--fourth-3-at-small u-relative u-bg-white u-pt-0 xs:-u-mt-8 sm:-u-mt-16 md:-u-mt-32">
+          <h1>
+            <span class="u-text-primary u-font-normal">Motie</span>
+            <span class="h-visually-hidden">:</span>
+            Motie van het lid Van Houwelingen over uitspreken dat voor veel leerlingen met een beperking het speciaal onderwijs passend onderwijs is 
+          </h1>
+
+          <div class="u-mt-8">
+              <div data-drupal-messages-fallback class="hidden"></div>
+
+      
+
+
+
+
+
+<button data-modal-toggle="#document-html-modal" class="m-button">
+  
+      <span class="m-button__label">Open document</span>
+  </button>
+
+
+
+
+
+
+
+<div class="m-modal js-modal" id="document-html-modal" role="dialog" tabindex="-1" aria-modal="true" aria-labelledby="document-html-modal-title">
+  
+  <div class="m-modal__dialog m-modal__dialog--is-small m-modal__dialog--scroll" role="document">
+    
+    <div class="m-modal__header m-modal__header--sticky">
+      <h2 class="m-modal__title" id="document-html-modal-title">
+               31 497
+                Passend onderwijs
+         </h2>
+
+      
+      
+
+
+
+
+
+<button class="m-modal__close m-button m-button--size-large m-button--style-transparent m-button--only-icon" data-modal-dismiss aria-label="Modal sluiten">
+  
+
+
+
+
+<span class="m-button__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <path d="M19 7.11710678 16.8828932 5 12 9.88289322 7.11710678 5 5 7.11710678 9.88289322 12 5 16.8828932 7.11710678 19 12 14.11710678 16.8828932 19 19 16.8828932 14.11710678 12z"/>
+</svg></span>
+
+  </button>
+    </div>
+
+              <div class="m-modal__content">
+            <h2>Nr. 504<br />
+                   MOTIE VAN HET LID VAN HOUWELINGEN<br />
+            </h2>
+<p>Voorgesteld 2&nbsp;juli 2025</p>
+<p>De Kamer,</p>
+<p>gehoord de beraadslaging,</p>
+<p>spreekt uit dat passend onderwijs voor veel leerlingen met een beperking niet het<br />
+                  regulier maar het speciaal onderwijs zal zijn,
+               </p>
+<p>en gaat over tot de orde van de dag.</p>
+<p>Van Houwelingen</p>
+
+          </div>
+          </div>
+</div>
+      
+      
+
+
+
+
+
+<a aria-label="Download kamerstuk: Motie van het lid Van Houwelingen over uitspreken dat voor veel leerlingen met een beperking het speciaal onderwijs passend onderwijs is  (PDF)" class="m-button" href="/downloads/document?id=2025D31484">
+  
+
+
+
+
+<span class="m-button__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24" width="24" focusable="false"><path d="M8.1 17.47h7.62c.6075132 0 1.1.4924868 1.1 1.1 0 .6075132-.4924868 1.1-1.1 1.1H8.1c-.60751322 0-1.1-.4924868-1.1-1.1 0-.6075132.49248678-1.1 1.1-1.1zM14.91 10.81l-1.9 1.87V4.6c0-.60751322-.4924868-1.1-1.1-1.1-.6075132 0-1.1.49248678-1.1 1.1v8.05l-1.9-1.84c-.43078211-.4307821-1.12921789-.4307821-1.55999999 0-.4307821.4307821-.4307821 1.1292179-1e-8 1.56l3.75 3.74c.1841102.1948412.4330329.3157466.7.34h.16c.2669671-.0242534.5158898-.1451588.7-.34l3.75-3.74c.3105114-.4310505.2685918-1.0224269-.0996191-1.4053662-.368211-.3829394-.9574895-.4480091-1.4003809-.1546338z"/></svg></span>
+
+      <span class="m-button__label">Download</span>
+  </a>
+  
+                
+          <h2>Indieners</h2>
+
+      
+
+
+
+
+<ul class="m-list">
+      
+    
+    <li class="m-list__item m-list__item--variant-member">
+              
+                  <div class="m-list__content">
+        
+                  
+
+
+
+
+<figure class="m-list__icon m-avatar" aria-hidden="true">
+      
+
+
+
+
+<span class="m-avatar__icon m-icon m-icon--circled" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" focusable="false"><path d="M12 2.5a5 5 0 014.86 5.05A5 5 0 0112 12.61a5 5 0 01-4.87-5.06A5 5 0 0112 2.5zM12 4a3.4 3.4 0 00-3.26 3.55A3.4 3.4 0 0012 11.07a3.4 3.4 0 003.25-3.52A3.4 3.4 0 0012 4zM20.19 20.86H7a.77.77 0 110-1.54h12.34c-.27-2-1.69-4.54-7.34-4.54-6.43 0-7.39 3.32-7.39 5.31a.81.81 0 01-1.61 0c0-4.29 3.36-6.85 9-6.85s9 2.56 9 6.85a.79.79 0 01-.81.77z"/></svg></span>
+  </figure>
+        
+        
+        <span class="m-list__label">
+                                <span class="u-font-bold">Indiener</span><br>
+            P. van Houwelingen, Tweede Kamerlid
+                  </span>
+
+        
+                  </div>
+                  </li>
+  </ul>
+      
+                  </div>
+        </div>
+
+                <aside class="t-grid__col sm:u-pr-0 sm:u-pl-0">
+            
+  
+  
+  
+
+
+
+
+<ul class="u-mt-0 u-bg-background u-p-3 m-list m-list--has-dividers m-list--divider-style-white">
+      
+    
+    <li class="m-list__item">
+              
+                  <div class="m-list__content">
+        
+                              
+
+
+
+
+<span class="m-list__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21.38 4.72H17V3.4a.62.62 0 1 0-1.24 0v1.32H7.88v-1.3a.62.62 0 0 0-1.24 0v1.3h-4a.62.62 0 0 0-.64.62v4a.49.49 0 0 0 0 .12v8.64a.62.62 0 0 0 1.24 0v-8h17.51V20H2.62a.62.62 0 1 0 0 1.23h18.75a.61.61 0 0 0 .62-.61V9.54a.41.41 0 0 0 0-.11V5.34a.62.62 0 0 0-.61-.62Zm-.62 4.09H3.25V6h17.51Z"/><path d="M6.65 16.42a.69.69 0 0 1 0 1.38.69.69 0 0 1 0-1.38Zm0-2.42a.68.68 0 0 1 .69.68.69.69 0 1 1-1.38 0 .68.68 0 0 1 .69-.68Zm0-2.47a.69.69 0 1 1-.69.69.69.69 0 0 1 .69-.69Zm3.42 4.89a.69.69 0 1 1-.69.69.69.69 0 0 1 .69-.69Zm0-2.42a.67.67 0 0 1 .68.68.68.68 0 0 1-.68.69.69.69 0 0 1-.69-.69.68.68 0 0 1 .69-.68Zm0-2.47a.69.69 0 0 1 0 1.38.69.69 0 0 1 0-1.38Zm3.42 4.89a.69.69 0 1 1-.69.69.69.69 0 0 1 .69-.69ZM13.48 14a.68.68 0 0 1 .69.68.69.69 0 0 1-.69.69.68.68 0 0 1-.68-.69.67.67 0 0 1 .68-.68Zm0-2.47a.69.69 0 1 1 0 1.38.69.69 0 0 1 0-1.38Zm3.43 4.89a.69.69 0 1 1-.69.69.69.69 0 0 1 .69-.69ZM16.9 14a.68.68 0 0 1 .69.68.69.69 0 1 1-1.38 0 .68.68 0 0 1 .69-.68Zm0-2.47a.69.69 0 1 1-.69.69.69.69 0 0 1 .69-.69Z"/></svg>
+</span>
+                  
+        
+        <span class="m-list__label">
+          <span class="h-visually-hidden">Datum:</span>2 juli 2025</span>
+
+        
+                  </div>
+                  </li>
+      
+    
+    <li class="m-list__item">
+              
+                  <div class="m-list__content">
+        
+                              
+
+
+
+
+<span class="m-list__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="m15.75 2.22 3.3 3.65a.67.67 0 0 1 .18.4v15.06a.67.67 0 0 1-1.34 0L17.88 7h-2.63a.67.67 0 0 1-.67-.67v-3H6.1v17.33h9.53a.67.67 0 1 1 0 1.34H5.43a.67.67 0 0 1-.67-.67V2.67A.67.67 0 0 1 5.43 2h9.82a.69.69 0 0 1 .5.22Zm.18 2.19v1.24H17Zm-3.07 6.44.14-1.5a.68.68 0 0 1 .75-.59.67.67 0 0 1 .58.75l-.16 1.34h.65a.68.68 0 0 1 .67.68.67.67 0 0 1-.67.67h-.81l-.16 1.32h.67a.67.67 0 0 1 0 1.34h-.83l-.32 2.68a.67.67 0 0 1-.67.59h-.08a.68.68 0 0 1-.59-.75l.31-2.52h-1.08l-.33 2.68a.67.67 0 0 1-.66.59h-.08a.68.68 0 0 1-.59-.75l.3-2.52h-.76a.67.67 0 0 1-.67-.67.68.68 0 0 1 .67-.68h.93l.15-1.32h-.78a.67.67 0 0 1 0-1.34h1l.18-1.5a.67.67 0 1 1 1.33.16l-.16 1.34Zm-.16 1.35h-1.12l-.16 1.32h1.12Z"/></svg></span>
+                  
+        
+        <span class="m-list__label">
+          <span class="h-visually-hidden">Nummer:</span>31497-504</span>
+
+        
+                  </div>
+                  </li>
+      
+    
+    <li class="m-list__item">
+              
+                  <div class="m-list__content">
+        
+                              
+
+
+
+
+<span class="m-list__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="m15.75 2.22 3.3 3.65a.67.67 0 0 1 .18.4v15.06a.67.67 0 0 1-1.34 0L17.88 7h-2.63a.67.67 0 0 1-.67-.67v-3H6.1v17.33h9.53a.67.67 0 1 1 0 1.34H5.43a.67.67 0 0 1-.67-.67V2.67A.67.67 0 0 1 5.43 2h9.82a.69.69 0 0 1 .5.22Zm.18 2.19v1.24H17Z"/></svg></span>
+                  
+        
+        <span class="m-list__label">
+          Motie</span>
+
+        
+                  </div>
+                  </li>
+  </ul>
+        </aside>
+      </div>
+    </div>
+  </section>
+
+          <section class="t-layout t-layout--inset-huge t-layout--theme-light">
+      <div class="t-container h-flow">
+        
+        
+        
+        <div class="u-bg-light u-p-8 h-flow">
+          <h2>Stemmingsuitslagen</h2>
+
+          <div class="u-bg-white u-p-8 u-mt-8 h-flow">
+            <h3>
+                              Verworpen  met handopsteken
+                          </h3>
+            <hr>
+
+            
+
+
+
+
+
+
+
+<div class="m-vote-result">
+  <div class="m-vote-result__labels">
+    <div class="m-vote-result__label">Voor<span class="h-visually-hidden">: 72</span></div>
+    <div class="m-vote-result__label">75<span class="h-visually-hidden">Vereist: 75</span></div>
+    <div class="m-vote-result__label">150<span class="h-visually-hidden">Totaal: 150</span></div>
+  </div>
+
+  <div class="m-vote-result__bar" aria-hidden="true" data-vote-result="72">
+    <div class="m-vote-result__inner" data-width="48"></div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="m-toggler m-toggler--style-transparent js-toggler" id="votes-details">
+  <h2 id="votes-details-title" class="m-toggler__title">
+        <button class="m-toggler__handler" aria-expanded="false" aria-controls="votes-details-collapse" data-collapse-handler="#votes-details-collapse">
+              <span class="m-toggler__icon" aria-hidden="true">-</span>
+            <span class="m-toggler__label">Detail stemming</span>
+
+          </button>
+  </h2>
+
+  
+  
+
+
+
+<div class="m-toggler__collapse m-collapse js-collapse" id="votes-details-collapse">
+        <div class="m-toggler__body">
+                
+                    
+    <div class="u-overflow-x-auto">
+      <table class="h-table-bordered">
+        <tbody>
+          <tr>
+            <th>Fracties</th>
+            <th>Zetels</th>
+
+            
+            <th>Voor/Tegen</th>
+
+            
+            
+                      </tr>
+
+                                
+            <tr>
+                              <td>PVV</td>
+                <td>37</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>GroenLinks-PvdA</td>
+                <td>25</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>VVD</td>
+                <td>24</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>NSC</td>
+                <td>20</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>D66</td>
+                <td>9</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>BBB</td>
+                <td>7</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>CDA</td>
+                <td>5</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>SP</td>
+                <td>5</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>ChristenUnie</td>
+                <td>3</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>DENK</td>
+                <td>3</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>FVD</td>
+                <td>3</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>PvdD</td>
+                <td>3</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>SGP</td>
+                <td>3</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>Volt</td>
+                <td>2</td>
+              
+              
+                              <td class="u-text-danger">Tegen</td>
+              
+              
+              
+                          </tr>
+                      
+            <tr>
+                              <td>JA21</td>
+                <td>1</td>
+              
+              
+                              <td class="u-text-success">Voor</td>
+              
+              
+              
+                          </tr>
+                  </tbody>
+      </table>
+    </div>
+    
+      </div>
+    </div>
+</div>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    
+        <section class="t-layout t-layout--inset-huge t-layout--theme-light">
+      <div class="t-container h-flow">
+        <h2>Activiteiten</h2>
+
+        
+        
+        
+
+
+
+
+
+<div class="m-slider m-slider--padded js-slider">
+  <div class="m-slider__scroller">
+          <div class="m-slider__slide">
+                            
+
+
+
+
+
+<div class="m-card m-card--is-clickable js-clickable">
+  <div class="m-card__main">
+                  <div class="m-card__content u-pt-0" aria-hidden="true">
+                
+
+
+
+
+
+  
+<time datetime="2025-07-01T22:00:00+0000" class="m-date">
+                    2 jul 2025
+            </time>
+              </div>
+              <div class="m-card__content">
+                <h3 class="m-card__title">
+                  <a class="js-clickable__target" href="/vergaderingen/plenaire_vergaderingen/details/activiteit?id=2025A04278">
+                                        Tweeminutendebat Passend onderwijs (CD 21/5)
+                  </a>
+                </h3>
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+<time class="h-visually-hidden" datetime="2025-07-01T22:00:00+0000">2 juli 2025</time>
+
+<!-- END OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+
+
+
+                <div class="u-mt-4">
+                  Plenair debat (tweeminutendebat)<br>
+                  <span class="h-visually-hidden">Tijd activiteit: </span>10:15 
+                </div>
+              </div>
+              </div>
+
+  
+  </div>
+        
+              </div>
+          <div class="m-slider__slide">
+                            
+
+
+
+
+
+<div class="m-card m-card--is-clickable js-clickable">
+  <div class="m-card__main">
+                  <div class="m-card__content u-pt-0" aria-hidden="true">
+                
+
+
+
+
+
+  
+<time datetime="2025-07-02T22:00:00+0000" class="m-date">
+                    3 jul 2025
+            </time>
+              </div>
+              <div class="m-card__content">
+                <h3 class="m-card__title">
+                  <a class="js-clickable__target" href="/vergaderingen/plenaire_vergaderingen/details/activiteit?id=2025A05203">
+                                         STEMMINGEN (over alle onderwerpen tot en met 2 juli 2025)
+                  </a>
+                </h3>
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'time' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+<time class="h-visually-hidden" datetime="2025-07-02T22:00:00+0000">3 juli 2025</time>
+
+<!-- END OUTPUT from 'core/modules/system/templates/time.html.twig' -->
+
+
+
+                <div class="u-mt-4">
+                  Stemmingen<br>
+                  <span class="h-visually-hidden">Tijd activiteit: </span>13:40 
+                </div>
+              </div>
+              </div>
+
+  
+  </div>
+        
+              </div>
+      </div>
+
+      
+
+
+
+
+
+<button aria-label="Vorige slide" class="m-slider__handler m-slider__handler--prev m-button m-button--size-small m-button--only-icon">
+  
+
+
+
+
+<span class="m-button__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></span>
+
+  </button>
+
+    
+
+
+
+
+
+<button aria-label="Volgende slide" class="m-slider__handler m-slider__handler--next m-button m-button--size-small m-button--only-icon">
+  
+
+
+
+
+<span class="m-button__icon m-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+  </button>
+  </div>
+      </div>
+    </section>
+  
+  <div data-contextual-id="tk_api_debug:hash=4Plu9LGUPPXtQXLyPQa-VaLUsefIEOHFfnbXyHwLfR4:langcode=nl" data-contextual-token="3ndn7M3umL1HFve6M4yXPYjMqe0isj4R-bEZChpsdyk" data-drupal-ajax-container=""></div>
+</article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/kamerstukken/tk-kamerstukken--detail-page.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/block/block--system-main-block.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/layout/region.html.twig' -->
+
+
+  </main>
+
+  <footer class="o-footer">
+    <div class="t-container u-mt-8">
+      
+
+
+
+
+<a class="xl:-u-ml-14 u-outline-white m-logo" href="/" aria-label="Tweede Kamer der Staten-Generaal, to homepage">
+  <img src="/themes/contrib/tk_theme/logo-white.svg" alt="Logo Tweede Kamer der Staten-Generaal" class="m-logo__image" width="254" height="72">
+</a>
+    </div>
+    <div class="t-container t-layout o-footer__content u-mt-8">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ block--menu-block--footer.html.twig
+   ▪️ block--menu-block.html.twig
+   ▪️ block--system-menu-block.html.twig
+   ▪️ block.html.twig
+-->
+<!-- INVALID FILE NAME SUGGESTIONS:
+   See https://api.drupal.org/api/drupal/core!lib!Drupal!Core!Render!theme.api.php/function/hook_theme_suggestions_alter
+   block__footer-menu
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/block/block--menu-block--footer.html.twig' -->
+
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--footer.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/navigation/menu--footer.html.twig' -->
+
+  
+
+
+
+
+
+<nav id="footer-menu" aria-label="Footer menu" class="m-menu-footer">
+  
+      <div class="t-grid t-grid--at-tiny">
+              <div class="t-grid__col t-grid__col--half-at-tiny t-grid__col--fourth-at-small">
+          <span class="m-menu-footer__title"><span>Over Tweedekamer.nl</span></span>
+
+                                
+      <ul class="m-menu-footer__list">
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/applicaties/colofon"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Colofon</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/applicaties/disclaimer"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Disclaimer</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/applicaties/privacyverklaring-van-de-tweede-kamer-der-staten-generaal"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Uw privacy</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/applicaties/cookies"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Cookies</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/over-tweedekamernl/toegankelijkheid"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Toegankelijkheid</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/applicaties/sitemap"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Sitemap</span>
+
+                          </a>
+            
+                      </li>
+              </ul>
+    
+  
+                  </div>
+              <div class="t-grid__col t-grid__col--half-at-tiny t-grid__col--fourth-at-small">
+          <span class="m-menu-footer__title"><span>Blijf op de hoogte</span></span>
+
+                                
+      <ul class="m-menu-footer__list">
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/de-tweede-kamer-op-sociale-media"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Sociale media</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/e-mailattenderingen"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">E-mailattenderingen</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/debat-en-vergadering/debat-direct"  title="" class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Debat Direct</span>
+
+                          </a>
+            
+                      </li>
+              </ul>
+    
+  
+                  </div>
+              <div class="t-grid__col t-grid__col--half-at-tiny t-grid__col--fourth-at-small">
+          <span class="m-menu-footer__title"><span>Ambtelijke ondersteuning</span></span>
+
+                                
+      <ul class="m-menu-footer__list">
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/ambtelijke-ondersteuning/organogram"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Organogram</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="https://werkenbij.tweedekamer.nl"  title="" class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Werken bij de Tweede Kamer</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/mandaatbesluit"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Mandaatbesluit</span>
+
+                          </a>
+            
+                      </li>
+              </ul>
+    
+  
+                  </div>
+              <div class="t-grid__col t-grid__col--half-at-tiny t-grid__col--fourth-at-small">
+          <span class="m-menu-footer__title"><span>Links</span></span>
+
+                                
+      <ul class="m-menu-footer__list">
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/contact_en_bezoek/politieke_websites"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Politieke websites</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="https://www.tweedekamer.nl/contact-en-bezoek/tweede-kamer-en-jongeren"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Voor jongeren</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="https://opendata.tweedekamer.nl/"  title="" class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Open Data Portaal</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="/erelijst-van-gevallenen"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Erelijst van Gevallenen</span>
+
+                          </a>
+            
+                      </li>
+                            <li class="m-menu-footer__item">
+            
+            
+            
+
+
+
+
+<span class="m-menu-footer__icon m-icon m-icon--size-small" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg></span>
+
+                          <a href="https://www.lijstvangevallenen.nl/"  class="m-menu-footer__link">
+            
+            <span class="m-menu-footer__label">Lijst van Gevallenen</span>
+
+                          </a>
+            
+                      </li>
+              </ul>
+    
+  
+                  </div>
+          </div>
+  </nav>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/navigation/menu--footer.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/block/block--menu-block--footer.html.twig' -->
+
+
+    </div>
+  </footer>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/page/page--tk-kamerstukken.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/tk_theme/templates/layout/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"kamerstukken\/moties\/detail","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"nl","currentQuery":{"did":"2025D31484","id":"2025Z13886"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowLabel":"(opent in een nieuw venster)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":true,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":true,"mailtoClass":"0","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"m-icon--external-link","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":["https:\/\/werkenbij.tweedekamer.nl\/"],"extExcludeNoreferrer":""}},"filter_tooltips":{"trigger_event":"click"},"ajaxTrustedUrl":{"\/zoeken":true},"user":{"uid":0,"permissionsHash":"5d3c0a5bc11590e93ae50327cb162317b3b7d11fb724bf3f897b182938ddf94c"}}</script>
+<script src="/sites/default/files/js/js_9635266ZRb9QD7SIgfAiZGHjPJO5DchvYygl6WFzYII.js?scope=footer&amp;delta=0&amp;language=nl&amp;theme=tweedekamer&amp;include=eJx1j0EOgzAQAz8E5EkoJQYinGy02ZQ-v6qqthzSm-05jIyHMebDBW3Fc8K7DmukQWcTocVS3ScMdsy2I8FtlJvnrychlkbUaRHSl4oeCyolyJl7bBVNvT1J6Ivq7rVrqYwB2iMm28YXOoGAwyfo98llusiR25h8zH_4XQyjojbaE4Wageg"></script>
+
+  </body>
+
+</html>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/tweedekamer/templates/layout/html.html.twig' -->
+

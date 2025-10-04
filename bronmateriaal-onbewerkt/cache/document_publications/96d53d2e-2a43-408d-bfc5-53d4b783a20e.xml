@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-1995/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1995</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIRI EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland traditioneel een steunpilaar voor internationale mensenrechtenverdedigers is;</al>
+            <al>overwegende dat een duurzame oplossing van het Israëlisch-Palestijns conflict er mede van afhangt of alle partijen de mensenrechten respecteren;</al>
+            <al>constaterende dat zich in de Gazastrook een acute humanitaire crisis voordoet en dat de mensenrechtensituatie op de Westelijke Jordaanoever steeds nijpender wordt, waardoor de inzet van mensenrechtenverdedigers urgenter is dan ooit;</al>
+            <al>verzoekt de regering haar ondersteuning van gevestigde organisaties die zich inzetten voor verbetering van de mensenrechtensituatie in Israël en de Palestijnse gebieden voort te zetten;</al>
+            <al>verzoekt de regering tevens om zich er met andere lidstaten en de Europese Commissie voor in te zetten dat het voortbestaan en de vitaliteit van mensenrechtenorganisaties in Israël en de Palestijnse gebieden worden gewaarborgd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

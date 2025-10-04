@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1213/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1213</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er sinds december 2023 een conceptontwerp Hoofdstructuur Luchtruimherziening ligt, inclusief een vierde fix en oostelijke aanvliegroutes;</al>
+            <al>overwegende dat er geen inspraak is geweest van provincies, gemeenten en inwoners bij het ontwerp en dat de effecten op de grond niet zijn onderzocht;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het conceptontwerp Hoofdstructuur Luchtruimherziening direct openbaar te maken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>inspraak te organiseren voor provincies, gemeenten en inwoners voor het conceptontwerp,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

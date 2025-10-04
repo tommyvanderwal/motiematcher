@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-52/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">52</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER PLAS EN FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is om generieke visserijvrije zones in te stellen op vismigratiepunten;</al>
+            <al>overwegende dat dit voornemen beroepsvissers beperkt in het uitoefenen van hun werk;</al>
+            <al>overwegende dat er geen onderzoek is dat wijst op een significante impact van de beroepsvisserij op trekvissoorten rondom vismigratievoorzieningen;</al>
+            <al>overwegende dat het instellen van een generieke visserijvrije zone in sommige situaties niet ecologisch noodzakelijk of juist onvoldoende is om trekvissoorten te beschermen;</al>
+            <al>overwegende dat er voor de sportvisserij in Nederland ook maatwerkafspraken zijn gemaakt in samenspraak met het ministerie, en geen samenspraak het einde zou betekenen voor Nederlandse visserijbedrijven;</al>
+            <al>verzoekt de regering af te zien van het instellen van een generieke visserijvrije zones voor beroepsvissers rondom vismigratievoorzieningen en in plaats daarvan in samenspraak met de beroepsvissers te komen tot visserijvrije zones op maat, die zowel de trekvissen beschermen als recht doen aan de beroepsvisserij,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

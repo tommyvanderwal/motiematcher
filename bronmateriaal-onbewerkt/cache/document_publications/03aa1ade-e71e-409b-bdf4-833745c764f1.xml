@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29628-1230/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 628</dossiernr>
+      </dossiernummer>
+      <titel>Politie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1230</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat relschoppers soms miljoenen aan schade aanrichten, maar vaak niet geconfronteerd worden met het bonnetje van deze schade;</al>
+            <al>overwegende dat onfatsoenlijk gedrag in de vorm van relschoppen nooit beloond mag worden en relschoppers elke cent van de door hen aangerichte schade moeten terugbetalen aan de benadeelden;</al>
+            <al>overwegende dat civielrechtelijke afhandeling van schade kan helpen bij het efficiënter verhalen van de schade op de relschoppers door benadeelden, maar dat hierbij goede registratie van de relschoppers en gegevensdeling tussen ketenpartners essentieel zijn;</al>
+            <al>verzoekt de regering om in gesprek te gaan met de politie en het Openbaar Ministerie om de knelpunten bij de registratie en gegevensdeling van relschoppers bij grootschalige rellen in kaart te brengen;</al>
+            <al>verzoekt de regering te onderzoeken hoe het voor benadeelden makkelijker kan worden om schade te verhalen op individuele relschoppers met bijvoorbeeld civielrechtelijke afhandeling, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Eerdmans</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

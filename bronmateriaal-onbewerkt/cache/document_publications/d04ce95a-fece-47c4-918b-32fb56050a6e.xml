@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-935/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">935</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gedetineerden die zelf niet in aanmerking willen komen voor de bestaande detentiemodaliteiten zoals een bba (beperkt beveiligde afdeling) of het penitentiair programma (PP), beloond dreigen te worden met een detentievakantie;</al>
+            <al>overwegende dat de groep gedetineerden die detentievakantie dreigt te krijgen (qua delict en gedrag) geen enkel risico mogen vormen voor de samenleving;</al>
+            <al>overwegende dat het onaanvaardbaar is als gedetineerden niet meewerken aan hun programma;</al>
+            <al>overwegende dat gedetineerden gestimuleerd moeten worden te blijven werken aan het terugdringen van de recidive en gebruik te maken van de voorzieningen die hieraan bijdragen;</al>
+            <al>verzoekt de regering niet over te gaan tot het faciliteren van detentievakantie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

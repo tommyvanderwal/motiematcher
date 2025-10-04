@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34843-107/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 843</dossiernr>
+      </dossiernummer>
+      <titel>Seksuele intimidatie en geweld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">107</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN MEIJEREN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het door de commissie-Hendriks verrichte onderzoek naar georganiseerd sadistisch misbruik niet voldoet aan de minimale eisen die daar redelijkerwijs aan gesteld mogen worden;</al>
+            <al>constaterende dat alle belangengroepen uit het werkveld forse kritiek hebben geuit op de wijze waarop dit onderzoek is ingesteld en uitgevoerd;</al>
+            <al>roept de regering op een second opinion te laten uitvoeren door een onafhankelijke commissie, met inachtneming van de namens de slachtoffers geschetste randvoorwaarden zoals uiteengezet in de aan de Kamer gezonden brandbrief,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Meijeren</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

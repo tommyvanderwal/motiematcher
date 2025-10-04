@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-III-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>III</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Algemene Zaken (IIIA), de begrotingsstaat van het Kabinet van de Koning (IIIB) en de begrotingsstaat van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (IIIC) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BIKKER EN ELLIAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat antisemitisme in Nederland en wereldwijd in zorgwekkende mate toeneemt en dat deze toename ertoe leidt dat de Joodse gemeenschap in Nederland zich steeds minder veilig voelt;</al>
+            <al>overwegende dat naast de overheid ook de verschillende maatschappelijke sectoren zoals universiteiten en hogescholen en het openbaar vervoer een grote verantwoordelijkheid dragen om dit heel snel een halt toe te roepen;</al>
+            <al>voorts overwegende dat het kabinet naar aanleiding van de motie-Bikker c.s. (<extref doc="kst-30950-380" soort="document" status="actief">30 950, nr. 380</extref>) middels een Catshuisoverleg een eerste stap heeft gezet richting een brede maatschappelijke aanpak van antisemitisme in navolging van de initiatiefnota-Ellian/Bikker, maar dat snel een concreet vervolg nodig is;</al>
+            <al>verzoekt de regering om zo snel mogelijk een vervolgsessie van het Catshuisoverleg te organiseren, met als doel om concrete afspraken te maken samen met in elk geval vertegenwoordigers uit het onderwijs, het openbaar vervoer en het lokaal bevoegd gezag die de veiligheid van de Joodse gemeenschap bevorderen en aanmoedigen om overal in Nederland op te staan tegen antisemitisme,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Ellian</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

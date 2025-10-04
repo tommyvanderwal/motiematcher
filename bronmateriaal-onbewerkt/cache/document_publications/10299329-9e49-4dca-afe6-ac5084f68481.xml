@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32645-149/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 645</dossiernr>
+      </dossiernummer>
+      <titel>Kernenergie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">149</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat opslag van kernafval in zoutkoepels een bovengronds terrein van minimaal 2,5 vierkante kilometer vereist;</al>
+            <al>overwegende dat mogelijke opslag in de Groninger zoutkoepels grote ruimtelijke gevolgen heeft, waaronder het feit dat het centrum van Pieterburen direct boven de zoutkoepel ligt;</al>
+            <al-groep>
+              <al>overwegende dat dit kan leiden tot gedeeltelijke afbraak van Pieterburen en</al>
+              <al>daarmee in strijd is met de plannen voor de toekomst van de provincie</al>
+              <al>Groningen in het kader van het programma Nij begun;</al>
+            </al-groep>
+            <al>verzoekt de regering de Groninger zoutkoepels Pieterburen, Onstwedde en Bourtange definitief te schrappen van de lijst van mogelijke opslagplaatsen voor kernafval,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Grinwis</al>
+              <al>Teunissen</al>
+              <al>Kröger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

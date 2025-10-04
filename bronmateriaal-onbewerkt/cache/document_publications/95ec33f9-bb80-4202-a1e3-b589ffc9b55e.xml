@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26150-214/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 150</dossiernr>
+      </dossiernummer>
+      <titel>Algemene Vergadering der Verenigde Naties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">214</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-12">12 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat VN-resolutie 2758 uit 1971 zich uitspreekt over de status van de Volksrepubliek China, maar niet oordeelt dat de Volksrepubliek China soevereiniteit over Taiwan geniet en ook niet oordeelt over de toekomstige deelname van Taiwan aan de Verenigde Naties of andere internationale organisaties;</al>
+            <al>constaterende dat deze resolutie door de Volksrepubliek China wordt ingezet om vertegenwoordiging van Taiwan te blokkeren;</al>
+            <al>overwegende dat ook Nederland belang heeft bij vertegenwoordiging van Taiwan in organisaties als ICAO en de WHO;</al>
+            <al>overwegende dat het toelaten van dergelijke vertegenwoordiging van Taiwan geen obstakel hoeft te vormen voor het Nederlandse één-Chinabeleid;</al>
+            <al>overwegende dat onder andere in Australië al is besloten niet mee te gaan in de nieuwe interpretatie gebruikt door de Volksrepubliek China;</al>
+            <al>verzoekt de regering te erkennen dat VN-resolutie 2758 niet oordeelt over de toekomstige deelname van Taiwan aan de VN of andere internationale organisaties, dit tijdens de Algemene Vergadering van de Verenigde Naties actief uit te dragen en te pleiten voor vertegenwoordiging van Taiwan in voornoemde organisaties;</al>
+            <al>verzoekt de regering tevens om steun te zoeken voor deze lijn binnen de EU,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>De Roon</al>
+              <al>Van der Lee</al>
+              <al>Van der Burg</al>
+              <al>Kahraman</al>
+              <al>Vermeer</al>
+              <al>Boswijk</al>
+              <al>Teunissen</al>
+              <al>Van Baarle</al>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+              <al>Dassen</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

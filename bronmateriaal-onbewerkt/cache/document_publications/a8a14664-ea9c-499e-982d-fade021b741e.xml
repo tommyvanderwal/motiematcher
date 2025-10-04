@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-305/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">305</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOEKKOEK EN THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-28">28 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de huidige manier van produceren tot grote gezondheidsproblemen en klimaatschade leidt;</al>
+            <al>overwegende dat de gezondheid van omwonenden prioriteit moet hebben in de maatwerkafspraken en de klimaatdoelen gehaald moeten worden;</al>
+            <al>overwegende dat harde eisen voor een afbouwpad voor aardgas noodzakelijk zijn om te verduurzamen en deze nu ontbreken;</al>
+            <al>verzoekt de regering als harde voorwaarde in de maatwerkafspraken op te nemen dat Tata Steel verplicht wordt voor de productie of inkoop van ruwijzer in fase 1 een toenemend aandeel duurzaam te realiseren, waarbij gebruikgemaakt wordt van het bijmengen van groene waterstof, oplopend naar 100% met duurzame energie geproduceerd ruwijzer uiterlijk in 2037,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koekkoek</al>
+              <al>Thijssen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

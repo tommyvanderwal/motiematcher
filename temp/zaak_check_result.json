@@ -1,0 +1,7 @@
+{
+  "zaak_id": "375255bb-81a9-4b76-b041-a2419604af6c",
+  "urls": {
+    "guid": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Zaak(guid'375255bb-81a9-4b76-b041-a2419604af6c')",
+    "plain": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/Zaak('375255bb-81a9-4b76-b041-a2419604af6c')"
+  }
+}

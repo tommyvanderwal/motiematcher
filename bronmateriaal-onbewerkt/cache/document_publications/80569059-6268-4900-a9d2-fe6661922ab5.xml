@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-761/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">761</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aanvullende seksuele gezondheidszorg (ASG) een cruciale rol speelt met het mogelijk maken van laagdrempelige, gratis en, indien gewenst, anonieme soa-zorg voor hoogrisicogroepen en seksualiteitshulpverlening aan jongeren tot en met 25 jaar, die een drempel ervaren om naar de huisarts te gaan;</al>
+            <al>constaterende dat de ASG-subsidie sinds 2015 is geplafonneerd, ondanks de stijgende vraag;</al>
+            <al>constaterende dat door de beperkte financiering slechts 50% van de doelgroep geholpen kan worden;</al>
+            <al>verzoekt de regering het budget voor de ASG aan te vullen zodat de gehele doelgroep geholpen kan worden en dit te financieren uit de prijsbijstelling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

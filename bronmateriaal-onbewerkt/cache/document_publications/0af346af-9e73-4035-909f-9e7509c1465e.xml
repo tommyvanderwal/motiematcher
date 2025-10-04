@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-91/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">91</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BAMENGA EN VEDDER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat stoppen met het gebruik van de trillingstool staat opgenomen in Nij begun;</al>
+            <al>constaterende dat diverse Groningers in het verleden onterecht schadeherstel is ontzegd als gevolg van het gebruik van de trillingstool;</al>
+            <al>constaterende dat de trillingstool tot op de dag van vandaag gebruik wordt binnen het IMG;</al>
+            <al>overwegende dat in enkele gevallen de trillingstool als aanvullende maatregel positief uitvalt;</al>
+            <al>verzoekt de regering de trillingstool voortaan alleen nog maar in te zetten als aanvullende maatregel, en alleen wanneer het resultaat positief uitvalt voor de schadeopmeting van Groningers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

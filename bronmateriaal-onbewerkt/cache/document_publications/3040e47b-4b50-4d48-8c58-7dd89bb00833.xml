@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35867-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 867</dossiernr>
+      </dossiernummer>
+      <titel>Parlementaire enquête fraudebeleid en dienstverlening</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STULTIENS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-15">15 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat de overheid er alles aan moet doen om te voorkomen dat een volgend schandaal morgen weer kan gebeuren;</al>
+            <al>overwegende dat een ruime Kamermeerderheid van links tot rechts de analyse, conclusies en aanbevelingen uit het rapport heeft onderschreven (<extref doc="kst-35867-9" soort="document" status="actief">35 867, nr. 9</extref>);</al>
+            <al>constaterende dat het kabinet sommige aanbevelingen van de commissie vooruitschuift, sommige aanbevelingen verder onderzoekt en sommige aanbevelingen vooralsnog weigert uit te voeren;</al>
+            <al>van mening dat hiermee geen recht wordt gedaan aan het belangrijke werk van de enquêtecommissie en dat er niet alles aan gedaan wordt om een volgend schandaal te voorkomen;</al>
+            <al>verzoekt de regering om de kabinetsreactie voor 1 april 2025 aan te vullen op bovenstaande punten en daarbij het advies van de Staatscommissie rechtsstaat te betrekken;</al>
+            <al>verzoekt de regering om daarna twee keer per jaar een voortgangsrapportage te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stultiens</al>
+              <al>Dijk,</al>
+              <al>Inge van Dijk</al>
+              <al>Van Eijk</al>
+              <al>Van Baarle</al>
+              <al>Koekkoek</al>
+              <al>Sneller</al>
+              <al>Kostić</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

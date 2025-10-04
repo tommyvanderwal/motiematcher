@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29509-78/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 509</dossiernr>
+      </dossiernummer>
+      <titel>Palliatieve zorg </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">78</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zeven op de tien verpleegkundigen, verzorgenden en verpleegkundig specialisten minstens één keer per maand problemen ervaart met de levering van hulpmiddelen;</al>
+            <al-groep>
+              <al>verzoekt de regering om voor Prinsjesdag met een brede aanpak van deze problemen te komen, waarbij onder andere wordt gekeken naar:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het opzetten van één aanvraagloket voor hulpmiddelen uit de verschillende zorgwetten en het verminderen van de bureaucratie;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voorraden van essentiële spoedhulpmiddelen bij zorgorganisaties;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>één meldpunt voor problemen met hulpmiddelen, waarbij er ook serieus aan de slag wordt gegaan met de meldingen,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

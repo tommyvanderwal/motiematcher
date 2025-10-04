@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36377-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 377</dossiernr>
+      </dossiernummer>
+      <titel>Regels over een bestuursrechtelijke aanpak van online kinderpornografisch materiaal (Wet bestuursrechtelijke aanpak online kinderpornografisch materiaal)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat online kindermisbruik een van de meest verwoestende vormen van criminaliteit is, die krachtig bestreden moet worden;</al>
+            <al>constaterende dat online kindermisbruik een grensoverschrijdende vorm van criminaliteit is en dat een effectieve aanpak per definitie een grensoverschrijdend karakter heeft;</al>
+            <al>overwegende dat zowel de opsporingsinstanties als de ATKM effectiever en intensiever moeten samenwerken met partners in andere landen, waaronder het delen van relevante gegevens en het uitwisselen van best practices zoals de monitor van de TU Delft;</al>
+            <al>verzoekt het kabinet zo spoedig mogelijk, parallel aan de instelling van een EU-centrum ter voorkoming en bestrijding van seksueel kindermisbruik, met een integraal plan te komen om de samenwerking met andere landen te intensiveren en daarbij in te zetten op het maken van nadere afspraken over gegevensuitwisseling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

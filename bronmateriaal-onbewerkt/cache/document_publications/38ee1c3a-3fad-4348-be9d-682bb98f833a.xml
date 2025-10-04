@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32852-390"/>
+      <meta name="OVERHEIDop.ondernummer" content="390"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32852"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Kostic en Bamenga over de plasticafdracht op producenten verhalen om de plastic-heffing deels af te dekken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Grondstoffenvoorzieningszekerheid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Grondstoffenvoorzieningszekerheid; Motie; Motie van de leden Kostic en Bamenga over de plasticafdracht op producenten verhalen om de plastic-heffing deels af te dekken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 852</dossiernr>
+         </dossiernummer>
+         <titel>Grondstoffenvoorzieningszekerheid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">390</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KOSTIĆ EN BAMENGA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de Plastic Tafel op zoek moest naar een alternatief voor de plastic-heffing van 567 miljoen op producenten, maar daar niet in is geslaagd;</al>
+                  <al>overwegende dat het kabinet de 567 miljoen nu wil ophalen via een verhoging van de CO2-heffing en de afvalstoffenbelasting;</al>
+                  <al>overwegende dat met deze heffing de belasting voor een groot deel op het bordje van de Nederlandse burger, het mkb en de recyclers komt te liggen;</al>
+                  <al>overwegende dat het daarmee geen duurzaamheidsmaatregel is, maar een platte belasting die circulariteit zelfs in de weg zit en het draagvlak voor afvalscheiding en recycling ondermijnt;</al>
+                  <al>overwegende dat Nederland jaarlijks een plasticafdracht aan de EU doet en dat uit de algemene middelen financiert, en dat het daarmee eigenlijk een fossiele plasticsubsidie is;</al>
+                  <al>overwegende dat buurlanden zoals Frankrijk en Duitsland de plasticafdracht verhalen op plasticproducenten en daarmee laten zien dat het anders kan;</al>
+                  <al>verzoekt de regering de 567 miljoen niet enkel bij de afvalsector te heffen, maar om deze opgave te verdelen over de gehele keten;</al>
+                  <al>verzoekt de regering de plasticafdracht op producenten te verhalen, zodat de plastic-heffing deels afgedekt wordt en de vervuiler betaalt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kostić</al>
+                     <al>Bamenga</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

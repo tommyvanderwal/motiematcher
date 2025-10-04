@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28362-76/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 362</dossiernr>
+      </dossiernummer>
+      <titel>Reikwijdte van artikel 68 Grondwet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">76</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de behoefte aan ontspannen contact tussen ambtenaren en Kamerleden aanwezig is maar dit slechts zeer beperkt en niet rechtstreeks mogelijk is, via de parlementair contactpersoon;</al>
+            <al>constaterende dat in de Aanwijzingen inzake externe contacten van rijksambtenaren nog steeds is opgenomen dat ambtenaren zich beperken tot het verstrekken van feitelijke informatie en zich onthouden van het uitdragen van persoonlijke beleidsopvattingen;</al>
+            <al>van mening dat dit een onwenselijke en onnodige beperking is, omdat het voor het werk en de controlerende taken van volksvertegenwoordigers juist heel nuttig kan zijn te horen hoe het er in de uitvoeringspraktijk echt aan toe gaat, een mening over het beleid of de uitwerking daarvan te vernemen of de verschillende beleidsopties uitgelegd te krijgen, en dat dit prima mogelijk is met behoud van de ministeriële verantwoordelijkheid en eventuele geheimhoudingsplichten die op ambtenaren rusten;</al>
+            <al>verzoekt de regering de mogelijkheden te verruimen, zodat ambtenaren zich tijdens het contact met Kamerleden niet slechts moeten beperken tot het verstrekken van feitelijke informatie, en hiertoe aanwijzing 4 van de Aanwijzingen inzake externe contacten van rijksambtenaren te schrappen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Chakor</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

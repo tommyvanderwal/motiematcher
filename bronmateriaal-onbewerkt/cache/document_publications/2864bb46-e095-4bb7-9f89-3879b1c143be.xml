@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-335/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">335</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de natuur in slechte staat is, het land op slot zit en de boeren in onzekerheid zitten;</al>
+            <al>overwegende dat er decentrale overheden zijn die aan het werk zijn met ruimtelijke instrumenten om stikstofemissies zo snel mogelijk te laten dalen, zoals die in Gelderland, die werkt aan zonering rond de Natura 2000-gebieden;</al>
+            <al>overwegende dat medeoverheden dit niet alleen kunnen en ruimtelijke instrumenten, zoals instructieregels, maatwerkvoorschriften en andere instrumenten, grondige voorbereiding behoeven;</al>
+            <al>overwegende dat aspecten als de manier van toepassing, de onderbouwing en eventuele nadeelcompensatie essentieel zijn bij de voorbereiding;</al>
+            <al-groep>
+              <al>verzoekt de regering de ruimtelijke instrumenten voor te bereiden, zodat het</al>
+              <al>Rijk exact weet wat er nodig is om deze decentrale overheden te ondersteunen bij de acute inzet van ruimtelijke instrumenten,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

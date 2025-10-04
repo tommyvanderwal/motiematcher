@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32140-241"/>
+      <meta name="OVERHEIDop.ondernummer" content="241"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32140"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Haage en Stultiens over onderzoek naar invoering in Nederland van een minimumbelasting van 2% op vermogens boven 100 miljoen euro"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.C.J. Stultiens"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.W. Haage"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Herziening Belastingstelsel"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-23"/>
+      <meta name="DC.title" scheme="" content="Herziening Belastingstelsel; Motie; Motie van de leden Haage en Stultiens over onderzoek naar invoering in Nederland van een minimumbelasting van 2% op vermogens boven 100 miljoen euro"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Belasting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 140</dossiernr>
+         </dossiernummer>
+         <titel>Herziening Belastingstelsel</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">241</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN HAAGE EN STULTIENS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-23">23 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er brede steun in de Kamer is voor een wereldwijde minimumbelasting van zeer vermogende personen;</al>
+                  <al>constaterende dat er bij de G20 in Brazilië een voorstel op tafel lag voor een wereldwijde minimumbelasting op vermogen van 2% voor vermogens boven 100 miljoen euro;</al>
+                  <al>verzoekt de regering in kaart te brengen hoe deze variant juridisch, budgettair en qua uitvoerbaarheid in Nederland ingevoerd zou kunnen worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Haage</al>
+                     <al>Stultiens</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

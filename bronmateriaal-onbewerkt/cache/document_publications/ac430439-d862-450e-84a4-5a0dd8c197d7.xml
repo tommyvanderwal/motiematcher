@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2874/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2874</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de honger in Gaza voortduurt, dat 30% van de kinderen in Noord-Gaza inmiddels ernstig ondervoed is, en het Internationaal Gerechtshof in Den Haag spreekt van hongersnood;</al>
+            <al>constaterende dat UNRWA als grootste hulpverleningsorganisatie ter plaatse onontbeerlijk is bij het verlichten van de nood op korte termijn en daarvoor meer hulp nodig heeft;</al>
+            <al>overwegende dat de Europese Commissie, veel landen en Europese bondgenoten (zoals Finland en Duitsland) de financiële steun weer hebben hervat en politieke steun voor UNRWA hebben uitgesproken;</al>
+            <al>verzoekt de regering de nodige steun aan UNRWA te bieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Dobbe</al>
+              <al>Piri</al>
+              <al>Van Baarle</al>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

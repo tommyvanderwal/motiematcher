@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36449-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 449</dossiernr>
+      </dossiernummer>
+      <titel>Vereenvoudiging van de banenafspraak en de quotumregeling voor mensen met een arbeidsbeperking (Wet banenafspraak)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE KORT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ondernemers tegen onnodige regelgeving en bureaucratie aanlopen bij het aannemen van mensen met een afstand tot de arbeidsmarkt;</al>
+            <al>constaterende dat werk- en/of vervoersvoorzieningen pas worden toegekend wanneer iemand een arbeidsovereenkomst heeft afgesloten;</al>
+            <al>overwegende dat een werkvoorziening van essentieel belang kan zijn als hulpmiddel in de zoektocht naar werk;</al>
+            <al>overwegende dat voor bepaalde beperkingen een vervoersvoorziening of mobiliteitstraining noodzakelijk is om te kunnen solliciteren of te starten met een stage;</al>
+            <al>overwegende dat mensen met een arbeidsbeperking ook zonder arbeidsovereenkomst eenvoudig toegang moeten kunnen krijgen tot de juiste hulpmiddelen;</al>
+            <al>overwegende dat de drempel voor een bedrijf om iemand aan te nemen met een afstand tot de arbeidsmarkt verlaagd wordt wanneer een potentiële werknemer al in het bezit is van een (voorwaardelijke) toekenning van zijn of haar noodzakelijke hulpmiddelen;</al>
+            <al>verzoekt de regering om de toekenning van werk- en/of vervoersvoorzieningen te herzien zodat potentiële werknemers met afstand tot de arbeidsmarkt eerder een baan kunnen vinden, en hierover de Kamer te informeren in het derde kwartaal van 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Kort</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

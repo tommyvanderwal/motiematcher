@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36637-5"/>
+      <meta name="OVERHEIDop.ondernummer" content="5"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Postma c.s. over het behouden van huurteams"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.E. de Hoop"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.M. Welzijn"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-25"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?; Motie; Motie van het lid Postma c.s. over het behouden van huurteams"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 637</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">5</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID POSTMA C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-25">25 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat met de uitbreiding van het wettelijk instrumentarium de afgelopen jaren huurders op papier goed beschermd zouden moeten zijn;</al>
+                  <al>constaterende dat in verschillende gemeenten huurteams afgeschaald worden of zelfs verdwijnen;</al>
+                  <al>overwegende dat in verschillende gemeenten huurteams de drempel verlagen voor huurders om aanspraak te maken op hun rechten en bescherming;</al>
+                  <al>overwegende dat huurteams huurders aan de voorzijde al zouden kunnen beschermen mits deze teams daartoe in staat gesteld worden;</al>
+                  <al>verzoekt de Minister om in te zetten op het behouden van huurteams en met hen in gesprek te gaan om te verkennen wat er nodig is om bescherming ook te kunnen bieden voordat huurders de dupe worden van malafide verhuurders,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Postma</al>
+                     <al>Welzijn</al>
+                     <al>Vijlbrief</al>
+                     <al>De Hoop</al>
+                     <al>Grinwis</al>
+                     <al>Beckerman</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

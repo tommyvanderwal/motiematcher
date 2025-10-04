@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36450-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 450</dossiernr>
+      </dossiernummer>
+      <titel>Regels omtrent de instelling van het Adviescollege toetsing regeldruk (Instellingswet Adviescollege toetsing regeldruk) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het ATR een wettelijke taak krijgt om de regering te adviseren over regeldrukeffecten en regeldrukkosten van voorgenomen wet- en regelgeving;</al>
+            <al>overwegende dat het verminderen van regeldruk structurele aandacht behoeft, onder andere omdat de aandacht voor het verminderen van regeldruk nog onvoldoende is geïnternaliseerd op departementen;</al>
+            <al>overwegende dat het daarom nuttig is dat het ATR zowel de Kamer als de regering middels een staat van de regeldruk periodiek informeert over (actuele) ontwikkelingen ten aanzien van regeldruk, specifieke knelpunten en aanbevelingen om regeldruk te verminderen;</al>
+            <al>verzoekt de regering het ATR te vragen om de Kamer jaarlijks een staat van de regeldruk te zenden, vergezeld van een kabinetsreactie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

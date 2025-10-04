@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-L-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>L</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Nationaal Groeifonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederlands en Europees leiderschap op het gebied van schone technologie essentieel is voor is voor het concurrentievermogen van de EU;</al>
+            <al>constaterende dat ambitieus klimaatbeleid dit technologisch leiderschap aanjaagt;</al>
+            <al>verzoekt de regering om bij de onderhandelingen voor de Voorjaarsnota in te zetten op een ambitieus pakket klimaatmaatregelen om zodanig onze leiderschapspositie op het terrein van schone technologie te behouden en te versterken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

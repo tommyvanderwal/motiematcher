@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3361/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3361</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Minister Faber aangaf «misschien een punt of een komma, maar niet meer dan dat» in reactie op de vraag of haar wetsvoorstellen aangepast worden naar aanleiding van het advies van de Raad van State;</al>
+            <al-groep>
+              <al>constaterende dat Geert Wilders over de Raad van State stelt «die ongekozen bureaucraten van de Raad van State» en «dat dit Hoge College van Staat de Nederlander niet op 1 zet»;</al>
+              <al>keurt de neerbuigende en respectloze uitingen van PVV'ers over de Raad van State af,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

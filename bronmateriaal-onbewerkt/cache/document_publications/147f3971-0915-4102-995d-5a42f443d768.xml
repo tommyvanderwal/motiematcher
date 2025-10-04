@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31409-474/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 409</dossiernr>
+      </dossiernummer>
+      <titel>Zee- en binnenvaart</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">474</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er uitzonderingen bestaan voor het lozen van giftige stoffen in zee, voor ladingrestanten van tankers of spoelwater van scrubbers;</al>
+            <al>overwegende dat buurlanden reeds een nationaal verbod op zeezwaaien hebben en ook een lozingsverbod voor spoelwater;</al>
+            <al>verzoekt de regering om zich actief in te zetten voor aanscherping van het internationale lozingsverbod van schadelijke stoffen;</al>
+            <al>verzoekt de regering om op korte termijn het lozen van schadelijke stoffen in en rond de Nederlandse Natura 2000-gebieden te verbieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Hoop</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

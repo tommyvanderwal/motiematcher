@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-149/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">149</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN FLACH EN ZEEDIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet een procedure heeft opgesteld voor de coördinatie van de verdeling van de rijkswerkgelegenheid, maar dat hiermee nog geen duidelijkheid bestaat over de vraag of, hoe en wanneer de rijkswerkgelegenheid daadwerkelijk meer evenredig wordt verdeeld over de provincies;</al>
+            <al>constaterende dat in het verleden door middel van beleidsnota's concreet is gestuurd op een evenredige spreiding van de rijkswerkgelegenheid over de provincies, maar dat dit in de afgelopen decennia te weinig is gebeurd en dat concrete acties nodig zijn om de zeer onevenredige verdeling van de rijkswerkgelegenheid in de komende jaren te corrigeren;</al>
+            <al>verzoekt de regering een actieplan met concrete doelstellingen op te stellen om te komen tot een meer evenredige verdeling van de rijkswerkgelegenheid over de provincies,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Zeedijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

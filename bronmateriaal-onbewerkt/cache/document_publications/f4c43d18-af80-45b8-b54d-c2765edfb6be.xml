@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1288/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1288</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN  </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is om de lijst van mogelijk illegale algoritmen niet te delen met de Kamer (Kamerstuk <extref doc="kst-32761-310" soort="document" status="actief">32 761, nr. 310</extref>), vanwege het nieuwe inzicht dat er geen specifieke wetgeving nodig is voor het maken van geautomatiseerde risicoselecties (op basis van profilering) wanneer eventuele gevolgen voor betrokkene(n) van selectie pas intreden na betekenisvolle menselijke tussenkomst;</al>
+            <al>van mening dat dit nieuwe inzicht de regering niet ontslaat van de verantwoordelijkheid om informatieverzoeken van de Kamer niet onbeantwoord te laten;</al>
+            <al>verzoekt de regering om een lijst van alle algoritmen waarbij eventuele gevolgen voor betrokkenen van selectie intreden zonder betekenisvolle menselijke tussenkomst te delen met de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

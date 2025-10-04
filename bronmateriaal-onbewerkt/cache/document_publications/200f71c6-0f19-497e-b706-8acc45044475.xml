@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-134/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">134</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SIX DIJKSTRA C.S. </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de NCTV en de politie volgens de ADR onvoldoende maatregelen getroffen hebben om staatsgeheimen te beschermen tegen buitenlandse spionage, waardoor grote hoeveelheden staatsgeheime informatie van de AIVD en MIVD gedurende lange tijd konden lekken naar de Marokkaanse inlichtingendienst;</al>
+            <al>constaterende dat de impact van dit lek nog steeds niet volledig in beeld is, waardoor circa 200 USB-sticks met daarop mogelijk staatsgeheime informatie nog steeds kwijt zijn;</al>
+            <al-groep>
+              <al>overwegende dat buitenlandse mogendheden staatsgeheime informatie kunnen gebruiken om Nederlandse burgers onder druk te zetten of op een</al>
+              <al>andere manier de Nederlandse belangen te schaden;</al>
+            </al-groep>
+            <al>overwegende dat het betreffende lek de bereidwilligheid van partnerlanden om inlichtingen met Nederland te delen onder druk kan zetten;</al>
+            <al>verzoekt de regering te komen tot een volledige damage and impact assessment, waarbij in kaart gebracht wordt welke gegevens mogelijk gelekt zijn bij de NCTV en het CTER-cluster van de politie en wat de potentiële gevolgen daarvan voor Nederland zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Van der Werf</al>
+              <al>Mutluer</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

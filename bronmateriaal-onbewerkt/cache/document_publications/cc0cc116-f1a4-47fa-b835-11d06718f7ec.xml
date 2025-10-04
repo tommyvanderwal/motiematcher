@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31209-255/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 209</dossiernr>
+      </dossiernummer>
+      <titel>Schoon en zuinig</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">255</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat van de materialen om huizen en commerciële gebouwen te bouwen slechts 8% is gewonnen uit gebruikte materialen en dat 88% van het bouw- en sloopafval wordt hergebruikt of gerecycled in laagwaardige toepassingen;</al>
+            <al>constaterende dat circulaire materialen vaak duurder zijn in aanschaf;</al>
+            <al>verzoekt de regering onderzoek te doen naar de mogelijkheden om het hergebruik en de recycling van bouwmaterialen financieel aantrekkelijker te maken dan virgin bouwmaterialen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

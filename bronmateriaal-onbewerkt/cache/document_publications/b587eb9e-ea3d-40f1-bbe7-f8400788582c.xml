@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31497-484/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 497</dossiernr>
+      </dossiernummer>
+      <titel>Passend onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">484</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat samenwerkingsverbanden een belangrijke positie innemen in het zorg- en onderwijsondersteuningsstelsel dat ten grondslag ligt aan passend onderwijs en de doorverwijzing naar gespecialiseerd onderwijs;</al>
+            <al>constaterende dat er nooit gestuurd is op verzorgingsgebied bij de oprichting van samenwerkingsverbanden en er daardoor grote verschillen zijn ontstaan;</al>
+            <al>constaterende dat samenwerkingsverbanden zelf mogen kiezen welk model van ondersteuning en financiering zij hanteren, waardoor er grote verschillen zijn ontstaan;</al>
+            <al>overwegende dat meer uniformiteit in de praktijk zal leiden tot meer duidelijkheid in het veld en meer grip op resultaten;</al>
+            <al>overwegende dat duidelijke sturing vanuit de overheid op de positie van samenwerkingsverbanden en de uitvoering van taken door samenwerkingsverbanden kan leiden tot betere en meer meetbare resultaten;</al>
+            <al>verzoekt de regering de werking en positie van de samenwerkingsverbanden te herzien, te sturen op één ondersteunings- en financieringsmodel met heldere kaders en duidelijke wettelijke taken, en te komen tot een minder gefragmenteerde spreiding over het land,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1014/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1014</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er grote capaciteitstekorten zijn in de tbs-klinieken en een uitbreiding van de capaciteit van groot belang is, naast andere maatregelen, zoals het verbeteren van de doorstroom;</al>
+            <al>van mening dat het leveren van forensische zorg in strafrechtelijk kader prioritair de verantwoordelijkheid is van het Rijk en dat privatiseringen risico's met zich meebrengen in het kader van continuïteit, inspraak, invloed en stabiliteit van de forensische zorg;</al>
+            <al>verzoekt de regering om met concrete plannen te komen om het werk in de forensische zorg aantrekkelijker te maken om het personeelstekort terug te dringen;</al>
+            <al>verzoekt de regering voorts om meer regie en verantwoordelijkheid te nemen in het realiseren van voldoende plaatsen en het uitbreiden van de capaciteit in de forensische zorg,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

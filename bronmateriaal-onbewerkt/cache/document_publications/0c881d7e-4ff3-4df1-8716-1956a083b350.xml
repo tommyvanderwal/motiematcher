@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-67/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">67</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN OUWEHAND EEN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-01">1 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Tweede Kamer in 2020 en 2023 een streep heeft gezet door het EU-Mercosur-verdrag, onder meer omdat dit verdrag leidt tot een forse toename van oneerlijke concurrentie voor Europese boeren, omdat er in het verleden is gesjoemeld met de veiligheid van voor de export naar Europa bestemd vlees en omdat het verdrag leidt tot extra ontbossing van de Amazone;</al>
+            <al>overwegende dat bij een EU-Mercosur-verdrag waar de landbouw onderdeel van is de fundamentele risico's voor Nederlandse boeren, de voedselveiligheid en de Amazone hoe dan ook zullen blijven bestaan;</al>
+            <al>overwegende dat Nederlandse boeren er, zeker in deze tijden, op zouden moeten kunnen rekenen dat het kabinet hen beschermt tegen oneerlijke concurrentie van buitenaf;</al>
+            <al-groep>
+              <al>overwegende dat besluitvorming in de Raad mogelijk al snel plaatsvindt;</al>
+              <al>verzoekt het kabinet bij de Europese Commissie en in de Raad klip-en-klaar duidelijk te maken dat Nederland in ieder geval een EU-Mercosur-verdrag waarin de landbouw is opgenomen zal blokkeren;</al>
+            </al-groep>
+            <al>verzoekt het kabinet tevens voor deze positie actief steun te vergaren bij de andere lidstaten en uiterlijk in de eerste week na het voorjaarsreces verslag te doen aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ouwehand</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

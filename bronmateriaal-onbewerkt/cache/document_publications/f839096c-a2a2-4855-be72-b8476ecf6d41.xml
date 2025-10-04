@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-933/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">933</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID UITERMARK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister heeft aangegeven dat door personeelstekorten in de gevangenissen een groeiende groep veroordeelden hun straf niet meer kan uitzitten;</al>
+            <al>overwegende dat de Minister aangeeft dat de recente stop op de zelfmeldprocedure nog langere tijd zal voortduren, waardoor 1.800 mensen die een gevangenisstraf moeten gaan uitzitten, dat voorlopig niet kunnen doen;</al>
+            <al>overwegende dat de Minister maatregelen voorbereidt om de door de rechter opgelegde gevangenisstraffen niet volledig uit te voeren en zelfs gedetineerden eerder naar huis te sturen;</al>
+            <al>overwegende dat dit ongeoorloofde maatregelen zijn die rechtstreeks te maken hebben met een ernstig tekort in de detentiecapaciteit;</al>
+            <al>van mening dat de juiste maatregelen nodig zijn om de ernstige capaciteitsproblemen in de gevangenissen snel op te lossen en dat een breed noodplan daarvoor noodzakelijk is;</al>
+            <al>verzoekt de Minister om geen nieuwe maatregelen in te laten gaan voordat deze met de Kamer besproken zijn;</al>
+            <al>verzoekt de Minister om voor het meireces met een noodplan te komen om de detentiecapaciteit weer op orde te krijgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Uitermark</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3232/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3232</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-26">26 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het ambtsbericht Iran van september 2023 stelt dat in Iran een verdere verharding plaats heeft gevonden ten aanzien van zowel erkende als niet-erkende geloofsgemeenschappen, dat er meer druk wordt uitgeoefend op de leiders en leden van christelijke gemeenschappen en dat controle en monitoring verder toe zijn genomen;</al>
+            <al>constaterende dat christenen die actief zijn voor «nieuwe kerken» of evangeliseren, en leden van huiskerken die bijeenkomsten bijwonen in het landenbeleid niet meer als vervolgde groep beschouwd worden;</al>
+            <al>overwegende dat dit tot een grote verzwaring van de bewijslast leidt voor christenen die vanwege geloofsvervolging gevlucht zijn uit Iran;</al>
+            <al>verzoekt de regering de aanname van groepsvervolging voor christenen uit deze categorieën in stand te houden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Veldkamp</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

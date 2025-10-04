@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-25883-534"/>
+      <meta name="OVERHEIDop.ondernummer" content="534"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="25883"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kostic c.s. over een toxicologisch onderzoek naar de kans op kanker bij Schipholmedewerkers"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B. van Kent"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I.G. Saris"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Patijn"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Arbeidsomstandigheden"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Arbeidsomstandigheden; Motie; Motie van het lid Kostic c.s. over een toxicologisch onderzoek naar de kans op kanker bij Schipholmedewerkers"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Werk | Arbeidsomstandigheden"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>25 883</dossiernr>
+         </dossiernummer>
+         <titel>Arbeidsomstandigheden</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">534</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOSTIĆ C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Schipholmedewerkers volgens de Arbeidsinspectie al jaren in kankerverwekkende uitstoot werken en deze medewerkers in grote onzekerheid over hun gezondheid verkeren;</al>
+                  <al>constaterende dat Schipholmedewerkers samen met onder andere KWF, de gemeente Amsterdam en FNV de Staatssecretaris van SZW vragen om duidelijkheid door het RIVM toxicologisch onderzoek te laten uitvoeren naar de kans op kanker;</al>
+                  <al>constaterende dat ook de Schiphol Group de oproep van de Schipholmedewerkers steunt;</al>
+                  <al>constaterende dat de staatsecretaris het RIVM heeft gevraagd om te verkennen welke onderzoeken lopen en of deze onderzoeken de vragen die leven beantwoorden, en dat daarvoor op 5 september een bijeenkomst wordt georganiseerd;</al>
+                  <al>constaterende dat het RIVM in principe onderzoek kan (laten) uitvoeren naar de kans op kanker door blootstelling aan vliegtuigemissies;</al>
+                  <al>overwegende dat medewerkers van Schiphol al jaren vragen om zo'n onderzoek en het onwenselijk is om ze nog veel langer in onzekerheid te laten;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>als uit de bijeenkomst van 5 september blijkt dat de lopende onderzoeken onvoldoende zijn om antwoord te geven op de vragen die leven bij werknemers, FNV en maatschappelijke organisaties, het RIVM zo spoedig mogelijk opdracht te geven om een voorstel uit te werken voor een toxicologisch onderzoek naar de kans op kanker bij Schipholmedewerkers door blootstelling aan vliegtuigemissies, waarbij onder andere dosis-responsrelaties tussen kerosine-uitstoot en kanker worden meegenomen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de Kamer over de invulling en voortgang actief op de hoogte te houden,</al>
+                        </li>
+                     </lijst>
+                     <al>Kostić</al>
+                     <al>Patijn</al>
+                     <al>Saris</al>
+                     <al>Van Kent</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

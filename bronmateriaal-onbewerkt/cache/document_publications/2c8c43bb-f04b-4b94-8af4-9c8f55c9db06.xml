@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24170-335/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 170</dossiernr>
+      </dossiernummer>
+      <titel>Gehandicaptenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">335</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet het doel heeft om in 2040 toegankelijk te zijn, in overeenstemming met het VN-verdrag;</al>
+            <al>constaterende dat Nederland een forse waarschuwing heeft gekregen van de VN-commissie, die stelt dat er te weinig concreet wordt gedaan en het tempo te laag ligt;</al>
+            <al>overwegende dat de Staatssecretaris van VWS de coördinerende bewindspersoon is, maar verbeteringen op ieder ministerie noodzakelijk zijn;</al>
+            <al>verzoekt de regering om in het kader van de op te stellen werkagenda per ministerie een inventarisatie te maken om aan de doelstellingen uit de nationale strategie in 2040 te voldoen en na te gaan wat dit betekent voor wetgeving en dit samen met een concrete tijdsplanning naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Krul</al>
+              <al>Dobbe</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

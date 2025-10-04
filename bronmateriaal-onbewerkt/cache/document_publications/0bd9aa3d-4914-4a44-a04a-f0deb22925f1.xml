@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1371/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1371</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRAUS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Staatsbosbeheer al decennialang zwaar dierenleed veroorzaakt bij dieren in en uit de Oostvaardersplassen;</al>
+            <al>voorts constaterende dat Staatsbosbeheer dieren die er van nature niet thuishoren, heeft geplaatst, verplaatst en nooit heeft ingegrepen middels geboortebeperking;</al>
+            <al>verzoekt de regering het doden zonder medische noodzaak te voorkomen en Staatsbosbeheer te verplichten passende opvang voor de resterende konikspaarden te faciliteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Graus</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

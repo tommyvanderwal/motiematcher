@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36470-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 470</dossiernr>
+      </dossiernummer>
+      <titel>Najaarsnota 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-19">19 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in 2023 een forse onderuitputting is op wijkverpleging van in totaal ruim 800 miljoen euro;</al>
+            <al>constaterende dat er sinds 2015 jaarlijks een onderuitputting op wijkverpleging plaatsvindt;</al>
+            <al>van mening dat de personeelstekorten in de wijkverpleging gedeeltelijk kunnen worden weggenomen door de salarissen te verhogen en daarmee het werk aantrekkelijker te maken;</al>
+            <al>verzoekt de regering de onderuitputting in 2023 in te zetten voor een eenmalige bonus voor het personeel in de wijkverpleging;</al>
+            <al>verzoekt de regering met een plan te komen om onderuitputting in de wijkverpleging te voorkomen door de salarissen structureel te verhogen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

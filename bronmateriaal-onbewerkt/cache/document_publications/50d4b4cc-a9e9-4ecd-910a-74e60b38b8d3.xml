@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-661/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">661</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN JOSEPH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-24">24 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat werkgevers een grote verantwoordelijkheid dragen om de arbeidsomstandigheden voor hun werknemers te verbeteren om hen duurzaam inzetbaar te houden;</al>
+            <al>overwegende dat de subsidieregeling duurzame inzetbaarheid en vervroegd uittreden werkgevers ertoe aanzet gerichte verbeteringen in de arbeidsomstandigheden door te voeren maar hier geen afdwingbaarheid aan zit;</al>
+            <al>verzoekt de regering doelstellingen uit te werken om werkgevers in sectoren met zware beroepen aantoonbaar verantwoordelijk te houden voor hun inspanningen om hun werknemers duurzamer inzetbaar te maken, en de Kamer hierover medio 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Joseph</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

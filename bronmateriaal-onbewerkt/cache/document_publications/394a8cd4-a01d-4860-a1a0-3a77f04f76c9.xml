@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36243-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 243</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren, de Wet op de Raad van State en enige andere wetten in verband met enkele wijzigingen in het belang van integere, onafhankelijke en onpartijdige rechtspraak, alsmede de regeling van enige andere onderwerpen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de rechtspraak momenteel geen eigen begroting heeft maar onderdeel is van de begroting van het Ministerie van Justitie en Veiligheid;</al>
+            <al>overwegende dat het positieve effecten heeft op de onafhankelijkheid en ook zuiverder is als de rechtspraak als onafhankelijke staatsmacht over een eigen begroting beschikt;</al>
+            <al>overwegende dat ook de Raad voor de rechtspraak eerder heeft aangegeven het een weeffout te vinden dat het huishoudboekje van de Minister leidend is voor de ambities en de kwaliteit van de rechtspraak en dat risico groter is in de huidige structuur;</al>
+            <al>verzoekt de regering een wetsvoorstel voor te bereiden om te komen tot een aparte begroting voor de rechtspraak, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

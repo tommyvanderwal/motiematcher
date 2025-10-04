@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29861-135/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 861</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmigratie en sociale zekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">135</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOON C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de boetes voor bedrijven die werknemers uit het buitenland illegaal tewerkstellen, momenteel ontoereikend zijn, zoals aangegeven door de Nederlandse Arbeidsinspectie;</al>
+            <al>constaterende dat in 90% van de gevallen de boetes binnen een jaar kunnen worden terugverdiend, en dat dit in 7 van de 24 onderzochte situaties zelfs binnen drie maanden of minder gebeurt;</al>
+            <al>overwegende dat de huidige boetes onvoldoende afschrikwekkend zijn en daardoor geen effectief middel vormen om illegale arbeid tegen te gaan;</al>
+            <al>overwegende dat de maximale boete in 2005 is vastgesteld op € 8.000;</al>
+            <al>verzoekt de regering om zo spoedig mogelijk te bewerkstelligen dat de genoemde boetes met terugwerkende kracht worden geïndexeerd, en de Kamer te informeren over de tijdsplanning hiervan, uiterlijk voorafgaand aan de behandeling van de SZW-begroting voor 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boon</al>
+              <al>Van Oostenbruggen</al>
+              <al>Aartsen</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

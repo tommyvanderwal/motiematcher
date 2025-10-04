@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-XIII-74"/>
+      <meta name="OVERHEIDop.ondernummer" content="74"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-XIII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Inge van Dijk over een beleidsinstrumentarium dat de financiële baten van publieke investeringen kwantificeert"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025; Motie; Motie van het lid Inge van Dijk over een beleidsinstrumentarium dat de financiële baten van publieke investeringen kwantificeert"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>XIII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">74</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Nederland de Europese 3%-doelstelling niet zal halen bij ongewijzigd beleid;</al>
+                  <al>constaterende dat deze daling mede het gevolg is van bezuinigingen op publieke R&amp;D, zoals het beëindigen van de vierde en vijfde ronde van het Nationaal Groeifonds;</al>
+                  <al>constaterende dat zonder investeringen in R&amp;D onze economische basis verder onder druk komt te staan, wat ook onze publieke voorzieningen raakt;</al>
+                  <al>constaterende dat een recent advies van het Internationaal Monetair Fonds (IMF) benadrukt dat publieke uitgaven aan R&amp;D in een kenniseconomie niet enkel als kosten, maar ook als investeringen moeten worden gezien;</al>
+                  <al>verzoekt de regering een beleidsinstrumentarium te ontwikkelen dat de financiële baten van publieke investeringen op korte, middellange en lange termijn kwantificeert;</al>
+                  <al>verzoekt de regering hierbij tevens relevante deskundigheid uit de praktijk in te zetten, zoals onderzoeksinstellingen of praktijkexperts,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Inge van Dijk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

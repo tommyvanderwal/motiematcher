@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-799/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">799</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de tijd waarna vrouwen weer worden uitgenodigd voor het bevolkingsonderzoek borstkanker 24 maanden hoort te zijn, maar dit in praktijk inmiddels gemiddeld 28 maanden is;</al>
+            <al>overwegende dat dit levensgevaarlijk kan zijn voor vrouwen, omdat borstkanker hierdoor soms te laat wordt ontdekt;</al>
+            <al>overwegende dat vrouwen die het geld daarvoor hebben binnen enkele dagen een borst-MRI kunnen krijgen bij een private aanbieder;</al>
+            <al>verzoekt de regering om in gesprek te treden met private aanbieders van borstscans om te kijken of hun capaciteit op korte termijn tijdelijk tegen redelijke tarieven kan worden ingezet om de wachttijden voor het bevolkingsonderzoek terug te brengen tot 24 maanden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

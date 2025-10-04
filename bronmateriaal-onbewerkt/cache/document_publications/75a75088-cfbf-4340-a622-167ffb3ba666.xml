@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-07-2020/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>07</raadnr></dossiernummer>
+      <titel>Raad voor Economische en Financiële Zaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2020</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID MOOIMAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 2018</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in Europa stemmen opgaan om de Herstel- en Veerkrachtfaciliteit (HVF) mogelijkerwijs te verlengen dan wel gelijksoortige nieuwe instrumenten op te richten;</al>
+            <al>overwegende dat de HVF nadrukkelijk bedoeld was als een uniek, eenmalig en tijdelijk crisisinstrument in het kader van de coronacrisis;</al>
+            <al>verzoekt de regering een duidelijk signaal af te geven dat Nederland geen voorstander is en geen goedkeuring zal geven aan eventuele verlengingsverzoeken van de HVF dan wel nieuwe instrumenten gebaseerd op de HVF,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mooiman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33835-236/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 835</dossiernr>
+      </dossiernummer>
+      <titel>Nederlandse Voedsel- en Warenautoriteit (NVWA)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">236</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij importcontroles van voedselproducten alleen het Nationaal Referentie Laboratorium Wageningen Food Safety Research geaccrediteerd is voor het uitvoeren van de vereiste residu-analyses en andere testen, terwijl de Europese regelgeving ruimte biedt om ook private laboratoria hiervoor te accrediteren en in te schakelen;</al>
+            <al>overwegende dat het betrokken Belgische agentschap wel tientallen private laboratoria, waaronder zelfs Nederlandse laboratoria, voor genoemde testen geaccrediteerd heeft;</al>
+            <al>overwegende dat de tarieven van private laboratoria voor de verplichte testen substantieel lager liggen dan de tarieven van Wageningen Food Safety Research;</al>
+            <al>van mening dat zo veel mogelijk voorkomen moet worden dat door een ongelijk speelveld handelsstromen van voedselproducten verlegd worden naar de haven van Antwerpen en andere Europese havens;</al>
+            <al>verzoekt de regering private laboratoria die voldoen aan de kwaliteitsstandaarden die behoren bij de genoemde Europese regelgeving de mogelijkheid te geven zich te accrediteren voor de genoemde testen bij de import van vers voedsel, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Van der Plas</al>
+              <al>Graus</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

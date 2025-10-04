@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1186/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1186</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ZEEDIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat kunstmatige intelligentie en andere datatoepassingen van toenemend belang zijn voor het oplossen van maatschappelijke uitdagingen, voor onze brede welvaart en voor de Nederlandse concurrentiepositie en strategische autonomie;</al>
+            <al>overwegende dat de energieconsumptie en de aanspraak op het energienet van datacenters groeit;</al>
+            <al>overwegende dat fotonicatechnologie een significante reductie van elektriciteitsverbruik van een datacenter kan opleveren, zeker als Nederland als eerste de productie van dergelijke nieuwe chips weet op te schalen;</al>
+            <al>overwegende dat grote datacenters kunnen worden vervangen door kleinere datacenters en dataopslag in lokale apparaten, op te laden middels lokale groene energiebronnen, gebruikmakend van edgecomputingconcepten;</al>
+            <al>verzoekt de regering uiterlijk Q4 2024 een visie op datacenters in Nederland te ontwikkelen met keuzescenario's voor verschillende bredewelvaartsafwegingen voor energieverbruik, netcongestie, ruimtegebruik en de digitaliseringsopgave, en daarin expliciet de routekaarten voor fototonica en edgecomputingtechnologie in Nederland mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Zeedijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

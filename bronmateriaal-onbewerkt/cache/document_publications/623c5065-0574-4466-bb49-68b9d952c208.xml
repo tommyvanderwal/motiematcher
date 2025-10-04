@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33561-71/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 561</dossiernr>
+      </dossiernummer>
+      <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">71</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat na de onlangs mislukte tender voor offshore wind Denemarken alle lopende aanbestedingen voor offshore windenergie stopzet, omdat het land vaststelt dat subsidievrije tenders onder de huidige marktomstandigheden niet werken;</al>
+            <al>overwegende dat ook in Nederland de huidige marktomstandigheden met de gestegen (kapitaal)kosten en voorwaarden waaronder wind op zee wordt getenderd op z'n minst uitdagend en waarschijnlijk niet goed genoeg zijn;</al>
+            <al>overwegende dat het invoeren van tweezijdige contracts for difference een veelbelovende oplossingsrichting is, maar dat het tijd vergt deze door te voeren;</al>
+            <al>verzoekt de regering de Kamer nog dit kwartaal te informeren over hoe de later dit jaar te openen tender voor wind op zee zodanig wordt vormgegeven dat de kans van slagen groter wordt, waarbij wordt ingegaan op zaken als het tijdelijk geclausuleerd onderbrengen van wind op zee in de SDE++-regeling en het bevorderen van de vraag, en tevens het tijdpad te schetsen op weg naar het realiseren van een langetermijnoplossing voor wind op zee met behulp van contracts for difference,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Kröger</al>
+              <al>Bontenbal</al>
+              <al>Rooderkerk</al>
+              <al>Erkens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

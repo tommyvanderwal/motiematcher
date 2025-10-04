@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN OOSTENBRUGGEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de rijksbegrotingen van 2022, 2023 en 2024 tekorten voorspelden van respectievelijk 21,3 miljard, 29,6 miljard en 31,7 miljard euro;</al>
+            <al>constaterende dat er in 2022 uiteindelijk een sluitende jaarrekening was;</al>
+            <al>constaterende dat er in 2023 een klein tekort van 3,5 miljard euro was;</al>
+            <al>constaterende dat het CBS meldt dat er over de eerste zes maanden van 2024 zelfs een overschot is van 7,8 miljard euro;</al>
+            <al-groep>
+              <al>constaterende dat er wel grote eenmalige tegenvallers waren (zoals het prijsplafond), maar geen grote eenmalige meevallers (bijvoorbeeld een grote privatisering) om dit te verklaren;</al>
+              <al>constateert dat de ramingen er structureel tientallen miljarden naast zaten, dat dit in het verleden niet gebeurde en in omliggende landen ook niet gebeurt;</al>
+            </al-groep>
+            <al>verzoekt de Algemene Rekenkamer op grond van artikel 7.23 van de Comptabiliteitswet 2016 een onderzoek in te stellen naar de oorzaken van de grote verschillen tussen de ramingen van het begrotingstekort en de uitkomsten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Oostenbruggen</al>
+              <al>Tony van Dijck</al>
+              <al>Vermeer</al>
+              <al>Aukje de Vries</al>
+              <al>Inge van Dijk</al>
+              <al>Van der Lee</al>
+              <al>Eerdmans</al>
+              <al>Flach</al>
+              <al>Vijlbrief</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

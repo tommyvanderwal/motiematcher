@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36180-142"/>
+      <meta name="OVERHEIDop.ondernummer" content="142"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36180"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Bamenga c.s. over het programma gericht op veiligheid en stabiliteit in de Grote Merenregio voortzetten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.H. Hirsch"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.C. de Korte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Teunissen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Koekkoek"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Stoffer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Doen waar Nederland goed in is - Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="Doen waar Nederland goed in is - Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking; Motie; Motie van het lid Bamenga c.s. over het programma gericht op veiligheid en stabiliteit in de Grote Merenregio voortzetten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 180</dossiernr>
+         </dossiernummer>
+         <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">142</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat in de beleidsbrief ontwikkelingshulp staat aangegeven dat het programma gericht op veiligheid en stabiliteit in de Grote Merenregio zal worden beëindigd;</al>
+                  <al>overwegende dat de veiligheidssituatie in de Grote Merenregio, en met name in Congo, snel verslechtert, met duizenden doden sinds begin dit jaar en ernstige mensenrechtenschendingen zoals massamoorden op christenen en geweld tegen vrouwen;</al>
+                  <al>verzoekt de regering het programma gericht op veiligheid en stabiliteit in de Grote Merenregio binnen het bestaande budget voor ontwikkelingssamenwerking voort te zetten en mee te nemen in de uitwerking van de beleidsbrief,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bamenga</al>
+                     <al>Boswijk</al>
+                     <al>Stoffer</al>
+                     <al>Ceder</al>
+                     <al>Dobbe</al>
+                     <al>Koekkoek</al>
+                     <al>Teunissen</al>
+                     <al>Van Baarle</al>
+                     <al>De Korte</al>
+                     <al>Hirsch</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

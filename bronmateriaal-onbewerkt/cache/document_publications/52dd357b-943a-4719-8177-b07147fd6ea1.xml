@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2038/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2038</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de geopolitieke situatie door Nederland en Europa wordt aangewend om de defensiebudgetten te verhogen, te investeren in de wapenindustrie en de controle op wapenexport los te laten;</al>
+            <al>overwegende dat Nederland en Europa hiermee deelnemen aan een wapenwedloop en deze wapenwedloop de kans op duurzame vrede verkleint;</al>
+            <al>spreekt uit dat een wapenwedloop onwenselijk is en moet worden voorkomen;</al>
+            <al>verzoekt de regering zich in VN-verband hard te maken voor een internationale vredesconferentie met als doel de-escalatie en ontwapening, kernontwapening en het versterken van het internationale recht,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

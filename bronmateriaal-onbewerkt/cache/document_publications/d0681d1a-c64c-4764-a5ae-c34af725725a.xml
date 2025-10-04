@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-59/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">59</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HIRSCH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet pleiten en beïnvloeden in Nederland én op internationaal niveau niet meer wil financieren uit het nieuwe beleidskader voor samenwerking met maatschappelijke organisaties;</al>
+            <al>constaterende dat het kabinet daarentegen onverminderd werk wil maken van het beschermen én promoten van mensenrechten;</al>
+            <al>overwegende dat het kabinet inzet op het versterken van zuidelijke organisaties;</al>
+            <al>overwegende dat internationaal pleiten en beïnvloeden noodzakelijk is voor bijvoorbeeld het bevorderen van vrouwenrechten en het tegengaan van schadelijke praktijken zoals meisjesbesnijdenis en kindhuwelijken;</al>
+            <al>verzoekt de regering om pleiten en beïnvloeden op internationaal niveau als instrument in het beleid voor samenwerking met maatschappelijke organisaties op te blijven nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hirsch</al>
+              <al>Bamenga</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

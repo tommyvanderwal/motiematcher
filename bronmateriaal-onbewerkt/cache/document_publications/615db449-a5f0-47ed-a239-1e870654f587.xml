@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2903/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2903</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BREKELMANS EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat China met grootschalige militaire oefeningen rondom Taiwan de druk richting Taiwan opvoert en grenzen stapsgewijs verlegt;</al>
+            <al>van mening dat de status quo rond Taiwan dient te worden gehandhaafd en Chinese acties om de status quo te wijzigen dienen te worden ontmoedigd;</al>
+            <al>overwegende dat meer Europese eensgezindheid nodig is ten aanzien van Taiwan;</al>
+            <al>verzoekt de regering zich in te spannen voor een gezamenlijke inzet van de EU of een groep gelijkgezinde Europese landen voor het handhaven van de status quo rond Taiwan en het intensiveren van de samenwerking met Taiwan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Brekelmans</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-52/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">52</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het MIRT-onderzoek naar de Nedersaksenlijn een potentieel tracé in kaart heeft gebracht met een ingroeimodel waarvan de investeringskosten op € 1,7 miljard geraamd worden;</al>
+            <al>overwegende dat de Nedersaksenlijn niet alleen bijdraagt aan reistijdverkorting, maar ook leidt tot extra woningbouw, economische ontwikkeling en verbetering van de leefbaarheid in Oost-Groningen en Drenthe, en daarmee een perfect voorbeeld is van «elke regio telt»;</al>
+            <al>overwegende dat het in de rede ligt de benodigde middelen voor de reservering voor een MIRT-verkenning naar de Nedersaksenlijn niet alleen te zoeken binnen het Mobiliteitsfonds, maar ook uit andere bronnen te dekken, zoals de aanvullende middelen voor bereikbaarheid en woningbouw uit het hoofdlijnenakkoord en regionale economische structuurversterking;</al>
+            <al>verzoekt de regering tot een breed interdepartementaal financieringsvoorstel voor een MIRT-verkenning Nedersaksenlijn te komen om samen met bijdragen van de brede regio een MIRT-verkenning naar de Nedersaksenlijn te kunnen starten, en de Kamer hierover voor de zomer van 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>De Hoop</al>
+              <al>Bamenga</al>
+              <al>Stoffer</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

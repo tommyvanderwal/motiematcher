@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33529-1226/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 529</dossiernr>
+      </dossiernummer>
+      <titel>Gaswinning</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1226</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Groningers zich als een wingewest gevoeld hebben;</al>
+            <al>constaterende dat er volgens de regering meerdere methoden zijn om Groningen te helpen hier bovenop te komen zonder dat de provincie opnieuw een wingewest wordt voor de rest van het land;</al>
+            <al>overwegende dat deze methoden niet van bovenaf opgelegd moeten worden, maar dat de provincie de leiding moet krijgen met betrekking tot het perspectief;</al>
+            <al>overwegende dat het door de provincie concretiseren van de aanpak zal helpen met de uitvoering van, en vertrouwen in, Nij begun;</al>
+            <al>verzoekt de regering om met het bestuur van de provincie Groningen dialogen te starten waarbij de raden en Staten in de provincie de ruimte krijgen om invloed uit te oefenen op en te bespreken welke methode het meest passend is en recht doet aan de belangen van haar inwoners en hier kaders voor te stellen;</al>
+            <al>verzoekt de regering om de uitkomsten van deze dialogen als uitgangspunten te nemen in de verdere uitwerking van Nij begun, en de provincie Groningen te ondersteunen met de uitvoering waar dat kan en wenselijk is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

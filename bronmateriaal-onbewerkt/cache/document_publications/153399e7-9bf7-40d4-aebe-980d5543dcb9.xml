@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-109/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">109</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de voorgenomen verhoging van de kansspelbelasting niet alleen risicovolle kansspelen in casino's en online raakt, maar ook de goede doelen en sportloterijen;</al>
+            <al>overwegende dat als gevolg van de maatregelen naar inschatting van onderzoeksbureau Atlas dergelijke loterijen 15 miljoen euro minder zullen afdragen aan sport en 7 miljoen euro minder aan goede doelen, wat een zeer ongewenst maatschappelijk effect heeft;</al>
+            <al>overwegende dat de Kamer bij het Belastingplan 2024 heeft verzocht om differentiatie in de kansspelbelasting, en dat dit budgetneutraal bereikt kan worden door het systeem van brutering zoals dat vóór 2008 van toepassing was opnieuw in te voeren;</al>
+            <al>overwegende dat er ook andere mogelijkheden voor een tariefdifferentiatie kunnen worden onderzocht, of het elders beleggen in de uitvoering, zoals bij de Kansspelautoriteit;</al>
+            <al>verzoekt de regering om voor de Voorjaarsnota in kaart te brengen wat de verschillende opties en uitvoeringsimplicaties zijn voor tariefdifferentiatie in de kansspelbelasting, waaronder tijdelijke handmatige uitvoering van de brutering per 2026, en uitvoering door een andere uitvoerder zoals de Kansspelautoriteit,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Vijlbrief</al>
+              <al>Stoffer</al>
+              <al>Van Eijk</al>
+              <al>Grinwis</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

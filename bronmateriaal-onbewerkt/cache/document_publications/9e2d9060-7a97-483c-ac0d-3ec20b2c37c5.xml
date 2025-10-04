@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28362-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 362</dossiernr>
+      </dossiernummer>
+      <titel>Reikwijdte van artikel 68 Grondwet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat artikel 68 van de Grondwet bepaalt dat Ministers en staatssecretarissen verplicht zijn de Kamer of een individueel Kamerlid de gevraagde inlichtingen te verstrekken, tenzij dit in strijd is met het belang van de Staat;</al>
+            <al>constaterende dat de term «belang van de Staat» in de praktijk wisselend wordt geïnterpreteerd en dat Kamerleden hierdoor hun controlerende taak niet altijd goed kunnen uitvoeren;</al>
+            <al>constaterende dat wanneer het verstrekken van gevraagde stukken met een beroep op het belang van de Staat wordt geweigerd, dit regelmatig onvoldoende wordt onderbouwd;</al>
+            <al>verzoekt de regering om conform de unaniem aangenomen motie-Omtzigt c.s. (<extref doc="kst-28362-25" soort="document" status="actief">28 362, nr. 25</extref>) te herbevestigen dat op grond van artikel 68 een individueel Kamerlid specifieke documenten binnen een redelijke termijn moet kunnen ontvangen, tenzij het belang van de Staat zich hiertegen verzet, en dat dit laatste dan adequaat dient te worden gemotiveerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Chakor</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

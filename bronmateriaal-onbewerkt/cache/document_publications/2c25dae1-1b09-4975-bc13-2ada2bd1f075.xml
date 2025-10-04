@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31288-1221"/>
+      <meta name="OVERHEIDop.ondernummer" content="1221"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31288"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden El Abassi en Ergin over universiteiten steunen die studiebeurzen willen verlenen aan studenten uit Gaza"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.A. Ergin"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. el Abassi"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid; Motie; Motie van de leden El Abassi en Ergin over universiteiten steunen die studiebeurzen willen verlenen aan studenten uit Gaza"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Hoger onderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Onderzoek en wetenschap"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 288</dossiernr>
+         </dossiernummer>
+         <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1221</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN EL ABASSI EN ERGIN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat studenten uit Gaza getroffen zijn door de genocide en er geen enkele universiteit in Gaza meer over is;</al>
+                  <al>overwegende dat enkele universiteiten in Nederland al studiebeurzen verstrekken aan studenten uit Gaza, wat aantoont dat er draagvlak en bereidheid is;</al>
+                  <al>verzoekt de regering Nederlandse universiteiten die studiebeurzen willen verlenen aan studenten uit Gaza actief te steunen en te faciliteren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>El Abassi</al>
+                     <al>Ergin</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

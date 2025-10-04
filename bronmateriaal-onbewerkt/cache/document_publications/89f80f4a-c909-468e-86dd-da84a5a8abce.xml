@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32623-342/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 623</dossiernr>
+      </dossiernummer>
+      <titel>Actuele situatie in Noord-Afrika en het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">342</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KAHRAMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een groot deel van de Syrische bevolking afhankelijk is van humanitaire hulp;</al>
+            <al>constaterende dat deze hulp etnische en religieuze minderheden, zoals christenen en alevieten, vaak nauwelijks bereikt;</al>
+            <al>constaterende dat de Europese Unie 5,8 miljard euro beschikbaar heeft gesteld voor het Midden-Oosten, specifiek ook voor Syrië;</al>
+            <al>verzoekt de regering om in Europees verband specifiek voor deze minderheden (christenen, alevieten, druzen, Koerden, etc.) humanitaire hulp beschikbaar te stellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kahraman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

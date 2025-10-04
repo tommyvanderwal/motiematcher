@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31209-251/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 209</dossiernr>
+      </dossiernummer>
+      <titel>Schoon en zuinig</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">251</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in de voorgestelde MilieuPrestatie Gebouwen (MPG) sprake is van onevenwichtige voordelen voor materialen die in de verre toekomst (75–100 jaar) vermeende klimaat- en milieuvoordelen bij «end of life» mogen aftrekken van emissies die nu worden gerealiseerd;</al>
+            <al>overwegende dat de toepassing van deze methode kan leiden tot hogere emissies nu, wat de door de Minister toegezegde hogere wegingsfactor op de Global Warming Potential (GWP) teniet zal doen;</al>
+            <al>overwegende dat deze omissie wordt veroorzaakt door module D, als onderdeel van de MPG-score, een eenpuntsscore te laten zijn;</al>
+            <al>verzoekt de regering module D geen onderdeel te laten uitmaken van de MPG,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Gabriëls</al>
+              <al>Grinwis</al>
+              <al>Kostić</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

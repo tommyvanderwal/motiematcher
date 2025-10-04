@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36667-28"/>
+      <meta name="OVERHEIDop.ondernummer" content="28"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-25"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36667"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Krul en Ceder over de maatschappelijke diensttijd als begeleidingsinstrument voor jongeren met een afstand tot de arbeidsmarkt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter bevordering van de kansengelijkheid middels verbetering van de begeleiding naar duurzame economische zelfstandigheid van jongeren met een risico op een afstand tot de arbeidsmarkt (Wet van school naar duurzaam werk)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-24"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter bevordering van de kansengelijkheid middels verbetering van de begeleiding naar duurzame economische zelfstandigheid van jongeren met een risico op een afstand tot de arbeidsmarkt (Wet van school naar duurzaam werk); Motie; Motie van de leden Krul en Ceder over de maatschappelijke diensttijd als begeleidingsinstrument voor jongeren met een afstand tot de arbeidsmarkt"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Beroepsonderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 667</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Wet educatie en beroepsonderwijs en enkele andere wetten ter bevordering van de kansengelijkheid middels verbetering van de begeleiding naar duurzame economische zelfstandigheid van jongeren met een risico op een afstand tot de arbeidsmarkt (Wet van school naar duurzaam werk)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">28</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KRUL EN CEDER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-24">24 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Wet van school naar duurzaam werk als doel heeft jongeren met een afstand tot de arbeidsmarkt begeleiding en ondersteuning te bieden bij het vinden van duurzaam werk;</al>
+                  <al>overwegende dat de maatschappelijke diensttijd bepaalde jongeren met een afstand tot de arbeidsmarkt kan helpen in het hervinden van vertrouwen, het bieden van structuur en het opdoen van werk en/of stage-ervaring;</al>
+                  <al>overwegende dat de maatschappelijke diensttijd een positieve bijdrage kan leveren aan de ontwikkeling van deze jongeren en het de slagingskans van de Wet van school naar duurzaam werk kan vergroten;</al>
+                  <al>verzoekt de regering te bezien hoe de maatschappelijke diensttijd ingezet kan worden als begeleidingsinstrument om jongeren met een afstand tot de arbeidsmarkt te begeleiden in het kader van de Wet van school naar duurzaam werk,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Krul</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-115/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">115</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BECKERMAN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 100</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Tweede Kamer al sinds 2018 aandacht vraagt voor de problemen die gedupeerden hebben met de Belastingdienst als gevolg van schadeloosstellingen die zij ontvangen;</al>
+            <al>constaterende dat gedupeerden nog steeds naar vijf verschillende loketten worden verwezen als zij problemen krijgen met toeslagen, vrijstellingen en belastingen en dat gedupeerden hierin vastlopen;</al>
+            <al>voorts constaterende dat deze problemen voor bijvoorbeeld gedupeerden in het toeslagenschandaal wel worden voorkomen door schadevergoedingen niet aan te merken als vermogen;</al>
+            <al>verzoekt de regering, problemen die gedupeerden ervaren met belastingen en kwijtscheldingen te voorkomen en aan te pakken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Bushoff</al>
+              <al>Kostić</al>
+              <al>Bikker</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29984-1224/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 984</dossiernr>
+      </dossiernummer>
+      <titel>Spoor: vervoer- en beheerplan</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1224</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de NS haar dienstregeling heeft uitgebreid met 1.600 extra treinen per week om het aantal reizigers te stimuleren, terwijl de betaalbaarheid van de trein achterblijft;</al>
+            <al>overwegende dat uitbreiding van het aanbod weinig effect heeft als mensen de treinprijzen niet kunnen betalen;</al>
+            <al>verzoekt de regering om in overleg met de NS prioriteit te geven aan betaalbaarheid van treinkaartjes,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22054-442/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 054</dossiernr>
+      </dossiernummer>
+      <titel>Wapenexportbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">442</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de rechter heeft gevonnist dat Nederland uitvoer en doorvoer van F-35 onderdelen met eindbestemming Israël moet staken;</al>
+            <al>constaterende dat de Minister in antwoorden op schriftelijke vragen aangeeft dat er «geen afspraken» met andere landen zijn gemaakt over doorvoer naar Israël en het «niet duidelijk» is wie de eindgebruiker zal zijn van de onderdelen in het geval van uit- en doorvoer;</al>
+            <al>verzoekt de regering geen F-35 onderdelen uit te voeren tenzij kan worden uitgesloten dat deze in Israël terechtkomen en gebruikt worden voor mensenrechtenschendingen of oorlogsmisdaden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

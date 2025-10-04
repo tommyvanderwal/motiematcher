@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36625-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 625</dossiernr>
+      </dossiernummer>
+      <titel>Najaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat we momenteel 1,7 miljard euro aan accijnsinkomsten mislopen door smokkel en aankoop in het buitenland;</al>
+            <al>overwegende dat 57% van alle shag en 41% van de sigaretten over de grens gekocht wordt;</al>
+            <al>constaterende dat de uitwerking van het accijnsbeleid grote economische gevolgen heeft voor de grensregio's en ondernemers in de grensregio's;</al>
+            <al>constaterende dat er enorme scheefgroei is ontstaan in de accijnzen van Nederland en de buurlanden;</al>
+            <al>verzoekt de regering om de accijnzen voor tabak per 1 juli 2025 terug te brengen op het niveau van 1 april 2023,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36241-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 241</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet kinderopvang om aanspraak op kinderopvangtoeslag mogelijk te maken voor Oekraïense ontheemden gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG van de Raad van 20 juli 2001 en tot invoering van tijdelijke bescherming naar aanleiding daarvan en daarnaast ouders met een partner buiten de Europese Unie, de Europese Economische Ruimte of Zwitserland ook aanspraak op kinderopvangtoeslag te geven</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een groeiend tekort aan pedagogisch medewerkers is in de kinderdagopvang;</al>
+            <al>constaterende er onder de groep Oekraïense ontheemden ook mensen zitten met een diploma en/of werkervaring in de kinderopvang, maar dat zij door regelgeving niet gemachtigd zijn hun beroep uit te oefenen;</al>
+            <al>overwegende dat deze Oekraïense ontheemden door middel van training en/of door te werken onder supervisie van Nederlandse professionals wel aan het werk kunnen, door middel van bestaande initiatieven zoals het Ontwikkelpad kinderopvang;</al>
+            <al>overwegende dat de inzet van Oekraïense medewerkers in de kinderopvang kan bijdragen aan het creëren van een vertrouwde omgeving voor Oekraïense kinderen;</al>
+            <al>verzoekt het kabinet te bezien hoe Oekraïense pedagogische medewerkers zo snel mogelijk aan het werk kunnen voor het verminderen van de tekorten in de kinderdagopvang en het vergroten van arbeidsmogelijkheden voor Oekraïense vluchtelingen;</al>
+            <al>verzoekt het kabinet tevens te bezien hoe bestaande initiatieven gericht op Oekraïense ontheemden, zoals het Ontwikkelpad, kunnen worden versterkt en meer onder de aandacht kunnen worden gebracht, en hierover in gesprek te gaan met betrokken organisaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

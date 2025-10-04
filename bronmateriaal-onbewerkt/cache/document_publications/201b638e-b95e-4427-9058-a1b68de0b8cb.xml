@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-64/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">64</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat tolken en vertalers onmisbaar zijn voor de toegang tot het recht voor iedereen en een eerlijke rechtsgang;</al>
+            <al>constaterende dat de indexatie van de vergoedingen voor tolken en vertalers al geruime tijd achterloopt en er vanwege de lage tarieven nu al sprake is van ernstige krapte bij tolkendiensten in sommige talen;</al>
+            <al-groep>
+              <al>overwegende, dat er voldoende signalen zijn ontvangen waaruit blijkt dat de motie-Sneller/Ellian (<extref doc="kst-29936-69" soort="document" status="actief">29 936, nr. 69</extref>) niet wordt uitgevoerd, omdat gerechtstolken in de praktijk toch aanzienlijk financieel nadeel van het nieuwe systeem waarin wordt gewerkt (gaan) ondervinden;</al>
+              <al>herbevestigt de genoemde motie-Sneller/Ellian en verzoekt de regering de vergoedingssystematiek te veranderen en ervoor te zorgen dat tolken in verschillende situaties en lengtes van diensten er in ieder geval niet op achteruitgaan, maar er juist op vooruitgaan;</al>
+            </al-groep>
+            <al>verzoekt de regering voorts te bezien of voor vertalers de normregel met daaraan gekoppeld een reëel tarief naar Duits model kan worden ingevoerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Bikke</al>
+              <al>Lahlah</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

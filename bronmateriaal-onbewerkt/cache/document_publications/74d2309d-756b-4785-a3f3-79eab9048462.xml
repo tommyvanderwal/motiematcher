@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36672-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 672</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van de leden Omtzigt en Idsinga over «Realistisch ramen»</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van  <datum isodatum="2025-03-31">31 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Initiatiefnota realistisch ramen in beslispunt 9 verzoekt om te komen tot een Bureau Begroting en Verantwoording;</al>
+            <al>overwegende dat een dergelijk bureau, analoog aan de Congressional Budget Office in de VS, het parlement kan helpen om zijn grondwettelijke budgetrecht beter uit te oefenen;</al>
+            <al>overwegende dat het CBO in de VS over meer dan 230 fte beschikt en DAO in Nederland slechts over 5 fte (kenniscoördinatoren) beschikt die de financiële functie van de Tweede Kamer ondersteunt;</al>
+            <al>overwegende dat het kabinet erop wijst dat niet alleen de VS, maar ook Italië en Griekenland een dergelijk begrotingsbureau hebben;</al>
+            <al>verzoekt het presidium de inhoudelijke ondersteuning van de Kamer op het gebied van begrotingen met 5 fte uit breiden, deze 5 fte onder te brengen bij DAO, de commissie Financiën dan wel Rijksuitgaven, en hiertoe besluitvorming bij de Raming in juni voor te bereiden;</al>
+            <al>verzoekt het kabinet de daartoe benodigde middelen aan de Kamer te verschaffen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Vroonhoven</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

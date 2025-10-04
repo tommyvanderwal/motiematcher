@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1249/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1249</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat te vaak voorkomt dat jongeren hun bankrekening door criminelen laten gebruiken om geld over te maken of wit te wassen;</al>
+            <al>overwegende dat een groot deel van deze zogenaamde «geldezels» jongeren met schulden of met een licht verstandelijke beperking betreft;</al>
+            <al>overwegende dat deze geldezels vrijwel altijd gesnapt worden, vaak jarenlang geen bankrekening meer krijgen, in de schulden belanden en mogelijk in de criminaliteit blijven hangen;</al>
+            <al>overwegende dat er via het Centrum voor Criminaliteitspreventie en Veiligheid en de City Deal Lokale Weerbaarheid Cybercrime nu lokaal vier pilots worden uitgevoerd ten aanzien van de geldezels;</al>
+            <al>verzoekt de regering ervoor te zorgen dat er binnen de lokale pilots ruimte komt voor een inkeerregeling voor jonge geldezels, die moet voorkomen dat zij verder afglijden naar een criminele carrière,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

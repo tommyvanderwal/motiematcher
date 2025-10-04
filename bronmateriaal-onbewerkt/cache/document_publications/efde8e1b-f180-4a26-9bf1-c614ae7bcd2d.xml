@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1172/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1172</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de politie gebruikmaakt van gezichtsherkenningssoftware conform een zelf opgesteld «inzetkader gezichtsherkenningstechnologie», maar een formele juridische grondslag nog altijd ontbreekt;</al>
+            <al>constaterende dat uit de AVG reeds volgt dat de persoonlijke levenssfeer slechts per wet mag worden beperkt en hier een juridische grondslag voor nodig is;</al>
+            <al>van mening dat de belangenafweging voor het proportioneel inzetten van gezichtsherkenning een zware politieke keuze betreft en deze democratisch vastgestelde kaders vereist;</al>
+            <al>verzoekt de regering om een juridische grondslag te ontwikkelen met kaders voor het gebruik van gezichtsherkenning door de politie en de mate waarin andere rechten mogen worden ingeperkt;</al>
+            <al>verzoekt de regering om te bevorderen dat het gebruik van gezichtsherkenning bij de politie altijd is voorzien van een juridische grondslag, uitbreidingen zonder grondslag niet toe te staan, en nieuwe toepassingen verplicht op te nemen in het Algoritmeregister,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36666-5"/>
+      <meta name="OVERHEIDop.ondernummer" content="5"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36666"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Mohandis c.s. over het opstellen van een uitvoeringsagenda huisartsenzorg"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.E.M.C. (Daniëlle) Jansen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Bushoff “Stop de commercie, steun de huisarts. Een plan voor toekomstbestendige huisartsenzorg”"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-26"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Bushoff “Stop de commercie, steun de huisarts. Een plan voor toekomstbestendige huisartsenzorg”; Motie; Motie van het lid Mohandis c.s. over het opstellen van een uitvoeringsagenda huisartsenzorg"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 666</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Bushoff «Stop de commercie, steun de huisarts. Een plan voor toekomstbestendige huisartsenzorg»</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">5</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MOHANDIS C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-05-26">26 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het hebben van een vaste huisarts veel voordelen heeft, waaronder minder vervolgzorg, minder ziekenhuisbezoek en lagere zorgkosten;</al>
+                  <al>constaterende dat de huisartsenzorg zwaar onder druk staat en honderdduizenden mensen in Nederland op zoek zijn naar een vaste huisarts;</al>
+                  <al>constaterende dat het voor jonge huisartsen steeds lastiger wordt een praktijk te beginnen door hoge huisvestingskosten en toenemende werklast;</al>
+                  <al>overwegende dat in dat gat soms commerciële partijen springen die meerdere praktijken overnemen, met ongewenste effecten waarbij winstbejag boven het welzijn van patiënten wordt geplaatst;</al>
+                  <al>overwegende dat de initiatiefnota «Stop de commercie, steun de huisarts» van het lid Bushoff concrete voorstellen doet om deze problemen tegen te gaan;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om een uitvoeringsagenda huisartsenzorg op te stellen teneinde:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de voorstellen in de nota binnen de beschikbare mogelijkheden en de voorstellen in het aanvullend zorg- en welzijnsakkoord te implementeren;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>extra inzet te plegen op de voorstellen die volgens de Minister al staande praktijk zijn maar nog onvoldoende effect hebben;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>en de voortgang en implementatie van deze uitvoeringsagenda huisartsenzorg ieder jaar te delen met de Kamer,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Mohandis</al>
+                     <al>Diederik van Dijk</al>
+                     <al>Daniëlle Jansen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33529-1224/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 529</dossiernr>
+      </dossiernummer>
+      <titel>Gaswinning</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1224</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet een verkenning heeft laten uitvoeren naar een andere lustenverdeling bij mijnbouwactiviteiten en aangeeft dat een nieuw herverdeelmodel wenselijk kan zijn;</al>
+            <al>constaterende dat het demissionaire kabinet een keuze voor een nieuw herverdeelmodel echter aan een nieuw kabinet overlaat;</al>
+            <al>overwegende dat de lokale omgeving van Schoonebeek wel de lasten ervaart van de oliewinning, maar te weinig de lusten;</al>
+            <al>verzoekt de regering met betrekking tot Schoonebeek wel te besluiten tot een nieuw herverdelingsmodel, hierbij verschillende opties met ook een directe bijdrage van het Rijk te betrekken en deze opties aan de missionaire Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

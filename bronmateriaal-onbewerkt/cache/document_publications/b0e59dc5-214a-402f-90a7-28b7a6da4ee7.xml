@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33652-101/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 652</dossiernr>
+      </dossiernummer>
+      <titel>Spoorbeveiligingssysteem European Rail Traffic Management System (ERTMS)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">101</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet werkt aan een analyse van het overwegenbeleid in het kader van de Beleidsagenda Spoorveiligheid;</al>
+            <al>overwegende dat spoorveiligheid van groot belang is;</al>
+            <al>overwegende dat een goede balans moet worden gezocht tussen de veiligheidseisen van overwegen en de groei van het aantal treinen;</al>
+            <al>overwegende dat de huidige zogenaamde standstillregeling ertoe leidt dat toevoeging van extra of nieuwe treinen nagenoeg niet mogelijk is;</al>
+            <al>overwegende dat hiervoor kan worden onderzocht hoe een landelijk in plaats van locatiegestuurd beeld van spoorveiligheid kan bijdragen aan het maken van efficiënte keuzes voor de aanpak van overwegen;</al>
+            <al>overwegende dat vervoerders en reizigersorganisatie Rover goed zicht hebben op de mogelijkheden die hiervoor bestaan en dat zij input kunnen leveren voor de analyse waar de regering aan werkt;</al>
+            <al>verzoekt de regering om bij wijze van eerste stap begin 2025 met de spoorvervoerders en Rover in gesprek te treden om te inventariseren tot welke beperkingen het huidige overwegenbeleid leidt en wat daarvoor mogelijke oplossingen zijn, de Kamer daarover uiterlijk 1 mei 2025 te informeren en het te betrekken bij de evaluatie van de Beleidsagenda Spoorveiligheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

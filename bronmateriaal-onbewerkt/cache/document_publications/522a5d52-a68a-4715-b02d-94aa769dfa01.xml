@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1161/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1161</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor het bepalen van het optimale bestemmingennetwerk een algemene welvaartsbenadering wordt gehanteerd, gericht op een netwerk dat «het beste past bij Nederlandse consumenten en bedrijven» (IenW, 2020);</al>
+            <al>constaterende dat recent onderzoek tot de conclusie komt dat de huidige methodiek voor het vaststellen van netwerkkwaliteit niet de netto economische waarde van de connecties meet, rekening houdend met onder andere connectiviteit, maatschappelijke kosten etc.;</al>
+            <al>verzoekt de regering om het beleidskader netwerkkwaliteit zo te verbeteren dat het daadwerkelijk inzicht geeft in de bijdrage aan onze brede welvaart;</al>
+            <al>verzoekt de regering de netto economische waarde van bestemmingen te bepalen op basis van de werkelijke opbrengsten en kosten voor de Nederlandse economie op basis van luchtvaartdata, zoals de OAG-datasets,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Hoop</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

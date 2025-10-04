@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1032/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1032</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat noodmaatregelen, zoals vervroegde vrijlating van gedetineerden, momenteel noodzakelijk worden geacht om capaciteitsproblemen in het gevangeniswezen tijdelijk te verlichten;</al>
+            <al>overwegende dat het betreurenswaardig is dat dergelijke noodmaatregelen nodig zijn en dat de Staatssecretaris heeft aangegeven dat er honderden miljoenen euro's extra noodzakelijk zijn voor een solide en toekomstbestendig gevangeniswezen;</al>
+            <al>overwegende dat in het regeerakkoord expliciet is vastgelegd dat het kabinet structureel investeert in politie, justitie en opsporingsdiensten ter bestrijding van georganiseerde criminaliteit, inclusief de versterking van het gevangeniswezen;</al>
+            <al>van mening dat het uitblijven van voldoende structurele investeringen zou indruisen tegen de ambities uit het regeerakkoord en de urgentie die de Staatssecretaris zelf heeft benadrukt;</al>
+            <al>spreekt uit dat er, conform de afspraken in het regeerakkoord en de geschetste noodzaak, bij de Voorjaarsnota financiële middelen moeten worden vrijgemaakt om tot een duurzame oplossing voor de capaciteit in het gevangeniswezen te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Van Nispen</al>
+              <al>Koekkoek</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

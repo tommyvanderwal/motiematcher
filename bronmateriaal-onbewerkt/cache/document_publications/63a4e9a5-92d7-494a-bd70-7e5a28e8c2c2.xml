@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-68/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">68</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOOPS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aanvaarden van een strafbeschikking vergaande gevolgen kan hebben, zoals het krijgen van een strafblad, waardoor de betrokkene minder kans maakt op bijvoorbeeld een verklaring omtrent het gedrag of een reisvisum;</al>
+            <al>overwegende dat de informatie die schriftelijk wordt verstrekt als een strafbeschikking wordt aangeboden onvoldoende duidelijk maakt wat de rechten en positie van de betrokkene zijn en wat de gevolgen kunnen zijn als de strafbeschikking wordt aanvaard;</al>
+            <al>van mening dat betrokkenen proactief en expliciet moeten worden gewezen op de mogelijkheden van rechtsbescherming tegen een strafbeschikking en de consequenties van het al dan niet aanvaarden daarvan;</al>
+            <al>verzoekt de regering om in overleg te treden met het Openbaar Ministerie om ervoor te zorgen dat de schriftelijke informatie die het OM verstrekt aan ontvangers van een strafbeschikking expliciet en op de meest begrijpelijke wijze gaat bevatten wat de rechten en positie van de betrokkene zijn en wat de gevolgen zijn als de betrokkene de strafbeschikking aanvaardt, en dat dit een prominente plek in de brief krijgt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koops</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

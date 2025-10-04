@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-664/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">664</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de normen van de Kaderrichtlijn Water voor wat betreft nutriënten en gewasbeschermingsmiddelen, met name op uitspoelingsgevoelige gronden, nog te vaak overschreden worden;</al>
+            <al>overwegende dat de Kamer bij motie (<extref doc="kst-27858-587" soort="document" status="actief">27 858, nr. 587</extref>) de regering verzocht heeft het gebruik van gewasbeschermingsmiddelen in grondwaterbeschermingsgebieden te stoppen;</al>
+            <al>overwegende dat zowel provincies, waterschappen als gemeenten bevoegd zijn maatregelen te nemen of regels te stellen ten aanzien van bodem-, grondwater- en/of oppervlaktewaterkwaliteit;</al>
+            <al>verzoekt de regering de betrokken overheden, ofwel het betreffende bevoegd gezag, in gebieden waar sprake is van normoverschrijdingen, ertoe op te roepen bestaande regelgeving optimaal in te zetten en te benutten en adequate en effectieve maatregelen te treffen ten behoeve van waterkwaliteit en veiligheid voor mens, dier en milieu,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+              <al>Podt</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

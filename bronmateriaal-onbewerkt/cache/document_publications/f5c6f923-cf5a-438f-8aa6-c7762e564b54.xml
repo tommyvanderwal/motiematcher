@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35646-43/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 646</dossiernr>
+      </dossiernummer>
+      <titel>Regels voor het inzichtelijk maken van donaties ontvangen door maatschappelijke organisaties en tot het tegengaan van ondermijning door maatschappelijke organisaties, alsmede tot wijziging van het Burgerlijk Wetboek, de Handelsregisterwet 2007 en de Wet op de economische delicten in verband met het deponeren van de balans en de staat van baten en lasten door stichtingen (Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">43</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het wetsvoorstel Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties (Wtmo) ingrijpende wijzigingen heeft ondergaan, waaronder de introductie van een nieuw stakingsbevel;</al>
+            <al>overwegende dat deze wijzigingen significante gevolgen kunnen hebben voor de grondrechten van maatschappelijke organisaties, waaronder de vrijheid van vereniging, meningsuiting en godsdienst;</al>
+            <al>overwegende dat volgens artikel 4, lid 2, onder a.3 van het Reglement van orde voor de ministerraad en Aanwijzing 7.15, lid 2 van de Aanwijzingen voor de regelgeving, hernieuwde raadpleging van de Afdeling advisering van de Raad van State vereist is bij ingrijpende wijzigingen in een wetsvoorstel;</al>
+            <al>overwegende dat het noodzakelijk is om te laten toetsen of het wetsvoorstel in overeenstemming is met de constitutionele rechtsorde en de daarin verankerde grondrechten;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het wetsvoorstel opnieuw voor te leggen aan de Afdeling advisering van de Raad van State voor een hernieuwd advies over de juridische en grondrechtelijke consequenties van de aangebrachte wijzigingen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het wetsvoorstel vervolgens voor te leggen aan de tijdelijke commissie Grondrechten en constitutionele toetsing, zodat de Kamer zorgvuldig kan beoordelen of het voorstel in lijn is met de grondwettelijke principes en fundamentele vrijheden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de uitkomsten van deze toetsingen met de Kamer te delen voordat het wetsvoorstel opnieuw in behandeling wordt genomen,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

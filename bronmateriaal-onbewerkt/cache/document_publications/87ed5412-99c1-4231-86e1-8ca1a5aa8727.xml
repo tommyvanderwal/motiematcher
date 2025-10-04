@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-66/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">66</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er een proef gaande is waarbij de Dienst Toeslagen zelf de toeslag gaat aanpassen als de inkomsten afwijken van de opgegeven inkomsten om hoge terugvorderingen te voorkomen;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>aan de Kamer verslag uit te brengen van deze proef, inclusief de knelpunten;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voorstellen te doen om deze knelpunten op te lossen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een voorstel te doen waarbij deze proef verder wordt uitgerold om zo veel mogelijk in de actualiteit te werken en terugvorderingen te voorkomen:</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voor burgers zo inzichtelijk mogelijk te maken hoe de koppeling is met hun gegevens in de polisadministratie;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>daarover binnen een halfjaar te rapporteren aan de Kamer,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>Vijlbrief</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

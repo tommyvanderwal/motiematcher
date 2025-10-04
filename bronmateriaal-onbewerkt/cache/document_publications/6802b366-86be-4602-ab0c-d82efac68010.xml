@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29325-161/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 325</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijke Opvang </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">161</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat steeds meer mensen met een indicatie voor Wlz-ggz-zorg in daklozenopvang terechtkomen;</al>
+            <al>constaterende dat deze mensen vaak te maken hebben met multiproblematiek en geen passende zorg krijgen vanwege een tekort aan woonzorgplekken;</al>
+            <al>constaterende dat er vanuit verschillende ministeries werkagenda's zijn die raken aan dit onderwerp, zoals de Werkagenda Langdurige Zorg en de werkagenda samenhang reguliere ggz en forensische ggz;</al>
+            <al>verzoekt de regering om vanuit de verschillende werkagenda's en samen met zorgkantoren en gemeenten een noodplan te maken met het doel deze mensen passende woonvoorzieningen met langdurige zorg te bieden;</al>
+            <al>verzoekt de regering tevens zorgkantoren en gemeenten te ondersteunen in de concrete uitvoering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

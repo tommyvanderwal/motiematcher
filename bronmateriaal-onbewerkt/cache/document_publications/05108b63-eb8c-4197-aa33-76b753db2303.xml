@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3059/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3059</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN PATERNOTTE EN VAN CAMPEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 3047</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-18">18 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de meerderheid van de Kamer eerder heeft aangegeven een Nederlandse rol te zien om samen met NAVO-partners te zorgen voor de bescherming van naoorlogse stabiliteit in Oekraïne;</al>
+            <al>overwegende dat de Amerikaanse Minister van Defensie heeft aangegeven geen rol voor de NAVO noch voor de VS te zien bij het bewaken van de naoorlogse stabiliteit in Oekraïne, en daarbij specifiek heeft aangegeven dat een naoorlogse veiligheidsgarantie geleverd zal moeten worden door zowel Europese als niet-Europese landen;</al>
+            <al>overwegende dat de Europese NAVO-landen op dit moment niet de capaciteiten hebben om onafhankelijk van de VS op te treden als een duurzame naoorlogse vredesmacht in Oekraïne;</al>
+            <al>spreekt uit dat de Kamer, ook zonder NAVO-vlag, een actieve Nederlandse rol ziet in het waarborgen van de naoorlogse stabiliteit in Oekraïne, met inachtneming van reguliere en zorgvuldige besluitvorming;</al>
+            <al>verzoekt de regering om een constructieve houding aan te nemen ten aanzien van een Europese duurzame naoorlogse vredesmacht in Oekraïne, in samenwerking met andere trans-Atlantische bondgenoten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

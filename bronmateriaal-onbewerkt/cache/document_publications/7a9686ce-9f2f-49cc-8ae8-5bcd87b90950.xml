@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1369/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1369</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat onlineplatformen gegevens dienen uit te wisselen met de Belastingdienst in het kader van de maatregel DAC7;</al>
+            <al>overwegende dat fiscale wetgeving niet is veranderd, maar dat het desondanks voor burgers onduidelijk is wanneer zij inkomsten uit tweedehandsverkoop moeten opgeven, aangezien lastig vast te stellen is wanneer iemand ondernemer voor de inkomstenbelasting is;</al>
+            <al>verzoekt de regering te onderzoeken of extra controles met betrekking tot tweedehandsverkoop op onlineplatformen vermeden kunnen worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

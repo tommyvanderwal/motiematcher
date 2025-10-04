@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-827/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">827</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SARIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-16">16 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het UWV spreekt van het corrigeren van de gemaakte fouten in de dagloonberekening tussen 2020 en 2024;</al>
+            <al>overwegende dat het UWV als uitvoeringsorganisatie zich aan de wet dient te houden bij de uitvoering van de WIA;</al>
+            <al>overwegende dat het gaat om fouten met mogelijk grote gevolgen voor een groep mensen in een kwetsbare situatie door hun (gedeeltelijke) arbeidsongeschiktheid;</al>
+            <al>overwegende dat gemaakte fouten moeten worden hersteld door het UWV;</al>
+            <al>verzoekt de regering zich maximaal in te spannen om het UVW in geval van gemaakte fouten te laten komen tot een brief aan gedupeerden waarin ruiterlijk wordt erkend dat mensen onrecht is aangedaan en dat het UWV dit gaat herstellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Saris</al>
+              <al>Van Kent</al>
+              <al>Patijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

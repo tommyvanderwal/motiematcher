@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32620-295/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 620</dossiernr>
+      </dossiernummer>
+      <titel>Beleidsdoelstellingen op het gebied van Volksgezondheid, Welzijn en Sport</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">295</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BUSHOFF EN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat circa 500.000 volwassenen in Nederland mondzorg mijden om financiële redenen;</al>
+            <al>overwegende dat het mijden van mondzorg grote gevolgen heeft voor iemands gezondheid en vaak tot hogere zorgkosten in de toekomst leidt;</al>
+            <al>overwegende dat de Handreiking (acute en) noodzakelijke mondzorg voor financieel kwetsbare mensen aanbevelingen bevat om noodzakelijke basale mondzorg middels een universele aanvullende verzekering aan te bieden aan financieel kwetsbaren;</al>
+            <al>verzoekt de regering, in samenspraak met zorgverzekeraars, verschillende vormen van een universele aanvullende verzekering uit te werken en deze aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

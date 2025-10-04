@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1057/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1057</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat advocaten momenteel niet standaard uitgenodigd worden bij een jeugdbeschermingstafel en ouders hierdoor op achterstand staan, omdat ze in de eerste fase waar vergaande afspraken gemaakt worden onvoldoende bijstand hebben;</al>
+            <al>verzoekt de regering ervoor te zorgen dat wanneer een rechtzoekende uitgenodigd wordt bij de jeugdbeschermingstafel, deze er expliciet op wordt gewezen dat hij of zij een zelfgekozen advocaat mee mag nemen, waarbij ze, voor zover ze binnen de reikwijdte van de huidige regeling vallen, gebruik kunnen maken van kosteloze rechtsbijstand,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

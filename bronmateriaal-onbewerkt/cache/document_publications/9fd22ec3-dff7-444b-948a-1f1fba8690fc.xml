@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32013-300/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 013</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst financiële sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">300</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VERMEER EN AUKJE DE VRIES</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet niet kiest voor de tweede lidstaatoptie om tijdelijk met lagere risicogewichten voor woninghypotheken te rekenen;</al>
+            <al-groep>
+              <al>overwegende dat:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het ATR, het Adviescollege toetsing regeldruk, in zijn advies constateert dat geen gebruik wordt gemaakt van een minder belastend alternatief, wat zij dus definiëren als een nationale kop, en dat deze keuze onvoldoende gemotiveerd is;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in het hoofdlijnenakkoord is afgesproken om af te zien van nationale koppen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in de toelichting staat dat verliezen op Nederlandse hypotheken historisch laag zijn geweest afgelopen decennia en dat banken weerbaarder geworden zijn door mondiale hervormingen en beleid van toezichthouders;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>deze nationale kop een negatief effect kan hebben op de hoogte van de hypotheekrente, de beschikbaarheid van woninghypotheken en kredietverstrekking aan ondernemers;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering daarom deze nationale kop te voorkomen en alsnog te kiezen voor de tweede lidstaatoptie,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vermeer</al>
+              <al>Aukje de Vries</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

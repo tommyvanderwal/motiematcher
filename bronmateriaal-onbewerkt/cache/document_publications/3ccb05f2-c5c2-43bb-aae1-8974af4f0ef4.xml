@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-280/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">280</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat nu niet wettelijk is vastgelegd dat omgevingsdiensten en bevoegde gezagen verplicht aan de onderkant van de bandbreedte vanuit de BBT moeten vergunnen;</al>
+            <al>overwegende dat omwonenden van industrie en hun gezondheid het slachtoffer zijn op het moment dat de uitstoot van vervuilende industrie niet beperkt kan worden;</al>
+            <al>verzoekt de regering om wettelijk vast te leggen dat bevoegde gezagen verplicht aan de onderkant van de BBT-bandbreedtes moeten vergunnen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Gabriëls</al>
+              <al>Koekkoek</al>
+              <al>Van Kent</al>
+              <al>Kostić</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

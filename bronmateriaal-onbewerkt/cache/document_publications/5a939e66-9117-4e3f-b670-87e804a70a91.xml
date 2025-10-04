@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-V-58/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">58</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-14">14 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat nog steeds elke EU-lidstaat zijn eigen kostbare defensiebureaucratie, -systemen en -industrie heeft en dat we door dit gebrek aan standaardisatie weinig defensie krijgen voor veel geld;</al>
+            <al>constaterende dat de invasie van Oekraïne het defensiebeleid in het middelpunt van het EU-beleid heeft geplaatst;</al>
+            <al>van mening dat de Europese NAVO-lidstaten beter moeten gaan samenwerken, om zo een sterkere Europese pijler binnen de NAVO te creëren;</al>
+            <al>verzoekt het kabinet binnen de Europese Unie te pleiten voor een ambitieus Europees defensie-industriebeleid en dit te beleggen bij één verantwoordelijke Eurocommissaris,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boswijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

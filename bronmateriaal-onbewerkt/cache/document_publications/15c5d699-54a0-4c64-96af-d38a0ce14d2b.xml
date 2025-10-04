@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-125/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">125</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de WHO schermtijd voor kinderen tot 2 jaar afraadt;</al>
+            <al>constaterende dat experts waarschuwen voor de impact van schermtijd op de hersenontwikkeling van jonge kinderen met gevolgen voor onder andere taalontwikkeling en emotieregulering;</al>
+            <al>constaterende dat in Frankrijk een verbod geldt op het uitzenden van televisieprogramma's gericht op baby's en peuters;</al>
+            <al>overwegende dat duidelijke normen ouders handvatten kunnen bieden bij de opvoeding van hun kinderen;</al>
+            <al>verzoekt de regering in samenspraak met experts te verkennen op welke manier de schermtijd voor kinderen tot 2 jaar kan worden beperkt en deze verkenning zo mogelijk bij de lopende onderzoeken te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

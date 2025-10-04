@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36241-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 241</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet kinderopvang om aanspraak op kinderopvangtoeslag mogelijk te maken voor Oekraïense ontheemden gelet op het Uitvoeringsbesluit van de Raad tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van Richtlijn 2001/55/EG van de Raad van 20 juli 2001 en tot invoering van tijdelijke bescherming naar aanleiding daarvan en daarnaast ouders met een partner buiten de Europese Unie, de Europese Economische Ruimte of Zwitserland ook aanspraak op kinderopvangtoeslag te geven</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KEIJZER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor Oekraïners besloten is de zorgverzekeringsplicht niet te handhaven, mede vanwege de veronderstelde moeilijkheden om de zorgtoeslag vast te stellen;</al>
+            <al>constaterende dat het gelijkheidsbeginsel gehanteerd wordt bij de Wet kinderopvang en dit Oekraïense ontheemden niet mag uitzonderen;</al>
+            <al>constaterende dat Dienst Toeslagen voldoende gegevens ontvangt gedurende en na afloop van een jaar om een definitieve toekenning van de kinderopvangtoeslag aan Oekraïense ontheemden vast te stellen;</al>
+            <al>constaterende dat voor het vaststellen van de zorgtoeslag eenzelfde methodiek gehanteerd wordt en er daarom geen overwegende bezwaren zijn om de zorgverzekeringsplicht te handhaven;</al>
+            <al>verzoekt de regering om zo snel als mogelijk de zorgverzekeringsplicht voor Oekraïense ontheemden te handhaven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Keijzer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

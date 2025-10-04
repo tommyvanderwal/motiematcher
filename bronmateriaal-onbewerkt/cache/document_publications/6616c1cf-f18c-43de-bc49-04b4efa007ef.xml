@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33552-125/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 552</dossiernr>
+      </dossiernummer>
+      <titel>Slachtofferbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">125</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat strafrechtszittingen in beginsel openbaar zijn, maar dat hier uitzonderingen op gemaakt kunnen worden;</al>
+            <al>constaterende dat een slachtoffer het verzoek kan doen om de zitting achter gesloten deuren te laten plaatsvinden, maar dat dit verzoek bijna nooit wordt gehonoreerd;</al>
+            <al>overwegende dat het voor slachtoffers van seksuele misdrijven, zoals verkrachting of seksuele uitbuiting, enorm lastig kan zijn om de traumatische ervaring in de volle openbaarheid tot in detail te moeten bespreken;</al>
+            <al>overwegende dat het ten goede kan komen aan het strafproces en de belangen van het slachtoffer van een seksueel misdrijf om de zaak achter gesloten deuren te kunnen bespreken, waarbij de autonomie van het slachtoffer voorop moet staan;</al>
+            <al>verzoekt de regering om zowel met de rechtspraak, het Openbaar Ministerie als de advocatuur in gesprek te gaan om te onderzoeken hoe de belangen van slachtoffers van seksuele misdrijven beter geborgd kunnen worden;</al>
+            <al>verzoekt de regering om te onderzoeken of en hoe een geldig verzoek tot behandeling van een strafproces achter gesloten deuren vaker gehonoreerd kan worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

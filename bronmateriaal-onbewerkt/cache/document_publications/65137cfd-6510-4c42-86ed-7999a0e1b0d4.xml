@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29247-448/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 247</dossiernr>
+      </dossiernummer>
+      <titel>Acute zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">448</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat nog steeds een stijgende trend is te zien in het aantal ouderen dat overlijdt door een accidentele val;</al>
+              <al>constaterende dat de toegankelijkheid van de acutezorgketen onder druk staat en naar verwachting verder zal toenemen;</al>
+            </al-groep>
+            <al>overwegende dat het budget voor valpreventie structureel ongeveer 50 miljoen euro per jaar is;</al>
+            <al>overwegende dat deze investering in valpreventie vooralsnog meer een inspanningsverplichting lijkt dan een resultaatsverplichting;</al>
+            <al>verzoekt de regering om een resultaatsverplichting te verbinden aan de investering in valpreventie en de effecten van de huidige valpreventiemaatregelen meer en frequent inzichtelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

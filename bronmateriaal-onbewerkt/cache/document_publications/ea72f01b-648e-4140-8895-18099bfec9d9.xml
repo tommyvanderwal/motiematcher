@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-304/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">304</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TEUNISSEN EN KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-28">28 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat door de kabinetsinzet op scenario 3 Tata nog tot 2040 mag doorgaan met vervuilen en er dus nog zeker zestien jaar onacceptabele gezondheidsrisico's zijn voor omwonenden;</al>
+            <al>constaterende dat ook volgens Wijers en Blom en de Expertgroep Gezondheid IJmond scenario 4, met import van halffabricaten, de meeste gezondheidswinst oplevert;</al>
+            <al>verzoekt de regering om bij de onderhandelingen met Tata Steel over de maatwerkafspraken in te zetten op scenario 4,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

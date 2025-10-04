@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-47/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">47</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de herdenking van de verschrikkelijke terreuraanslag in Israël op 7 oktober 2023 afgelopen maandag in Amsterdam volledig uit de hand is gelopen;</al>
+            <al>constaterende dat een tegendemonstratie te dicht in de buurt van deze herdenking is toegelaten;</al>
+            <al>overwegende dat het bij de dodenherdenking op 4 mei 2023 wel is gelukt om tegendemonstraties niet in de directe omgeving te laten plaatsvinden vanwege het grote risico op onrust en paniek;</al>
+            <al>verzoekt het kabinet er bij burgemeesters op aan te dringen dat potentieel ontvlambare tegendemonstraties voortaan buiten de zicht- en hoorbare reikwijdte van de oorspronkelijke demonstratie plaatsvinden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

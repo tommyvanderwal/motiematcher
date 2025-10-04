@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ELLIAN EN WILDERS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het bij elkaar plaatsen van criminele kopstukken leidt tot onaanvaardbare veiligheidsrisico's, voor gedetineerden, personeel en ook de samenleving;</al>
+            <al>constaterende dat de ingebruikname van het Justitieel Complex Vlissingen is vertraagd, en dit met de verwachte hoge instroom van veroordeelde criminele kopstukken een acuut probleem oplevert waardoor deze criminele kopstukken niet meer voldoende kunnen worden gespreid;</al>
+            <al>overwegende dat de oude Tijdelijke Extra Beveiligde Inrichting (TEBI) te Vught niet meer in gebruik is, maar met een verbouwing op korte termijn weer in gebruik kan worden genomen;</al>
+            <al>overwegende dat er momenteel al diverse verbouwingen plaatsvinden in Vught, waardoor op korte termijn kan worden gestart met de verbouwing van de TEBI;</al>
+            <al>verzoekt de regering voor de verbouwing van de TEBI het budget van DJI vanaf 2025 structureel met 2 miljoen euro te verhogen en hiervoor vanaf 2025 de bijdrage voor het wetsvoorstel regulering sekswerk structureel met 2 miljoen euro te verlagen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ellian</al>
+              <al>Wilders</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29984-1189/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 984</dossiernr>
+      </dossiernummer>
+      <titel>Spoor: vervoer- en beheerplan</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1189</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEUTINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in 2023 maar liefst een op de tien treinen in het algemeen en een op de vier hsl-treinen vertraging heeft opgelopen;</al>
+            <al-groep>
+              <al>constaterende dat in heel het jaar 2023 alle treinen gezamenlijk een opgetelde vertraging van tweeënhalf jaar hebben opgelopen;</al>
+              <al>van mening dat NS niet presteert naar de maatstaven die vanuit de HRN-concessie verwacht mogen worden;</al>
+            </al-groep>
+            <al>verzoekt de regering om de punctualiteit en zitplaatskans maandelijks per traject te toetsen aan de afspraken in de HRN-concessie, en hierover halfjaarlijks te rapporteren aan de Kamer;</al>
+            <al>verzoekt de regering tevens om op basis van deze resultaten in gesprek te gaan met NS en eventuele sancties te verbinden aan het niet nakomen van de afspraken in de HRN-concessie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Heutink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

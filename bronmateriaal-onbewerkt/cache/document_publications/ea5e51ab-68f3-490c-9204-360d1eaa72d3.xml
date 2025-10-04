@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36225-25/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 225</dossiernr>
+      </dossiernummer>
+      <titel>Regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten (Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">25</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het Dreigingsbeeld Terrorisme Nederland (DTN) staat dat radicalisering van jonge jihadisten en rechts-extremisten nu grotendeels online plaatsvindt;</al>
+            <al>constaterende dat het wenselijk is om zo vroeg mogelijk te kunnen interveniëren in radicaliseringsprocessen en passende interventies in kaart te brengen;</al>
+            <al>constaterende dat sommige gemeenten in de praktijk een gebrek aan voldoende juridische grondslag ervaren bij het in kaart brengen van online radicalisering;</al>
+            <al>overwegende dat de Ministers van JenV en SZW samen met gemeenten al enige tijd in gesprek zijn om het delen van best practices te stimuleren en te faciliteren en een effectieve lokale preventieve aanpak van online extremisme verder te ontwikkelen;</al>
+            <al>van mening dat de knelpunten die gemeenten ervaren bij het ontwikkelen van een effectieve aanpak zo snel mogelijk moeten worden opgelost en dat aanpassing van wet- en regelgeving daarvoor noodzakelijk kan zijn;</al>
+            <al>verzoekt de regering te bevorderen dat signalen van online radicalisering eerder kunnen worden betrokken bij het maken van afwegingen over het aanmelden van een casus voor een persoonsgerichte aanpak radicalisering;</al>
+            <al>verzoekt de regering te bezien hoe de ATKM, de Autoriteit Online Terroristisch en Kinderpornografisch Materiaal, een rol kan vervullen bij vroegsignalering van online radicalisering, en de Kamer hierover te informeren voor de zomer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

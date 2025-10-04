@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-945/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">945</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er al jarenlang sprake is van een groot personeelstekort binnen het gevangeniswezen en de forensische zorg;</al>
+            <al>overwegende dat dit mede komt doordat ook nu nog de werkdruk te hoog is, de lonen te laag zijn en ook de sociale veiligheid als veel te laag wordt ervaren door werknemers;</al>
+            <al>overwegende dat deze problemen zijn ontstaan bij een masterplan dat tien jaar geleden is doorgevoerd met hierin brede bezuinigingen, het ontslaan van veel personeel en het sluiten van veel gevangenissen, waar het gevangeniswezen nog niet van heeft kunnen herstellen;</al>
+            <al>overwegende dat dit heeft geleid tot schrijnende situaties en dat er na jaren van waarschuwingen vanuit het personeel, de Arbeidsinspectie en de vakbond nog steeds veel te weinig met deze signalen gebeurt;</al>
+            <al>spreekt uit dat het werken bij Dienst Justitiële Inrichtingen veel aantrekkelijker moet worden gemaakt om mensen naar het vak toe te trekken en fundamenteel iets te doen aan het personeelstekort;</al>
+            <al>verzoekt de regering om betreffende het gevangeniswezen en de forensische zorg een pakket maatregelen op te stellen waarin ten minste wordt gekeken naar het verbeteren van de zeggenschap van het personeel, een investering voor het verbeteren van de arbeidsvoorwaarden en het structureel veiliger maken van de werkomgeving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>El Abassi</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29325-165/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 325</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijke Opvang </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">165</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in Nederland nog duizenden panden (deels) leegstaan, die deels geschikt gemaakt kunnen worden voor bewoning;</al>
+            <al>constaterende dat het in de periode dat we moesten starten met de opvang van Oekraïense vluchtelingen razendsnel lukte leegstaande panden te vinden en geschikt te maken voor opvang;</al>
+            <al>verzoekt de regering samen met gemeenten een plan uit te werken om ten minste 10.000 extra woonplekken te realiseren in leegstaande panden voor de huisvesting van daklozen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-673/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">673</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN ZANTEN EN VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat dit van grote bedrijven vereist dat ze informatie opvragen vanuit de bredere keten en tot enorme extra regeldruk leidt bij het midden- en kleinbedrijf;</al>
+            <al>overwegende dat dit kleinere ondernemingen zijn dan waar de CSRD zich oorspronkelijk op richt en zij niet allemaal mankracht en ICT-systemen in huis hebben of zich kunnen veroorloven om aan het informatiedelen te voldoen;</al>
+            <al>overwegende dat het midden- en kleinbedrijf de kurk is waar de Nederlandse economie op drijft en vandaag de dag gekoesterd moet worden door het vestigingsklimaat te verbeteren en regeldruk te reduceren;</al>
+            <al>spreekt uit dat om regeldruk te verminderen de voorkeursoptie van de Ministeriële Stuurgroep Ondernemingsklimaat, Regeldruk en Uitvoerbaarheid zou moeten zijn dat de CO2-rapportages voor het woon-werkverkeer en zakelijk verkeer worden afgeschaft voor bedrijven tot 250 medewerkers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Zanten</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

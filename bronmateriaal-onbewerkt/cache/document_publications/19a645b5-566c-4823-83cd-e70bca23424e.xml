@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2004/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2004</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID CEDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1992</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-13">13 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er nog vele gevluchte Syriërs verblijven in de omringende landen, onder wie velen in uitzichtloze omstandigheden,</al>
+            <al>overwegende dat het de facto autonome bestuur van Noord-Oost Syrië betrekkelijk veilig is, dat er al veel ontheemden uit Syrië opgevangen worden, en dat het zich bereid heeft getoond meer landgenoten op te vangen,</al>
+            <al>verzoekt de regering er in Europees verband voor te pleiten gesprekken te beginnen met het autonome bestuur over de verbetering van de bestaande opvang van ontheemden en de mogelijke terugkeer van Syrische vluchtelingen die in buurlanden verblijven naar Noord-Oost Syrië,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

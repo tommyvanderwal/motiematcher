@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29544-1237/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 544</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1237</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het rapport «Gezinsbeleid in omringende landen» succesvolle voorbeelden worden genoemd waardoor werknemers in staat worden gesteld om werk, gezin en (mantel)zorgtaken beter te combineren;</al>
+            <al>overwegende dat in Duitsland werkgevers door de overheid actief worden aangemoedigd om werknemers te ondersteunen bij het balanceren in werk- en gezinsverantwoordelijkheid en (mantel)zorgtaken;</al>
+            <al>overwegende dat er al jaren een krappe arbeidsmarkt is, maar er 260.000 personen in Nederland aangeven vanwege (mantel)zorg- of gezinstaken niet te willen of kunnen werken, maar wel bereid zijn om te werken onder de juiste omstandigheden;</al>
+            <al>verzoekt de regering te onderzoeken hoe dit faciliterende personeelsbeleid in Nederland vormgegeven kan worden door bijvoorbeeld gezinsvriendelijke werkplekken of flexibele werkschema's conform het Duitse voorbeeld, en de Kamer voor het zomerreces 2024 hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Inge van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

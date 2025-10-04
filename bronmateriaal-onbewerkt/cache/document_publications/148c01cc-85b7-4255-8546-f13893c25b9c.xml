@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-118/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">118</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er veel situaties bekend zijn van uitbuiting van EU-arbeidsmigranten in Nederland en dat het belang van werkgevers prevaleert boven het belang van arbeidsmigranten, wat uitmondt in schrijnende huisvestingssituaties, gevolgen voor sociale cohesie in kwetsbare wijken en toenemende druk op onderwijs, zorg en huisvesting;</al>
+            <al>overwegende dat er veel meer aandacht moet komen voor het brede maatschappelijk belang, zoals fatsoenlijke huisvesting, leefbaarheid en druk op voorzieningen;</al>
+            <al>verzoekt het kabinet om te komen met een duidelijke visie op EU-arbeidsmigratie en daarbij in te zetten op het maken van (bilaterale) afspraken met lidstaten, in ieder geval met lidstaten vanwaaruit veel arbeidsmigranten in Nederland werken, met als doel concrete afspraken te maken over grip op de omvang van arbeidsmigratie, het terugdringen van misstanden met arbeidsmigranten, het tegengaan van de ontwrichtende gevolgen in het land van herkomst en het verbeteren van de onderlinge informatiepositie;</al>
+            <al>verzoekt tevens expliciet te maken welk standpunt het kabinet heeft ten aanzien van toetreding van nieuwe EU-lidstaten, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Flach</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

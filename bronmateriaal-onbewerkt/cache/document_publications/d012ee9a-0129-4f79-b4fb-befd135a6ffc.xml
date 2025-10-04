@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32545-220/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 545</dossiernr>
+      </dossiernummer>
+      <titel>Wet- en regelgeving financiële markten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">220</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AUKJE DE VRIES</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de ondernemers in de financiële sector de kosten voor toezicht van DNB en AFM volledig zelf betalen zonder overheidsbijdrage en dat deze kosten veelal worden doorberekend aan de consument, onder wie bedrijven;</al>
+            <al>overwegende dat het amendement op stuk nr. <extref doc="kst-33957-11" soort="document" status="actief">11 (33 957)</extref> uit 2014 regelt dat de toezichtskosten slechts met de inflatie mogen stijgen met in bijzondere omstandigheden «comply or explain»;</al>
+            <al>constaterende dat de toezichtskosten desondanks de afgelopen jaren fors zijn gestegen;</al>
+            <al>constaterende dat incidentele kosten, zoals toelatingskosten, en structurele handhavingskosten door elkaar heen lopen;</al>
+            <al>van mening dat dit onwenselijk is;</al>
+            <al>verzoekt de regering te bewerkstelligen dat de kostenstijgingen in de toekomst worden beperkt en dat incidentele en structurele kosten zo veel mogelijk apart worden doorberekend;</al>
+            <al>verzoekt de regering de hoogte van de toezichtskosten in Nederland te vergelijken met de toezichtkosten in andere EU-lidstaten en een onafhankelijke doorlichting te laten doen van de toezichtskosten om te kijken of het efficiënter en goedkoper kan, zonder effectiviteit te verliezen, en de Tweede Kamer daarover voor 1 juli 2025 over te informeren.</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aukje de Vries</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-83/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">83</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER PLAS EN PIERIK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de pulsvisserij in Europa onderhevig is aan een verbod, ondanks het gebrek aan stevige wetenschappelijke onderbouwing voor dit verbod;</al>
+            <al>constaterende dat wetenschappelijk onderzoek recent heeft aangetoond dat de negatieve effecten van pulsvisserij op het mariene ecosysteem minimaal zijn;</al>
+            <al>overwegende dat de pulsvisserij mogelijkheden biedt voor een duurzamere en efficiëntere vangstmethode;</al>
+            <al>verzoekt de Minister een heroverweging van het verbod op de pulsvisserij in Europa mogelijk te maken, gebaseerd op de recente wetenschappelijke bevindingen en inzichten;</al>
+            <al>verzoekt de Minister te streven naar een herziening van het Europees beleid om ruimte te bieden voor het gebruik en de verdere ontwikkeling van pulsvisserij als een duurzame en effectieve vangstmethode,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-27625-705"/>
+      <meta name="OVERHEIDop.ondernummer" content="705"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="27625"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Kostic en Bamenga over onderzoek naar uitfasering van bestrijdingsmiddelen met pfas-stoffen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Waterbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Waterbeleid; Motie; Motie van de leden Kostic en Bamenga over onderzoek naar uitfasering van bestrijdingsmiddelen met pfas-stoffen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Waterkeringen en waterbeheer"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Water"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>27 625</dossiernr>
+         </dossiernummer>
+         <titel>Waterbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">705</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KOSTIĆ EN BAMENGA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de verkoop van de hoeveelheid bestrijdingsmiddelen met een werkzame pfas-stof in de periode 2010–2023 met 80% is toegenomen, waarmee pfas overal door het land wordt verspreid en in het water terechtkomt, dus niet alleen bij eieren van hobbykippen;</al>
+                  <al>constaterende dat het RIVM in 2021 al vaststelde dat Nederlanders te veel pfas binnenkrijgen via voedsel en drinkwater;</al>
+                  <al>constaterende dat drinkwaterbedrijven pfas-houdende bestrijdingsmiddelen in de Rijn en de Maas in concentraties boven de veilige drinkwaternorm aantreffen;</al>
+                  <al>overwegende dat het RIVM aangeeft dat negatieve effecten op het immuunsysteem bij de huidige blootstelling vanuit voedsel en kraanwater niet kunnen worden uitgesloten;</al>
+                  <al>overwegende dat pfas-stoffen in bestrijdingsmiddelen zijn uitgezonderd van het in voorbereiding zijnde Europese pfas-verbod, maar dat het binnen bestaande Europese regelgeving over bestrijdingsmiddelen wel mogelijk is om deze stoffen te beperken;</al>
+                  <al>overwegende dat de massale verspreiding van pfas-stoffen in bestrijdingsmiddelen de Nederlandse belastingbetaler veel geld kost;</al>
+                  <al>verzoekt de regering om onderzoek te doen om tot uitfasering van de bestrijdingsmiddelen met pfas-stoffen te komen, en de Kamer over de conclusies in het derde kwartaal van 2025 te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kostić</al>
+                     <al>Bamenga</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

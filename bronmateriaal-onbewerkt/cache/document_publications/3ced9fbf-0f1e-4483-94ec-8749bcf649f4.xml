@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1641/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1641</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er verschillende sierteeltgewassen op de lijst rustgewassen staan;</al>
+            <al>overwegende dat de productiewijze van sierteeltgewassen in strijd is met de doelen van het NPLG en de KRW vanwege het gebruik van bestrijdingsmiddelen;</al>
+            <al>overwegende dat blijkt dat bollenteelt leidt tot substantieel hogere normoverschrijdingen in het oppervlaktewater dan bijvoorbeeld grasland en mais;</al>
+            <al>van mening dat de normen op de verschillende beleidsterreinen geharmoniseerd zouden moeten worden om de negatieve effecten op de bodem, het water en de volksgezondheid zo veel mogelijk te beperken;</al>
+            <al>verzoekt de regering in te zetten op het harmoniseren van de normen op de verschillende beleidsterreinen en in dat kader maatregelen in het achtste actieprogramma Nitraatrichtlijn ter vermindering van uitspoeling van nutriënten ook te beoordelen op reductie van uitspoeling van gewasbeschermingsmiddelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

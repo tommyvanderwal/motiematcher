@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-737/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">737</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het dreigingsbeeld van de NCTV onverminderd hoog is en er een reële kans is op een aanslag in Nederland;</al>
+            <al>constaterende dat gemeenten een cruciale rol spelen bij het tijdig signaleren, voorkomen en aanpakken van radicalisering;</al>
+            <al>overwegende dat ook de versterkingsgelden worden beïnvloed door de generieke korting van 10%, wat hen dwingt om dezelfde taken met minder middelen te vervullen, maar het cruciaal blijft dat gemeenten voldoende capaciteit behouden om radicalisering effectief te signaleren en voorkomen;</al>
+            <al>verzoekt de regering te waarborgen dat de generieke korting van 10% voor gemeenten geen afbreuk doet aan de effectiviteit van de lokale aanpak radicalisering en gemeenten voldoende capaciteit behouden om radicalisering effectief te signaleren en voorkomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Werf</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

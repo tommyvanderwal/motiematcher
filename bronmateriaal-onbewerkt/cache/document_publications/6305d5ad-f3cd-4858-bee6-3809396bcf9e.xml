@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-50/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">50</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de offertes binnen het huidige aanbestedingstraject rond de aanschaf van nieuwe onderzeeboten in juli aflopen;</al>
+            <al>constaterende dat de ministerraad, ondanks ontstane maatschappelijke onrust over de gevolgen voor de Nederlandse maritieme industrie en werkgelegenheid en de vorming van een nieuw kabinet, voornemens is om reeds vrijdag 15 maart een definitief besluit te nemen;</al>
+            <al>overwegende dat een besluit op deze korte termijn niet noodzakelijk is;</al>
+            <al>verzoekt de regering af te zien van besluitvorming over de aanschaf van onderzeeboten tijdens de ministerraad van 15 maart,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

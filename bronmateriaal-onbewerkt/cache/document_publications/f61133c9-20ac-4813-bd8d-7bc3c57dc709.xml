@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31293-805"/>
+      <meta name="OVERHEIDop.ondernummer" content="805"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31293"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Haage over een onderwijsagenda 2035 met meerjarenplannen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.W. Haage"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Primair Onderwijs"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Primair Onderwijs; Motie; Motie van het lid Haage over een onderwijsagenda 2035 met meerjarenplannen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Basisonderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Overige vormen van onderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 293</dossiernr>
+         </dossiernummer>
+         <titel>Primair Onderwijs</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">805</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID HAAGE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>van oordeel dat de problematiek van de tekortschietende beheersing van de basisvaardigheden door Nederlandse scholieren, het lerarentekort en de kansenongelijkheid een meerjarige aanpak vergen, die de zittingsduur van een kabinet overstijgt;</al>
+                  <al>constaterende dat het herstelplan is geklapt vanwege de extra bezuinigingen op de onderwijskansenregelingen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering te komen tot een onderwijsagenda 2035 die meerjarenplannen formuleert op basis van:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>een langjarige, structurele, geoormerkte bekostiging met onder andere een normeringspercentage voor het primaire proces;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>sturing op de nog aan te passen deugdelijkheidseisen zoals het aandeel bevoegde leraren en klassengrootte;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>een faciliterende rol voor de schoolbesturen;</al>
+                        </li>
+                     </lijst>
+                     <al>waarmee op termijn voldoende kwaliteit van de beheersing van de basisvaardigheden, voldoende opgeleid onderwijspersoneel en kansengelijkheid voor elk kind en elke jongere in de leerplichtige leeftijd wordt waargemaakt;</al>
+                  </al-groep>
+                  <al>verzoekt de Kamer hierover te informeren vóór het debat over de OCW-begroting in het najaar van 2025,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Haage</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

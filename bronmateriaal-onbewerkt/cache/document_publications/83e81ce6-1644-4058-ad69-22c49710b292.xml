@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-97/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">97</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het geboortecijfer van Nederland momenteel op het laagste punt ligt sinds de Tweede Wereldoorlog, ver onder het vervangingsniveau van 2,1;</al>
+            <al>overwegende dat het gewenste kindertal hoger ligt dan het aantal kinderen dat daadwerkelijk geboren wordt in een gezin en dat hier mogelijk belemmeringen ten aanzien van wonen, werken en inkomen aan ten grondslag liggen;</al>
+            <al>verzoekt de regering mogelijkheden voor positief gezinsbeleid in kaart te brengen en daarbij ook te kijken naar het wegnemen van belemmeringen voor (aanstaande) ouders, en de Kamer de resultaten hiervan in het tweede kwartaal van 2025 toe te sturen en daarbij de uitkomsten van het lopende gezinsonderzoek te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Van der Plas</al>
+              <al>Eerdmans</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

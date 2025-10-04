@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32317-891/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 317</dossiernr>
+      </dossiernummer>
+      <titel>JBZ-Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">891</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er onoverbrugbare zorgen zijn over de proportionaliteit van de Europese CSAM-verordening wegens de inbreuk op versleuteld chatverkeer en de strafrechtelijke verplichtingen die hieruit volgen;</al>
+            <al>constaterende dat het bestrijden van onlinekindermisbruik bittere noodzaak is, maar dit enkel kan met een uitvoerbare, juridisch en technisch houdbare aanpak;</al>
+            <al>verzoekt de regering om zich blijvend en ondubbelzinnig uit te spreken tegen toekomstige voorstellen die een detectiebevel mogelijk maken voor de privécommunicatie van alle burgers en dit als ondergrens te hanteren;</al>
+            <al>verzoekt de regering om in nauwe samenwerking met relevante experts op het gebied van preventie, opsporing, cyberveiligheid en privacy te komen tot gezamenlijke uitgangspunten voor een alternatief Europees voorstel om het verspreiden van beeldmateriaal van onlinekindermisbruik tegen te gaan;</al>
+            <al>verzoekt de regering bovendien om een eerste aanzet voor dit voorstel op hoofdlijnen tijdig voor de JBZ-Raad van 12 en 13 december aan de Kamer te doen toekomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kathmann</al>
+              <al>Six Dijkstra</al>
+              <al>Helder</al>
+              <al>Van der Werf</al>
+              <al>Van Nispen</al>
+              <al>Koekkoek</al>
+              <al>Teunissen</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

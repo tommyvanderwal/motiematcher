@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1431/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1431</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende een landelijke woningbouwopgave van ten minste 100.000 woningen per jaar om het woningtekort op te lossen;</al>
+            <al>constaterende dat er een oproep ligt aan Minister Keijzer vanuit gemeenten uit verschillende regio's uit het hele land om samen op te trekken voor een programmatische aanpak van groen en klimaatadaptatie als vast onderdeel van de woningbouw en daarover met de gemeenten in gesprek te gaan;</al>
+            <al-groep>
+              <al>overwegende dat:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>Nederland staat voor een grote woonopgave en gemeenten hier graag aan willen voldoen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>hittegolven vaker voor zullen komen, naast ook hevige regenbuien en periodes van droogte;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>vooral inwoners in huurwoningen of met weinig financiële middelen zich minder goed tegen hitte en wateroverlast kunnen beschermen en dit gezondheidsrisico's met zich meebrengt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het vergroenen van de leefomgeving de meest efficiënte manier is om de effecten van klimaatverandering te verminderen, zowel qua gezondheidseffecten als financieel;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>direct bij nieuwbouw vergroening meenemen kostenefficiënter is;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een gezamenlijke aanpak van gemeenten en Rijk rondom klimaatadaptatie en groen bijdraagt aan versnelling van de bouwopgave omdat hierover dan niet meer op stedelijk, gebieds- of projectniveau afgestemd hoeft te worden;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in gesprek te gaan met gemeenten – bijvoorbeeld beginnende bij de Woontop – over een gezamenlijke inzet en aanpak voor groen en klimaatadaptatie, zonder dat het de woningbouw vertraagt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>en over de bevindingen aan de Kamer in het eerste kwartaal van 2025 te rapporteren,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Kröger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -3,6 +3,8 @@ import json
 import os
 import sys
 
+from typing import List
+
 def main():
     """
     Filters and analyzes the linked data to find 'close call' motions.
@@ -92,12 +94,71 @@ def main():
 
     # --- 4. Final Result ---
     print("\n--- Step 4: Preparing final dataset ---")
-    final_df = motions_df[motions_df['Besluit_Id'].isin(close_call_ids)].copy()
-    
-    # Add the vote counts to the final dataframe for context
-    final_df = final_df.merge(vote_counts[['Totaal_Voor', 'Totaal_Tegen', 'Verschil']], on='Besluit_Id', how='left')
+    close_call_votes = motions_df[motions_df['Besluit_Id'].isin(close_call_ids)].copy()
 
-    print(f"Final dataset contains {len(final_df)} records.")
+    # Select a single metadata record per Besluit_Id so the output is deduplicated
+    metadata_columns: List[str] = [
+        'Besluit_Id',
+        'Id_besluit',
+        'BesluitTekst',
+        'BesluitSoort',
+        'Status',
+        'StemmingsSoort',
+        'Matched_Zaak_Id',
+        'Matched_Zaak_Onderwerp',
+        'Match_Score',
+        'GewijzigdOp_besluit',
+        'ApiGewijzigdOp_besluit',
+        'AgendapuntZaakBesluitVolgorde'
+    ]
+
+    existing_metadata_cols = [col for col in metadata_columns if col in close_call_votes.columns]
+    metadata_df = close_call_votes[existing_metadata_cols].copy()
+
+    if 'GewijzigdOp_besluit' in metadata_df.columns:
+        metadata_df['_sort_key'] = pd.to_datetime(metadata_df['GewijzigdOp_besluit'], errors='coerce')
+    else:
+        metadata_df['_sort_key'] = pd.NaT
+
+    metadata_df.sort_values(by=['Besluit_Id', '_sort_key'], ascending=[True, False], inplace=True)
+    metadata_df = metadata_df.drop_duplicates(subset=['Besluit_Id'], keep='first')
+    metadata_df.drop(columns=['_sort_key'], inplace=True)
+
+    # Aggregate per-party vote details to enrich the dataset downstream
+    vote_detail_cols = [col for col in ['ActorNaam', 'Soort_stemming', 'FractieGrootte'] if col in close_call_votes.columns]
+    if vote_detail_cols:
+        vote_breakdown = (
+            close_call_votes.groupby('Besluit_Id')[vote_detail_cols]
+            .apply(lambda grp: grp.sort_values(by=vote_detail_cols).to_dict(orient='records'))
+            .reset_index(name='Stemverdeling')
+        )
+    else:
+        vote_breakdown = pd.DataFrame(columns=['Besluit_Id', 'Stemverdeling'])
+
+    summary_df = vote_counts[['Totaal_Voor', 'Totaal_Tegen', 'Verschil']].reset_index()
+    final_df = metadata_df.merge(summary_df, on='Besluit_Id', how='left')
+    if not vote_breakdown.empty:
+        final_df = final_df.merge(vote_breakdown, on='Besluit_Id', how='left')
+
+    # Deduplicate on Matched_Zaak_Id while keeping track of all related besluiten
+    if 'Matched_Zaak_Id' in final_df.columns:
+        besluit_lists = (
+            final_df.groupby('Matched_Zaak_Id')['Besluit_Id']
+            .apply(list)
+            .reset_index(name='Gerelateerde_Besluit_Ids')
+        )
+        final_df = final_df.merge(besluit_lists, on='Matched_Zaak_Id', how='left')
+
+        if 'GewijzigdOp_besluit' in final_df.columns:
+            final_df['_zaak_sort_key'] = pd.to_datetime(final_df['GewijzigdOp_besluit'], errors='coerce')
+        else:
+            final_df['_zaak_sort_key'] = pd.NaT
+
+        final_df.sort_values(by=['Matched_Zaak_Id', '_zaak_sort_key'], ascending=[True, False], inplace=True)
+        final_df = final_df.drop_duplicates(subset=['Matched_Zaak_Id'], keep='first')
+        final_df.drop(columns=['_zaak_sort_key'], inplace=True)
+
+    print(f"Final dataset contains {len(final_df)} unieke zaken.")
 
     # --- Save Final Filtered Data ---
     print(f"--- Saving {len(final_df)} filtered records to {output_file} ---")

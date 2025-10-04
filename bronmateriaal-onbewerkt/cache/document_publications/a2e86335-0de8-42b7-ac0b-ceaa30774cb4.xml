@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-A-38/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">38</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN EERDMANS</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat infrastructurele projecten steeds meer leefruimte raken van dieren en de overheid daarom ook verantwoordelijkheid heeft voor de veiligheid van dieren (zorgplicht);</al>
+            <al>constaterende dat de afgelopen jaren een toename in het aantal dieren dat is aangereden, wordt vernomen;</al>
+            <al>constaterende dat het alleen al bij egels naar schatting gaat om meer dan 130.000 dieren, terwijl het heel slecht gaat met egels;</al>
+            <al>constaterende dat om dit omlaag te kunnen brengen het volgens de Dierenbescherming belangrijk is om in kaart te brengen waar veel aanrijdingen plaatsvinden en welke preventieve maatregelen zijn genomen;</al>
+            <al-groep>
+              <al>constaterende dat er in Nederland geen centraal registratiesysteem is van aanrijdingen met dieren, waardoor er geen grip op kan worden gekregen;</al>
+              <al>constaterend dat het zonder een registratiesysteem moeilijk is om actuele cijfers en «hotspots» van aanrijdingen boven water te krijgen en dus om de effectiviteit van preventieve maatregelen te monitoren;</al>
+            </al-groep>
+            <al>verzoekt de regering om in gesprek te gaan met o.a. Dierenbescherming, Stichting DierenLot en SoortenNL om te verkennen of en hoe een werkbaar landelijk registratiesysteem op kan worden gezet om overzicht te krijgen en te houden van aanrijdingen met dieren (voor in ieder geval de soorten waar de meeste zorgen over zijn) en de getroffen preventieve maatregelen, en daarover medio 2025 aan de Kamer te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

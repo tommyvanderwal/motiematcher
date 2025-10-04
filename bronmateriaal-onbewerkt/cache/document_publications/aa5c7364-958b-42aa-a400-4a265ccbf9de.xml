@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-893/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">893</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de handhaving van contactverboden die worden opgelegd bij stalking moet verbeteren;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ervoor te zorgen dat slachtoffers standaard een bewijs meekrijgen van een contactverbod;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ervoor te zorgen dat daarbij steeds duidelijk wordt gemaakt waar en hoe de schending van een contactverbod kan worden gemeld;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ervoor te zorgen dat bij een melding bij de politie uit een centraal systeem direct blijkt dat er een contactverbod is;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ervoor te zorgen dat schendingen van contactverboden altijd beoordeeld worden zodat dit consequenties kan hebben;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te bezien of vaker ook van elektronische monitoring gebruik kan worden gemaakt bij het handhaven van locatieverboden,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

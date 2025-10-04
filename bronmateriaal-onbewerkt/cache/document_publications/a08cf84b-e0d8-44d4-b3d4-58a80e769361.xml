@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-882/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">882</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat organisaties als Samidoun in Nederland actief zijn in de verspreiding van antisemitisme en de verheerlijking van geweld en terreur;</al>
+            <al>overwegende dat Duitsland de organisatie Samidoun reeds verboden heeft vanwege openlijke steun aan buitenlandse terreurorganisaties als Hamas, het verheerlijken van terreur en het verspreiden van antisemitisme;</al>
+            <al>constaterende dat organisaties als Samidoun fungeren als mantelorganisaties voor het Volksfront voor de Bevrijding van Palestina, dat op de EU- terreurlijst staat;</al>
+            <al>constaterende dat de Kamer de motie op stuk nr. <extref doc="kst-36476-6" soort="document" status="actief">6 (36 476)</extref> heeft aangenomen welke de regering verzoekt zich in Europees verband in te spannen om organisaties als Samidoun, die banden hebben met terroristische organisaties in het Midden-Oosten, op de Europese lijst van terroristische organisaties te plaatsen,</al>
+            <al>verzoekt de regering in overleg met het Openbaar Ministerie en de inlichtingendiensten te bevorderen dat organisaties als Samidoun op de nationale sanctielijst terrorisme en in het CTER-register geplaatst worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

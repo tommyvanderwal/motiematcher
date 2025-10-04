@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-874/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">874</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het publieke belang bij geneesmiddelonderzoek onvoldoende is geborgd, ook al gaat er veel publiek geld naar geneesmiddelenonderzoek;</al>
+            <al>overwegende dat we zo dubbel betalen, voor onderzoek, maar ook een hoge prijs voor geneesmiddelen die mede met publiek geld zijn ontwikkeld;</al>
+            <al>verzoekt de Minister om een voorstel uit te werken voor een onafhankelijk fonds voor geneesmiddelenonderzoek voor elk stadium van geneesmiddelenontwikkeling en dit voorstel te voorzien van een financiële paragraaf, zodat duidelijk is wat de benodigde investeringen en risico's zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

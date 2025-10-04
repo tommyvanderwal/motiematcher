@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER LEE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de koopkracht voor 2025 achterblijft bij wat op basis van het hoofdlijnenakkoord verwacht mocht worden;</al>
+            <al>constaterende dat dit mede het gevolg is van de juridisch verplichte compensatie voor vermogenden;</al>
+            <al>overwegende dat het begrotingssaldo in 2024 veel gunstiger lijkt uit te vallen dan voorspeld en er meer ruimte in het saldo van dat jaar is ontstaan;</al>
+            <al>van mening dat zeker de lage en middeninkomens extra geld in de portemonnee goed kunnen gebruiken om de stijgende kosten van levensonderhoud te betalen, maar nu mede worden aangeslagen voor de dekking van de box 3-compensatie;</al>
+            <al>verzoekt het kabinet om de koopkrachtverbetering – zeker voor lagere en middeninkomens – dichter op het niveau van de cMEV-cijfers te brengen door de algemene heffingskorting met 1 miljard euro te verhogen;</al>
+            <al>verzoekt het kabinet om dit te dekken door de compensatie voor vermogende Nederlanders volledig op te vangen in het saldo van 2024, een iets hoger tarief in box 3 in te voeren en de verliesverrekening in de vennootschapsbelasting aan te scherpen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Lee</al>
+              <al>Dijk</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

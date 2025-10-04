@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36546-57/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 546</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Jeugdwet, de Wet marktordening gezondheidszorg en enige andere wetten teneinde te bevorderen dat jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering steeds voldoende beschikbaar zijn (Wet verbetering beschikbaarheid jeugdzorg)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">57</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de maatregelen rond de reikwijdte van de jeugdhulp richtinggevend zijn in de hervormingsagenda;</al>
+            <al>constaterende dat een gezinsgerichte aanpak die breder kijkt dan jeugdhulp en ook naar bijvoorbeeld schuldhulpverlening, onderwijs, wonen en volwassenenzorg, het startpunt zou moeten zijn, waarbij ook stevig wordt ingezet op het terugbrengen van het aantal uithuisplaatsingen door veel beter te kijken naar de sociale context van het gezin;</al>
+            <al>constaterende dat stevige lokale teams hier een belangrijke sleutelrol in spelen;</al>
+            <al>constaterende dat ook het rapport van de commissie-Van Ark de nadruk legt op deze beweging naar voren, in het bijzonder op het verstevigen van de sociale en pedagogische basis om een kind en gezin;</al>
+            <al>constaterende dat op deze manier de druk op de specialistische jeugdzorg wordt verminderd en onnodige uithuisplaatsingen kunnen worden voorkomen;</al>
+            <al>verzoekt de regering met spoed de maatregelen rond de reikwijdte, zoals het convenant lokale teams en in het bijzonder het wetsvoorstel, uit te werken en hierover de Tweede Kamer zo spoedig mogelijk te informeren, zodat een gedegen debat gevoerd kan worden over de fundamenten van de jeugdzorg inclusief de financiële kaders die ervoor nodig zijn,</al>
+            <al-groep>
+              <al>verzoekt dit onmiddellijk na besluitvorming Voorjaarsnota en de uitkomst van de gesprekken met de VNG te laten plaatsvinden,</al>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

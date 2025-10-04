@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-30-628/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>30</raadnr></dossiernummer>
+      <titel>Raad voor Concurrentievermogen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">628</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland pleit voor vereenvoudiging van de Corporate Sustainability Reporting Directive (CSRD) en de Corporate Sustainability Due Diligence Directive (CSDDD), maar dat de kernprincipes van transparantie en duurzaamheid gewaarborgd moeten blijven;</al>
+            <al>overwegende dat veel bedrijven zich al hebben voorbereid op de huidige regels en dat aanpassing verlichting moet bieden zonder de koers ingrijpend te wijzigingen;</al>
+            <al>verzoekt de regering om in EU-verband te pleiten voor vereenvoudiging van de CSRD en de CSDDD zonder afbreuk te doen aan de essentiële duurzaamheidsdoelstellingen en zonder bedrijven die al in naleving hebben geïnvesteerd, te benadelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

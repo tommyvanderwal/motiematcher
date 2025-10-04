@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36800-IV-12"/>
+      <meta name="OVERHEIDop.ondernummer" content="12"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36800-IV"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Vermeer over een meerjarig programma voor het verbeteren van de leefomgeving op de eilanden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2026"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2026; Motie; Motie van het lid Vermeer over een meerjarig programma voor het verbeteren van de leefomgeving op de eilanden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 800</dossiernr>
+            <begrotingshoofdstuk>IV</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2026</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">12</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VERMEER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Raad voor de leefomgeving en infrastructuur (Rli) en de Raad voor het Openbaar Bestuur (ROB) grote knelpunten signaleren in de infrastructuur van Bonaire, Sint-Eustatius en Saba;</al>
+                  <al>constaterende dat de eilanden met te veel opgaven tegelijk te maken hebben, dat de problemen door bevolkingsgroei zullen toenemen en dat de uitvoeringskracht beperkt is;</al>
+                  <al>constaterende dat er onvoldoende structurele middelen beschikbaar zijn voor onderhoud, vervanging en investeringen;</al>
+                  <al>verzoekt de regering een meerjarig programma op te zetten om samen met de eilanden de achterstanden en verbeteringen in de leefomgeving aan te pakken;</al>
+                  <al>verzoekt de regering te onderzoeken hoe opvolging kan worden gegeven aan de adviezen van de Rli en ROB over een investeringsfaciliteit,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Vermeer</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2825/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02 </raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2825</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DASSEN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 2805</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-06">6 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat meerdere Europese Ministers van Defensie – waaronder uit Zweden en Letland – waarschuwen voor Russische militaire agressie richting de EU;</al>
+            <al>overwegende dat op een dergelijk worst case scenario in Nederland en op Europees niveau voorbereid zou moeten worden, inclusief de eventuele maatschappelijke gevolgen en nodige investeringen op economisch gebied en veiligheidsgebied;</al>
+            <al>verzoekt de regering in Europees verband en NAVO-verband op te roepen tot een dergelijk scenario met bijbehorende strategie;</al>
+            <al>verzoekt de regering hetzelfde voor Nederland in het specifiek te doen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dassen</al>
+              <al>Piri</al>
+              <al>Van Baarle</al>
+              <al>Tuinman</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

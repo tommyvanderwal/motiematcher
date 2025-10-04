@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25232-88/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 232</dossiernr>
+      </dossiernummer>
+      <titel>Voetbalvandalisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">88</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AARDEMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de onderlinge uitwisselbaarheid van stewards van betaaldvoetbalorganisaties de flexibiliteit van inzet ten goede komt en daarbij bijdraagt aan de veiligheid in en rond voetbalstadions en voetbalwedstrijden;</al>
+            <al>constaterende dat de uitwisseling van stewards tussen betaaldvoetbalorganisaties onderling momenteel nog een lange en bureaucratische procedure vergt;</al>
+            <al-groep>
+              <al>overwegende dat dit verlichting kan brengen op de inzet van de politie;</al>
+              <al>verzoekt de regering om in afwachting van aangepaste wetgeving nu alvast beleidsregels op te stellen, zodat stewards onderling eenvoudiger uitwisselbaar zijn, te beginnen met de invoering van een landelijke stewardpas,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aardema</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3055/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3055</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN KAHRAMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Rusland niet beloond moet worden voor zijn grootschalige agressieoorlog;</al>
+            <al>overwegende dat Oekraïne in een zo sterk mogelijke onderhandelingspositie moet worden gebracht;</al>
+            <al-groep>
+              <al>overwegende dat de VS mogelijk andere belangen zien en andere</al>
+              <al>overwegingen maken voor een vredesdeal dan Oekraïne en andere Europese landen;</al>
+            </al-groep>
+            <al>verzoekt de regering er alles aan te doen, vooral richting de VS, om Oekraïne en de EU te betrekken bij vredesbesprekingen tussen Oekraïne en Rusland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

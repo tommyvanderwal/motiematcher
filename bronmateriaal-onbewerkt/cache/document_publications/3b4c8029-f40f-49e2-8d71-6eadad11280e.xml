@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32793-836"/>
+      <meta name="OVERHEIDop.ondernummer" content="836"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32793"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Krul c.s. over een verbod op kindermarketing voor ongezond voedsel"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.E.M.C. (Daniëlle) Jansen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Preventief gezondheidsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Preventief gezondheidsbeleid; Motie; Motie van het lid Krul c.s. over een verbod op kindermarketing voor ongezond voedsel"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 793</dossiernr>
+         </dossiernummer>
+         <titel>Preventief gezondheidsbeleid </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">836</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KRUL C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat voedselmarketing gericht op kinderen voor meer dan 80% bestaat uit reclames voor ongezonde producten;</al>
+                  <al>overwegende dat uit onderzoek blijkt dat kinderen extra vatbaar zijn voor marketing en dat kinderen die blootgesteld worden aan voedselmarketing vaker ongezonde keuzes maken;</al>
+                  <al>overwegende dat uit onderzoek blijkt dat er een directe link bestaat tussen kindermarketing voor ongezond voedsel en obesitas bij kinderen, terwijl een gezonde leefstijl op jonge leeftijd latere ziektes voorkomt;</al>
+                  <al>van mening dat de overheid meer moet doen om kinderen en ouders te helpen gezonde keuzes te maken en te beschermen tegen reclame voor ongezonde producten;</al>
+                  <al>constaterende dat de regering werkt aan een wetsvoorstel om marketing voor ongezond voedsel gericht op kinderen tegen te gaan;</al>
+                  <al>verzoekt de regering om in dit wetsvoorstel een zo uitgebreid mogelijk verbod op kindermarketing voor ongezond voedsel op te nemen, zowel gericht op de fysieke als op de onlineleefomgeving van kinderen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Krul</al>
+                     <al>Daniëlle Jansen</al>
+                     <al>Ceder</al>
+                     <al>Dobbe</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

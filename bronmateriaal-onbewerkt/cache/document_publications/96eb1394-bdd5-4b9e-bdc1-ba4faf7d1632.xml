@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31934-90/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 934</dossiernr>
+      </dossiernummer>
+      <titel>Douane</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">90</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN EIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 88</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bedrijven getroffen zijn door navorderingen door de Douane vanwege het overschrijden van hoeveelheid of waarde in de aanvraag van een zogenaamde «vergunning bijzondere douaneregeling»;</al>
+            <al>overwegende dat deze navorderingen het voortbestaan van gezonde bedrijven in gevaar kan brengen;</al>
+            <al>overwegende dat een te lage inschatting bij de aanvraag van de vergunning de betreffende bedrijven geen enkel (fiscaal) voordeel verschaft, en er geen sprake is van belastingontduiking- of ontwijking;</al>
+            <al>overwegende dat wanneer bedrijven deze omissie zelf zouden hebben geconstateerd en verzocht zouden hebben om aanpassing dit geen enkele consequentie zou hebben voor het bedrijf of de Douane;</al>
+            <al>verzoekt de regering onnodige navorderingen door (eenmalige) administratieve omissies voor bedrijven te voorkomen door bij de Europese Commissie aan te dringen op (i) het opnemen in de Guidance Special Procedures van een voorbeeld van hoeveelheid/waarde overschrijding waaruit volgt dat dit met terugwerkende kracht kan worden hersteld, en (ii) een wijziging van de Gedelegeerde Verordening van het Douane Wetboek van de Unie zodat een hoeveelheid/waarde overschrijding als een verzuim zonder werkelijke gevolgen kan worden toegepast;</al>
+            <al>verzoekt de regering naar analogie van de City Jet zaak (REM 01/2019) van de republiek Ierland, bij de Europese Commissie te bepleiten dat de gunstige tariefbehandeling van toepassing blijft als de hoeveelheid/waarde is overschreden;</al>
+            <al>verzoekt de regering de Kamer te informeren over de voortgang in de periodieke stand van zakenbrief;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Eijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

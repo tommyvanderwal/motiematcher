@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25232-82/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 232</dossiernr>
+      </dossiernummer>
+      <titel>Voetbalvandalisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">82</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat geweld en wangedrag op de amateurvoetbalvelden nog steeds een groot probleem zijn;</al>
+            <al>overwegende dat de Halt-interventie Sport en Gedrag waarmee jongeren die zich misdragen hebben op het voetbalveld bereikt worden, een groot succes is en tot gedragsverandering leidt maar het budget daarvoor (€ 325.000 per jaar) incidenteel is, nu bijna uitgeput is, en voortzetting daardoor onzeker blijft;</al>
+            <al>verzoekt de regering deze gedragsinterventie, waar tot nu toe dus steeds budget voor gevonden is, onderdeel te maken van de reguliere taken van Halt om daarmee de continuïteit te waarborgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

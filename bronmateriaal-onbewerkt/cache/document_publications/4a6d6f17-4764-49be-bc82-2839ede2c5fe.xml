@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2962/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2962</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de agressieoorlog van Rusland tegen Oekraïne voor nietsontziende schade zorgt aan onder andere huizen, ziekenhuizen, infrastructuur, industrie en energiecentrales;</al>
+            <al-groep>
+              <al>overwegende dat mede daardoor in Oekraïne een kredietcrisis dreigt;</al>
+              <al>van mening dat Rusland voor het herstel van deze schade zal moeten opdraaien;</al>
+            </al-groep>
+            <al>constaterende dat de aanstaande Hoge Vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid, Kaja Kallas, pleit voor het volledig inzetten van alle bevroren Russische tegoeden ten behoeve van Oekraïne;</al>
+            <al>verzoekt de regering niet te afwachtend richting de G7 te zijn maar de aanstaande Hoge Vertegenwoordiger van de Unie voor buitenlandse zaken en veiligheidsbeleid te steunen in haar voornemen om alle Russische bevroren tegoeden in te zetten ten behoeve van Oekraïne;</al>
+            <al>verzoekt de regering hiermee de voortrekkersrol van Nederland ook op dit gebied te vervullen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Van der Burg</al>
+              <al>Paternotte</al>
+              <al>Piri</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

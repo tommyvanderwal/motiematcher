@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36531-21/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 531</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/2065 van het Europees parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">21</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN MEIJEREN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de overheid zich niet mag bemoeien met wat mensen zeggen of schrijven, zolang dat niet in strijd is met de wet;</al>
+            <al>overwegende dat of iets in strijd is met de wet uitsluitend achteraf dient te worden beoordeeld door een rechter;</al>
+            <al>constaterende dat overheden zich onder het mom van «het tegengaan van de verspreiding van desinformatie» actief bemoeien met uitlatingen die worden gedaan, terwijl die uitlatingen niet in strijd zijn met de wet;</al>
+            <al>roept de regering op zich niet langer te bemoeien met wat mensen zeggen of schrijven zolang het niet in strijd is met de wet, en er bij de Europese Commissie op aan te dringen dit ook niet te doen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Meijeren</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

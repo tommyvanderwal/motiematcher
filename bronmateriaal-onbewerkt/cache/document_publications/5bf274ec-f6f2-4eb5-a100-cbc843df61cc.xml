@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-212/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">212</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HERMANS EN BONTENBAL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het geopolitieke decor steeds dreigender wordt en de pogingen tot heimelijke beïnvloeding en ontwrichting in dat beeld passen;</al>
+            <al>overwegende dat deze pogingen een grote bedreiging vormen voor verworvenheden als vrije verkiezingen en een goed functionerende democratie;</al>
+            <al>overwegende dat dit soort pogingen vaak een lange aanloop kennen en de Nederlandse inlichtingen- en veiligheidsdiensten de mogelijkheden moeten hebben om deze dreigingen tijdig te onderkennen;</al>
+            <al>overwegende dat de diensten voldoende bevoegdheden moeten hebben en deze ook snel moeten kunnen inzetten bij het onderzoeken van deze dreigingen;</al>
+            <al>overwegende dat effectieve bevoegdheden gewenst zijn, bijvoorbeeld in het kader van internationale samenwerking tussen diensten;</al>
+            <al>verzoekt de regering met het oog op de herziening van de Wet op de inlichtingen- en veiligheidsdiensten 2017 zo spoedig mogelijk per brief aan de Kamer toe te lichten wat voor onze diensten noodzakelijk is om de huidige en toekomstige dreigingen vanuit statelijke actoren, waarbij een dreiging uitgaat tegen onze nationale veiligheid, zoals Rusland, op een adequate manier tegen te gaan, en bij de herziening ook voorstellen te doen om waar nodig de bevoegdheden van de diensten om samen te werken met bevriende diensten in andere landen, uit te breiden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hermans</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-85/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">85</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELDKAMP C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-02-12">12 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er zowel binnen als buiten Europa georganiseerde criminele netwerken bestaan die zich vanuit financieel gewin of materieel voordeel bezighouden met de smokkel van migranten naar Europa en Nederland;</al>
+            <al>overwegende dat met dergelijke handelingen personen inclusief alleenreizende minderjarige vreemdelingen aan ernstige gevaren worden blootgesteld;</al>
+            <al>overwegende dat dergelijke activiteiten effectief moeten kunnen worden opgespoord, vervolgd en bestraft;</al>
+            <al>verzoekt het kabinet zich ervoor in te zetten om de rechtsmacht voor mensensmokkel zodanig in te richten en uit te breiden dat criminele mensensmokkelaars binnen en buiten Europa effectiever kunnen worden opgespoord, vervolgd en bestraft, en zich daarvoor op Europees niveau en bij Europese partners in te zetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veldkamp</al>
+              <al>Brekelmans</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

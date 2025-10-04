@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36488-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 488</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met een bijzondere verhoging van het wettelijk minimumloon met 1,2 procentpunt met ingang van 1 juli 2024 (Wet verhoging minimumloon 2024)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat sprake is van verschillende opeenvolgende bijzondere verhogingen van het minimumloon in 2023 en 2024;</al>
+            <al>overwegende dat zicht op de gevolgen hiervan ten aanzien van werknemers en werkgevers noodzakelijk is;</al>
+            <al>verzoekt de regering een jaar na inwerkingtreding van de Wet invoering minimumuurloon en een jaar na inwerkingtreding van voorliggend wetsvoorstel een invoeringstoets uit te voeren, waarin ingegaan wordt op de effectiviteit en de gevolgen voor werknemers en mkb-werkgevers van deze wetsvoorstellen, en de Kamer over de uitkomsten hiervan te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

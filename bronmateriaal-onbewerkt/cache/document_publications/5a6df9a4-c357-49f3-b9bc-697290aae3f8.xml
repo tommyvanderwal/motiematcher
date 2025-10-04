@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-338/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">338</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MOHANDIS C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-04-14">14 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is om de NTR als taakomroep te laten vervallen;</al>
+            <al>overwegende dat het kabinet omroepverenigingen wel de ruimte wil geven om hun weg te vinden in nieuw te vormen omroephuizen;</al>
+            <al>overwegende dat NTR-programma's van algemeen belang zijn, die vanuit een ongebonden rol worden gemaakt en uitgezonden, en er uit oogpunt van externe pluriformiteit geen enkele garantie bestaat dat omroephuizen deze programmering overnemen;</al>
+            <al>van mening dat de NTR-programmering, gericht op kunst en cultuur, jeugd en educatie, wetenschap en informatie, nodig is om – naast de NOS op het gebied van nieuws, sport en evenementen – het onafhankelijke karakter van de publieke omroep te garanderen;</al>
+            <al>verzoekt de regering om, net als bij de transformatie van omroepverenigingen naar omroephuizen, te bewerkstelligen dat de NTR en de NOS samen opgaan in een zelfstandig omroeptaakhuis, en dit verder uit te werken in de Mediawet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mohandis</al>
+              <al>Martens-America</al>
+              <al>Beckerman</al>
+              <al>Dassen</al>
+              <al>Koops</al>
+              <al>Ergin</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

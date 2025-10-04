@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32820-551"/>
+      <meta name="OVERHEIDop.ondernummer" content="551"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32820"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van der Velde en Wilders over onderzoeken of er 1,6 miljoen aan Opera Zuid kan worden toegekend uit het Fonds Podiumkunsten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="G. Wilders"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.K. van der Velde"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe visie cultuurbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Nieuwe visie cultuurbeleid; Motie; Motie van de leden Van der Velde en Wilders over onderzoeken of er 1,6 miljoen aan Opera Zuid kan worden toegekend uit het Fonds Podiumkunsten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Cultuur"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 820</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe visie cultuurbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">551</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN DER VELDE EN WILDERS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Opera Zuid voor de periode 2025–2028 slechts circa 1,9 miljoen aan BIS-subsidie toegekend krijgt, terwijl voor een volwaardige invulling van haar operafunctie in de regio Zuid een bedrag van circa 3,5 miljoen noodzakelijk is, waardoor een tekort van ongeveer 1,6 miljoen ontstaat;</al>
+                  <al>constaterende dat dit leidt tot een aanzienlijke vermindering van het operabereik, een teruggang die al sinds 2011 wordt waargenomen;</al>
+                  <al>overwegende dat het ontbreken van een passend subsidiebedrag voor de operafunctie in regio Zuid zal leiden tot een verschraling van het aanbod in die regio;</al>
+                  <al>van mening dat er, gezien de belangstelling voor opera, behoefte is aan meer operacapaciteit met een reisfunctie door heel Nederland;</al>
+                  <al>verzoekt de regering te onderzoeken of het ontbrekende bedrag van circa 1,6 miljoen kan worden toegekend uit de beschikbare middelen bij het Fonds Podiumkunsten;</al>
+                  <al>verzoekt de regering tevens om bij de eerstvolgende herverdeling van de BIS-middelen het subsidiebedrag voor de operafunctie in regio Zuid aan te passen, zodat dit in verhouding staat tot de omvang van de functie,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van der Velde</al>
+                     <al>Wilders</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

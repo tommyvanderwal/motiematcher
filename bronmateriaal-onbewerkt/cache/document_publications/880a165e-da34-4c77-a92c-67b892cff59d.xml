@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-113/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">113</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er sprake is van een wooncrisis;</al>
+            <al>constaterende dat er tevens sprake is van een bouwdip vanwege de afgifte van te weinig vergunningen voor de jaren 2024 en 2025;</al>
+            <al>constaterende dat het nog enige tijd zal duren voordat de gewenste bouwstroom van 100.000 woningen per jaar is opgezet;</al>
+            <al>constaterende dat de importantie van het beter benutten van de bestaande woningvoorraad daardoor nóg verder stijgt;</al>
+            <al-groep>
+              <al>constaterende dat er grote belangstelling is voor hospitaverhuur;</al>
+              <al>constaterende dat «op kamers» wonen de voorkeurswoonvorm is voor studenten;</al>
+            </al-groep>
+            <al>overwegende dat de huidige kamerverhuurvrijstelling bij benadering voor één kamer kan worden ingezet;</al>
+            <al>verzoekt de regering te verkennen of de kamerverhuurvrijstelling uitgebreid kan worden, zodat vrijstelling voor een Tweede Kamer geldig wordt, te verkennen hoe de regering dit kan bewerkstelligen en dit te communiceren naar de kamer voor de Voorjaarsnota van 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Vroonhoven</al>
+              <al>Welzijn</al>
+              <al>Vermeer</al>
+              <al>Grinwis</al>
+              <al>Peter de Groot</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

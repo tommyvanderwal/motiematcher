@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-33-1088/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>33</raadnr></dossiernummer>
+      <titel>Raad voor Vervoer, Telecommunicatie en Energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1088</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ontwikkelingslanden vijf keer meer geld uitgeven aan afbetaling van schulden dan aan de aanpak van de klimaatcrisis en vaak genoodzaakt zijn de natuurlijke hulpbronnen die het land heeft, zoals fossiele brandstoffen, in te zetten om de financiële middelen te genereren die nodig zijn om te voldoen aan de aflossingen van de buitenlandse schuld;</al>
+            <al>verzoekt de regering om met progressieve landen een «coalition of the willing» te vormen die tijdens de COP pleit voor een nadruk op financiering in de vorm van giften voor klimaatadaptatie binnen het klimaatfinancieringsdoel;</al>
+            <al>verzoekt de regering om bij de eerstvolgende vergaderingen van de Wereldbank en het IMF te pleiten voor het bij de beoordeling van de houdbaarheid van de schulden uitvoeren van een verplichte analyse van de langetermijngevolgen van klimaatverandering op de overheidsfinanciën,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kröger</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

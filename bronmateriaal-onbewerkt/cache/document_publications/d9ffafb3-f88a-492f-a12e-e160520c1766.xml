@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-834/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">834</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEUTINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-16">16 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de WIA-verbeteraanpak gericht is op het verbeteren van de uitvoering en op het stimuleren van re-integratie;</al>
+            <al>constaterende dat er binnen de WIA ook mensen zijn die volledig en duurzaam arbeidsongeschikt verklaard zijn, die ondanks hun wil om te werken, daar medisch niet tot in staat zijn;</al>
+            <al>van mening dat het pervers is om deze groep mensen lastig te vallen met prikkels over re-integratie;</al>
+            <al>verzoekt de regering om er bij de verbeteraanpak WIA rekening mee te houden dat mensen die volledig arbeidsongeschikt zijn niet meer kunnen werken, hoe graag ze dat ook willen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Heutink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

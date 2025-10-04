@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22054-408/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 054</dossiernr>
+      </dossiernummer>
+      <titel>Wapenexportbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">408</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DOBBE EN HIRSCH </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Nederlandse regering het voornemen heeft uitgesproken toe te treden tot het zogenaamde Verdrag van Aken;</al>
+            <al>overwegende dat hoge standaarden en democratische controle op de wapenexport moeten worden behouden;</al>
+            <al>verzoekt de regering te waarborgen dat eventuele toetreding tot het Verdrag van Aken niet mag resulteren in het verlagen van de standaarden van wapenexport en het principe van presumption of denial blijvend moet worden toegepast op landen waar Nederland dit voor de zomer van 2023 ook op toepaste,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

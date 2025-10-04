@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29502-193/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 502</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">193</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Nederlandse Arbeidsinspectie constateert dat alle koeriersbedrijven stelselmatig de tilnorm overtreden;</al>
+            <al>constaterende dat met name arbeidsmigranten en uitzendkrachten hiermee te maken krijgen;</al>
+            <al>overwegende dat het noodzakelijk is dat bedrijven uitzendkrachten dezelfde veiligheids- en ergonomietrainingen bieden als vaste werknemers;</al>
+            <al>verzoekt de regering aan te dringen op een plan van aanpak om de arbeidsomstandigheden te verbeteren, waaronder versterking van de Arbeidsinspectie om extra handhaving uit te voeren in sectoren als de pakkettensector,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

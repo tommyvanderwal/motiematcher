@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-V-77/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">77</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID TUINMAN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 62</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er een aangenomen resolutie (A9–0117/2021) in het Europees Parlement ligt die UNRWA veroordeelt op het onderwijzen van «haat en intolerantie»,</al>
+            <al>overwegende dat dat in verband kan staan met de banden die UNRWA-medewerkers met Hamas zouden hebben,</al>
+            <al>van mening dat in de Palestijnse gebieden goede scholing en goed bestuur nodig is dat zal leiden tot het tegengaan van antisemitisme en bevorderen van vrede,</al>
+            <al>verzoekt het kabinet via internationale wegen zoals de VN samen met andere Westerse VN-lidstaten te pleiten voor het tegengaan van antisemitisme in Gaza en voor educatiemethoden van UNRWA-medewerkers mee te nemen in het VN-onderzoek naar terrorisme,</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>Stoffer</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

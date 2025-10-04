@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3334/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3334</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOOMSMA EN RAJKOWSKI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat kinderen nog steeds soms langere tijd in de noodopvang verblijven;</al>
+            <al>overwegende dat de Minister aangeeft dat dit «reden is tot grote zorg, omdat kinderen niet de aandacht en begeleiding krijgen die ze nodig hebben»;</al>
+            <al>overwegende dat maatregelen die de uit- en doorstroom bevorderen en de instroom beperken daarbij op termijn oplossingen kunnen bieden, maar ook op korte termijn inzet noodzakelijk is;</al>
+            <al-groep>
+              <al>verzoekt de regering zich maximaal in te spannen om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>gezinnen met minderjarige kinderen met voorrang te plaatsen in noodopvanglocaties die geschikt zijn voor kinderen en waar zij toegang hebben tot de faciliteiten en de begeleiding die ze nodig hebben;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>indien die onvoldoende beschikbaar zijn, zo snel mogelijk aanvullende maatregelen te nemen om die faciliteiten en begeleiding daar alsnog ter beschikking te stellen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>daarbij in kaart te brengen welke faciliteiten aanwezig zijn bij (nood)opvanglocaties,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Rajkowski</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

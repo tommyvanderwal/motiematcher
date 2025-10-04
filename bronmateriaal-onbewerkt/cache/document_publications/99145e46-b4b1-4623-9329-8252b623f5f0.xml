@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2939/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2939</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN BOSWIJK </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de EU duizenden Oekraïense militairen traint die ook vechten voor onze veiligheid;</al>
+            <al>overwegende dat Clingendael op deze zelfde voordelen wijst en aangeeft dat de trainingen zo beter kunnen aansluiten op lopende operaties;</al>
+            <al>overwegende dat het daarnaast een duidelijk signaal geeft van Europese steun aan Oekraïne en dat het kabinet heeft aangegeven geen opties uit te sluiten;</al>
+            <al>overwegende dat Frankrijk reeds heeft besloten om Franse militaire instructeurs ook in te zetten op Oekraïens grondgebied;</al>
+            <al>overwegende dat het mandaat voor de European Union Military Assistance Mission Ukraine (EUMAM) in november hernieuwd moet worden;</al>
+            <al>verzoekt het kabinet om er tijdens de Raad Buitenlandse Zaken met gelijkgestemde lidstaten, zoals Frankrijk, voor te pleiten dat het trainen van Oekraïense militairen op Oekraïens grondgebied mogelijk wordt in de nieuwe mandaatperiode van EUMAM,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-V-72/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">72</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN BAARLE EN DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-14">14 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het gerechtshof in Den Haag heeft geoordeeld dat er een duidelijk risico op ernstige schendingen van het humanitair recht in Gaza bestaat door het leveren van F-35-onderdelen aan Israël;</al>
+            <al>constaterende dat de rechter heeft bevolen om de levering van F-35-onderdelen te staken;</al>
+            <al>overwegende dat het besluit om hiertegen in cassatie te gaan de kans vergroot dat Nederland bijdraagt aan ernstige schendingen van het humanitair recht;</al>
+            <al>overwegende dat ernstige schendingen van het humanitair recht te zwaarwegend zijn om in cassatie te gaan;</al>
+            <al>verzoekt de regering om niet in cassatie te gaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Baarle</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

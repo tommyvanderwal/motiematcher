@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33561-69/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 561</dossiernr>
+      </dossiernummer>
+      <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">69</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het algemeen streven is 50% lokaal eigendom bij projecten voor hernieuwbare energie, zodat omwonenden kunnen meedelen in de winst;</al>
+            <al>overwegende dat dit streven niet wordt gehaald en dat daarom in de Energiewet is geregeld dat overheden hiervoor een motiveringsplicht in de plaatselijke verordening kunnen hanteren, maar dat dit nog onvoldoende gebeurt;</al>
+            <al>verzoekt de regering om gemeenten en provincies te informeren over en waar nodig te ondersteunen bij het hanteren van de motiveringsplicht, bijvoorbeeld met een voorbeeldverordening,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rooderkerk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

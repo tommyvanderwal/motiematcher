@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29240-172/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 240</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheid op school </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">172</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat instellingen in het hoger onderwijs nauwelijks zicht hebben op antisemitische incidenten en dat momenteel geen adequate procedures bestaan die bescherming bieden aan Joodse studenten;</al>
+            <al>overwegende dat een duidelijk wettelijk kader concrete, handhaafbare normen kan bieden voor registratie, meldingen en naleving inzake antisemitische incidenten;</al>
+            <al>verzoekt de regering het reeds lang aangekondigde wetsvoorstel sociale veiligheid voor 1 september 2025 aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Stoffer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

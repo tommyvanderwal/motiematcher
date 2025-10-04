@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31985-95"/>
+      <meta name="OVERHEIDop.ondernummer" content="95"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31985"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Grinwis c.s. over nieuwe partnerschappen opzetten op strategische thema's"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.H. Hirsch"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Bontenbal"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Stoffer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Buitenlands beleid en handelspolitiek"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-22"/>
+      <meta name="DC.title" scheme="" content="Buitenlands beleid en handelspolitiek; Motie; Motie van het lid Grinwis c.s. over nieuwe partnerschappen opzetten op strategische thema's"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Handel"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Internationale samenwerking"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 985</dossiernr>
+         </dossiernummer>
+         <titel>Buitenlands beleid en handelspolitiek</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">95</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-22">22 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat in deze veranderende wereldorde het risico bestaat dat kleine en middelgrote landen een speelbal worden in de strijd tussen Amerikaanse en Chinese grootmachten en juist op zoek zijn naar nieuwe geopolitieke partnerschappen en verbanden;</al>
+                  <al>overwegende dat de WRR (2024) adviseert om nieuwe internationale samenwerkingsverbanden aan te gaan, ten eerste op gebieden waar Nederland een sterke expertise en reputatie heeft, zoals de halfgeleiderindustrie en water en ten tweede met andere open economieën die competitief en innovatief zijn, maar tegelijkertijd omgeven worden door grotere en machtiger landen, waarbij gedacht kan worden aan landen als Singapore, Zuid-Korea en Nieuw-Zeeland;</al>
+                  <al>verzoekt de regering om, in lijn met de aanbevelingen van de WRR, in te zetten op nieuwe partnerschappen op strategische thema's, en tevens het voortouw te nemen in het organiseren van een «liga van kleine pioniers», en de Kamer regelmatig te informeren over de voortgang,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Stoffer</al>
+                     <al>Paternotte</al>
+                     <al>Bontenbal</al>
+                     <al>Hirsch</al>
+                     <al>Vermeer</al>
+                     <al>Dassen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29665-550"/>
+      <meta name="OVERHEIDop.ondernummer" content="550"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29665"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Baudet over stoppen met &quot;in de open lucht&quot; als uitgangspunt te nemen voor de te stellen kaders aan nachtvluchten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.H.P. Baudet"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Evaluatie Schipholbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Evaluatie Schipholbeleid; Motie; Motie van het lid Baudet over stoppen met &quot;in de open lucht&quot; als uitgangspunt te nemen voor de te stellen kaders aan nachtvluchten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Luchtvaart"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 665</dossiernr>
+         </dossiernummer>
+         <titel>Evaluatie Schipholbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">550</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BAUDET</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de veronderstelde geluidshinder rondom Schiphol wordt bepaald op grond van veronderstelde decibellen in de open lucht;</al>
+                  <al>overwegende dat het overgrote deel van de mensen 's nachts toch echt binnenshuis verblijft, en vrijwel iedereen in elk geval binnenshuis slaapt;</al>
+                  <al>overwegende dat veronderstelde nachtelijke geluidshinder dus evident betrekking zou moeten hebben op geluidshinder die mensen binnenshuis ervaren, en nadrukkelijk níét op eventuele geluidsaanwezigheid in de open lucht;</al>
+                  <al>overwegende dat deze evidente gevolgtrekking dan ook terecht wordt onderkend bij het bepalen van de veronderstelde geluidshinder van treinen, die immers wordt gebaseerd op verwachte trillingen en decibellen die binnenshuis worden ervaren;</al>
+                  <al>verzoekt de regering eenzelfde logica toe te passen voor de bepaling van nachtelijke geluidsoverlast rondom Schiphol en dus te stoppen met «in de open lucht» als uitgangspunt te nemen voor de te stellen kaders aan nachtvluchten, en in plaats daarvan de geluidshinder binnenshuis als uitgangspunt te nemen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Baudet</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

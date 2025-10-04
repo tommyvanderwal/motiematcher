@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-L-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>L</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Nationaal Groeifonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat groene en circulaire bedrijvigheid cruciaal is voor het halen van de klimaatdoelen;</al>
+            <al>overwegende dat het IEA stelt dat op dit moment al een derde van de economische groei door de schone technologiesector komt;</al>
+            <al>overwegende dat regels in de weg kunnen staan bij innovatie en vergroening, bijvoorbeeld in het kader van aanbestedingswetgeving of mededingingswetgeving;</al>
+            <al>constaterende dat het kabinet inzet op het schrappen van onnodige regels;</al>
+            <al>verzoekt de regering om in te zetten op een win-winsituatie door bij het schrappen van onnodige regels prioriteit te geven aan regels die verduurzaming in de weg staan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

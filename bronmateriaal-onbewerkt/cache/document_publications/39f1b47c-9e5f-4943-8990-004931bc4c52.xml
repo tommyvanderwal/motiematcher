@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3046/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3046</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het zestiende sanctiepakket naar verwachting opnieuw niet in een verbod op de import van Russisch lng zal voorzien;</al>
+            <al>constaterende dat de EU/G7 Price Cap Coalition nog geen stappen heeft gezet richting verlaging van het prijsplafond voor Russische olie;</al>
+            <al>overwegende dat de lng-export en olie-export de belangrijkste pilaren van de Russische economie en de oorlogskas van Poetin zijn;</al>
+            <al-groep>
+              <al>overwegende dat weliswaar de totale import van lng naar Nederland is afgenomen, maar de import van Russisch lng in 2024 is toegenomen ten opzichte van het jaar daarvoor;</al>
+              <al>van mening dat maximale druk op de Russische oorlogseconomie nodig is en de EU-landen hun eigen veiligheid schaden met de consumptie van Russische import;</al>
+            </al-groep>
+            <al>verzoekt het kabinet te stoppen met het importeren van Russisch lng;</al>
+            <al>verzoekt het kabinet voorts binnen alle gremia in te zetten op een verlaging van het prijsplafond voor Russische olie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Piri</al>
+              <al>Boswijk</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

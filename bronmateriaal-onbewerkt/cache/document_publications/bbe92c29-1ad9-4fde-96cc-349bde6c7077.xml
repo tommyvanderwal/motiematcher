@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22112-4131"/>
+      <meta name="OVERHEIDop.ondernummer" content="4131"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22112"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Rajkowski en Van Zanten over alles op alles zetten om Dublinclaimanten terug te sturen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="Q.M. Rajkowski"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Motie; Motie van de leden Rajkowski en Van Zanten over alles op alles zetten om Dublinclaimanten terug te sturen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 112</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">4131</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN RAJKOWSKI EN VAN ZANTEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de meeste asielzoekers in Nederland Dublinclaimanten zijn omdat zij door een ander EU-land zijn gereisd om naar Nederland te komen en dat deze asielzoekers daarom teruggestuurd kunnen worden naar een andere EU-lidstaat;</al>
+                  <al>constaterende dat de Raad van State heeft geoordeeld dat België geen geschikt land zou zijn om alleenstaande mannen naar uit te zetten;</al>
+                  <al>overwegende dat het onaanvaardbaar is dat Nederland asielzoekers opvangt waarvoor een ander land zoals België verantwoordelijk is;</al>
+                  <al>verzoekt de Minister om alles op alles te zetten voor het terugsturen van Dublinclaimanten naar andere Europese landen, met hierbij extra aandacht voor België,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Rajkowski</al>
+                     <al>Van Zanten</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

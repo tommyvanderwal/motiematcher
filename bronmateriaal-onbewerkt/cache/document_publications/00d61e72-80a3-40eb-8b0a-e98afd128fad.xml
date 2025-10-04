@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Raad voor de leefomgeving al in juni 2024 een adviesrapport heeft uitgebracht over ruimtelijke ordening in een veranderend klimaat;</al>
+            <al>constaterende dat een kabinetsreactie op dit advies nog ontbreekt;</al>
+            <al>overwegende dat klimaatbestendige ruimtelijke ordening kansen biedt,</al>
+            <al>overwegende dat de uitwerking van de Nota Ruimte nu al plaatsvindt;</al>
+            <al>verzoekt de regering om de oplossingsrichtingen uit het adviesrapport van de Raad voor de leefomgeving «Ruimtelijke ordening in een veranderend klimaat» mee te nemen bij het uitwerken van de Nota Ruimte,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Gabriëls</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

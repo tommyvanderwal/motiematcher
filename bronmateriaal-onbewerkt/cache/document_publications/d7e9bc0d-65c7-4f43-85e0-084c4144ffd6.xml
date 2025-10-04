@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-738/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">738</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat radicalisering en extremisme veelal online starten en online worden aangewakkerd;</al>
+            <al>overwegende dat de burgemeester, verantwoordelijk voor de openbare orde, weinig grip heeft op online-uitingen;</al>
+            <al>constaterende dat het publiek-private initiatief Project Online Content Moderatie dat JenV heeft geïnitieerd in januari 2025 is afgerond;</al>
+            <al>constaterende dat er binnen de Europese Unie initiatieven lopen op contentmoderatie met «legal yet harmful»;</al>
+            <al>constaterende dat er in de eerste helft van 2025 een handleiding verschijnt voor de gemeenten om hun meer armslag te geven op online-uitingen;</al>
+            <al>verzoekt de regering om de Kamer in het eerste kwartaal van 2025 een overzicht te geven van de resultaten van PrOCoM, het Project Online Content Moderatie, en de EU-initiatieven op contentmoderatie, inclusief de belemmeringen in wetgeving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

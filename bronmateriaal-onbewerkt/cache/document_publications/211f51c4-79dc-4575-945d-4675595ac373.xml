@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35746-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 746</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HOLMAN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-03-11">11 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er bij het voortgang boeken op dierenwelzijn een centrale rol weggelegd is voor convenanten;</al>
+            <al>overwegende dat het bedrijfsleven en supermarkten een belangrijke rol zullen moeten spelen in het realiseren van de doelstellingen;</al>
+            <al>overwegende dat een goed verdienmodel voor de boeren hierbij van belang is;</al>
+            <al>verzoekt de regering om met supermarkten, boeren en bedrijfsleven in gesprek te gaan over het zo snel mogelijk invulling geven aan de convenanten en daarbij in te zetten op een redelijke vergoeding voor de boeren voor bovenwettelijke eisen;</al>
+            <al>verzoekt de regering om te onderzoeken hoe zo snel mogelijk een publiekrechtelijke bedrijfsorganisatie (PBO) of een beroepsorganisatie (BO) veehouderij in het leven geroepen kan worden die erop toe kan zien en kan organiseren dat de convenanten uitgevoerd gaan worden door alle veehouders in Nederland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Holman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

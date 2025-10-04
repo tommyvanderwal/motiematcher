@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36128-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 128</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van het lid Maatoug houdende wijziging van de Wet inkomstenbelasting 2001 en enige andere fiscale wetten in verband met het doen vervallen van enkele fiscale regelingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID IDSINGA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 16</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij het Belastingplan 2024 een amendement (<extref doc="kst-36421-11" soort="document" status="actief">36 421, nr. 11</extref>) is ingediend en aangenomen;</al>
+            <al>overwegende dat dat amendement evident ingaat tegen de geest van de toen voorgenomen versobering van de bedrijfsopvolgingsregeling;</al>
+            <al>overwegende dat dat amendement voor slechts een kleine groep nazaten van oude, grote en winstgevende familiebedrijven aanzienlijke belastingvoordelen oplevert die zij voorheen niet heeft genoten en waarbij de continuïteit van de onderneming zonder deze voordelen niet in gevaar is;</al>
+            <al>constaterende dat op basis van een uitgebreide juridische analyse door NautaDutilh de verwachting bestaat dat sprake is van ongeoorloofde staatssteun voor zowel maatregel 2 als voor maatregel 3 en dat, voor zover dan nog relevant, mogelijkerwijs een en ander tevens op gespannen voet staat met het gelijkheidsbeginsel,</al>
+            <al>verder constaterende dat de recente uitvoeringstoets van de Belastingdienst laat zien dat het amendement rode vlaggen kent op het gebied van handhaafbaarheid, fraudebestendigheid en complexiteitsgevolgen,</al>
+            <al>verzoekt de regering, bijvoorbeeld als onderdeel van de aanstaande fiscale verzamelwet en/of uiterlijk bij het Belastingplan 2025, de ongewenste gevolgen, dat wil zeggen ten minste de hierboven bedoelde maatregelen 2 en 3, van dit amendement terug te draaien,</al>
+            <al>
+              <?xpp ep?>
+            </al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Idsinga</al>
+              <al>Omtzigt</al>
+              <al>Sneller</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30196-840/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 196</dossiernr>
+      </dossiernummer>
+      <titel>Duurzame ontwikkeling en beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">840</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de energiebesparingsplicht voor bedrijven te weinig wordt nagekomen, ondanks een terugverdientijd van de maatregelen op de lijst van de RVO van vijf jaar;</al>
+            <al>overwegende dat energiebesparing voor veel bedrijven maatwerk is;</al>
+            <al>overwegende dat betere informatie en advies aan bedrijven meer kan opleveren dan alleen maar de handhaving uit te breiden;</al>
+            <al>verzoekt de regering om de middelen voor toezicht en handhaving ook in te zetten voor de adviserende rol van omgevingsdiensten richting ondernemers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1055/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1055</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WESTERVELD EN DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat inspecties en kinderrechtenorganisaties al jaren alarm slaan, omdat kinderen in een kwetsbare positie onvoldoende passende hulp krijgen;</al>
+            <al>constaterende dat ook kabinet en Kamer dit erkennen, maar het kabinet wel een bezuiniging op artikel 34-jeugdbescherming heeft ingeboekt voor de jaren 2025 tot en met 2029;</al>
+            <al>constaterende dat deze bezuiniging instellingen en organisaties in de jeugdbescherming raakt;</al>
+            <al>overwegende dat de Staatssecretaris in het debat heeft gezegd dat bij de Voorjaarsnota 2025 nader wordt bekeken of er een herschikking van de subsidietaakstelling binnen de JenV-begroting nodig is;</al>
+            <al>overwegende dat deze bezuiniging echter al wel per 1 januari 2025 ingaat;</al>
+            <al>verzoekt de regering om in gesprek te gaan met organisaties en instellingen die onder deze subsidietaakstelling vallen om goed in beeld te krijgen wat de gevolgen zijn van deze taakstelling en een verslag van deze gesprekken vóór de Voorjaarsnota naar de Kamer te sturen;</al>
+            <al>verzoekt de regering tevens om zeker tot de Voorjaarsnota niet te korten op de organisaties en instellingen in de jeugdbescherming die onder artikel 34 vallen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

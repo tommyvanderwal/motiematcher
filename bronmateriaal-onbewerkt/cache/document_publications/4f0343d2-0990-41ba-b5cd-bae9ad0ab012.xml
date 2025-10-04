@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36364-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 364</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van Boek 1 van het Burgerlijk Wetboek om de drempel te verlagen voor grootouders om tot omgang te kunnen verzoeken (Wet drempelverlaging omgang grootouders)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN LAHLAH EN VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in zaken betreffende minderjarigen van 12 jaar of ouder de rechter pas mag beslissen als die minderjarige zijn of haar mening heeft kunnen geven;</al>
+            <al>overwegende dat de rechter nu al ook kinderen jonger dan 12 jaar mag horen;</al>
+            <al>overwegende dat in het WODC-onderzoek «Kind in proces: van communicatie naar effectieve participatie» wordt voorgesteld om kinderen vanaf 8 jaar uit te nodigen voor een kindgesprek;</al>
+            <al>verzoekt de regering om te onderzoeken hoe vaak kinderen onder de 12 jaar nu al worden gehoord door de rechter, wat de ervaringen hiermee zijn, en op welke manier dit bevorderd kan worden zodat alle kinderen die daartoe in staat zijn hun mening kunnen geven, en in de Kamer in het komend najaar hierover te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

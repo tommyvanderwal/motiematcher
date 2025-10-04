@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29683-296/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 683</dossiernr>
+      </dossiernummer>
+      <titel>Dierziektebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">296</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIC EN BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat eerder aan provincies is gevraagd om een geitenstop in te stellen vanwege de verhoogde kans op longontstekingen voor omwonenden van geitenhouderijen;</al>
+            <al>constaterende dat het aantal geiten in Nederland sinds de Q-koortsepidemie bijna is verdubbeld en nog altijd groeit;</al>
+            <al>constaterende dat sommige provincies hun geldende geitenstop heroverwegen;</al>
+            <al>spreekt uit dat het absoluut niet verstandig is om geitenhouderijen verder uit te breiden in Nederland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

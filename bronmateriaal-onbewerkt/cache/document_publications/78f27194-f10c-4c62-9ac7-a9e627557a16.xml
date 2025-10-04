@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1166/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1166</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID OLGER VAN DIJK C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1159</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het aangepaste maatregelenpakket van Schiphol per 2025 wordt ingezet op het terugbrengen van het jaarlijks aantal nachtvluchten tussen 23:00 en 07:00 van 32.000 naar 27.000;</al>
+            <al>constaterende dat in dit maatregelenpakket ook een (gedeeltelijke) nachtsluiting wordt overwogen voor november 2026;</al>
+            <al>constaterende dat de rechter in de RBV-zaak geoordeeld heeft dat reductie van geluidshinder en slaapverstoring voor omwonenden op korte termijn geboden is;</al>
+            <al>overwegende dat het daadwerkelijke aantal nachtvluchten in 2023 lager was dan 27.000;</al>
+            <al>verzoekt de regering om in te zetten op een aanzienlijk lager aantal nachtvluchten dan 27.000;</al>
+            <al>verzoekt de regering om zo snel mogelijk, in overleg met de luchtvaartsector en andere belanghebbenden, een vorm van nachtsluiting van Schiphol in te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Stoffer</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

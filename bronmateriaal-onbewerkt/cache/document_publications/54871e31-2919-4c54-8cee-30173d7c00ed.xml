@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36725-XXIII-11"/>
+      <meta name="OVERHEIDop.ondernummer" content="11"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36725-XXIII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Teunissen over BECCS op geen enkele wijze stimuleren of faciliteren met hout als biomassa"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Teunissen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota); Motie; Motie van het lid Teunissen over BECCS op geen enkele wijze stimuleren of faciliteren met hout als biomassa"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 725</dossiernr>
+            <begrotingshoofdstuk>XXIII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Wijziging van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025 (wijziging samenhangende met de Voorjaarsnota)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">11</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-02">2 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat voor de productie van elektriciteit uit biomassa op grote schaal hout wordt geïmporteerd uit bossen in andere landen, waarbij bomen specifiek worden gekapt om te verbranden;</al>
+                  <al>overwegende dat grootschalige inzet op BECCS met geïmporteerd hout niet duurzaam is, leidt tot ontbossing, verlies van biodiversiteit en slechts dubieuze klimaatwinst, terwijl certificering geen garantie biedt voor echte duurzaamheid;</al>
+                  <al>verzoekt de regering BECCS op geen enkele wijze te stimuleren of te faciliteren wanneer daarvoor hout wordt gebruikt als biomassa voor elektriciteitsproductie,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Teunissen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

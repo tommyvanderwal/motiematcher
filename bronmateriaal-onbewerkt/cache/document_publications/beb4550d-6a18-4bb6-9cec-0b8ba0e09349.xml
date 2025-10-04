@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-317/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">317</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN CEDER EN KRUL TER VERVANGING VAN DIE GEDRUKT ONDER NR. 304</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-28">28 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het publieke omroepbestel een veelzijdig aanbod kent en daarmee een cruciale democratische, journalistieke en culturele functie vervult in onze samenleving;</al>
+            <al>overwegende dat het veelzijdige programma-aanbod afkomstig is van diverse omroepen met een eigen identiteit;</al>
+            <al>overwegende dat een hervorming van het publieke omroepbestel wordt overwogen en dat daarvoor een minimale verlenging van de huidige erkenningsperiode van twee jaar daarvoor noodzakelijk is;</al>
+            <al>verzoekt de regering om bij een eventuele hervorming van het publieke omroepbestel een stevige positionering van omroepverenigingen te waarborgen;</al>
+            <al>verzoekt de regering tevens de huidige erkenningsperiode met twee jaar te verlengen;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

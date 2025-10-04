@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2161/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2161</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OMTZIGT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de schuld van gemeentes, de schuld van provincies en de schulden van sociale fondsen meetellen in de definitie van staatsschuld, maar de schuld bij de Europese Unie (coronafonds) niet;</al>
+            <al>constaterende dat het tekort van gemeentes, het tekort van provincies en de tekorten van de sociale fondsen meetellen bij het EMU-tekort, maar het aandeel in het tekort van de EU dat schuld gefinancierd wordt niet;</al>
+            <al>constaterende dat Europese schulden, net als andere schulden, terugbetaald moeten worden en dat het gevaarlijk is om schulden buiten boeken en buiten statistieken te houden;</al>
+            <al>verzoekt de regering om te bevorderen dat er statistieken opgesteld worden van nationale schulden en tekorten, waarin ook de EU-schulden zijn opgenomen, door die zelf op te stellen en door in overleg te treden met het CBS en Eurostat, en hun te vragen of zij willen onderzoeken of zij deze statistieken zouden willen publiceren;</al>
+            <al>verzoekt de regering hierover voor 15 juni 2025 te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Omtzigt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

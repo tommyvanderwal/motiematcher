@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-502/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">502</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN ZANTEN EN ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek van de Inspectie van het Onderwijs blijkt dat er 384 verschillende opleidingen of cursussen worden aangeboden om leraar te worden of een aanvullende onderwijsbevoegdheid te krijgen;</al>
+            <al>van mening dat het imago van lerarenopleidingen en het vak leraar wordt aangetast door de verschillen in kwaliteit en kwaliteitseisen van deze opleidingen;</al>
+            <al>van mening dat landelijk zou moeten vastliggen wat leraren moeten kennen en kunnen;</al>
+            <al>verzoekt de regering te zorgen voor een verplicht curriculum binnen lerarenopleidingen waarin de nadruk ligt op vakinhoud en didactiek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Zanten</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

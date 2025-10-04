@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2949/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2949</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er zich voor het eerst na drie decennia een unieke kans op vrede voordoet tussen Armenië en Azerbeidzjan en dat het daarom van groot belang is om nu vol in te zetten op het vredesproces tussen beide landen;</al>
+            <al>constaterende dat er echter nog drempels zijn om tot een vredesakkoord te kunnen komen, waaronder het feit dat Azerbeidzjan nog Armeense krijgsgevangenen vasthoudt;</al>
+            <al>verzoekt de regering samen met andere Europese landen de druk op te voeren op Azerbeidzjan om zo spoedig mogelijk alle Armeense krijgsgevangenen vrij te laten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Boswijk</al>
+              <al>Stoffe</al>
+              <al>Piri</al>
+              <al>Van der Burg</al>
+              <al>Paternotte</al>
+              <al>De Roon</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

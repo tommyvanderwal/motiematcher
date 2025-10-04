@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2798/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2798</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Houthi-rebellen vele schepen hebben aangevallen en opereren naar de EU-definitie van «terrorisme»;</al>
+            <al>overwegende dat Houthi-rebellen hoogwaardige technologische middelen uit Europa verwerken in hun drones en een continue stroom aan financiering en materiële steun weten te verkrijgen uit Europa;</al>
+            <al>constaterende dat de Houthi-slogan oproept tot de vernietiging van westerse bondgenoten;</al>
+            <al>overwegende dat de VS de Houthi's al heeft aangemerkt als «specially designated global terrorists» (SDGT's);</al>
+            <al>verzoekt het kabinet op de Raad Buitenlandse Zaken de terreur van Houthi's op de agenda te zetten;</al>
+            <al>verzoekt het kabinet de mogelijkheid te onderzoeken om vertegenwoordigers van de Houthi's individueel op de Europese terreurlijst te plaatsen en aanvullende sanctiemaatregelen te onderzoeken voor vertegenwoordigers van de Houthi's,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>D. van Dijk</al>
+              <al>Brekelmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

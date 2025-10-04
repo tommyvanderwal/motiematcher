@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2176/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2176</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de secretaris-generaal van de NAVO, de heer Rutte, reeds diverse keren NAVO-lidstaten heeft opgeroepen om de defensie-uitgaven te verhogen tot ten minste 3% van het bruto binnenlands product;</al>
+            <al>overwegende dat de huidige NAVO-norm van 2% defensie-uitgaven onvoldoende is wanneer Europa in staat wil zijn haar eigen grondgebied te verdedigen tegen Rusland;</al>
+            <al>overwegende dat Nederland reeds dagelijks wordt geconfronteerd met hybride en cyberaanvallen;</al>
+            <al>spreekt uit dat voor de veiligheid van Nederland en Europa, in lijn met de oproep van de NAVO, meer nodig zal zijn dan 2% defensie-uitgaven;</al>
+            <al>verzoekt de regering dit ook uit te dragen als het Nederlandse standpunt tijdens de aankomende Europese Raad van 3 februari,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Dassen</al>
+              <al>Boswijk</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

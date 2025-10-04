@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29665-562"/>
+      <meta name="OVERHEIDop.ondernummer" content="562"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29665"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Postma en Grinwis over zorgen dat het besluit om het resterende geluidsdoel aan te passen niet leidt tot netto minder geluidsreductie (t.v.v. 29665-541)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Evaluatie Schipholbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-20"/>
+      <meta name="DC.title" scheme="" content="Evaluatie Schipholbeleid; Motie (gewijzigd/nader); Gewijzigde motie van de leden Postma en Grinwis over zorgen dat het besluit om het resterende geluidsdoel aan te passen niet leidt tot netto minder geluidsreductie (t.v.v. 29665-541)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Luchtvaart"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 665</dossiernr>
+         </dossiernummer>
+         <titel>Evaluatie Schipholbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">562</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN POSTMA EN GRINWIS TER VERVANGING VAN DIE GEDRUKT ONDER NR. 541</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-20">20 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het geluidsdoel van 20% geluidsreductie onder andere gebaseerd is op de aanname van autonome vlootvernieuwing;</al>
+                  <al>overwegende dat de Minister besloten heeft het resterende geluidsdoel aan te passen door autonome vlootvernieuwing mee te laten tellen als maatregel en daarmee verdere maatregelen voor de resterende 5% onnodig acht;</al>
+                  <al>overwegende dit besluit leidt tot netto minder geluidsreductie;</al>
+                  <al>van mening dat hiermee een juridisch zeer kwetsbare koers bevaren wordt die de rechtszekerheid van Schiphol verder op het spel zet;</al>
+                  <al>verzoekt de regering zorgt te dragen dat het besluit om het resterende geluidsdoel aan te passen niet leidt tot netto minder geluidsreductie, door dit besluit ongedaan te maken en alsnog met een invulling te komen voor de resterende 5% van het geluidsdoel, of door een hoger geluidsdoel vast te stellen;</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Postma</al>
+                     <al>Grinwis</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

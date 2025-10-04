@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-67/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">67</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID NORDKAMP</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-06-03">3 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is om de opdracht voor de vervanging van de Nederlandse onderzeeboten toe te kennen aan de Naval Group;</al>
+            <al>constaterende dat hierover een fundamenteel verschil van inzicht bestaat onder de dragende partijen van het landsbestuur;</al>
+            <al>constaterende dat dit een vergaand besluit is waar miljarden mee gemoeid gaan en dat vele toekomstige risico's en onzekerheden met zich meebrengt;</al>
+            <al>constaterende dat een goed verloop van de vervanging van onze onderzeebootcapaciteit essentieel is voor onze nationale veiligheid en het behoud en versterken van de positie van de Nederlandse Onderzeedienst;</al>
+            <al>overwegende dat politiek-bestuurlijke continuïteit van essentieel belang is voor het verantwoorde verloop van dit project en de zekerheid voor Defensie;</al>
+            <al>spreekt uit dat het noodzakelijk is dat het aanstaande kabinet in het regeerprogramma expliciet opneemt hoe het de voortgang van dit project waarborgt en hoe omgegaan wordt met de toekomstige ontwikkelingen op dit project,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Nordkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

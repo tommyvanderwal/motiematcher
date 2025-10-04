@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28165-444/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 165</dossiernr>
+      </dossiernummer>
+      <titel>Deelnemingenbeleid rijksoverheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">444</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN INGE VAN DIJK EN DASSEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 440</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat een recente internationale vergelijking van National promotional banks and institutions (NPBI's) laat zien dat het Nederlandse investeringsinstrumentarium is versnipperd tussen Invest-NL, Invest International, RVO, Nationaal Groeifonds en ROM's, terwijl dit in de vijf vergeleken landen is verenigd in één brede investeringsorganisatie;</al>
+            <al>overwegende dat investeringen in onze economie en het mobiliseren van kapitaal voor transities, innovatie en het mkb topprioriteit moeten zijn voor de versterking van de Nederlandse economie, mede in het belang van toekomstige houdbare overheidsfinanciën;</al>
+            <al>overwegende dat een brede investeringsorganisatie meer zekerheid en slagkracht kan bieden als stevige publiek-private samenwerkingspartner, zowel regionaal, nationaal als Europees;</al>
+            <al>overwegende dat de regering reeds het samengaan van Invest-NL en Invest International onderzoekt;</al>
+            <al>verzoekt de regering in dat onderzoek ook te onderzoeken wat er nodig is om ook de andere in Nederland aanwezige investeringsinstrumenten in één slagkrachtige organisatie te integreren, en daarbij ook, een garantie-instrument en een durfkapitaalregeling mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31311-269/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 311</dossiernr>
+      </dossiernummer>
+      <titel>Zelfstandig ondernemerschap</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">269</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOON </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het handhavingsmoratorium op schijnzelfstandigheid per 1 januari 2025 vervalt;</al>
+            <al>constaterende dat in de beantwoording van Kamervragen is bevestigd dat de overheid meer dan 1.000 schijnzelfstandigen in dienst heeft, waarvan 759 binnen Toeslagen en 756 specifiek bij de Uitvoeringsorganisatie Herstel Toeslagen (UHT);</al>
+            <al>overwegende dat de rijksoverheid een voorbeeldfunctie heeft in het bevorderen van eerlijke arbeidsrelaties en echte zzp'ers bijdragen aan de flexibiliteit en kwaliteit van de rijksdienst;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>alles in het werk te stellen om ervoor te zorgen dat per 1 januari 2025 geen schijnzelfstandigen meer werkzaam zijn binnen de rijksdienst;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>hierbij te waarborgen dat de voortgang en afhandeling van de hersteloperatie kinderopvangtoeslag niet wordt belemmerd;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Kamer periodiek te informeren over de voortgang en resultaten van de afbouw van schijnzelfstandigheid binnen de rijksdienst,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Boon</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

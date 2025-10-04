@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1459/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1459</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de vrijstelling van energiebelasting voor non-energetisch verbruik van aardgas een fossiele subsidie betreft die de energietransitie en het tegengaan van klimaatverandering belemmert;</al>
+            <al>overwegende dat deze vrijstelling voornamelijk ten goede komt aan de vervuilende kunstmestindustrie;</al>
+            <al>constaterende dat deze vrijstelling in het rapport Belastingen in maatschappelijk perspectief is aangemerkt als ondoelmatig;</al>
+            <al>overwegende dat het principe «de vervuiler betaalt» en doelmatigheid leidend zouden moeten zijn in het belastingstelsel;</al>
+            <al>verzoekt de regering de vrijstelling van energiebelasting voor non-energetisch verbruik van aardgas zo spoedig mogelijk maar uiterlijk per 1 januari 2026 af te schaffen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

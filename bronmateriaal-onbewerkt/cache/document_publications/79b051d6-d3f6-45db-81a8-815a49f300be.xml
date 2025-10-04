@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-20-2277"/>
+      <meta name="OVERHEIDop.ondernummer" content="2277"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-20"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Campen en Piri over de druk op Hongarije opvoeren om zo snel mogelijk cluster 1 te openen met Oekraïne en Moldavië"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="K.P. Piri"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Europese Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Europese Raad; Motie; Motie van de leden Van Campen en Piri over de druk op Hongarije opvoeren om zo snel mogelijk cluster 1 te openen met Oekraïne en Moldavië"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr>
+         </dossiernummer>
+         <titel>Europese Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">2277</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN PIRI</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het in het belang van Nederland en Europa is dat Oekraïne en Moldavië op termijn toetreden tot de Europese Unie;</al>
+                  <al>overwegende dat Hongarije consistent de voortgang van het toetredingsproces van Oekraïne en Moldavië heeft geblokkeerd, en blijft blokkeren, vanwege politieke redenen en niet omdat deze landen geen progressie zouden maken op het gebied van de Kopenhagencriteria;</al>
+                  <al>verzoekt de regering om in Europees verband de druk op Hongarije maximaal op te voeren zodat cluster 1 met Oekraïne en Moldavië zo snel mogelijk geopend kan worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Campen</al>
+                     <al>Piri</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

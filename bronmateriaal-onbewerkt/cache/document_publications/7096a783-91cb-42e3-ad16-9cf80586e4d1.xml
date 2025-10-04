@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-757/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">757</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TEUNISSEN EN KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vijf scenario's voor een gedifferentieerde verbruiksbelasting van alcoholvrije dranken aan de Kamer zijn voorgelegd, maar dat pas een wetsvoorstel wordt uitgewerkt als de Kamer zich voor een van de opties heeft uitgesproken;</al>
+            <al>constaterende dat de Kamer de regering eerder heeft verzocht uiterlijk 2026 een zo eenvoudig mogelijke, uitvoerbare vorm van een gedifferentieerde verbruiksbelasting op alcoholvrije dranken in te voeren op basis van het suikergehalte;</al>
+            <al>constaterende dat scenario 1 – zonder uitzonderingen op de verbruiksbelasting – het eenvoudigst uitvoerbaar is;</al>
+            <al>overwegende dat elke uitzondering op de verbruiksbelasting ervoor zorgt dat de dranken die nog wel onder de belasting vallen zwaarder zullen worden belast;</al>
+            <al>verzoekt de regering een gedifferentieerde verbruiksbelasting op alcoholvrije dranken uit te werken in een wetsvoorstel, gebaseerd op scenario 1,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

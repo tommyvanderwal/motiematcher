@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2153/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2153</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat sancties een cruciaal instrument zijn om de Russische oorlogseconomie effectief te raken;</al>
+            <al>constaterende dat sancties tegen Rusland en de bestrijding van sanctieontwijking een van de belangrijkste agendapunten zijn bij de aankomende Europese Raad;</al>
+            <al>constaterende dat sancties tegen Rusland op verschillende manieren via Nederland worden ontweken, met name in de maritieme sector, via havens en door middel van dual-usetechnologieën;</al>
+            <al>verzoekt de regering volledige en proactieve medewerking te verlenen aan gelijkgestemde partners in de Europese Raad om sancties tegen Rusland effectiever en consistenter te handhaven en om sanctieontwijking resoluut en hard aan te pakken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Ceder</al>
+              <al>Omtzigt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29689-1263/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 689</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Zorgstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1263</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Zorginstituut heeft geadviseerd om de eerste twintig behandelsessies van fysio- en/of oefentherapeutische zorg bij chronische indicaties die op de chronische lijst staan, op te nemen in het basispakket;</al>
+            <al>overwegende dat adviezen van het Zorginstituut over het basispakket in de regel worden overgenomen, omdat het Zorginstituut onafhankelijk adviseert over de inhoudelijke medische aspecten van een pakketmaatregel;</al>
+            <al>van mening dat het advies van het Zorginstituut daarom om medisch inhoudelijke redenen moet worden overgenomen;</al>
+            <al>verzoekt de regering het advies van het Zorginstituut over de eerste twintig behandelsessies van fysio- of oefentherapie voor chronisch zieke mensen over te nemen, in ieder geval voor het basispakket van 2025;</al>
+            <al>verzoekt de regering in overleg te treden met zorgverzekeraars om de kosten voor 2025 te dekken uit de onderbesteding bij de uitgaven voor de wijkverpleging 2023 en/of 2024 en voor de beraadslaging over het basispakket van 2026 structurele dekkingsopties aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

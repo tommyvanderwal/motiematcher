@@ -1,17 +1,17 @@
 # 🏛️ **MOTIEMATCHER - ARCHITECTUUR & LESSEN OVERZICHT**
 
-*Laatste update: 2 oktober 2025*
+*Laatste update: 4 oktober 2025*
 
 ## 📋 **PROJECT OVERZICHT**
 
 **Motiematcher** is een schaalbare website die Nederlandse politieke moties matcht met partij stemgedrag. Het platform helpt burgers om te zien hoe politieke partijen stemmen op verschillende onderwerpen, gebaseerd op parlementaire stemhistorie.
 
 ### 🎯 **Huidige Status**
-- ✅ **Data Collection**: 30-daagse parlementaire dataset (51,016 records)
-- ✅ **Data Quality**: 4/5 kwaliteit checks geslaagd
-- ✅ **Link Generation**: Directe links met stemuitslagen werkend
-- 🚧 **Full Term Collection**: Gereed voor uitvoering (Dec 2023 - nu)
-- 📋 **Web Platform**: Architectuur gedefinieerd, implementatie klaar
+- ✅ **Ruwe data consolidatie**: Volledige API dumps samengebracht onder `bronmateriaal-onbewerkt/` met `current/` snapshots voor moties, besluiten en stemmingen van de huidige Kamertermijn
+- ✅ **Document download pad**: Volledige motieteksten bereikbaar via `DocumentPublicatie(<id>)/Resource` (XML payload bevestigd op 4 okt 2025)
+- ✅ **Linkstrategie**: HTML-entity fixes en fallback zoeklinks blijven werken voor alle motievarianten
+- 🚧 **Processed dataset**: ETL om ≥5 echte moties (tekst + stemmingen) te leveren is in uitvoering
+- 📋 **Web Platform**: FastAPI prototype draait lokaal; wacht op nieuwe dataset voor productie wiring
 
 ---
 
@@ -23,13 +23,14 @@
 - **API**: `https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/`
 - **Entities**: Zaak, Stemming, Besluit, Document, Activiteit, Agendapunt
 - **Periode**: 30 dagen (September-Oktober 2025) - **gereed voor uitbreiding**
+- **Document Resource**: `DocumentPublicatie(<id>)/Resource` retourneert de volledige XML van de motietekst (vergt losse follow-up call naast `$expand`)
 
 #### **Data Volumes**
-- **51,016 totaal records** (22.9 MB)
-- **1,985 moties** (98.5% tekst coverage)
-- **18,872 stemmingen** (9,435 gekoppeld aan besluiten)
-- **575 werkende Stemming-Besluit koppelingen**
-- **75 wetten + 68 amendementen**
+- **51,016 totaal records** (22.9 MB) in 30-daagse snapshot (baseline)
+- **1,985 moties** (98.5% tekst coverage) in snapshot; full-term telling loopt
+- **18,872 stemmingen** (9,435 gekoppeld aan besluiten) in snapshot
+- **575 werkende Stemming-Besluit koppelingen** via snapshot scripts
+- **75 wetten + 68 amendementen** in snapshot
 
 #### **Opslag Structuur**
 ```
@@ -76,6 +77,20 @@ entities = ["Zaak", "Stemming", "Besluit", "Document", "Activiteit"]
 url = f"{base_url}/Stemming?$skip={skip}&$orderby=GewijzigdOp desc"
 ```
 
+#### **Nieuwe Filter Syntax (okt 2025)**
+```python
+# Let op: de API accepteert geen guid-literals meer in filters
+bad = "Id eq guid'93c64c34-fc1e-4de5-b812-66f5226cacde'"  # → 400 Bad Request
+good = "Id eq 93c64c34-fc1e-4de5-b812-66f5226cacde"         # → 200 OK
+
+params = {
+	'$filter': good,
+	'$expand': 'Agendapunt($expand=Document),Zaak($expand=Document,ZaakActor),Stemming'
+}
+resp = requests.get(f"{base_url}/Besluit", params=params, timeout=30)
+```
+*Bron: test uitgevoerd op 4 oktober 2025 (zie `temp/test_fetch_decision.py`).*
+
 #### **Data Format Consistentie**
 - **Directe JSON arrays** (geen OData wrapper)
 - **UTF-8 encoding** essentieel voor Nederlandse karakters
@@ -88,6 +103,7 @@ url = f"{base_url}/Stemming?$skip={skip}&$orderby=GewijzigdOp desc"
 - **Stemming → Besluit**: 575 werkende koppelingen
 - **Zaak → Document**: Embedded documenten voor volledige teksten
 - **Persoon → Fractie**: Complete partij informatie
+- **Document → Publicatie Resource**: `HuidigeDocumentVersie.DocumentPublicatie` + `DocumentPublicatie(<id>)/Resource` levert downloadbare XML
 
 #### **Indirecte Koppelingen** ⚠️
 - **Motie → Stemming**: Geen directe Zaak_Id in Besluit
@@ -188,21 +204,22 @@ search_link = f"https://www.tweedekamer.nl/zoeken?qry={motie}"
 ## 🚀 **VOLGENDE STAPPEN**
 
 ### **Immediate Actions**
-1. **📊 Full Term Collection**: Voer volledige termijn collectie uit (Dec 2023 - nu)
-2. **🔗 Link Generation**: Implementeer productie-ready link generation
-3. **🗄️ Data Processing**: Bouw transformatie pipeline naar web format
+1. **� Pilot Dataset**: Bouw ETL die ≥5 echte moties oplevert met volledige tekst, stemming per partij en metadata
+2. **🧾 XML Parsing**: Zet `DocumentPublicatie` XML om naar schone tekst + HTML snippets voor weergave
+3. **� Local Cache**: Sla opgehaalde resources herbruikbaar op (scheid `bronmateriaal-` en `verwerkt/` datasets)
+4. **� Full Term Refresh**: Plan complete Dec 2023-heden collectie zodra pipeline staat
 
 ### **Web Platform Development**
-1. **⚡ FastAPI Backend**: API endpoints voor motie matching
-2. **🎨 Simple Frontend**: HTML/CSS/JS voor user interface
-3. **☁️ AWS Deployment**: Schaalbare infrastructure setup
-4. **📱 User Experience**: Intuïtieve motie selectie flow
+1. **⚡ FastAPI Backend**: Sluit endpoints aan op nieuwe dataset zodra pilot klaar is
+2. **🎨 Simple Frontend**: Ververs UI met echte motiecontent en downloadlinks
+3. **☁️ AWS Deployment**: Voorbereiden maar pas deployen na dataset validatie
+4. **📱 User Experience**: Integreer statusindicatoren voor teksten/stemmingen
 
 ### **Data Enhancement**
-1. **🔍 Advanced Matching**: Verbeter motie-stemming koppelingen
-2. **📚 Full Texts**: Complete document collectie
-3. **🔗 Link Validation**: Automated link testing en fallback
-4. **📊 Analytics**: Usage tracking en performance monitoring
+1. **🔍 Advanced Matching**: Combineer Zaak/Besluit routes + tekst matching voor breder bereik
+2. **📚 Full Texts**: Schakel `DocumentPublicatie` resource harvesting in voor bulk moties
+3. **🔗 Link Validation**: Automatiseer checks (HTML entity fix + resource availability)
+4. **📊 Analytics**: Plan usage tracking na release
 
 ---
 

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22343-425"/>
+      <meta name="OVERHEIDop.ondernummer" content="425"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-16"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22343"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid White c.s. over een tussentijdse evaluatie van het Natuur- en milieubeleidsplan Caribisch Nederland 2020-2030"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.J. White"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Handhaving milieuwetgeving"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-15"/>
+      <meta name="DC.title" scheme="" content="Handhaving milieuwetgeving; Motie; Motie van het lid White c.s. over een tussentijdse evaluatie van het Natuur- en milieubeleidsplan Caribisch Nederland 2020-2030"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 343</dossiernr>
+         </dossiernummer>
+         <titel>Handhaving milieuwetgeving </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">425</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WHITE C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-15">15 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er grote problemen zijn bij de afvalverwerking landfill Selibon op Bonaire;</al>
+                  <al>constaterende dat er breder in Caribisch Nederland opgaven zijn ten aanzien van milieubeleid;</al>
+                  <al>constaterende dat in 2020 het Natuur- en milieubeleidsplan Caribisch Nederland 2020–2030 is vastgesteld en dat hierover in 2025 een tussentijdse evaluatie dient plaats te vinden;</al>
+                  <al>overwegende dat het van belang is om tijdig een goed beeld te hebben van wat nodig is om de doelen in 2030 te kunnen behalen;</al>
+                  <al>verzoekt de regering om zodra de tussentijdse evaluatie later dit jaar gereed is deze naar de Kamer te sturen en hierbij concreet aan te geven wat nodig is om de benoemde doelen voor 2030 te behalen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>White</al>
+                     <al>Bamenga</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

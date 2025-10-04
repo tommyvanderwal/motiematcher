@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-884/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">884</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat verkeersboetes door een groep mensen niet in een keer betaald kunnen worden en dat met name kwetsbare mensen door hoge aanmaningen en hoge incassokosten in de knel komen, hetgeen niet past bij de bedoeling van de wet, waarbij het uitgangspunt was dat een verkeersboete door iedereen in een keer te betalen zou moeten zijn;</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is afgesproken om de aanmanings- en incassokosten van de overheid fors te verlagen;</al>
+            <al-groep>
+              <al>constaterende dat het kabinet in de uitwerking van deze ambitie in het regeerprogramma heeft aangekondigd dat het CJIB eerst een gratis betalingsherinnering gaat versturen alvorens aanmaningskosten in rekening worden gebracht en dat daarnaast het CJIB beter in staat zal worden gesteld om mensen die verkeren in situaties van overmacht te helpen door de verhogingen bij verkeersboetes kwijt te kunnen schelden;</al>
+              <al>overwegende dat een verlaging van aanmanings- en incassokosten tevens gewenst en noodzakelijk is;</al>
+            </al-groep>
+            <al>verzoekt de regering in kaart te brengen hoe een verlaging van de aanmanings- en incassokosten bij boetes op grond van de Wet administratiefrechtelijke handhaving verkeersvoorschriften vorm kan krijgen en welke kosten hiermee gepaard gaan, en hierover de Kamer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Palmen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

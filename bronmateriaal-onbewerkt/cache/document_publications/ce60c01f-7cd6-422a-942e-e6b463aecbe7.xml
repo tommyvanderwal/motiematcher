@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat negen op de tien Nederlanders vindt dat het welzijn van vissen beter moet worden beschermd;</al>
+            <al>constaterende dat de Raad voor Dierenaangelegenheden (RDA) al in 2018 adviseerde om meer erkenning te geven aan de intrinsieke waarde van vissen en dat we een morele verantwoordelijkheid hebben om rekening te houden met vissen en hun welzijn, gezondheid en integriteit;</al>
+            <al>overwegende dat de Staatssecretaris van LVVN bij recente besluiten die invloed hebben op vissen motiveert waarom Nederland vanuit een economisch oogpunt bepaalde standpunten inneemt, zonder aan te geven welke gevolgen deze standpunten hebben voor het welzijn van vissen;</al>
+            <al>verzoekt de regering om voortaan bij het informeren van de Kamer over besluiten die vissenwelzijn raken ook aan te geven op welke manier de intrinsieke waarde en het welzijn, de gezondheid en de integriteit van vissen zijn meegewogen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

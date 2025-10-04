@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36576-78"/>
+      <meta name="OVERHEIDop.ondernummer" content="78"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36576"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Grinwis c.s. over ondersteuning voor vve-besturen en individuele appartementseigenaren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte); Motie; Motie van het lid Grinwis c.s. over ondersteuning voor vve-besturen en individuele appartementseigenaren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 576</dossiernr>
+         </dossiernummer>
+         <titel>Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">78</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de aansluiting van veel vve's op het warmtenet een essentieel onderdeel vormt van de algehele warmtetransitie;</al>
+                  <al>overwegende dat de noodzakelijke doorzettingsmacht van de vve's ingrijpend is voor een individuele eigenaar en dat daarvoor de betaalbaarheid van collectieve warmte cruciaal is;</al>
+                  <al>overwegende dat de besluitvorming voor vve's rond de warmtetransitie technisch, juridisch en communicatief complex is en ondersteuning door gemeenten en warmtebedrijven daarom belangrijk is;</al>
+                  <al>verzoekt de regering om binnen het aangekondigde flankerend beleid omtrent collectieve warmte met specifieke ondersteuningsvoorstellen voor het vve-bestuur en individuele appartementseigenaren te komen, bijvoorbeeld door de ondersteuning voor vve's in het Nationaal Warmtefonds te verbeteren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Postma</al>
+                     <al>Flach</al>
+                     <al>Vermeer</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

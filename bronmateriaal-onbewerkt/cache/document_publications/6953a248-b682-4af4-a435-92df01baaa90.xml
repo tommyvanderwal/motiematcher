@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36760-34"/>
+      <meta name="OVERHEIDop.ondernummer" content="34"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-08-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36760"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Ouwehand over uitspreken dat het kabinet de rechtsstaat en het internationaal recht voluit, in woord en daad, moet respecteren en verdedigen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. Ouwehand"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Kabinetscrisis 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-08-27"/>
+      <meta name="DC.title" scheme="" content="Kabinetscrisis 2025; Motie; Motie van het lid Ouwehand over uitspreken dat het kabinet de rechtsstaat en het internationaal recht voluit, in woord en daad, moet respecteren en verdedigen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 760</dossiernr>
+         </dossiernummer>
+         <titel>Kabinetscrisis 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">34</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID OUWEHAND</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-08-27">27 augustus 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>van mening dat burgers er volledig op moeten kunnen vertrouwen dat het Nederlandse kabinet binnen de grenzen van de rechtsstaat opereert;</al>
+                  <al>constaterende dat het kabinet zich niet houdt aan het Genocideverdrag door te weigeren echte maatregelen te nemen;</al>
+                  <al>constaterende dat het kabinet zich niet aan de eigen Klimaatwet houdt;</al>
+                  <al>constaterende dat het kabinet nog altijd geen gevolg geeft aan verschillende rechterlijke uitspraken over het totaal ontoereikende stikstofbeleid;</al>
+                  <al>constaterende dat Minister Wiersma haar bevoegdheden heeft misbruikt;</al>
+                  <al-groep>
+                     <al>constaterende dat kabinetsleden discriminerende uitspraken doen;</al>
+                     <al>spreekt uit dat het kabinet de rechtsstaat en het internationaal recht voluit, in woord en daad, moet respecteren en verdedigen,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Ouwehand</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

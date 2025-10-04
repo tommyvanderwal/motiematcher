@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-65/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">65</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat volgens het College voor de Rechten van de Mens de aanname dat mensen die zichtbaar religieus zijn hun functie niet onpartijdig kunnen uitoefenen, discriminerend is;</al>
+            <al>overwegende dat het verbod op het dragen van religieuze symbolen of kleding een groep uitsluit van het beroep van politieagent en dat dit ook onwenselijk is vanwege het personeelstekort bij de politie;</al>
+            <al>overwegende dat verschillende gemeenten nu hebben besloten om het dragen van religieuze symbolen of kleding toe te laten bij boa's;</al>
+            <al>verzoekt de regering om net als in verschillende Nederlandse gemeenten bij boa's gebeurt, religieuze uitingen zoals een keppeltje of een hoofddoek mogelijk te maken voor politieagenten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

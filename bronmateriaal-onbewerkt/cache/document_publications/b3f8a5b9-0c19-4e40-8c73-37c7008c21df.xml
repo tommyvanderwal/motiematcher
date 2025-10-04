@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-A-59/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">59</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEUTINK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat schippers bij volledige drooglegging van het Julianakanaal gebruik moeten maken van een omvaarroute, maar doordat keersluis Limmel eerder moet sluiten vanwege een probleem bij stuw Borgharen, er forse stremmingen op deze omvaarroute worden verwacht;</al>
+            <al>constaterende dat Rijkswaterstaat van plan is om het Julianakanaal vanaf 1 oktober 2024 tussen Berg en Obbicht geheel droog te leggen;</al>
+            <al>overwegende dat om doorgang voor de omvaarroute te garanderen de reparatie van stuw Borgharen noodzakelijk is en het gezien de complexiteit van de reparatiewerkzaamheden onzeker is dat dit voor 1 oktober gerealiseerd kan worden;</al>
+            <al>van mening dat het Julianakanaal niet drooggelegd kan worden voordat stuw Borgharen gerepareerd is;</al>
+            <al>verzoekt de regering om de algehele drooglegging van het Julianakanaal uit te stellen tot in ieder geval stuw Borgharen weer volledig functioneel is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Heutink</al>
+              <al>Olger van Dijk</al>
+              <al>Peter de Groot</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

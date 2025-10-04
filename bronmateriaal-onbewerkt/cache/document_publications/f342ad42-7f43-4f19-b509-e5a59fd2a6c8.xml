@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33652-102/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 652</dossiernr>
+      </dossiernummer>
+      <titel>Spoorbeveiligingssysteem European Rail Traffic Management System (ERTMS)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">102</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende het belang dat er een wenkend perspectief voor het openbaar vervoer in Zeeland komt, en een BRT-verbinding van en naar Zeeuws-Vlaanderen daarbinnen een opsteker voor de regio zou zijn;</al>
+            <al>verzoekt de regering om met Zeeland te onderzoeken wat nodig is om Bus Rapid Transit op de lijn Rotterdam-Zierikzee-Goes-Terneuzen-Gent uit te bouwen en met Zeeland afspraken te maken over verdere realisatie en uitbouw, zodat uiterlijk met de start van ERTMS in 2029 ook deze verbeteringen worden gerealiseerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Bamenga</al>
+              <al>Grinwis</al>
+              <al>De Hoop</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

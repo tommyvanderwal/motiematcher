@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat wereldwijd miljoenen kinderen dagelijks geconfronteerd worden met de verwoestende gevolgen van gewapende conflicten en dat het aantal kinderen dat opgroeit in conflictgebieden de afgelopen jaren is opgelopen tot 486 miljoen;</al>
+            <al>overwegende dat naast ambassadeurs voor landen er ook ambassadeurs zijn voor belangrijke thema's zoals vrouwenrechten, mensenrechten, internationale culturele samenwerking en jongeren, werk en inkomen;</al>
+            <al>verzoekt de regering een speciale ambassadeur voor kinderen in conflictgebieden aan te stellen, die zich specifiek richt op het bevorderen van de bescherming van kinderen in gewapende conflicten, zowel in diplomatiek overleg als op internationaal niveau, en hem/haar jaarlijks te laten rapporteren over zijn of haar werk en de situatie van kinderen in conflictgebieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Ceder</al>
+              <al>Boswijk</al>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+              <al>Van Baarle</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

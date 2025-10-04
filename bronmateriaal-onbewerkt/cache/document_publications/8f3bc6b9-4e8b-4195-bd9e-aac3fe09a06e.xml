@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-191/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">191</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er een convenant bestaat binnen de zuivelsector met als doel dat minimaal 81,2% van de Nederlandse melkveebedrijven weidegang toepast;</al>
+            <al>constaterende dat in 2024 slechts 73,9% van de melkveebedrijven volledige weidegang toepast, terwijl 6,2% deelweidegang heeft en de totale weidegang is gedaald tot onder het convenant;</al>
+            <al>van mening dat deelweidegang niet gelijkwaardig is aan volledige weidegang en niet volledig bijdraagt aan de doelstelling van het convenant;</al>
+            <al>overwegende dat het percentage bedrijven geen goed beeld geeft van hoeveel koeien er daadwerkelijk buiten in de wei lopen;</al>
+            <al>overwegende dat weidegang bijdraagt aan het welzijn van koeien, de biodiversiteit bevordert en het karakteristieke Nederlandse cultuurlandschap in stand houdt;</al>
+            <al>overwegende dat het imago van de zuivelsector sterk verbonden is met beelden van koeien in de wei;</al>
+            <al-groep>
+              <al>verzoekt de regering een rapportage te maken over weidegang, niet aan de</al>
+              <al>hand van het aantal bedrijven, maar van het aantal koeien dat in de wei loopt en hoeveel uur per jaar ze gemiddeld buiten lopen, en een trend over de afgelopen vijf jaar te laten zien;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering te onderzoeken hoe het halen van de convenantafspraken over volledige weidegang wettelijk kan worden vastgelegd, en dit voor te leggen aan de Kamer;</al>
+              <al>draagt de Minister op in gesprek te gaan met de zuivelsector (Stichting Weidegang, NZO en ZuivelNL) over hoe de doelstellingen ten aanzien van weidegang gehaald kunnen worden en de negatieve trend omgebogen kan worden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

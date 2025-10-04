@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-609/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">609</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie een gezant heeft aangesteld voor het verminderen van regeldruk voor mkb-ondernemers;</al>
+            <al>overwegende dat het overgrote deel van de regelgeving van de Europese Unie afkomstig is;</al>
+            <al>overwegende dat het Adviescollege toetsing regeldruk (ATR) bij instellingswet een rol toebedeeld krijgt bij nieuwe EU-wetgeving, maar dat regeldrukreductie bij bestaande EU-wetgeving ook op zijn plaats is;</al>
+            <al>overwegende dat Nederland een bijdrage zou kunnen leveren aan het succesvol reduceren van regeldruk vanuit de EU door input te leveren aan de mkb-gezant;</al>
+            <al>verzoekt het Presidium het Adviescollege toetsing regeldruk te vragen om mede aan de hand van eerdere ATR-adviezen en na consultatie van mkb-werkgevers een verkenning uit te voeren op EU-regelgeving die mogelijk veel regeldruk met zich meebrengt voor het Nederlandse mkb, en daarover aan de Kamer te rapporteren;</al>
+            <al>verzoekt de regering vervolgens de uitkomsten hiervan over te brengen aan de mkb-gezant van de EU,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Inge van Dijk</al>
+              <al>Kisteman</al>
+              <al>Grinwis</al>
+              <al>Zeedijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

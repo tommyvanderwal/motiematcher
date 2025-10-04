@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36395-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 395</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Politiewet 2012 in verband met een delegatiegrondslag voor een algemene maatregel van bestuur over de bewapening en uitrusting van buitengewoon opsporingsambtenaren</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de werkgever van de groene boa besluit over diens taken en verantwoordelijk is voor een veilige en verantwoordelijke uitvoering van die taken;</al>
+            <al>constaterende dat de werkgever in het kader van de veilige taakuitoefening een aanvraag voor bewapening kan doen voor een groene boa waarover, na advies van OM en politie, de Minister van JenV besluit;</al>
+            <al>van mening dat de beoordeling van een aanvraag voor een wapen onvoldoende blijk geeft van de risico's die een groene boa loopt in het werk, door de kan-bepaling in artikel 10.3;</al>
+            <al>verzoekt het kabinet om de toetsingscriteria van het ontwerpbesluit tegen het licht te houden, waarbij rekenschap wordt gegeven van de gevaarzetting van het werk van de groene boa,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

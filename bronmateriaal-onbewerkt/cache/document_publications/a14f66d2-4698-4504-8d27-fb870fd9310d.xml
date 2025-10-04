@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29279-987"/>
+      <meta name="OVERHEIDop.ondernummer" content="987"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29279"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Mutluer over een nationaal actieprogramma met een regeringscommissaris gendergerelateerd geweld met een breder mandaat in lijn met de EU-richtlijn (t.v.v. 29279-969)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S. Mutluer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Rechtsstaat en Rechtsorde"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Rechtsstaat en Rechtsorde; Motie (gewijzigd/nader); Gewijzigde motie van het lid Mutluer over een nationaal actieprogramma met een regeringscommissaris gendergerelateerd geweld met een breder mandaat in lijn met de EU-richtlijn (t.v.v. 29279-969)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 279</dossiernr>
+         </dossiernummer>
+         <titel>Rechtsstaat en Rechtsorde</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">987</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID MUTLEUR TER VERVANGING VAN DIE GEDRUKT ONDER NR. 969</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de nieuwe Europese richtlijn ter bestrijding van geweld tegen vrouwen en huiselijk geweld (EU-richtlijn 2024/1385) lidstaten verplicht een nationaal coördinerend, een informatievergarend en een publicerend orgaan aan te wijzen of op te richten;</al>
+                  <al>constaterende dat de afgelopen maanden en weken een duidelijke oproep uit de samenleving is gekomen om (seksueel) geweld tegen vrouwen te stoppen;</al>
+                  <al>overwegende dat gendergerelateerd geweld, waaronder femicide, seksueel geweld en huiselijk geweld, vraagt om een brede samenhangende aanpak op nationaal en lokaal niveau;</al>
+                  <al>overwegende dat er met het nationaal actie programma (NAP) en de regeringscommissaris seksueel grensoverschrijdend gedrag en seksueel geweld al waardevolle ervaring en infrastructuur is opgebouwd;</al>
+                  <al>overwegende dat zonder nieuwe besluitvorming het nationaal actie (NAP) en het werk van de regeringscommissaris gaat worden afgebouwd terwijl er tegelijkertijd een structuur moet worden opgebouwd;</al>
+                  <al>overwegende dat er veel overlap zit in de aanpak van de verschillende vormen van geweld tegen vrouwen en dat een brede structurele aanpak nodig is;</al>
+                  <al>verzoekt de regering om na te gaan of en hoe het nationaal actie programma met een onafhankelijke regeringscommissaris in samenhang met o.a. de aanpak van femicide, straatintimidatie en andere vormen van gendergerelateerd geweld met een breder mandaat in lijn met de EU-richtlijn kan worden verbreed en doorgezet,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Mutluer</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

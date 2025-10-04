@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MOOIMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de gemeenten Lansingerland en Zoetermeer al jaren de wens hebben om woningbouw te realiseren op Bleizo-West, waar de bouw van 5.000 woningen wordt voorzien;</al>
+            <al>constaterende dat de provincie Zuid-Holland deze ontwikkeling lange tijd heeft geblokkeerd omwille van de mogelijke plaatsing van windturbines;</al>
+            <al>constaterende dat er recent stappen zijn genomen die kunnen leiden tot woningbouw op Bleizo-West, maar dat daarvoor nog wel een bestuursovereenkomst moet worden opgesteld en er nog steeds uitdagingen liggen ten aanzien van de windopgave;</al>
+            <al>overwegende dat in het hoofdlijnenakkoord en regeerprogramma is opgenomen dat het belang van woningbouw, in geval van concurrentie om grond, prevaleert boven windturbines;</al>
+            <al>overwegende dat uit de Quickscan locaties en gebieden met kansen voor grootschalige woningbouw van de ministeries van BZK, EZK en lenW naar voren kwam dat nieuwe grootschalige woningbouw op Bleizo-West mogelijk zou moeten zijn;</al>
+            <al>overwegende dat het van groot belang is dat er snel voldoende woningen worden gebouwd om de woningnood aan te pakken, dat de bestuurlijke verschillen over woningbouw in dit gebied al te lang hebben geduurd, en dat het van belang is dat woningbouw ditmaal ook écht doorgang zal vinden;</al>
+            <al>verzoekt de regering zich actief in te blijven zetten om woningbouw op de locatie Bleizo-West in Lansingerland op korte termijn mogelijk te maken, en daarbij, waar nodig, de inzet van instrumenten niet te schuwen;</al>
+            <al>verzoekt de regering de locatie Bleizo-West in Lansingerland op te nemen als nieuwe, grootschalige woningbouwlocatie, dan wel deze toe te voegen aan de gebiedsontwikkeling van de Oude Lijn in de Zuidelijke Randstad, en al het nodige in het werk te stellen, zodat op deze locatie snel gebouwd kan worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mooiman</al>
+              <al>Peter de Groot</al>
+              <al>Wijen-Nass</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36531-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 531</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/2065 van het Europees parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de digitaledienstencoördinator, in Nederland de ACM, conform de Digitaledienstenverordening toezicht gaat houden op de zorgvuldigheidsverplichtingen van tussenhandeldiensten;</al>
+            <al>constaterende dat de ACM toezicht moet gaan houden op veel tussenhandeldiensten en hierbij onvermijdelijk moet gaan prioriteren;</al>
+            <al>constaterende dat het uitgangspunt van het toezicht van de ACM een op risico gebaseerde benadering is en schade, het maatschappelijk belang en doeltreffendheid van het toezicht prioriteiten in het toezicht bepalen;</al>
+            <al>overwegende dat het maatschappelijk van belang is om specifieke kwetsbare groepen zoals kinderen ook in de onlinewereld te beschermen, ook omdat daar de meeste schade voorkomt;</al>
+            <al>verzoekt de regering om de ACM uitdrukkelijk de wens van de Kamer mee te geven dat zij graag inzet op platformen waar kinderen actief zijn en te maken krijgen met dan wel illegale content dan wel schadelijke content waar minderjarigen geen toegang toe zouden moeten hebben;</al>
+            <al>verzoekt de regering tevens om de ACM te vragen om duidelijk te maken hoe ze deze de prioriteiten gaat verdelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

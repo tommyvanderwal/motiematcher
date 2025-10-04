@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36264-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 264</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Uitvoeringswet Algemene verordening gegevensbescherming en enkele andere wetten in verband met het stroomlijnen en actualiseren van het gegevensbeschermingsrecht (Verzamelwet gegevensbescherming)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DRAL EN KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in veel gevallen de volgens de AVG vereiste wettelijke grondslagen niet voldoende duidelijk zijn over welke gegevens er gedeeld mogen worden en met wie;</al>
+            <al>constaterende dat zich dit voordoet binnen alle sectoren van de samenleving en leidt tot handelingsverlegenheid, waardoor gegevens niet of niet tijdig worden gedeeld;</al>
+            <al>constaterende dat dit ook zeer nadelige gevolgen heeft bij relevant onderzoek voor de samenleving of voor het ontwikkelen van een noodzakelijk integraal beeld;</al>
+            <al>overwegende dat het aanpassen en creëren van de sectorale grondslagen een omvangrijke operatie is, die bij uitstek expertise van vakdepartementen vergt;</al>
+            <al>verzoekt de Staatssecretaris Rechtsbescherming als stelselverantwoordelijke voor bescherming van persoonsgegevens, in samenspraak met de AP en onafhankelijke privacyjuristen, te onderzoeken wanneer gegevensdeling noodzakelijk is, maar nu niet kan plaatsvinden omdat (sectorale) wettelijke grondslagen onvoldoende zijn toegesneden op de mogelijkheden die de AVG biedt, en vervolgens de Kamer hierover te informeren en een voorstel te doen hoe het adresseren van deze leemten kan worden geprioriteerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dral</al>
+              <al>Kathmann</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

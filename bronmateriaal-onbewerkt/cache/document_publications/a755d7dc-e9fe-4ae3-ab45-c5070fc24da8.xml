@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24515-751/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 515</dossiernr>
+      </dossiernummer>
+      <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">751</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DE KORT C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 747</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat «buy now, pay later»-diensten populair zijn bij jongeren;</al>
+            <al>overwegende dat het verbod voor minderjarige jongeren om van «buy now, pay later»-diensten gebruik te maken, niet effectief gehandhaafd wordt en eenvoudig te omzeilen is;</al>
+            <al>overwegende dat andere online financiële diensten voor meerderjarigen wel in staat zijn om effectief op leeftijd te handhaven met diensten als iDIN;</al>
+            <al>verzoekt de regering te onderzoeken waarom het nog zo eenvoudig is om de «buy now, pay later»-leeftijdscontroles te omzeilen;</al>
+            <al>verzoekt de regering om bij «buy now, pay later»-aanbieders strenger en effectiever te handhaven op het aanbieden van hun diensten aan minderjarigen en hierbij de toepassing van een dienst als iDIN in te zetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>De Kort</al>
+              <al>Ceder</al>
+              <al>Mohandis</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

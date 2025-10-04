@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-506/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">506</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er op dit moment geen uniforme landelijke kaders bestaan voor de opslagfactor en dat de tijd die een leraar krijgt voor het primaire onderwijsproces per school inderdaad grote verschillen laat zien;</al>
+            <al>van oordeel dat deze verschillen niet alleen onwenselijke concurrentie in de hand werken tussen scholen bij het werven van leerkrachten, maar ook een negatieve impact hebben op toegankelijkheid en kwaliteit van het onderwijs;</al>
+            <al>overwegende dat het primaire onderwijsproces prioriteit nummer één moet zijn bij de inzet van leerkrachten en dat koste wat kost moet worden geborgd dat hun kostbare tijd op geen enkele wijze onnodig aan iets anders zal worden verspild;</al>
+            <al>verzoekt de regering tot een voor het hele primair en voortgezet onderwijs landelijk uniforme en juridisch bindende opslagfactor te komen die maximaal ten dienste staat van het primaire onderwijsproces en zorg te dragen voor de naleving ervan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

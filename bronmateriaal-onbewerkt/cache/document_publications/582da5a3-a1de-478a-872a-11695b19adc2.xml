@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32034-65"/>
+      <meta name="OVERHEIDop.ondernummer" content="65"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32034"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Rooderkerk en Soepboer over een einde maken aan het businessmodel van wegwerpboeken op de leermiddelenmarkt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Soepboer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Digitale leermiddelen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Digitale leermiddelen; Motie; Motie van de leden Rooderkerk en Soepboer over een einde maken aan het businessmodel van wegwerpboeken op de leermiddelenmarkt"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 034</dossiernr>
+         </dossiernummer>
+         <titel>Digitale leermiddelen </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">65</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN ROODERKERK EN SOEPBOER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat scholen in de praktijk herhaaldelijk nieuwe boeken moeten aanschaffen omdat uitgevers vaak werken met verplichte contracten, niet-herbruikbare leerwerkboeken, of digitale leeromgevingen die alleen werken met de nieuwste edities;</al>
+                  <al>constaterende dat als gevolg hiervan door scholen jaarlijks tienduizenden kilo's aan schoolboeken worden weggegooid;</al>
+                  <al>constaterende dat de kosten voor leermiddelen bovendien blijven stijgen, terwijl er geen aantoonbare verbetering is in de onderwijskwaliteit;</al>
+                  <al>overwegende dat dit leidt tot structurele verspilling van zowel grondstoffen als onderwijsgeld;</al>
+                  <al>verzoekt de regering de leermiddelenmarkt zo te reguleren dat er een einde wordt gemaakt aan het businessmodel van wegwerpboeken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Rooderkerk</al>
+                     <al>Soepboer</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

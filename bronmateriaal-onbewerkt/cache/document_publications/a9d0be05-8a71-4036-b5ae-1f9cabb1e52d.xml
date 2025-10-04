@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34682-220/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 682</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Omgevingsvisie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">220</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bodem en water een zeer belangrijke rol spelen bij de inrichting van Nederland;</al>
+            <al>constaterende dat de «waterkalender» alle beschikbare waterdata samenbrengt, vooruitkijkt en risico's en consequenties vertaalt naar adviezen voor de ruimtelijke ordening;</al>
+            <al>constaterende dat de Raad voor de leefomgeving het Rijk en de waterschappen adviseert om met deze waterkalender toegankelijk te communiceren met bedrijven, inwoners, gemeenten en provincies over waterveiligheid, wateroverlast, droogte en zoetwatervoorziening;</al>
+            <al>overwegende dat meer informatie over water ervoor kan zorgen dat inwoners en bedrijven zelf verantwoordelijkheid nemen om maatregelen aangaande water te nemen;</al>
+            <al>verzoekt de regering om te onderzoeken of het idee van de waterkalender opgenomen kan worden in de verdere uitwerking van de Nota Ruimte, en de Kamer voor de zomer te informeren over de uitkomst hiervan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Gabriëls</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

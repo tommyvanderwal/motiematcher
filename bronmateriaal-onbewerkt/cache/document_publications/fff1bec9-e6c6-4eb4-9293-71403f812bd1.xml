@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-30-636/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>30</raadnr></dossiernummer>
+      <titel>Raad voor Concurrentievermogen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">636</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN THIJSSEN EN HIRSCH TER VERVANGING VAN DIE GEDRUKT ONDER NR. 634 </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-11">11 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie al binnen een jaar de eerder overeengekomen regels voor verantwoord ondernemen (de CSDDD) drastisch wil afzwakken;</al>
+            <al>constaterende dat bedrijven al investeringen hebben gedaan om aan de regels te voldoen en dat afzwakking niet bijdraagt aan rechtszekerheid en heldere verwachtingen voor hen;</al>
+            <al-groep>
+              <al>constaterende dat bedrijven aangeven dat de CSDDD economische kansen biedt en bijdraagt aan een gelijk speelveld;</al>
+              <al>constaterende dat er in de ketens allerlei misstanden zijn, zoals kinderarbeid, mensenrechtenschendingen en milieuvervuiling;</al>
+            </al-groep>
+            <al>overwegende dat de CSDDD mede dankzij de Nederlandse inzet in de Raad is gekomen en Nederland al voortvarend aan de slag is gegaan met een nationale implementatiewet;</al>
+            <al>verzoekt de regering zich in te spannen voor rechtszekerheid, heldere verwachtingen en het voorkomen van onnodige regeldruk voor bedrijven, door tijdens de Raad van 12 maart niet actief te pleiten voor afzwakking van de CSDDD,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Thijssen</al>
+              <al>Hirsch</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

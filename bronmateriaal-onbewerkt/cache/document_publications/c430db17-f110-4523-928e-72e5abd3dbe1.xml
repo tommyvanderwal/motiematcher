@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3371/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3371</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Inspectie Justitie en Veiligheid ernstige zorgen heeft over de veiligheid van bewoners en medewerkers van het aanmeldcentrum in Ter Apel en enkele aanbevelingen doet om dit te verbeteren;</al>
+            <al>overwegende dat zij constateren dat veel van de problemen voortkomen uit het feit dat het aanmeldcentrum niet geschikt is voor langdurig verblijf, maar mensen hier noodgedwongen voor langere tijd verblijven;</al>
+            <al>verzoekt het kabinet het advies van de Inspectie Justitie en Veiligheid op te volgen en voor de zomer van 2025 voorzieningen te realiseren die geschikt zijn voor langdurig verblijf, inclusief betere voorzieningen voor kinderen, zoals formeel onderwijs en privacy,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Piri</al>
+              <al>Van Nispen</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

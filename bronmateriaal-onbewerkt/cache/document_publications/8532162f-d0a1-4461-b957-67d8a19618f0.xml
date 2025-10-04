@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36441-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 441</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Gaswet en Mijnbouwwet in verband met de beëindiging van de gaswinning uit het Groningenveld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TJEERD DE GROOT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Waddenzee een uniek, UNESCO-erkend natuurgebied is;</al>
+            <al>overwegende dat de nieuwe cijfers over de zeespiegelstijging zorgwekkend zijn;</al>
+            <al>overwegende dat het SodM daardoor negatief adviseert over een voorgenomen gaswinning bij Ternaard;</al>
+            <al>overwegende dat de Staatssecretaris heeft geschreven dat hij nu niet anders kan dan deze vergunning te weigeren;</al>
+            <al>verzoekt de regering om in te zetten op een definitieve weigering van deze vergunning,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tjeerd de Groot</al>
+              <al>Beckerman</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36196-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 196</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 in verband met aanscherping van het openbare ordebeleid voor criminele vreemdelingen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BREKELMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-17">17 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overlast en criminaliteit door vreemdelingen het draagvlak voor asielopvang en migratie aantasten;</al>
+            <al>van mening dat criminele vreemdelingen bij een veroordeling sneller moeten kunnen worden teruggestuurd naar het herkomstland en geen aanspraak meer behoren te maken op een nieuwe verblijfsvergunning;</al>
+            <al>verzoekt de regering te onderzoeken in hoeverre binnen de relevante juridische kaders (EVRM en jurisprudentie) de glijdende schaal, zoals neergelegd in artikel 3.86 Vb 2000, kan worden aangepast, zodat een celstraf eerder leidt tot het afwijzen of intrekken van een verblijfsvergunning,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Brekelmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

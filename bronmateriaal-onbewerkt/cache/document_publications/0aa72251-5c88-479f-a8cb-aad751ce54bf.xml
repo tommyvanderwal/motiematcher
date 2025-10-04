@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-VIII-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Jaarverslag en slotwet Ministerie van Onderwijs, Cultuur en Wetenschap 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MARTENS-AMERICA EN DE KORT</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-06-10">10 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Kamer haar controlerende taak enkel serieus kan nemen wanneer er duidelijke doelstellingen gekoppeld worden aan specifieke gelden;</al>
+            <al>overwegende dat het nu vaak onvoldoende is of incidentele gelden in relatie tot de verbetering van de kwaliteit van het onderwijs doelmatig zijn besteed en hebben bijgedragen aan de ambitie;</al>
+            <al>verzoekt de regering concrete doelstellingen te koppelen aan gelden zoals aangedragen in het rapport van de Algemene Rekenkamer, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Martens-America</al>
+              <al>De Kort</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,21 @@
+{
+  "generated_at": "2025-10-04T16:50:10+00:00",
+  "start_date_filter": "2023-12-06",
+  "source_files": [
+    "zaak_current_parliament_20251003_174519.json",
+    "zaak_voted_motions_20251003_200218.json"
+  ],
+  "total_motions": 8065,
+  "unique_motion_ids": 8065,
+  "unique_motion_numbers": 8065,
+  "duplicate_motion_numbers": [],
+  "counts_per_vergaderjaar": {
+    "2023-2024": 2309,
+    "2024-2025": 5232,
+    "2025-2026": 524
+  },
+  "date_range": {
+    "earliest": "2023-12-07T00:00:00+01:00",
+    "latest": "2025-10-02T00:00:00+02:00"
+  }
+}

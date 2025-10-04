@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-07-2013/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>07</raadnr></dossiernummer>
+      <titel>Raad voor Economische en Financiële Zaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2013</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN HIJUM EN HEINEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de onderhandelingen over de herziening van het Stabiliteits- en Groeipact (SGP) nagenoeg zijn afgerond;</al>
+            <al>overwegende dat de Nederlandse regering onder meer heeft ingezet op een betere schuldhoudbaarheid van lidstaten in de eurozone en op een betere naleving van afspraken over begrotingsdiscipline via het versterken van het «nationaal eigenaarschap» in combinatie met een streng toezicht op de naleving van de afspraken;</al>
+            <al>constaterende dat het compromisvoorstel een complex geheel van regels en afspraken bevat en veel politieke afwegingsruimte om af te zien van handhaving via de buitensporigtekortprocedure vanwege bepaalde uitgaven, investeringen, rentelasten of andere «relevante factoren»;</al>
+            <al>verzoekt de regering om zich te blijven inzetten voor:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>een stevige positie van onafhankelijke nationale begrotingsautoriteiten bij het opstellen van nationale «uitgavenpaden» en bij de monitoring en naleving van de afspraken die moeten leiden tot begrotingsdiscipline alle lidstaten;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>een onafhankelijke beoordeling van de naleving van de regels door het European Fiscal Board als basis voor mogelijke handhaving,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Hijum</al>
+              <al>Heinen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

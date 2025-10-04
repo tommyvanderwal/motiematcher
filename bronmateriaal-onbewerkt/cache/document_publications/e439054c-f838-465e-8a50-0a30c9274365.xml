@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-X-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>X</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WAL C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-10-21">21 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het van groot belang is dat onze krijgsmacht volledig paraat staat om Nederland en het NAVO-grondgebied te verdedigen om een sterke afschrikwekkende werking tewerk te kunnen stellen;</al>
+            <al>constaterende dat Defensie bijna 10.000 vacatures open heeft staan die moeten worden opgevuld;</al>
+            <al>constaterende dat de Defensieorganisatie op 1 juli 2024 nog altijd slechts voor 18,7% uit vrouwen bestaat, terwijl dat bij onze hele bevolking 50% is;</al>
+            <al>overwegende dat onder andere scherfvesten en rugzakken die Defensie gebruikt niet altijd geschikt zijn voor vrouwen, wat zorgt voor ongemak en zelfs blessures;</al>
+            <al>verzoekt de regering in de hele Defensieorganisatie te onderzoeken tegen welke obstakels vrouwen aan lopen tijdens het werken, en deze waar mogelijk weg te nemen, zonder dat dit invloed heeft op de output-eisen en normen binnen defensie;</al>
+            <al>verzoekt de regering na te gaan of het huidige personeelsbeleid van Defensie voldoende past bij de huidige tijd, bijvoorbeeld op het gebied van de gezinssituatie van Nederlanders, en voor het einde van het eerste kwartaal de Kamer hierover te informeren;</al>
+            <al>verzoekt de regering op korte termijn extra maatregelen te nemen ten behoeve van de werving van vrouwen voor Defensie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Wal</al>
+              <al>Van der Werf</al>
+              <al>Boswijk</al>
+              <al>Nordkamp</al>
+              <al>Heite</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

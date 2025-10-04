@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34293-144/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 293</dossiernr>
+      </dossiernummer>
+      <titel>Renovatie Binnenhof</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">144</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WHITE EN WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat ook de Grafelijke Zalen moeten worden gerenoveerd;</al>
+              <al>overwegende dat het van belang is dat het huis van de democratie voor iedereen toegankelijk is;</al>
+            </al-groep>
+            <al>overwegende dat het van belang is dat in Nederland belangrijke openbare gebouwen zoals het Binnenhofcomplex zo goed mogelijk toegankelijk moeten zijn, dus ook voor mensen met een beperking;</al>
+            <al>overwegende dat Nederland verdragspartij is bij het VN-Verdrag inzake de rechten van personen met een handicap;</al>
+            <al>verzoekt de regering om zich maximaal in te spannen om net als bij de reeds in renovatie zijnde delen ook het Binnenhofdeel waarin de Grafelijke Zalen zich bevinden zo toegankelijk mogelijk te maken, en de Kamer over deze inspanning te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>White</al>
+              <al>Westerveld</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

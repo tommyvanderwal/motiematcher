@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2198/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2198</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OMTZIGT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-05">5 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de cyberveiligheid op orde moet zijn, zeker nu;</al>
+            <al>overwegende dat de huidige situatie van hybride dreigingen uit Rusland vraagt om versterkte defensieve maatregelen in het digitale domein;</al>
+            <al>overwegende dat de Baltische staten gemiddeld 90 cyberaanvallen per dag te verduren hebben;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>1.</li.nr>
+                  <al>het recente advies van de CTIVD wettelijk goed te verankeren zodat privaat-publieke samenwerking een solide basis heeft;</al>
+                </li>
+                <li>
+                  <li.nr>2.</li.nr>
+                  <al>het Defensie Cyber Commando (DCC) een adequaat mandaat te geven in deze hybride situatie, zodat zij snel kunnen handelen, met passend toezicht;</al>
+                </li>
+                <li>
+                  <li.nr>3.</li.nr>
+                  <al>te zorgen voor een versterking van het DCC en een opschaling van het aantal cyberreservisten,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Omtzigt</al>
+              <al>Jetten</al>
+              <al>Timmermans</al>
+              <al>Wilders</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

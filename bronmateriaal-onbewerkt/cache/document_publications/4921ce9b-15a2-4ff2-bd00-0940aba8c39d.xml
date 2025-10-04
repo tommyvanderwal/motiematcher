@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XII-72/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">72</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-01-29">29 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in de Drinkwaterwet de vergoeding voor het eigen en vreemd vermogen bij drinkwaterbedrijven wordt begrensd door de gewogen vermogenskostenvoet (de WACC);</al>
+            <al>overwegende dat in de komende jaren de drinkwaterbedrijven fors meer moeten investeren om te kunnen blijven voldoen aan hun wettelijke leveringsplicht;</al>
+            <al>overwegende dat gebrek aan financieringsruimte een belemmering vormt voor het doen van deze investeringen en dus voor het uitvoeren van de wettelijke taak van de drinkwaterbedrijven;</al>
+            <al>overwegende dat de Minister van lenW in de WGO-brief van 27 november jongstleden aangeeft voor de korte termijn aanbevelingen uit te werken via een wijziging van de Drinkwaterregeling, zodat deze effect hebben op de komende vaststelling van de vermogenskostenvoet, die per 2025 gaat gelden;</al>
+            <al>verzoekt de regering de drinkwaterbedrijven dit jaar zo snel mogelijk duidelijkheid te geven over de financieringsruimte met ingang van 2025, en daarbij te verzekeren dat deze financieringsruimte de drinkwaterbedrijven in staat stelt de noodzakelijke investeringen te doen, zodat zij kunnen blijven voldoen aan hun wettelijke taak, en de Kamer voor het eind van het eerste kwartaal te rapporteren, of in ieder geval voor het volgende debat,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwi</al>
+              <al>Tjeerd de Groot</al>
+              <al>Olger van Dijk</al>
+              <al>Peter de Groot</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

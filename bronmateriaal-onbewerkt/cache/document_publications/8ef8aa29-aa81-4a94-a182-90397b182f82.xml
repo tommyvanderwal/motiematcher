@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-25424-733"/>
+      <meta name="OVERHEIDop.ondernummer" content="733"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="25424"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van den Hil c.s. over een laagdrempelig ggz-consult voor stabiele patiënten met chronische aandoeningen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.G.F. Rikkers-Oosterkamp"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. van den Hil"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Geestelijke gezondheidszorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Geestelijke gezondheidszorg; Motie; Motie van het lid Van den Hil c.s. over een laagdrempelig ggz-consult voor stabiele patiënten met chronische aandoeningen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Ziekten en behandelingen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>25 424</dossiernr>
+         </dossiernummer>
+         <titel>Geestelijke gezondheidszorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">733</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN DEN HIL C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de beëindiging van een behandeltraject voor ggz-patiënten onzekere gevolgen kan hebben;</al>
+                  <al>constaterende dat ggz-zorgverleners soms behandelingen onnodig lang laten duren omdat er geen terugvalmogelijkheid is;</al>
+                  <al>overwegende dat het goed is om een patiënt te laten ervaren hoe zonder hulp zijn of haar leven weer opgepakt kan worden, maar dat deze patiënten vaak hoge drempels ervaren om daarna, mocht het nodig zijn, weer hulp te vragen en te ontvangen;</al>
+                  <al>overwegende dat het opnieuw op een wachtlijst staan en het aflopen van de termijn van een verwijzing in de weg kunnen staan om snel opnieuw hulp te ontvangen;</al>
+                  <al>overwegende dat het een patiënt en zorgverlener zekerheid geeft als er nog een terugvalmogelijkheid is om binnen het bestaande zorgtraject hulp te kunnen ontvangen, waardoor er een pauzeknop ontstaat;</al>
+                  <al>verzoekt de regering om te onderzoeken onder welke voorwaarden de groep stabiele patiënten met chronische aandoeningen weer laagdrempelig een consult in de ggz kunnen krijgen nadat hun ggz-behandelrelatie eindigt, en dit voor deze groep mogelijk te maken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van den Hil</al>
+                     <al>Rikkers-Oosterkamp</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

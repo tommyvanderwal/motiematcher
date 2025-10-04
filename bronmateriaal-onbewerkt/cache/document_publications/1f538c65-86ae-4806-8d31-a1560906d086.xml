@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31293-820"/>
+      <meta name="OVERHEIDop.ondernummer" content="820"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31293"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Krul over inschrijfformulieren van scholen zonder belemmering online beschikbaar stellen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Primair Onderwijs"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Primair Onderwijs; Motie; Motie van het lid Krul over inschrijfformulieren van scholen zonder belemmering online beschikbaar stellen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Basisonderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Overige vormen van onderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 293</dossiernr>
+         </dossiernummer>
+         <titel>Primair Onderwijs</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">820</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KRUL</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat ouders problemen ervaren bij de aanmelding op een basisschool als hun kind een handicap of ondersteuningsbehoefte heeft waardoor basisscholen proberen te voorkomen dat er een zorgplicht ontstaat;</al>
+                  <al>constaterende dat een aanmelding schriftelijk dient te gebeuren (art. 40, lid 2 WPO en art. 8.8, lid 1 WVO 2020);</al>
+                  <al>constaterende dat ouders al mondeling te kennen wordt gegeven dat de school vol is;</al>
+                  <al>constaterende dat voor die ouders niet transparant is of er voor hun kind met een handicap of ondersteuningsbehoefte een passende plaats op die school voorhanden is;</al>
+                  <al>overwegende dat scholen openbaar moeten maken hoeveel plaatsen ze hebben, zodat de kansengelijkheid van elk kind toeneemt;</al>
+                  <al>verzoekt de regering alle scholen hun inschrijfformulier zonder belemmering online beschikbaar te laten stellen en te onderzoeken of ook het aantal beschikbare plaatsen openbaar moet worden gemaakt door scholen, zodat de onderwijskansen voor kinderen met een handicap of een ondersteuningsbehoefte toenemen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Krul</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

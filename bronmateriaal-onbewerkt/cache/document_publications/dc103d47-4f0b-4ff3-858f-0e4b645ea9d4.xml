@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23645-841/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 645</dossiernr>
+      </dossiernummer>
+      <titel>Openbaar vervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">841</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OLGER VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aantal geweldsincidenten waarmee NS-medewerkers te maken hebben met 5% is toegenomen in 2024;</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is opgenomen dat er maatregelen genomen worden om de veiligheid in het ov te bevorderen, zoals het invoeren van bodycams voor hoofdconducteurs;</al>
+            <al>overwegende dat bodycams helpen bij de opsporing van strafbare feiten en een preventieve werking hebben;</al>
+            <al>overwegende dat het besluit aan NS wordt gelaten om bodycams op vrijwillige basis beschikbaar te stellen aan medewerkers;</al>
+            <al>verzoekt de regering om alles op alles te zetten zodat conducteurs bij NS op vrijwillige basis een bodycam kunnen dragen bij de uitoefening van hun werkzaamheden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Veltman</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

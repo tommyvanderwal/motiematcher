@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat het demonstratierecht een groot goed is, dat we moeten beschermen;</al>
+            <al>constaterende dat de burgemeester een demonstratie vooraf kan beperken of verbieden op basis van de criteria uit de Wet openbare manifestaties;</al>
+            <al>constaterende dat een aantal belangengroepen zich niet tot de rechter wendt om tegen het besluit van de burgemeester te ageren, maar het besluit bewust negeert;</al>
+            <al>van mening dat de enorme politiecapaciteit die nodig is om een demonstratie die vooraf is beperkt of is verboden, in goede banen te leiden, niet uit te leggen is;</al>
+            <al>overwegende dat er op dit moment op geen enkele manier handhaving plaatsvindt tegen diegenen die tegen een besluit van de burgemeester in gaan;</al>
+            <al>verzoekt de regering om een mobiel identificatieproces te organiseren c.q. te faciliteren, om op basis van de Wet op de identificatieplicht de aanwezigen bij een demonstratie die op voorhand is verboden, te registreren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-106/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">106</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de rijkste wijken van Nederland de meest gesegregeerde zijn, op meerdere variabelen zoals sociaaleconomische klasse en achtergrond;</al>
+            <al>constaterende dat zich op meerdere plaatsen situaties hebben voorgedaan, zoals het weren van hospices en noodopvang, en het niet bouwen van betaalbare en sociale huurwoningen;</al>
+            <al>verzoekt de regering de meest gesegregeerde rijke wijken in Nederland in kaart te brengen en een aanpak te formuleren om deze segregatie tegen te gaan en deze uiterlijk voor de zomer aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

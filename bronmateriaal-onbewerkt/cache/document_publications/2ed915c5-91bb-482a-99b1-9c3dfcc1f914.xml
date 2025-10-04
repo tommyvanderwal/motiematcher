@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33561-72/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 561</dossiernr>
+      </dossiernummer>
+      <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">72</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRÖGER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat lokaal eigendom het draagvlak in de energietransitie versterkt;</al>
+            <al>overwegende dat voor de zomer een visie rond energiegemeenschappen wordt gepresenteerd door de Minister;</al>
+            <al>verzoekt de regering om concrete voorstellen voor financiële en juridische instrumenten op te nemen in de visie op energiegemeenschappen, waaronder concrete invulling van het faciliterend kader zoals beschreven in de Renewable Energy Directive, een prioritaire status voor energiegemeenschappen voor projecten op rijksgronden en een rol voor energiegemeenschappen in de gunning van de aanbestedingen voor wind op zee,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kröger</al>
+              <al>Rooderkerk</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

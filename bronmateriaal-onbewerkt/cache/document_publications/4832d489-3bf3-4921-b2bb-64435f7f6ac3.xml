@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32013-293/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 013</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst financiële sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">293</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ERGIN EN BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat na aanhoudende klachten van moskeeën en kerken, maar ook van particulieren, over discriminatie bij klant- en transactieonderzoeken, er onderzoek is verricht naar ervaren discriminatie;</al>
+            <al>van mening dat het gezien de ernst van het probleem en de gevolgen voor individuen en organisaties in de samenleving van belang is om onderzoeken naar ervaringen voort te zetten;</al>
+            <al>verzoekt de regering om onderzoeken naar ervaren discriminatie door financiële instellingen periodiek te monitoren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ergin</al>
+              <al>Bamenga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

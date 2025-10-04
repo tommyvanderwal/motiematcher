@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33047-39"/>
+      <meta name="OVERHEIDop.ondernummer" content="39"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33047"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Inge van Dijk over meer ondersteuning en ontwikkelkansen voor wethouders (t.v.v. 33047-37)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Bestuur en bestuurlijke inrichting"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="Bestuur en bestuurlijke inrichting; Motie (gewijzigd/nader); Gewijzigde motie van het lid Inge van Dijk over meer ondersteuning en ontwikkelkansen voor wethouders (t.v.v. 33047-37)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 047</dossiernr>
+         </dossiernummer>
+         <titel>Bestuur en bestuurlijke inrichting</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">39</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID INGE VAN DIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 37</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het wethoudersambt een cruciale rol speelt in het lokale bestuur;</al>
+                  <al>constaterende dat de verantwoordelijkheid, complexiteit en werkdruk van het wethoudersambt de afgelopen jaren sterk zijn toegenomen;</al>
+                  <al>overwegende dat een hoge uitstroom en een gebrek aan instroom van wethouders zorgen voor onzekerheid en druk op de continuïteit van lokaal bestuur;</al>
+                  <al>overwegende dat wethouders dagelijks met grote inzet en betrokkenheid bijdragen aan de maatschappelijke opgaven van hun gemeente;</al>
+                  <al>van mening dat het versterken van de waardering, ondersteuning en ontwikkelingsmogelijkheden van wethouders essentieel is om de kwaliteit en aantrekkelijkheid van het ambt te borgen;</al>
+                  <al>verzoekt de regering wethouders waardering en balans te bieden door een verlofregeling in te stellen die wethouders helpt om gezond en effectief te blijven functioneren;</al>
+                  <al>verzoekt de regering te onderzoeken hoe we gemeenteraden meer ruimte kunnen bieden om het aantal wethouders en hun ondersteuningsbehoefte af te stemmen op de lokale opgaven, zodat iedere gemeente de bestuurlijke kracht krijgt die zij nodig heeft;</al>
+                  <al>verzoekt de regering te investeren in de ontwikkelkansen voor wethouders door permanente educatie en begeleiding voor wethouders te waarborgen, zodat zij optimaal toegerust zijn om de toenemende complexiteit van hun taak met vakmanschap en visie te vervullen;</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Inge van Dijk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

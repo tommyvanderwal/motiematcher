@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36163-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 163</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van Boek 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek in verband met de aanpassing van de termijn van de omkering van de bewijslast voor consumentenkoop van levende dieren (Aanpassingswet bewijslasttermijn consumentenkoop levende dieren)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-20">20 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Tweede Kamer al in 2018 een motie heeft aangenomen om impulsaankopen tegen te gaan, maar deze motie nooit is uitgevoerd;</al>
+            <al>constaterende dat met de Aanpassingswet bewijslasttermijn consumentenkoop levende dieren de stimulans om gezonde dieren te fokken afneemt;</al>
+            <al>constaterende dat op paardenmarkten veel ongezonde dieren worden verhandeld, met nauwelijks of geen controle;</al>
+            <al>constaterende dat op paardenmarkten tevens regelmatig ernstige dierenmishandeling en dierverwaarlozing worden aangetroffen;</al>
+            <al>verzoekt de regering om over te gaan tot een verbod op paardenmarkten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

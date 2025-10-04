@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-50/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">50</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SNELLER EN MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de groeiende maatschappelijke onrust steeds vaker omslaat in agressie en geweld richting personen in beroepsgroepen die zich inzetten voor de publieke taak;</al>
+            <al>overwegende dat de overheid en werkgevers tekortschieten in het veilig houden van hun werknemers met een publieke taak en dat hier sinds 2012 geen onderzoek meer naar is gedaan door de Arbeidsinspectie;</al>
+            <al-groep>
+              <al>verzoekt de regering dit fenomeen te bestrijden door:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zelf als werkgever actiever invulling te geven aan de verantwoordelijkheid om werknemers veilig te houden, zoals omschreven in artikel 3 van de Arbeidsomstandighedenwet, ook wel Arbowet genoemd, onder andere door altijd aangifte te doen en een normherstellende reactie richting agressor te doen binnen 48 uur;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de grote werkgeversorganisaties en veiligheidsregio's aan te spreken op deze zelfde verantwoordelijkheid en hun handvatten te verschaffen voor onder andere het eisen van civielrechtelijke schadevergoedingen en het opleggen van bestuursrechtelijke escalatiemogelijkheden aan agressors;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>meer onderzoek en monitoring te organiseren naar de aard en oorzaak van incidenten waarbij geen strafrechtelijke norm is overschreden en de Arbeidsinspectie te verzoeken een nieuw onderzoek te doen naar agressie op het werk en effectieve middelen om die te bestrijden,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

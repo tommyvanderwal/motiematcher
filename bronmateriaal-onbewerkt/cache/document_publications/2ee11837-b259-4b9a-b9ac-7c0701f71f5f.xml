@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1074/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1074</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WESTERVELD EN DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de handtekening van Nederland onder het Kinderrechtenverdrag staat;</al>
+            <al>constaterende dat financiële problemen soms de oorzaak zijn dat kinderen in de jeugdzorg of na een uithuisplaatsing verminderd of geen contact hebben met familie, hulpmiddelen en educatieve middelen voor kinderen met een beperking niet altijd worden vergoed, en kinderen uit families met sociaaleconomische problemen minder vaak zwemvaardig zijn en kunnen sporten en bewegen;</al>
+            <al>constaterende dat dit in strijd is met de artikelen 9, 23 en 31;</al>
+            <al>verzoekt de regering een plan te maken om deze schendingen van kinderrechten vanwege de financiële situatie van ouders aan te pakken, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33578-159"/>
+      <meta name="OVERHEIDop.ondernummer" content="159"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33578"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Nader gewijzigde motie van de leden Bushoff en Tielen over een claw back mogelijk maken opdat zorggeld kan worden teruggevorderd bij fraude en bij uitgekeerde winst (t.v.v. 33578-151)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.Z.C.M. Tielen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.J. Bushoff"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Eerstelijnszorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="Eerstelijnszorg; Motie (gewijzigd/nader); Nader gewijzigde motie van de leden Bushoff en Tielen over een claw back mogelijk maken opdat zorggeld kan worden teruggevorderd bij fraude en bij uitgekeerde winst (t.v.v. 33578-151)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Ziekten en behandelingen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 578</dossiernr>
+         </dossiernummer>
+         <titel>Eerstelijnszorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">159</ondernummer>
+         </stuknr>
+         <titel>NADER GEWIJZIGDE MOTIE VAN DE LEDEN BUSHOFF EN TIELEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 151</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat bestuurders van zorgondernemers zoals Co-Med en zorgbureau Victorie zichzelf verrijkten met gemeenschapsgeld middels declaratiefraude, wanbestuur, misleiding en het uitgeven van enorme winsten deels verkregen uit subsidies;</al>
+                  <al>constaterende dat er jaarlijks 10 miljard euro aan publiek geld wegvloeit naar dubieuze winstuitkeringen, dividenduitkeringen en fraude in de zorg maar niet altijd tot vervolging kan worden overgegaan, bijvoorbeeld omdat niet kan worden aangetoond waar winsten van afkomstig zijn;</al>
+                  <al>overwegende dat na de bankencrisis in de Wft is vastgelegd dat bonussen en winstdelingen van bestuurders in de financiële sector kunnen worden teruggevorderd door financiële ondernemingen bij bewezen wanprestaties middels een claw back bevoegdheid;</al>
+                  <al>overwegende dat als is vastgesteld dat zorgaanbieders geen goede kwaliteit van zorg verleenden, regels voor declaraties overtraden of geld uit de organisatie haalden terwijl de financiële situatie aantoonbaar slecht was met faillissement als gevolg, alles-op-alles moet worden gezet om het zorggeld terug te halen;</al>
+                  <al>verzoekt de regering om een dergelijke claw back mogelijk te maken zodat dat zorggeld kan worden teruggevorderd bij fraude en bij uitgekeerde winst;</al>
+                  <al>en gaat over tot de dag.</al>
+                  <al-groep>
+                     <al>Bushoff</al>
+                     <al>Tielen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

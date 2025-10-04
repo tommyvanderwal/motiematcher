@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36561-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 561</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Zorgverzekeringswet in verband met het bevorderen van zorgcontractering</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de toegankelijkheid van zorg niet alleen afhangt van het aantal gecontracteerde zorgaanbieders, maar ook van hoe efficiënt de beschikbare capaciteit, zoals behandelplekken, personeel en doorstroming in de zorgketen, wordt benut;</al>
+            <al>overwegende dat het zicht op wachttijden en doorlooptijden grotendeels ontbreekt, waardoor niet inzichtelijk is of en waar iemand eerder geholpen kan worden;</al>
+            <al>overwegende dat patiënten en cliënten niet optimaal worden bemiddeld naar andere beschikbare gecontracteerde zorgaanbieders;</al>
+            <al>overwegende dat dit mismatchprobleem ertoe leidt dat extra gecontracteerde zorg niet altijd leidt tot betere toegankelijkheid of kortere wachttijden, terwijl de kosten wel toenemen;</al>
+            <al-groep>
+              <al>verzoekt de regering om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een overzicht op te stellen van de actuele wachttijden en doorlooptijden per zorgsector, per zorgsoort en regio, waarbij inzichtelijk wordt gemaakt in hoeverre beschikbare capaciteit daadwerkelijk wordt benut;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het actuele overzicht beschikbaar te stellen aan zorgverzekeraars en patiënten en cliënten;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>op basis van dit overzicht een conclusie te trekken over de vraag of de oplossing ligt in extra zorgcontractering of in een betere inzet van de bestaande capaciteit;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een methodiek te verkennen waarin het bijhouden van wachttijden, doorlooptijden en capaciteit op een gestandaardiseerde manier kan plaatsvinden, zodat dit informatiebestand als een continu monitoringsinstrument kan worden ingezet voor beleidsontwikkeling en strategische keuzes in de zorg, zonder dat dit leidt tot meer registratielast,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

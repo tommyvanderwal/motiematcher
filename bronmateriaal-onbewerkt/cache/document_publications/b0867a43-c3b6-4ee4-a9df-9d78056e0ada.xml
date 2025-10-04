@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36412-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 412</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Waterschapswet, de Waterwet en de Algemene wet bestuursrecht in verband met het versterken van de toepassing van het profijtbeginsel bij de watersysteemheffing, het geven van ruimte aan nieuwe ontwikkelingen en het oplossen van enkele knelpunten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de wijziging van de Waterschapswet uitgaat van het profijtbeginsel;</al>
+            <al>constaterende dat het natuurbeleid sterk inzet op het aanpakken van de waterhuishouding in (kwetsbare) natuurgebieden;</al>
+            <al>overwegende dat dit een grote inzet van de waterschappen vraagt;</al>
+            <al>verzoekt de regering in beeld te brengen welke kosten de waterschappen moeten maken voor verbetering van de natuurkwaliteit,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

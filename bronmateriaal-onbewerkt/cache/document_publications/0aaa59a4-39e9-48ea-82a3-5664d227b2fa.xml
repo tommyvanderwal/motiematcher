@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36159-18/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 159</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">18</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-20">20 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de voorgestelde wijziging zal leiden tot een groter aantal zaken waarbij verboden NPS wordt aangetroffen;</al>
+            <al>constaterende dat de impactanalyse van politie duidelijk maakt dat indien eerstelijns medewerkers worden opgeleid om stoffen te testen, dit kan leiden tot een drempelverlaging om tot aanhouding en inbeslagname over te gaan;</al>
+            <al>overwegende dat effectiviteit van het wetsvoorstel valt of staat met adequate handhaving;</al>
+            <al>constaterende dat de eenheid Zeeland-West-Brabant positieve ervaringen heeft met de nieuwe indicatieve stoffentest waarmee NPS kunnen worden aangetoond en dat dit ertoe leidt dat in deze eenheid significant vaker geïntervenieerd en in beslag genomen wordt dan in andere eenheden;</al>
+            <al>overwegende dat indicatief testen bijdraagt aan het efficiënter omgaan met schaarse capaciteit in de tweede lijn, zoals bij de forensische opsporingsdienst;</al>
+            <al>constaterende dat de gebruikersmarkt voor en de handel in NPS hoofdzakelijk bediend wordt via de post;</al>
+            <al>verzoekt de regering de nieuwe indicatieve stoffentest bij alle eenheden en het Post Interventieteam te introduceren, zodat het aantal keren dat kan worden doorgepakt nadat de stof getest is, zal groeien,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Bikker</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

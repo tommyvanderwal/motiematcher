@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28676-476/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 676</dossiernr>
+      </dossiernummer>
+      <titel>NAVO</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">476</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat elke NAVO kandidaat-lidstaat eerst aan de toetredingseisen moet voldoen zoals vastgelegd in het Noord-Atlantisch Verdrag;</al>
+            <al>overwegende dat Nederland bij de Europese koplopers hoort in steun aan de Oekraïense verdediging;</al>
+            <al>overwegende dat zowel de NAVO als het Nederlandse kabinet hebben uitgesproken dat Oekraïne op een onomkeerbaar pad is richting NAVO-lidmaatschap;</al>
+            <al>overwegende dat Nederland bilaterale steun en expertise levert aan Oekraïne en Moldavië bij het toetredingsproces van de Europese Unie;</al>
+            <al>verzoekt het kabinet om datzelfde te doen voor Oekraïne bij het voldoen aan de NAVO-toetredingseisen zoals vastgelegd in het Noord-Atlantisch Verdrag,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Paternotte</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

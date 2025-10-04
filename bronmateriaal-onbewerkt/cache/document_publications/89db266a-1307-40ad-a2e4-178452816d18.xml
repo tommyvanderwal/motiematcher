@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-578/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">578</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN VAN CAMPEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is afgesproken over te gaan op doelsturing en in te zetten op innovatie;</al>
+            <al>constaterende dat er 1,25 miljard tot 2,5 miljard gereserveerd staat voor innovatie;</al>
+            <al>overwegende dat de mestproblematiek en emissiereductie urgent zijn, zowel voor de natuur als voor het op gang krijgen van vergunningverlening en het perspectief voor boeren;</al>
+            <al>overwegende dat op korte termijn dus maatregelen nodig zijn waarvan de effectiviteit op dit moment al bekend is en die op korte termijn breed ingezet en juridisch geborgd kunnen worden;</al>
+            <al>verzoekt de regering voor de Kamer inzichtelijk te maken welke innovaties gaan bijdragen aan emissiereductie per dierlijke sector, in welk stadium van ontwikkeling (van vooronderzoek tot juridisch geborgd en klaar voor brede uitrol) deze innovaties zich op dit moment bevinden, wat de inschatting is van de bijdrage aan de emissiereductie en op welke termijn we die bijdrage kunnen verwachten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

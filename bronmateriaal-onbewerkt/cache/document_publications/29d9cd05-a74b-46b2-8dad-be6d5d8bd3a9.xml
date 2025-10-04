@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-685/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">685</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PODT EN BROMET</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat omwonenden van lelietelers en andere akkerbouwers bezorgd zijn over hun gezondheid in relatie tot het gebruik van bestrijdingsmiddelen;</al>
+            <al>overwegende dat transparantie over het middelengebruik vertrouwen tussen telers en omwonenden kan vergroten;</al>
+            <al>overwegende dat telers hun middelengebruik al registreren;</al>
+            <al>verzoekt de regering om voor 1 januari 2026 een centraal register op te zetten waarbij het professioneel middelengebruik op percelen binnen twee weken na toepassing wordt geregistreerd en deze openbaar te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Bromet</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

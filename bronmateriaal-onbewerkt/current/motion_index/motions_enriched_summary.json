@@ -1,0 +1,19 @@
+{
+  "generated_at": "2025-10-04T20:14:32.005400Z",
+  "motion_count_input": 8065,
+  "motion_count_output": 8065,
+  "limit_applied": false,
+  "vote_coverage": {
+    "with_vote": 6743,
+    "without_vote": 1322
+  },
+  "text_coverage": {
+    "with_text": 8041,
+    "without_text": 24
+  },
+  "issue_counts": {
+    "no_vote_data": 1322,
+    "document_missing_publications": 24
+  },
+  "api_calls_used": 0
+}

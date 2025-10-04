@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIII-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat stads- en dorpscentra een belangrijke rol spelen voor de leefbaarheid, verbinding en werkgelegenheid in gemeenten;</al>
+            <al>overwegende dat stads- en dorpscentra steeds meer kampen met onleefbaarheid door leegstand van winkelpanden;</al>
+            <al>overwegende dat via de Impulsaanpak winkelgebieden gemeenten een subsidie konden aanvragen bij de rijksoverheid voor projecten die ertoe bijdragen dat binnenstedelijke winkelgebieden toekomstbestendig worden gemaakt, waarbij de focus ligt op het creëren van meer woningen, meer groen en minder lege winkelpanden;</al>
+            <al>overwegende dat de vierde en tevens laatste openstellingsronde van de Impulsaanpak winkelgebieden vier keer is overtekend;</al>
+            <al>verzoekt de regering de tussenevaluatie die op dit moment gepland staat voor 2027 en de eindevaluatie die op dit moment gepland staat voor 2032 naar voren te halen, zodat de Kamer eerder aan de slag kan met de resultaten van de evaluaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kisteman</al>
+              <al>Vermeer</al>
+              <al>Inge van Dijk</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

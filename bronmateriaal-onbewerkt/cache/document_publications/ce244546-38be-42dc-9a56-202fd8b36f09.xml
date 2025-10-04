@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-33-1101/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>33</raadnr></dossiernummer>
+      <titel>Raad voor Vervoer, Telecommunicatie en Energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1101</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRÖGER EN TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-12">12 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet zich heeft gecommitteerd aan het Parijsakkoord en het beperken van de opwarming van de aarde tot onder de 1,5 graad;</al>
+            <al>constaterende dat er geen verdeelsleutel is afgesproken over wie hoeveel bijdraagt aan de 300 miljard vanaf 2025;</al>
+            <al>constaterende dat in de praktijk bij de bepaling van de fair share van landen die bijdragen het bbp altijd als richtsnoer is gehanteerd;</al>
+            <al>constaterende dat Nederland zijn internationale klimaatfinancieringsbijdrage tot nu altijd gestoeld heeft op deze verdeelsleutel en heeft ingezet op een publiek-private bijdrage van 1,8 miljard;</al>
+            <al>verzoekt de regering om te onderzoeken hoe aanvullende klimaatfinanciering beschikbaar kan worden gesteld voor een rechtvaardige internationale bijdrage aan het tegengaan van klimaatverandering, waarbij dezelfde verdeelsleutel als uitgangspunt wordt genomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kröger</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29383-412/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 383</dossiernr>
+      </dossiernummer>
+      <titel>Regelgeving Ruimtelijke Ordening en Milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">412</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BAMENGA EN TJEERD DE GROOT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Inspectie Leefomgeving en Transport (ILT) signaleert dat de wettelijke regels voor het gebruik van staalslakken de risico's voor mens en milieu niet voldoende afdekken;</al>
+            <al>overwegende dat omwonenden van de stort voor staalslakken in Eerbeek grote zorgen hebben over de risico's voor hun gezondheid en het milieu;</al>
+            <al>verzoekt de regering het grootschalig gebruik van staalslakken op te schorten tot na de evaluatie van het normenkader en het onderzoek naar de mogelijkheden om toezicht en handhaving te verstrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Tjeerd de Groot</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1694/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1694</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BROMET</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er dit jaar al een groot mestoverschot is, dat volgend jaar nog veel groter dreigt te worden, met grote gevolgen voor de landbouwsector;</al>
+            <al>overwegende dat boeren in grote onzekerheid leven vanwege onduidelijkheid over de regels na 2025;</al>
+            <al>overwegende dat boeren zich moeten voorbereiden op 2026;</al>
+            <al>overwegende dat zonder duidelijkheid en gerichte ondersteuning een koude sanering dreigt;</al>
+            <al>verzoekt de regering om uiterlijk voor de zomer een nieuwe derogatieaanvraag te doen en de Kamer bij die aanvraag te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bromet</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1077/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1077</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN CEDER EN STOFFER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1043</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overheid mede de randvoorwaarden schept voor een samenleving waarin onze kinderen goed kunnen opgroeien;</al>
+            <al>overwegende dat de verantwoordelijkheid van de overheid voor onze kinderen dus verder strekt dan de jeugdzorg;</al>
+            <al>overwegende dat deze randvoorwaarden zoals een woning, een sterk maatschappelijk middenveld en goed onderwijs onder druk staan en jongeren zich zorgen maken over hun toekomst en perspectief missen;</al>
+            <al>overwegende dat de commissie Van Ark in dit kader benadrukt dat lokale steunstructuren versterkt moeten worden;</al>
+            <al>verzoekt de regering te komen met een integrale visie over de toekomst van onze kinderen die de verantwoordelijkheid van de overheid schetst op in ieder geval de beleidsterreinen wonen, onderwijs en zorg, en de maatregelen die de regering neemt om het toekomstperspectief van kinderen en jongeren te verbeteren en daarbij expliciet in te gaan op de manier waarop zij lokale steunstructuren wil versterken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

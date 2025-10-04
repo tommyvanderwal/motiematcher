@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36486-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 486</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet langdurige zorg, de Wet financiering sociale verzekeringen, de Wet marktordening gezondheidszorg en de Algemene wet bestuursrecht, in verband met de uitbreiding en verdere uitwerking van de bekostigingsmogelijkheden met middelen vanuit het Fonds langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BUSHOFF EN SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het wenselijk is dat zorgaanbieders meedoen aan domeinoverstijgend samenwerken en de drempel ten aanzien van administratieve lasten zo laag mogelijk moet zijn;</al>
+            <al>overwegende dat het wenselijk en efficiënt is dat de benodigde administratieve handelingen als input kunnen dienen voor effectiviteitsonderzoek, zodat daar zo min mogelijk opnieuw een administratieve last uit volgt;</al>
+            <al>verzoekt de regering om de administratieve lasten voor professionals en organisaties bij domeinoverstijgend samenwerken zo laag mogelijk te houden en de benodigde administratieve handelingen als input te gebruiken voor effectiviteitsonderzoek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Slagt-Tichelman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

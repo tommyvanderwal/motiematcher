@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-23432-607"/>
+      <meta name="OVERHEIDop.ondernummer" content="607"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="23432"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Nader gewijzigde motie van de leden Van der Burg en Ceder over de inzet voor een verbod op de invoer, verkoop en promotie van goederen en diensten uit de illegale nederzettingen op de Westbank conform de definitie van de motie van Campen/ Boswijk en deze handelsbeperkingen te richten op producten van kolonisten die zich schuldig maken aan landonteigening of andere ernstige misdrijven (t.v.v. 23432-599)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. van der Burg"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="De situatie in het Midden-Oosten"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-08-22"/>
+      <meta name="DC.title" scheme="" content="De situatie in het Midden-Oosten; Motie (gewijzigd/nader); Nader gewijzigde motie van de leden Van der Burg en Ceder over de inzet voor een verbod op de invoer, verkoop en promotie van goederen en diensten uit de illegale nederzettingen op de Westbank conform de definitie van de motie van Campen/ Boswijk en deze handelsbeperkingen te richten op producten van kolonisten die zich schuldig maken aan landonteigening of andere ernstige misdrijven (t.v.v. 23432-599)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Internationale samenwerking"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>23 432</dossiernr>
+         </dossiernummer>
+         <titel>De situatie in het Midden-Oosten</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">607</ondernummer>
+         </stuknr>
+         <titel>NADER GEWIJZIGDE MOTIE VAN DE LEDEN VAN DER BURG EN CEDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 599</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-08-22">22 augustus 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al-groep>
+                     <al>gehoord de beraadslaging,</al>
+                     <al>overwegende dat de Nederlandse belangen het best gediend zijn bij een vreedzame en stabiele regio en een tweestatenoplossing de meest wenselijke uitkomst is;</al>
+                     <al>overwegende dat nederzettingenpolitiek zoals voortzetting van het E1-plan een van de belemmeringen vormen voor de tweestatenoplossing en daarmee de regionale stabiliteit en welvaart bedreigen;</al>
+                     <al>constaterende dat de EU een derde van de goederenhandel van Israël vertegenwoordigt, waardoor een gezamenlijk Europees beleid een effectiever en krachtiger signaal afgeeft dan afzonderlijke nationale maatregelen;</al>
+                     <al>overwegende dat het instellen van nationale maatregelen een te overwegen optie blijft, mocht gezamenlijke Europese inzet voor een handelsverbod uitblijven;</al>
+                     <al>verzoekt de regering om zich in Europees verband of met een coalitie van gelijkgestemde landen daarbinnen in te zetten voor een verbod op de invoer, verkoop en promotie van goederen en diensten uit de illegale nederzettingen op de Westbank conform de definitie van de motie van Campen/ Boswijk (<dossierref dossier="21501-02">21 501–02</dossierref>), en deze handelsbeperkingen te richten op producten van kolonisten die zich schuldig maken aan landonteigening of andere ernstige misdrijven;</al>
+                     <al>verzoekt de regering simultaan aan nationale wetgeving als alternatief te werken voor wanneer een Europees akkoord uitblijft,</al>
+                     <al>en gaat over tot de orde van de dag.</al>
+                     <al>Van der Burg</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

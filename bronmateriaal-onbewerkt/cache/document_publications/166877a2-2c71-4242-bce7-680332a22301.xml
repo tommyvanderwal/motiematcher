@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1133/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1133</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STULTIENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat kennisveiligheid van groot belang is voor onze nationale en internationale belangen, onze kennispositie, technologie, waarden en weerbaarheid;</al>
+            <al>constaterende dat het kabinet voornemens is de Wet screening kennisveiligheid bij de Kamer in te dienen;</al>
+            <al>van mening dat dit wetsvoorstel voor instellingen, studenten en personeel uitvoerbaar, proportioneel en effectief moet zijn;</al>
+            <al>overwegende dat er vanuit universiteiten en de KNAW aandacht is gevraagd voor onder andere privacy, het voorkomen van stigmatisering en discriminatie, sociale veiligheid van studenten en personeel, het behoud van internationale samenwerking, het voorkomen van een geïsoleerde positie van het Nederlandse kennisveld, academische vrijheid en voldoende financiële middelen;</al>
+            <al>verzoekt de regering om de aandachtspunten van de universiteiten en de KNAW te betrekken bij de uitwerking van het wetsvoorstel;</al>
+            <al>verzoekt de regering om goed te kijken hoe andere Europese landen, zoals Frankrijk, Duitsland en het VK, kennisveiligheid hebben vormgegeven en vanwege het internationale speelveld zo veel mogelijk samen op te trekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Stultiens</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

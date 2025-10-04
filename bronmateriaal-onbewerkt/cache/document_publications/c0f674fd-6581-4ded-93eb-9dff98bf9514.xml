@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-942/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">942</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Openbaar Ministerie (OM) wettelijk gezien vanaf 2008 de bevoegdheid heeft een strafbeschikking op te leggen;</al>
+            <al>constaterende dat de strafrechtketen is vastgelopen, waardoor er bijvoorbeeld in 2022 door gebrek aan zittingscapaciteit in één keer 1.500 zaken bij de rechtbank Gelderland moesten worden geseponeerd;</al>
+            <al>overwegende dat het OM sinds 1 februari 2025 de strafbeschikking vaker toepast bij veelvoorkomende vermogenscriminaliteit, zoals winkeldiefstal en heling;</al>
+            <al>overwegende dat dit beleid van het OM erop is gericht om meer daders te straffen, waardoor een aantal zaken die nu zouden worden geseponeerd, voortaan met een strafbeschikking worden afgedaan;</al>
+            <al>overwegende dat het OM in afwachting van een tweetal onderzoeken heeft besloten deze tijdelijke instructie niet verder te zullen intensiveren;</al>
+            <al>verzoekt de regering in overleg te treden met het WODC om te bevorderen dat het WODC-onderzoek naar de inzet van strafbeschikkingen zo snel als mogelijk wordt afgerond, zodat de resultaten in 2026 kunnen worden meegenomen bij het vergroten van de effectiviteit en het terugdringen van de doorlooptijden in de strafrechtketen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

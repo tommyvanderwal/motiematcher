@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34104-420/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 104</dossiernr>
+      </dossiernummer>
+      <titel>Langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">420</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WESTERVELD EN PATIJN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ouders van kinderen met een (ernstige) meervoudige beperking of ziekte vaak niet (fulltime) kunnen werken, en dat dit leidt tot inkomensverlies en forse financiële problemen;</al>
+            <al>constaterende dat dit haaks staat op het Internationaal Verdrag inzake de rechten van het kind dat bepaalt dat ouders het recht hebben om voor hun zieke kind te zorgen en de overheid hen daartoe in staat moet stellen;</al>
+            <al>overwegende dat het persoonsgebonden budget (pgb) niet bedoeld is als inkomensvoorziening en tot ongewenste prikkels leidt omdat het pgb omlaaggaat als een kind zelfredzamer wordt;</al>
+            <al>overwegende dat het pgb helemaal wegvalt als een kind komt te overlijden;</al>
+            <al>overwegende dat bestaande zorgverloven ook niet toereikend zijn, want ze zijn van korte duur en grotendeels onbetaald;</al>
+            <al>overwegende dat de regering in reactie op het SER-advies Balans in maatschappelijk verlof de hiaten in het huidige verlofstelsel erkent;</al>
+            <al>verzoekt de regering om samen met belangenorganisaties, vakbonden, werkgevers en uitvoeringsorganisaties een passende regeling uit te werken zodat ouders van ernstig zieke kinderen langdurig ziekteverlof kunnen aanvragen met behoud van de arbeidsovereenkomst;</al>
+            <al>verzoekt de regering tevens de Kamer voor het zomerreces 2025 te informeren over de voortgang en de planning,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Patijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

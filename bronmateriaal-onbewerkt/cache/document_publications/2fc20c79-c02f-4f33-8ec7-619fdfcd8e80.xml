@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32820-548"/>
+      <meta name="OVERHEIDop.ondernummer" content="548"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32820"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Mohandis en Beckerman over een eenmalige bijdrage aan de restauratie van Museum Prinsenhof Delft"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe visie cultuurbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Nieuwe visie cultuurbeleid; Motie; Motie van de leden Mohandis en Beckerman over een eenmalige bijdrage aan de restauratie van Museum Prinsenhof Delft"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Cultuur"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 820</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe visie cultuurbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">548</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN MOHANDIS EN BECKERMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de Minister middelen heeft vrijgemaakt voor de grote opgave voor restauratie van rijksmonumenten zoals benoemd in het rapport van Hylkema en Fenicks;</al>
+                  <al>overwegende dat de bijbehorende regeling nog moet worden uitgewerkt en op z'n vroegst pas in de loop van 2026 in werking kan treden, waardoor ze voor sommige rijksmonumenten te laat komt;</al>
+                  <al>van mening dat er hoge prioriteit moet worden toegekend aan rijksmonumenten die, dankzij steun van particulieren, fondsen en decentrale overheden, voor meer dan 80% gefinancierd zijn, met de restauratie hebben kunnen beginnen en nog op een rijksbijdrage wachten, met name als het gaat om nationaal erfgoed waarin de nationale identiteit vorm heeft gekregen;</al>
+                  <al>overwegende dat Museum Prinsenhof Delft, een top 100-rijksmonument dat dringend aan restauratie toe is, zeven vensters toont vanuit de Canon van Nederland over vijf tijdvakken, waaronder het verhaal van Willem van Oranje en het ontstaan van Nederland zoals we het vandaag de dag kennen;</al>
+                  <al>verzoekt de regering zich tot het uiterste in te spannen om een deel van de nieuwe subsidieregeling nog dit jaar in te zetten om de restauratie van dit nationale cultureel erfgoed via een eenmalige bijdrage te steunen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Mohandis</al>
+                     <al>Beckerman</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

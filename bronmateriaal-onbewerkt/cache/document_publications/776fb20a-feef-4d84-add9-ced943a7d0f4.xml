@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-35334-376"/>
+      <meta name="OVERHEIDop.ondernummer" content="376"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="35334"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Baudet over een vergunningensysteem gebaseerd op een kwalitatieve empirische analyse"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.H.P. Baudet"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Problematiek rondom stikstof en PFAS"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Baudet over een vergunningensysteem gebaseerd op een kwalitatieve empirische analyse"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Bodem"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Lucht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Bouwnijverheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>35 334</dossiernr>
+         </dossiernummer>
+         <titel>Problematiek rondom stikstof en PFAS</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">376</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BAUDET</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Nederland activiteiten rondom Natura 2000-gebieden kwantitatief beoordeelt, waarbij overschrijding van de modelmatige kritische depositiewaarde voor stikstof als harde toetsingsnorm wordt gehanteerd;</al>
+                  <al>constaterende dat Europese buurlanden, waaronder in elk geval Frankrijk en (Noord-)Italië, deze activiteiten kwalitatief en empirisch beoordelen met concrete verslechtering of concrete verstoring van een gebied als uitgangspunt;</al>
+                  <al>overwegende dat de stikstofuitstoot in Noord-Italië niet verschilt van die in Nederland en dat de Nederlandse stikstofcrisis dus louter het gevolg is van dit verschil in aanpak;</al>
+                  <al>verzoekt de regering een vergunningensysteem uit te werken op basis van kwalitatieve empirische analyses en niet op basis van de modellenwerkelijkheid zoals we nu doen, naar het voorbeeld van Frankrijk, (Noord-)Italië en buurlanden met vergelijkbare systemen;</al>
+                  <al>verzoekt de regering de Kamer dit alternatieve systeem voor het zomerreces te presenteren, zodat we het kunnen vergelijken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Baudet</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

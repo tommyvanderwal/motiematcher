@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-289/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">289</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de concessie voor de Waddenveren een door de Staat aanbesteed monopolie vormt, waarbij de concessiehouder een gegarandeerde en concurrentievrije markt wordt geboden;</al>
+            <al>overwegende dat de huidige concessie afspraken bevat over (dreigende) overschrijdingen van een redelijk rendement, maar deze bepaling vooralsnog niet is gehandhaafd of zelfs maar gecontroleerd;</al>
+            <al>overwegende dat hierdoor niet kan worden nagegaan of eilanders en bezoekers niet meer moeten betalen dan redelijk is volgens de concessieafspraken;</al>
+            <al>verzoekt de regering om de Kamer (desnoods vertrouwelijk) te informeren over in het verleden behaalde rendementen;</al>
+            <al>verzoekt de regering om in de komende concessie de concessiehouder te verplichten hier jaarlijks op te rapporteren en mogelijke overwinsten af te laten dragen aan een speciaal fonds voor bijzondere mobiliteitsbehoeften van eilanders,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Chakor</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

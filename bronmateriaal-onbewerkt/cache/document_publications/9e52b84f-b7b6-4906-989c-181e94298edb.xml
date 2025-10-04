@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29247-450/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 247</dossiernr>
+      </dossiernummer>
+      <titel>Acute zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">450</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BUSHOFF TER VERVANGING VAN DIE GEDRUKT ONDER NR. 444</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-16">16 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ondanks de voorwaarden in een AMvB vaak het lokaal bestuur, inwoners en het overige zorgveld zoals recentelijk in Zoetermeer, Friesland en Zeeland niet goed betrokken zijn bij veranderingen in de ziekenhuiszorg in hun regio;</al>
+            <al>overwegende dat veranderingen in de ziekenhuiszorg grote impact hebben op de leefbaarheid van de regio en het overige zorgveld in de betreffende regio;</al>
+            <al>verzoekt de regering waar nodig een pauzeknop voor veranderingen in de regionale ziekenhuiszorg in te drukken of goede betrokkenheid van het lokaal bestuur, inwoners en zorgveld te garanderen tot dat de AMvB op dit punt is verbeterd;</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

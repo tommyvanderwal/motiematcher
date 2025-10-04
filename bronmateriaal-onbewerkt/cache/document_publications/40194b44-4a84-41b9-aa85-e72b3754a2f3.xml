@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-X-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>X</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER WAL EN HEITE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat de Nederlandse defensie- en veiligheidssector ongeveer 1.000 bedrijven omvat die gezamenlijk 150.000 mensen in dienst hebben;</al>
+              <al>overwegende dat de strategische autonomie van Nederland gebaat is bij een sterke nationale defensie-industrie;</al>
+            </al-groep>
+            <al>overwegende dat erkenning van defensiebedrijven kan bijdragen aan maatschappelijke trots op en betrokkenheid bij onze nationale veiligheid;</al>
+            <al>verzoekt de regering een certificeringsregeling te ontwikkelen voor bedrijven in de Nederlandse defensie- en veiligheidssector,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Wal</al>
+              <al>Heite</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

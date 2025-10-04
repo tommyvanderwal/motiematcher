@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1477/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1477</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel kinderen nog steeds niet herenigd zijn met hun ouders die gedupeerd zijn in het toeslagenschandaal;</al>
+            <al>overwegende dat de commissie-Hamer concludeert dat het toeslagenschandaal een grote rol speelt bij de uithuisplaatsingen;</al>
+            <al>overwegende dat de Tweede Kamer via de motie-Omtzigt (<extref doc="kst-36275-17" soort="document" status="actief">36 275, nr. 17</extref>) eerder al heeft verzocht om onafhankelijk onderzoek te doen naar de uithuisplaatsingen in het toeslagenschandaal;</al>
+            <al>verzoekt het kabinet om ouders, bijvoorbeeld via de Rijksuniversiteit Groningen, de mogelijkheid te geven om een multidisciplinaire analyse van hun dossier te laten maken die kan leiden tot een herbeoordeling en hereniging van hun gezin, en daarnaast aanvullend wetenschappelijk onderzoek te laten doen naar de totstandkoming van de uithuisplaatsingen in het toeslagenschandaal en de lessen die hieruit getrokken kunnen worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Wingelaar</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

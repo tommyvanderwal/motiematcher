@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-314/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">314</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in AERIUS 0,005 mol per hectare per jaar als rekenkundige ondergrens voor projectberekeningen gehanteerd wordt;</al>
+            <al>overwegende dat experts aangeven dat de genoemde ondergrens lager is dan wetenschappelijk verantwoord, maar dat voor het vaststellen van een specifieke, optimale ondergrens meer veldonderzoek nodig is;</al>
+            <al>overwegende dat de genoemde experts onzekerheden benoemen die hoger zijn dan 1 mol per hectare per jaar;</al>
+            <al>van mening dat in afwachting van nader onderzoek naar de optimale ondergrens een eerste, voorzichtige stap gezet kan worden met verhoging van de ondergrens die recht doet aan de wetenschappelijke kritiek op de 0,005 mol die nu gehanteerd wordt;</al>
+            <al>verzoekt de regering het RIVM op kortst mogelijke termijn de opdracht te geven een eerste stap te zetten om de huidige, wetenschappelijk gezien te lage, ondergrens in AERIUS Calculator te verhogen, met inachtneming van de onzekerheidsmarges die experts aangeven en een zekere veiligheidsmarge,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

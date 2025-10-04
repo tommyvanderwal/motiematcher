@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXIII-50/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">50</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Klimaat- en Energieverkenning 2024 (KEV 2024) concludeert dat «het heel erg onwaarschijnlijk (is) dat Nederland het klimaatdoel 2030 haalt op basis van vastgesteld en voorgenomen beleid (en dat) geagendeerd beleid daarbij nauwelijks verschil (maakt)»;</al>
+            <al>overwegende dat in het hoofdlijnenakkoord is afgesproken: «We houden ons aan de bestaande afspraken; alleen als we de doelen niet halen, maken we alternatief beleid»;</al>
+            <al>overwegende dat het regeerprogramma stelt: «Jaarlijks wordt in het voorjaar op basis van de KEV alternatief beleid vastgesteld indien dat nodig is om de doelen te bereiken»;</al>
+            <al>verzoekt de regering om voor het kerstreces van dit jaar een overzicht met de Kamer te delen van al het geagendeerde beleid dat leidt tot minder dan wel meer broeikasgasreductie de komende jaren, maar nog niet was meegenomen in de KEV 2024, omdat het nog onvoldoende concreet is;</al>
+            <al>verzoekt de regering tevens om in het kader van de aanstaande voorjaarsbesluitvorming «alternatief beleid» vast te stellen «dat nodig is om de doelen te bereiken», en dat aanvullende beleid in het voorjaar van 2025 aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

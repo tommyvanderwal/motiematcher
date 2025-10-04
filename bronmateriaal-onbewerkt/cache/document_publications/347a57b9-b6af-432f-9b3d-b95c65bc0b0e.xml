@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IV-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WHITE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vervoerskosten na woonlasten de grootste kostenpost zijn voor huishoudens in Caribisch Nederland;</al>
+            <al>overwegende dat anders dan in Europees Nederland het openbaar vervoer in Caribisch Nederland nog in de kinderschoenen staat en dat dit ervoor zorgt dat inwoners vaak relatief veel geld kwijt zijn aan hun dagelijks vervoer;</al>
+            <al>overwegende dat de commissie-Thodé in haar rapport Een waardig bestaan aanbeveelt om per direct te beginnen met het uitrollen van een fatsoenlijk dekkend ov-netwerk in Caribisch Nederland, omdat betaalbaar vervoer bijdraagt aan het terugdringen van hoge kosten van levensonderhoud;</al>
+            <al>verzoekt de regering om in samenspraak met de eilanden te inventariseren wat er nodig is om tot een ov-netwerk in Caribisch Nederland te komen en hierbij de aanbevelingen uit het rapport Een waardig bestaan te betrekken, en de Kamer hierover voor de Voorjaarsnota te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>White</al>
+              <al>Bamenga</al>
+              <al>Ceder</al>
+              <al>Bruyning</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

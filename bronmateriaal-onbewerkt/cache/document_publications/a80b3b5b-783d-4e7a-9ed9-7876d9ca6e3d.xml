@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31497-488/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 497</dossiernr>
+      </dossiernummer>
+      <titel>Passend onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">488</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN ZANTEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 480</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-18">18 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat goed toegeruste leraren cruciaal zijn voor het bieden van passend onderwijs;</al>
+            <al>overwegende dat leraren nu lang niet altijd voldoende in staat zijn het onderwijs af te stemmen op de verschillen in de ontwikkeling van leerlingen;</al>
+            <al>overwegende dat de Inspectie in de Staat van het Onderwijs meldt dat een aanzienlijk aantal docenten zegt hierover niet voldoende kennis te hebben en de besturen van scholen oproept op dit vlak professionalisering te blijven stimuleren;</al>
+            <al>verzoekt de regering te onderzoeken op welke wijze er binnen het onderwijsprogramma van lerarenopleidingen meer aandacht kan komen voor ASS, ADHD, hoogbegaafdheid en gedragsstoornissen en het begeleiden van leerlingen met deze extra ondersteuningsbehoeften;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

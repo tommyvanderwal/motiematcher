@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32156-137/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 156</dossiernr>
+      </dossiernummer>
+      <titel>Monumentenzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">137</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WAL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een veelvoud aan financiële uitdagingen is voor de instandhouding, het renoveren en verduurzamen van (rijks)monumenten;</al>
+            <al>constaterende dat de Subsidieregeling duurzaam maatschappelijk vastgoed voor dit jaar nog enkele miljoenen telt, maar ook in 2025 weer beschikbaar gesteld wordt;</al>
+            <al>constaterende dat nog niet bij alle beheerders van (rijks)monumenten bekend is dat zij van deze regeling gebruik kunnen maken;</al>
+            <al>overwegende dat het van belang is dat de Nederlandse (rijks)monumenten ook door toekomstige generaties moeten kunnen worden bezocht;</al>
+            <al>verzoekt de regering de Subsidieregeling duurzaam maatschappelijk vastgoed breder en actiever bekend te maken onder de beheerders van rijksmonumenten, en de Kamer over deze uitkomsten te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Wal</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

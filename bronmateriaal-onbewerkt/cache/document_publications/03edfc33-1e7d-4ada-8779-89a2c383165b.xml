@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-33/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">33</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EMIEL VAN DIJ K</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat tijdens de afgelopen «demonstratie» van Extinction Rebellion op 11 januari 2025 door deelnemers de wet is overtreden door de snelweg te versperren, door geen identificatie bij zich te dragen en door te weigeren bevelen van de politie op te volgen;</al>
+            <al>constaterende dat het OM ondanks de 700 arrestaties hiervoor geen vervolging instelt, omdat het blokkeren van de snelweg volgens hem «een gering strafbaar feit is»;</al>
+            <al>constaterende dat deze ontwrichtende en overlast veroorzakende «demonstraties» de samenleving niet alleen klauwenvol geld en schaarse politiecapaciteit kosten, maar ook nog eens levensgevaarlijk zijn, omdat ambulances en andere hulpdiensten moeten omrijden;</al>
+            <al>constaterende dat er noch boetes zijn uitgedeeld voor het niet tonen van identificatie, noch voor het versperren van de snelweg, noch voor het niet opvolgen van bevelen van de politie;</al>
+            <al>verzoekt de Minister om het OM tot de orde te roepen en voor alle toekomstige wetsovertredingen ten minste boetes te laten uitschrijven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Emiel van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

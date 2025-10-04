@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36618-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 618</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Meststoffenwet in verband met de voorwaarden over de maximale mestproductie in de derogatiebeschikking 2022–2025 (Wet wijziging Meststoffenwet in verband met de maximale mestproductie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-10-07">7 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat verhoging van de stikstofcorrectiefactor voor gasvormige stikstofverliezen recht doet aan de praktijk en bijdraagt aan meer ruimte voor plaatsing van dierlijke mest;</al>
+            <al>overwegende dat een verhoging van de stikstofcorrectiefactor naar 14% geen recht doet aan de hoge gasvormige verliezen bij jongvee en aan de meest actuele cijfers die gasvormige verliezen van 16 tot meer dan 20% laten zien bij verschillende stalsystemen;</al>
+            <al>overwegende dat in de Bedrijfsspecifieke excretie wordt uitgegaan van lagere gasvormige verliezen dan waar actuele cijfers op uitkomen;</al>
+            <al>verzoekt de regering bij de voorgenomen verhoging van stikstofcorrectiefactoren uit te gaan van de meest actuele cijfers voor zowel melkkoeien als jongvee en deze zo representatief mogelijk vast te stellen, zodat zo min mogelijk bedrijven afgerekend worden op excreties die ze niet realiseren, en ervoor te zorgen dat ook bij de Bedrijfsspecifieke excretie uitgegaan wordt van de meest actuele cijfers voor gasvormige verliezen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

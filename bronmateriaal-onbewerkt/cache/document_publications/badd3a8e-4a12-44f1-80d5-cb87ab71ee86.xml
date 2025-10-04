@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36551-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 551</dossiernr>
+      </dossiernummer>
+      <titel>Regels over onafhankelijke bijstand en individuele oordeelsvorming bij discriminatie en tot wijziging van de Algemene wet gelijke behandeling en enige andere wetten in verband met de invoering van regels inzake gelijke behandeling in Bonaire, Sint Eustatius en Saba (Wet bescherming tegen discriminatie op de BES)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HAASEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>verzoekt de regering de Wet Toelating en Uitzetting BES (WTU-BES) zodanig aan te passen dat Europees-Nederlanders zonder tijdsbeperking kunnen verblijven op Bonaire, Sint-Eustatius en Saba, en de Kamer hierover binnen twee maanden te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Haasen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

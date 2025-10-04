@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-08-980/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>08</raadnr></dossiernummer>
+      <titel>Milieuraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">980</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland met een kopgroep in Europa heeft gepleit voor een verbod op pfas en dat dit verbod in de maak is;</al>
+            <al>overwegende dat de landbouw is vrijgesteld van deze regels, ondanks dat er in Nederland zo'n 200.000 kilogram per jaar aan pfas-houdende bestrijdingsmiddelen worden verkocht en ondanks het negatieve effect op de gezondheid, zoals invloed op de hersenen, waardoor zwangere vrouwen en pasgeborenen risico lopen;</al>
+            <al>overwegende dat pfas-bestrijdingsmiddelen vaak afbreken tot tfa en dat deze stof recent als toxisch is geclassificeerd waardoor er strengere eisen gelden;</al>
+            <al>overwegende dat de Wet gewasbeschermingsmiddelen en biociden de mogelijkheid biedt om bij nieuwe inzichten de toelating van bestrijdingsmiddelen versneld te herzien;</al>
+            <al>verzoekt de regering een versnelde herbeoordeling uit te voeren op pfas-houdende bestrijdingsmiddelen en deze uiterlijk in 2030 herzien te hebben,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Gabriëls</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

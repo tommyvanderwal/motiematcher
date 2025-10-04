@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1639/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1639</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Nederlandse kersen dreigen te verdwijnen door aantasting van de oogst door de suzukifruitvlieg;</al>
+            <al>constaterende dat ook de biologische kersentelers te maken hebben met de suzukifruitvlieg;</al>
+            <al>constaterende dat er middelen zijn die deze schadelijke fruitvlieg kunnen bestrijden;</al>
+            <al>constaterende dat het Ministerie van Landbouw, Natuur en Voedselkwaliteit heeft besloten dit jaar geen vrijstellingen te verlenen voor het gebruik van deze middelen, te weten het biologische middel Tracer en het gangbare middel Exirel in de kersenteelt;</al>
+            <al>overwegende dat er geen alternatief beschikbaar is voor deze middelen en de gangbare én biologische kersentelers zonder deze middelen dit jaar hun complete oogst vernietigd zullen zien worden;</al>
+            <al>overwegende dat dit het einde betekent van zowel de gangbare als de biologische kersenteelt binnen enkele jaren, waardoor honderden familiebedrijven na vele generaties over de kop zullen gaan en de Nederlandse kers uit ons straatbeeld en uit de winkels verdwijnt;</al>
+            <al>overwegende dat in de ons omliggende landen, zoals België en Duitsland, deze middelen wel beschikbaar zijn en onze oer-Hollandse kersentelers daardoor geen gelijk speelveld hebben in Europa;</al>
+            <al>overwegende dat winkels kersen uit deze en andere landen zullen importeren waar de genoemde middelen wel gebruikt zijn;</al>
+            <al>overwegende dat de kersentelers de laatste twee jaren enorm hebben geïnvesteerd in nieuwe toedieningstechnieken en dat verdere maatregelen kunnen worden genomen om naleving te waarborgen;</al>
+            <al>verzoekt de regering om voor 3 mei 2024 vrijstellingen te verlenen voor het biologische middel Tracer en Exirel in de kersenteelt, met werkbare randvoorwaarden teneinde de bestrijding van de suzukifruitvlieg te waarborgen en daarmee de Nederlandse kers te behouden voor onze voedselproductie en voor onze cultuur;</al>
+            <al>verzoekt de regering om eenzelfde soort vrijstelling te verlenen voor de fruitteelten waarvan de oogst ook vernietigd dreigt te worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Pierik</al>
+              <al>Flach</al>
+              <al>Nijhof-Leeuw</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

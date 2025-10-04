@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER VELDE EN VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van  <datum isodatum="2024-11-18">18 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Aanwijzingen voor de regelgeving (aanwijzing 3.8) voorschrijven om in wet- en regelgeving sekseneutrale taal te gebruiken waar mogelijk;</al>
+            <al>overwegende dat het onnodig vervangen van specifieke termen zoals «moeder» en «vader» door genderneutrale begrippen kan leiden tot onduidelijkheid en dat dit afbreuk kan doen aan het behoud van maatschappelijk herkenbare rollen;</al>
+            <al>van mening dat het gebruik van vertrouwde termen bijdraagt aan de begrijpelijkheid van wetgeving en belangrijk is voor de sociale cohesie in de samenleving;</al>
+            <al>verzoekt de regering om in wetsteksten termen zoals «moeder» en «vader» te behouden wanneer dit bijdraagt aan de duidelijkheid en maatschappelijke herkenbaarheid van de wet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Velde</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

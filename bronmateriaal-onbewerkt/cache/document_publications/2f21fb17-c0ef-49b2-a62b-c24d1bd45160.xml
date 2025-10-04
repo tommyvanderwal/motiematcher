@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-504/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">504</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van oordeel dat onderwijsgeld niet mag weglekken naar commerciële belangen die allesbehalve dienstbaar zijn aan het onderwijs;</al>
+            <al>constaterende dat detacheringsbureaus te vaak bij scholen forse bedragen van wel € 18.000 tot € 45.000 in rekening brengen als deze een leraar die zij hebben ingehuurd in vaste dienst nemen;</al>
+            <al>overwegende dat scholen ingehuurde docenten vanwege deze forse boetes of overnamekosten nu te vaak geen aanstelling aanbieden;</al>
+            <al>verzoekt de regering om te verkennen hoe het verdienmodel van detacheringsbureaus valt aan te pakken door bijvoorbeeld boetes of overnamekosten in het onderwijs onmogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Pijpelink</al>
+              <al>Rooderkerk</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

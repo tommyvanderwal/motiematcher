@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31083-71"/>
+      <meta name="OVERHEIDop.ondernummer" content="71"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31083"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Thijssen over het inventariseren van wettelijke opties voor regulering van bedrijven"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Thijssen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Corporate governance"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Corporate governance; Motie; Motie van het lid Thijssen over het inventariseren van wettelijke opties voor regulering van bedrijven"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Ondernemen"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Financieel toezicht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 083</dossiernr>
+         </dossiernummer>
+         <titel>Corporate governance</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">71</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID THIJSSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Corporate Governance Code zo'n twintig jaar geleden is opgezet naar aanleiding van schandalen bij grote internationale bedrijven die wereldwijd twijfel zaaiden over de betrouwbaarheid van jaarrekeningen, de rol van accountants en de integriteit van bestuurders;</al>
+                  <al>constaterende dat de regering drie voorwaarden aan de Nederlandse code heeft gesteld, te weten dat de code onderscheidend moest zijn en breed draagvlak moest hebben en dat de commissie onafhankelijk en verbindend moest kunnen opereren;</al>
+                  <al>constaterende dat de grootste vakbond van Nederland uit de commissie is gestapt omdat die is verworden tot «een vehikel gericht op onbegrensde zelfregulering, het tevredenstellen van aandeelhouders en winstmaximalisatie»;</al>
+                  <al>constaterende dat hun voorstellen voor duurzaam ondernemen, volwaardige medezeggenschap en een fatsoenlijke belastingmoraal niet zijn aanvaard;</al>
+                  <al>overwegende dat de Miljoenennota dit onderbouwt, aangezien bedrijven nu relatief gezien 30 miljard meer winst maken dan nog maar vijf jaar geleden, terwijl die miljarden nodig zijn voor het bouwen van huizen, hogere lonen en het verdedigen van ons continent;</al>
+                  <al>verzoekt de regering om zelfregulering vaarwel te zeggen en wettelijke opties voor de regulering van bedrijven te inventariseren, en de resultaten voor de formatie met de Kamer en de formerende partijen te delen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Thijssen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

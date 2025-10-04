@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-941/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">941</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer een parlementaire verkenning heeft uitgevoerd over de strafrechtketen;</al>
+            <al>constaterende dat de aanbevelingen zijn opgenomen in de aangenomen motie-Ellian c.s. (<extref doc="kst-29279-805" soort="document" status="actief">29 279, nr. 805</extref>) maar dat deze motie tot op heden niet volledig is uitgevoerd;</al>
+            <al>constaterende dat de laatste Strafrechtketenmonitor laat zien dat de doorlooptijden bij verschillende geprioriteerde zaakstromen, zoals jeugd, ernstige verkeersmisdrijven en ernstige zedenmisdrijven, niet verbeteren;</al>
+            <al>overwegende dat de Algemene Rekenkamer ook al jaren ernstige tekortkomingen heeft geconstateerd ten aanzien van de strafrechtketen;</al>
+            <al>overwegende dat goedbedoelde initiatieven zoals het Bestuurlijk Ketenberaad tot op heden onvoldoende smart-geformuleerde doelstellingen en ketenbrede afspraken hebben opgeleverd;</al>
+            <al>verzoekt de regering te bewerkstelligen dat in lijn met het hoofdlijnenakkoord meer prestatieafspraken in de strafrechtketen worden gemaakt, startend in 2026, en dat de motie-Ellian c.s. onverkort wordt uitgevoerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

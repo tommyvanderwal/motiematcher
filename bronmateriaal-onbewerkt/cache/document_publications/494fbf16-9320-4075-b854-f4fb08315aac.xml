@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-743/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">743</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK EN DIEDERIK VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in 2025 meerdere gedetineerden vrijkomen die zijn veroordeeld voor zware terroristische misdrijven;</al>
+            <al>constaterende dat het vaak voorkomt dat ex-terroristen met een dubbele nationaliteit wier Nederlanderschap is afgenomen, Nederland niet (kunnen) verlaten;</al>
+            <al>overwegende dat de veiligheidsdiensten nauwelijks zicht hebben op deze groep en dus het risico bestaat dat ze onder de radar opnieuw radicaliseren;</al>
+            <al>verzoekt de regering in kaart te brengen wat precies de knelpunten zijn bij het afpakken van het Nederlanderschap en veroordeelde terroristen die daarna het land weigeren te verlaten, en de Kamer hierover te informeren;</al>
+            <al>verzoekt de regering om met de NCTV een plan van aanpak te maken om de maatregel van het intrekken van het Nederlanderschap in het belang van de nationale veiligheid gerichter uit te voeren;</al>
+            <al>verzoekt de regering alles op alles te zetten om ervoor te zorgen dat deze mensen Nederland daadwerkelijk verlaten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

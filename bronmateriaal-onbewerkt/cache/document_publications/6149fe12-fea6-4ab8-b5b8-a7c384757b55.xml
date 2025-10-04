@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31497-505"/>
+      <meta name="OVERHEIDop.ondernummer" content="505"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31497"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Houwelingen over onderzoek naar meer directe vormen van financiering van passend onderwijs in plaats van lumpsum via samenwerkingsverbanden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. van Houwelingen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Passend onderwijs"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.title" scheme="" content="Passend onderwijs; Motie; Motie van het lid Van Houwelingen over onderzoek naar meer directe vormen van financiering van passend onderwijs in plaats van lumpsum via samenwerkingsverbanden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Basisonderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Overige vormen van onderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Voortgezet onderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 497</dossiernr>
+         </dossiernummer>
+         <titel>Passend onderwijs</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">505</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN </titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-02">2 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het geld voor kinderen die speciaal onderwijs nodig hebben nu voor een groot deel in de vorm van een lumpsum aan samenwerkingsverbanden wordt toegewezen;</al>
+                  <al>constaterende dat dit geld, zo blijkt uit onderzoek, volgens zowel leraren als ouders die we hebben gesproken door de samenwerkingsverbanden vaak niet wordt besteed aan datgene waar boven alles behoefte aan is, wat ook bleek tijdens het debat, namelijk: extra ondersteuning, in de vorm van extra leerkrachten, in klassen met kinderen met een beperking;</al>
+                  <al>overwegende dat dit niet alleen extra werkdruk oplevert voor de docent maar ook ten koste gaat van de kwaliteit van het onderwijs, voor zowel scholieren met als scholieren zonder beperking;</al>
+                  <al>verzoekt de regering andere meer directe vormen van financiering te onderzoeken waarbij geldstromen voor het passend onderwijs niet langer lumpsum via samenwerkingsverbanden worden verdeeld maar bijvoorbeeld rechtstreeks worden toegewezen aan docenten die in hun klas kinderen met een beperking hebben of aan ouders met een kind met een beperking, een soort rugzakje 2.0, en hierover de Kamer te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Houwelingen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

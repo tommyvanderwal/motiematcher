@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-165/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">165</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er door het Joint Research Center criteria zijn ontwikkeld waar kunstmestvervangers, ofwel RENURE, aan moeten voldoen;</al>
+            <al>verzoekt de regering, anticiperend op toestemming van de Europese Commissie voor RENURE, alvast te starten met het opstellen van een landelijk gebruiksvoorschrift;</al>
+            <al>verzoekt de regering om daarin in ieder geval een werkwijze voor vergunningverlening bij de relevante bevoegde gezagen en afspraken over mogelijke handhaving op te nemen;</al>
+            <al>verzoekt de regering met fabrikanten voor productielocaties te kijken wat nodig is om verwerking en aanwending schaalbaar te maken;</al>
+            <al>verzoekt de regering om de Kamer in Q3 hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Campen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

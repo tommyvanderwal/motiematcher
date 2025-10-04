@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-265/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">265</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TJEERD DE GROOT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-26">26 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 200 garnalenvissers op de Waddenzee momenteel zonder vergunning werken en worden gedoogd;</al>
+            <al>overwegende dat van deze ondernemers wordt verlangd dat zij fors investeren in hun bedrijf, onder andere in nieuwe motoren;</al>
+            <al>overwegende dat nog onzeker is of deze vissers een nieuwe vergunning zullen krijgen en dat dit niet afhangt van de motoren of andere aanpassingen aan de kotters, maar van de beroering van de bodem;</al>
+            <al>verzoekt de regering om eerlijk te zijn richting de garnalenvissers en ze niet onnodig op kosten te jagen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tjeerd de Groot</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

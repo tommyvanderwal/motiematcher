@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S. </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het afhankelijk is van de omstandigheden of werkzaamheden in het kader van de wijkgerichte aansluiting op een collectieve warmtevoorziening moeten worden aangemerkt als dringende werkzaamheden, renovatie of een combinatie van beide, wat gevolgen heeft voor de instemming van huurders, de kosten voor verhuurders en de snelheid waarmee werkzaamheden kunnen worden gedaan;</al>
+            <al>verzoekt de regering spoedig te voorzien in een modernisering van het huurrecht, waaronder het initiatief- en instemmingsrecht van huurders, om te komen tot duidelijkheid wanneer de aansluiting van huurwoningen op een collectieve warmtevoorziening kwalificeert als een dringende werkzaamheid en om het huurrecht beter aan te laten sluiten bij de duurzame ontwikkelingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Bontenbal</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

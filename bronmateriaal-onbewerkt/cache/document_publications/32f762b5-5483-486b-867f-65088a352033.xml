@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-1978/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1978</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TUINMAN EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het de EU naar alle waarschijnlijkheid niet lukt de door de Hoge Vertegenwoordiger Josep Borrell beloofde 1 miljoen granaten aan Oekraïne te leveren vóór maart 2024;</al>
+            <al>constaterende dat de vraag naar munitie wereldwijd geëxplodeerd is en gelijktijdig de munitieproductie in te beperkte mate is opgeschroefd;</al>
+            <al>overwegende dat op dit moment de noodzakelijke munitievoorraden niet aangevuld kunnen worden in Nederland en de EU en we niet kunnen voldoen aan de beloftes die we Oekraïne gedaan hebben in zijn rechtvaardige strijd tegen de Russische agressie;</al>
+            <al>overwegende dat het zetten van concrete stappen op het gebied van munitieproductie niet kan wachten tot de oplevering van de Europese Defensie Industrie Strategie;</al>
+            <al>verwijzende naar het verslag van het schriftelijk overleg Raad Buitenlandse Zaken (Kamerstuk <extref doc="kst-21501-02-2790" soort="document" status="actief">21 501-02, nr. 2790</extref>) waarin de regering onderschrijft dat opschaling nodig is van munitieproductie in Europa en Nederland;</al>
+            <al>constaterende dat de ontbrekende schakel in daadwerkelijke productie van munitie zit in het uitblijven van Nederlandse orders;</al>
+            <al>verzoekt de regering zo spoedig mogelijk samen met Europese partners orders te plaatsen voor de gangbare munitiesoorten passende bij de vraag van Oekraïne en ook die van de Nederlandse krijgsmacht en daarmee de productiecapaciteit door Nederland en de EU te vergroten,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

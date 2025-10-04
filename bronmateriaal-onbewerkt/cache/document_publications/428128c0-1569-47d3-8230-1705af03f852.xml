@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32317-957"/>
+      <meta name="OVERHEIDop.ondernummer" content="957"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32317"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Boomsma en Van Zanten over met gelijkgestemde EU-landen optrekken voor een fundamentele herziening van het asielbeleid"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="JBZ-Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="JBZ-Raad; Motie; Motie van de leden Boomsma en Van Zanten over met gelijkgestemde EU-landen optrekken voor een fundamentele herziening van het asielbeleid"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 317</dossiernr>
+         </dossiernummer>
+         <titel>JBZ-Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">957</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BOOMSMA EN VAN ZANTEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het huidige asielstelsel, waarin mensen alleen op EU-grondgebied asiel kunnen aanvragen, leidt tot irreguliere migratie, mensensmokkel, veel slachtoffers op zee, terwijl de meest kwetsbare mensen vaak achterblijven;</al>
+                  <al>overwegende dat er behoefte is aan een ander asielstelsel waarbij Nederland en andere EU-lidstaten zelf kunnen bepalen of mensen, en welke mensen, via hervestiging of legale routes hierheen komen;</al>
+                  <al>overwegende dat hulp vaak beter kan worden geboden aan meer mensen in veilige derde landen;</al>
+                  <al>verzoekt de regering met gelijkgestemde EU-landen samen op te trekken om te komen tot een fundamentele herziening van het asielbeleid, waarbij de uitvoering van asielprocedures en de opvang van asielzoekers in principe plaatsvindt in veilige derde landen in de regio van de landen van herkomst, waarbij lidstaten zelf kunnen bepalen of mensen, en welke mensen, op uitnodiging in aanmerking komen voor hervestiging, en daartoe waar nodig de internationale en Europese verdragen aan te passen;</al>
+                  <al>verzoekt de regering de Kamer periodiek terug te koppelen over de verworven steun en voortgang hiervoor,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Boomsma</al>
+                     <al>Van Zanten</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28973-271"/>
+      <meta name="OVERHEIDop.ondernummer" content="271"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28973"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van der Plas over uitspreken dat een minister niet gedwongen kan worden in gesprek te gaan met een organisatie die diezelfde minister vergelijkt met een kankergezwel"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomst veehouderij"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Toekomst veehouderij; Motie; Motie van het lid Van der Plas over uitspreken dat een minister niet gedwongen kan worden in gesprek te gaan met een organisatie die diezelfde minister vergelijkt met een kankergezwel"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Dieren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 973</dossiernr>
+         </dossiernummer>
+         <titel>Toekomst veehouderij</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">271</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de organisatie MOBilisation for the Environment (MOB) structureel juridische procedures inzet welke leiden tot veel leed in boerengezinnen die niks fout hebben gedaan;</al>
+                  <al>constaterende dat MOB zegt dat zij nieuwe rechtelijke procedures mogelijk tijdelijk willen opschorten, mits de Minister met hen in gesprek gaat, hetgeen riekt naar chantage;</al>
+                  <al-groep>
+                     <al>constaterende dat de voorzitter van MOB de Minister gisteren op sociale media heeft vergeleken met «een kankergezwel»;</al>
+                     <al>overwegende dat gesprekken op basis van intimidatie, chantage of ernstige beledigingen niet bijdragen aan een constructieve dialoog;</al>
+                  </al-groep>
+                  <al>spreekt uit dat een Minister niet kan worden gedwongen met een organisatie in gesprek te gaan die diezelfde Minister vergelijkt met een kankergezwel en over de ruggen van boerengezinnen haar eisen wil afdwingen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van der Plas</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

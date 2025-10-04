@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-112/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">112</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OMTZIGT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de bevolkingsprognoses op het gebied van geboortes zeer vaak meer geboortes voorspeld hebben dan daadwerkelijk zijn waargenomen;</al>
+            <al>constaterende dat de total fertility rate (TFR) – het gemiddeld aantal kinderen per vrouw – in grote delen van Oost-Azië, Polen, Spanje, Chili en andere regio’s is gedaald tot een uitzonderlijk laag niveau van 0,7 tot 1,2;</al>
+            <al>overwegende dat een dergelijke daling van de TFR ook in Nederland niet ondenkbaar is en dit op termijn grote gevolgen kan hebben voor de bevolkingsopbouw, de houdbaarheid van sociale zekerheid, de arbeidsmarkt, het zorgstelsel en andere essentiële beleidsdomeinen;</al>
+            <al>verzoekt de regering demografische scenario's te laten opstellen waarin de total fertility rate (TFR) in Nederland zich binnen een vergelijkbare range van 0,7 tot 1,2 bevindt, zoals waargenomen in bovengenoemde regio's;</al>
+            <al>verzoekt de regering verder voor elk scenario op hoofdlijnen inzichtelijk te maken wat de effecten zijn op de sociale zekerheid, de arbeidsmarkt, het zorgstelsel en de woningmarkt richting 2070, en de Kamer hierover zo spoedig mogelijk te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Omtzigt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

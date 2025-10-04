@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-71/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">71</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat zero-emissiezones er voor bepaalde ondernemers voor zorgen dat binnensteden niet meer bereikbaar zijn;</al>
+            <al>constaterende dat deze ondernemers ernstige zorgen hebben dat zij hun werk niet meer kunnen doen met de middelen die hun ter beschikking staan;</al>
+            <al>overwegende dat de inzet van het kabinet is dat een boetevrije periode van een jaar gaat gelden, wat de mogelijkheid biedt om de landelijk gestandaardiseerde uitzondering van zero-emissiezones voor ondernemers tot 2029 beter en sterk vereenvoudigd in te richten;</al>
+            <al>constaterende dat de Staatssecretaris geen enkele garantie biedt dat deze ruimte kan worden geboden;</al>
+            <al>overwegende dat monitoring inzichten kan verschaffen waarmee kan worden bijgestuurd, zodat ondernemers niet tussen wal en schip vallen, en dat daarbij alle mogelijke maatregelen worden opengehouden;</al>
+            <al>verzoekt de regering vanaf 1 januari 2025 iedere twee maanden aan de Tweede Kamer te rapporteren wat de gevolgen van de ingestelde zero-emissiezones zijn voor de ondernemers die nog niet aan de eisen kunnen voldoen of ondernemers die anderszins in de knel komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

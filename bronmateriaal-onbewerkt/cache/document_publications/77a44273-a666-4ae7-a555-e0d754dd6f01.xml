@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-188/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">188</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat agrarische bedrijven via de regeling gerichte opkoop een koopovereenkomst sluiten en 60% van de opkoopsom pas krijgen na het aanpassen of intrekken van de natuurvergunning;</al>
+            <al>overwegende dat het aanpassen of intrekken van deze natuurvergunning maanden kan duren terwijl bedrijfskosten nog doorlopen, waardoor agrarische bedrijven in financiële problemen zijn gekomen;</al>
+            <al>van mening dat deze boeren niet gestraft zouden moeten worden voor fouten van de overheid en de overheid deze fouten zou moeten rechtzetten;</al>
+            <al>verzoekt de regering de agrarische bedrijven die door deze fouten van de overheid in de problemen zijn gekomen, tegemoet te komen en eventuele gerelateerde kosten te dekken met de gelden uit de opkoopregeling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

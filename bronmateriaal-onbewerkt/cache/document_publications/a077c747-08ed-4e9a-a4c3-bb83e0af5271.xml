@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28638-241/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 638</dossiernr>
+      </dossiernummer>
+      <titel>Mensenhandel </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">241</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN BIKKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat signalen van mensenhandel in alle gevallen worden opgepakt en mensenhandel ambtshalve, dus ook zonder aangifte, kan worden opgespoord en vervolgd;</al>
+            <al>overwegende dat een aangifte wel een belangrijk aanknopingspunt is voor de politie en dat het wenselijk is dat signalen van mensenhandel de politie snel bereiken;</al>
+            <al>overwegende dat in artikel 160 Wetboek van Strafvordering een zelfstandige verplichting is opgenomen tot het doen van een aangifte bij de politie bij onder andere moord, doodslag en terroristische misdrijven;</al>
+            <al>overwegende dat mensenhandel een zeer ernstige inbreuk maakt op de lichamelijke en geestelijke integriteit van een persoon en zijn of haar persoonlijke vrijheid ernstig schaadt;</al>
+            <al>verzoekt de regering te bevorderen dat in het wetsvoorstel modernisering 273f wordt bewerkstelligd dat het delict mensenhandel wordt opgenomen in artikel 160 van het Wetboek van Strafvordering, zodat eenieder die kennis draagt van dit delict, behoudens slachtoffers en hulpverleners, wettelijk verplicht wordt daarvan aangifte te doen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

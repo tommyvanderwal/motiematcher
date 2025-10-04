@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32824-425/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 824</dossiernr>
+      </dossiernummer>
+      <titel>Integratiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">425</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het spreken van de Nederlandse taal een vereiste is om in te burgeren;</al>
+            <al>constaterende dat het erg lastig is om mee te doen in de Nederlandse samenleving als je geen Nederlands spreekt;</al>
+            <al>constaterende dat voor naturalisatie in beginsel een inburgeringsdiploma vereist is;</al>
+            <al>overwegende dat er door vrijstellingen in het Besluit naturalisatietoets en het Besluit verkrijging en verlies Nederlanderschap en door de zelfredzaamheidsroute mogelijkheden zijn om te naturaliseren zonder Nederlands te spreken;</al>
+            <al>verzoekt de regering het Besluit naturalisatietoets en het Besluit verkrijging en verlies Nederlanderschap zo te wijzigen dat een taaltoets in alle gevallen, behoudens psychische of lichamelijke beperkingen, wordt geëist vóór iemand mag naturaliseren, tenzij een inburgeringsdiploma op niveau B1 is gehaald,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Becker</al>
+              <al>Keijzer</al>
+              <al>Flach</al>
+              <al>Van Oostenbruggen</al>
+              <al>Boon</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

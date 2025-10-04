@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-278/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">278</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het rapport-Van Aartsen/Sorgdrager concludeert dat substantiële verbetering van het VTH-stelsel vraagt om meer regie en betrokkenheid van bewindspersonen, dat een meer uitgebreide invulling van stelselverantwoordelijkheid moet worden vastgelegd en dat het tijd is voor een stelseldiscussie;</al>
+            <al>overwegende dat omwonenden van industrie onvoldoende worden beschermd tegen schadelijke uitstoot en dat een slecht functionerend VTH-stelsel daaraan bijdraagt;</al>
+            <al>verzoekt de regering om, in lijn met de conclusies van het rapport-Van Aartsen/Sorgdrager, de opties voor stelselwijzigingen in kaart te brengen waarbij er meer ruimte en regie komt voor de bewindspersoon, en deze aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Koekkoek</al>
+              <al>Vedder</al>
+              <al>Kosti</al>
+              <al>Grinwis</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

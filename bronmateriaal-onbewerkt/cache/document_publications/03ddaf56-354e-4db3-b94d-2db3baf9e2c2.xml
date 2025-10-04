@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31765-893/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 765</dossiernr>
+      </dossiernummer>
+      <titel>Kwaliteit van zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">893</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Integraal Zorgakkoord en het beoogde aanvullend zorg- en welzijnsakkoord bedoeld zijn om de zorg toekomstbestendig te maken, waarbij innovatie, digitalisering en kunstmatige intelligentie een rol van belang hebben;</al>
+            <al>overwegende dat bedrijven die expertise hebben en leverancier zijn van innovatie en digitalisering in de zorg nu niet betrokken worden bij de inhoud van de akkoorden;</al>
+            <al>verzoekt de regering dergelijke innovatieve bedrijven op een zichtbare manier te betrekken bij de akkoorden, bijvoorbeeld middels een zorginnovatietop,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tielen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

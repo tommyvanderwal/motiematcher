@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-51/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">51</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het langlopende project Verruiming sluis Kornwerderzand geconfronteerd is met een forse prijsstijging;</al>
+            <al>overwegende dat dit project van groot belang is voor de economische ontwikkeling van de brede regio rond het IJsselmeer;</al>
+            <al>overwegende dat de Minister zich vooralsnog op het standpunt stelt dat het een provinciaal project betreft en het Rijk slechts een taakstellende bijdrage geeft, en dat IenW eerst een substantiële bijdrage van de regionale overheden verwacht voor de geconstateerde kostenstijgingen;</al>
+            <al>overwegende dat regionale partijen en het bedrijfsleven reeds forse financiële bijdragen aan dit project hebben toegezegd;</al>
+            <al>overwegende dat een een-op-eenvervanging van de bruggen in de A7 niet uitgesloten wordt, waardoor sluisverbreding de komende 25 jaar niet meer in de rede ligt;</al>
+            <al>verzoekt de regering af te zien van een scenario waarbij de bruggen een-op-een vervangen worden;</al>
+            <al>verzoekt de regering opnieuw in overleg te treden met de regionale partijen om tot aanvullende afspraken over financiering en de scope van het project Verruiming sluis Kornwerderzand te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Stoffer</al>
+              <al>De Hoop</al>
+              <al>Vedder</al>
+              <al>Van Kent</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

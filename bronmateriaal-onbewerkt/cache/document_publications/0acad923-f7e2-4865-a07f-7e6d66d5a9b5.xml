@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3108/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3108</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in verschillende conflict- en rampgebieden hulpverleners groot gevaar lopen en steeds vaker slachtoffer worden van bewuste directe en indirecte aanvallen vanuit strijdende partijen;</al>
+            <al>overwegende dat Nederland de verplichting heeft zich hard te maken voor hulpverleners wereldwijd en het internationaal humanitair recht;</al>
+            <al>overwegende dat straffeloosheid hulpverleners verder in gevaar brengt en dat daarmee humanitaire hulp ook in gevaar komt;</al>
+            <al>verzoekt de regering aan de CAVV en AIV te vragen om met spoed een gezamenlijk briefadvies te geven over welke diplomatieke, juridische, financiële en eventueel andere instrumenten Nederland kan inzetten om de straffeloosheid voor geweldpleging tegen hulpverleners te bestrijden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Piri</al>
+              <al>Boswijk</al>
+              <al>Ceder</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

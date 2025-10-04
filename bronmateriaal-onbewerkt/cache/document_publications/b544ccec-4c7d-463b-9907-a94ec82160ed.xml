@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1170/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1170</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een onverminderd snelle toename is van algoritme- en Al-gebruik bij essentiële niet-publieke sectoren, zoals in de zorg, het onderwijs, de financiële sector en in het sociale domein;</al>
+            <al>overwegende dat, zolang er geen grenzen worden gesteld aan algoritme- en Al-gebruik in deze sectoren, organisaties eigen regels blijven hanteren met het risico dat onwenselijke gevolgen gewoonterecht worden;</al>
+            <al>van mening dat de kaders voor het ethische gebruik van algoritmes en Al een politieke keuze is en dat de Tweede Kamer aan zet moet zijn om hierover te besluiten;</al>
+            <al>verzoekt de regering om in kaart te brengen wat voor algoritmes en Al-toepassingen nu worden ingezet bij private organisaties waar mensen een grote mate van afhankelijkheid van hebben, waaronder in elk geval onderwijsinstellingen, zorgorganisaties, in de financiële sector en in het sociale domein;</al>
+            <al>verzoekt de regering om voor private sectoren waar mensen afhankelijk van zijn tot duidelijke kaders te komen over transparant en ethisch gebruik van algoritmes en Al, en per sector een passend stelsel van toezicht in te richten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

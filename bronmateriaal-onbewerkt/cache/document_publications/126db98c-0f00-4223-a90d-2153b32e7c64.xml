@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32735-397/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 735</dossiernr>
+      </dossiernummer>
+      <titel>Mensenrechten in het buitenlands beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">397</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN CEDER EN STOFFER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 392</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-25">25 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voornamelijk christenen het slachtoffer zijn van het dodelijke geweld in Nigeria door het optreden van groeperingen als Boko Haram, Islamitische Staat in West-Afrika en Fulani «herders»,</al>
+            <al>overwegende dat christenen vaak geen effectieve bescherming van de Nigeriaanse overheid kunnen verwachten,</al>
+            <al>verzoekt de regering het Nederlandse lidmaatschap van de VN-Mensenrechtenraad aan te wenden om het geweld tegen christenen en andere religieuze groepen in Nigeria op de agenda van de Mensenrechtenraad te zetten en dit onderwerp onderdeel te maken van de Universal Periodic Review van Nigeria,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

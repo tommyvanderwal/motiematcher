@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35746-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 746</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-03-11">11 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering in de bijlage bij de Kamerbrief «Voorgenomen invulling regelgeving dierwaardige veehouderij» indicatieve jaartallen noemt bij de tweede set maatregelen, ook voor de korte termijn;</al>
+            <al>overwegende dat het noemen van jaartallen niet relevant is, omdat het aan het volgende kabinet is om hier besluiten over te nemen;</al>
+            <al>overwegende dat er geen geld beschikbaar wordt gesteld voor noodzakelijk flankerend beleid;</al>
+            <al>overwegende dat de maatregelen die de Minister voor 2026 of 2028 in gedachten heeft, leiden tot substantieel inkomensverlies voor ondernemers;</al>
+            <al>overwegende dat het noemen van jaartallen een ongewenste externe werking kan hebben richting marktpartijen;</al>
+            <al>van mening dat het van belang is dat aan de convenantstafel afspraken gemaakt worden over de maatregelen en bijbehorende jaartallen;</al>
+            <al>verzoekt de regering de genoemde jaartallen voor maatregelen in de tweede set maatregelen die voor 2030 ingevoerd zouden kunnen worden, maar wel aanzienlijke financiële impact hebben, door te strepen en de vaststelling van deze maatregelen en jaartallen over te laten aan het volgende kabinet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-02-3235"/>
+      <meta name="OVERHEIDop.ondernummer" content="3235"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-02"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Dobbe c.s. over het organiseren van tijdelijke medische evacuaties van ernstig gewonde of zieke Gazaanse kinderen naar Nederlandse ziekenhuizen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Koekkoek"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Teunissen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-11"/>
+      <meta name="DC.title" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van het lid Dobbe c.s. over het organiseren van tijdelijke medische evacuaties van ernstig gewonde of zieke Gazaanse kinderen naar Nederlandse ziekenhuizen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr>
+         </dossiernummer>
+         <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3235</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DOBBE C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-11">11 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat volgens de Wereldgezondheidsorganisatie ongeveer 3.800 kinderen dringend medische hulp nodig hebben of wachten op medische evacuatie;</al>
+                  <al>constaterende dat volgens de Wereldgezondheidsorganisatie, UNICEF, Artsen zonder Grenzen en Save the Children niet genoeg capaciteit is in de regio om deze kinderen op te nemen;</al>
+                  <al>constaterende dat de Wereldgezondheidsorganisatie Europese landen actief heeft opgeroepen om ernstig zieke en gewonde kinderen uit Gaza op te nemen en via het EU-mechanisme medische evacuaties te ondersteunen;</al>
+                  <al>constaterende dat niet alle noodzakelijke medisch-specialistische zorg tijdig zal kunnen worden gevonden of opgeschaald in de regio;</al>
+                  <al>overwegende dat landen als het Verenigd Koninkrijk, Italië en Frankrijk geëvacueerde patiënten opnemen;</al>
+                  <al>overwegende dat er kinderen zijn die al medisch zijn geëvacueerd naar de regio vanuit Gaza maar daar nu niet de zorg krijgen die ze nodig hebben;</al>
+                  <al>verzoekt de regering tijdelijke medische evacuaties van ernstig gewonde of zieke Gazaanse kinderen voor wie in de regio geen adequate zorg is, met naaste familie naar Nederlandse ziekenhuizen te organiseren, met het recht op terugkeer,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Paternotte</al>
+                     <al>Teunissen</al>
+                     <al>Mohandis</al>
+                     <al>Van Baarle</al>
+                     <al>Koekkoek</al>
+                     <al>Ceder</al>
+                     <al>Boswijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

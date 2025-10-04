@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31239-412/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 239</dossiernr>
+      </dossiernummer>
+      <titel>Stimulering duurzame energieproductie </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">412</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRÖGER EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het om zowel geopolitieke redenen als veiligheidsredenen en ook economisch belangrijk is om over te stappen van geïmporteerd aardgas naar zo veel mogelijk in Nederland geproduceerde elektriciteit, en groene waterstof;</al>
+            <al>constaterende dat het beleid voor verduurzaming van de industrie – middels onder andere individuele maatwerkafspraken – tot op heden niet tot genoeg duidelijkheid in de vorm van concrete afnameovereenkomsten leidt voor de keten van wind op zee en elektrolyse;</al>
+            <al>constaterende dat daardoor de uitrol van zowel wind op zee als de productie van groene waterstof achterblijft en de mogelijkheid voor de industrie om te verduurzamen beperkt blijft;</al>
+            <al>verzoekt de regering om voor de opening van de volgende wind-op-zeetender een sectoraanpak te ontwikkelen waarbij gestuurd wordt op concrete doelen en een ingroeipad voor de vraag naar elektriciteit en groene waterstof vanuit de industriële clusters, waarbij financiële zekerheid wordt geboden aan producenten van in Nederland geproduceerde hernieuwbare energie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kröger</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

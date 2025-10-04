@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1171/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1171</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BAMENGA EN STULTIENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er op meerdere plekken binnen de rijksoverheid gebruik wordt gemaakt van risicoprofilering;</al>
+            <al>overwegende dat risicoprofilering kan leiden tot onbedoelde negatieve gevolgen, zoals discriminatie en schending van grondrechten, als deze onvoldoende is onderbouwd en niet transparant is;</al>
+            <al>overwegende dat er voor iedere vorm van risicoprofilering gedegen onderzoek moet zijn uitgevoerd naar de effectiviteit, de proportionaliteit en de impact op het recht op non-discriminatie;</al>
+            <al>overwegende dat de situatie bij de Dienst Uitvoering Onderwijs, DUO, heeft aangetoond dat het onvoldoende onderbouwen van risicoprofilering kan leiden tot etnisch profileren en grote schade voor de betrokkenen, met name kwetsbare groepen;</al>
+            <al>verzoekt de regering om uitsluitend gebruik te maken van risicoprofilering als objectief en transparant onderzoek heeft aangetoond dat het gebruik van risicoprofilering in dat specifieke geval effectief, noodzakelijk en proportioneel is, en dat het recht op non-discriminatie gegarandeerd wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

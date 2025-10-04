@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-758/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">758</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TEUNISSEN EN KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat sommige producenten van frisdranken en vruchtensappen de huidige verbruiksbelasting van alcoholvrije dranken ontwijken door kleine hoeveelheden zuivel aan hun producten toe te voegen;</al>
+            <al>constaterende dat deze truc ook in een aantal van de geschetste scenario's voor een gedifferentieerde verbruiksbelasting van alcoholvrije dranken mogelijk blijft;</al>
+            <al>constaterende dat het kabinet heeft aangegeven dat deze belastingontwijking – ook onder de huidige platte verbruiksbelasting – kan worden voorkomen door de definitie van «zuivel» aan te laten sluiten bij de goederencodes (GN-codes);</al>
+            <al>verzoekt de regering de definitie van «zuivel» aan te laten sluiten bij de GN-codes, zodat de verbruiksbelasting niet meer kan worden ontweken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

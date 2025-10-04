@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28165-433/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 165</dossiernr>
+      </dossiernummer>
+      <titel>Deelnemingenbeleid rijksoverheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">433</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER LEE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de meerwaarde van de Volksbank onmisbaar is in het Nederlandse bankenlandschap;</al>
+            <al>overwegende dat de Volksbank nog steeds in handen is van de Staat;</al>
+            <al>overwegende dat de Volksbank een unieke nutsfunctie vervult door het onderhouden van een landelijk dekkend netwerk van bankkantoren, dat niet met wetgeving kan worden geborgd en bij privatisering vrijwel zeker in deze vorm zal verdwijnen;</al>
+            <al>verzoekt de regering om de Volksbank niet te privatiseren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Lee</al>
+              <al>De Vree</al>
+              <al>Joseph</al>
+              <al>Vermeer</al>
+              <al>Inge van Dijk</al>
+              <al>Dijk</al>
+              <al>Grinwis</al>
+              <al>Teunissen</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

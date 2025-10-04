@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36278-28"/>
+      <meta name="OVERHEIDop.ondernummer" content="28"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36278"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid De Korte over beveiliging van landelijke datasets voor kwaliteitsregistraties"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.C. de Korte"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Wet kwaliteit, klachten en geschillen zorg in verband met het regelen van regie op kwaliteitsregistraties in de zorg en grondslagen om ten behoeve van die kwaliteitsregistraties bijzondere persoonsgegevens te kunnen verwerken (Wet kwaliteitsregistraties zorg)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Wet kwaliteit, klachten en geschillen zorg in verband met het regelen van regie op kwaliteitsregistraties in de zorg en grondslagen om ten behoeve van die kwaliteitsregistraties bijzondere persoonsgegevens te kunnen verwerken (Wet kwaliteitsregistraties zorg); Motie; Motie van het lid De Korte over beveiliging van landelijke datasets voor kwaliteitsregistraties"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 278</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Wet kwaliteit, klachten en geschillen zorg in verband met het regelen van regie op kwaliteitsregistraties in de zorg en grondslagen om ten behoeve van die kwaliteitsregistraties bijzondere persoonsgegevens te kunnen verwerken (Wet kwaliteitsregistraties zorg)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">28</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DE KORTE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Wet kwaliteit, klachten en geschillen zorg, de Wkkgz, grondslag gaat bieden voor het verwerken van patiëntgegevens door de daartoe toegelaten landelijke organisaties;</al>
+                  <al>overwegende dat landelijke databestanden met patiëntengegevens zeer gevoelig zijn voor cybercriminaliteit en daarom de allerbeste beveiliging behoeven;</al>
+                  <al>overwegende dat experts aangeven dat voorafgaand aan het inrichten van landelijke databestanden eisen gesteld moeten worden aan optimale beveiliging;</al>
+                  <al>overwegende dat het Nationaal Cyber Security Centrum (NCSC) heeft aangetoond dat recente ontwikkelingen op het gebied van privacy-enhancing technologies (PET's) op grote schaal inzetbaar zijn;</al>
+                  <al>verzoekt de Minister om aanvullend op de Wet kwaliteit, klachten en geschillen zorg, de Wkkgz, in de ministeriële regeling op te nemen dat landelijke datasets voor kwaliteitsregistraties en de overdracht van data beveiligd dienen te worden tegen cybercriminaliteit en het risico dat een individu herkenbaar is, het herleidbaarheidsrisico, en daarbij indien mogelijk gebruikgemaakt wordt van de nieuwste technische mogelijkheden voor privacybescherming zoals (secure) multi-party computation, en verzoekt de Minister de Kamer hierover zo spoedig mogelijk te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>De Korte.</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

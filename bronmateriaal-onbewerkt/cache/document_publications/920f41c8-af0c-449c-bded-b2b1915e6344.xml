@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-25/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">25</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WINGELAAR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Tweede Kamer bij de behandeling van de begrotingen van decentrale overheden moet beoordelen of de omvang van zowel het Gemeente- als Provinciefonds voldoende is voor het goed uitvoeren van alle taken door decentrale overheden;</al>
+            <al>constaterende dat de Eerste Kamer de Raad voor het Openbaar Bestuur heeft</al>
+            <al>verzocht om advies uit te brengen over de opzet en werkwijze van een jaarlijkse monitor die toeziet op artikel 2 van de Financiële-verhoudingswet en het compensatiebeginsel;</al>
+            <al>van mening dat een dergelijke jaarlijkse monitor kan bijdragen aan een betere informatiepositie van de Kamer bij de beoordeling van de financiële situatie van decentrale overheden;</al>
+            <al>verzoekt de regering om, na publicatie van het advies van de ROB, te reflecteren op de bevindingen en de Kamer te informeren over de wijze waarop de informatiepositie van de Kamer versterkt zal worden, inclusief concrete stappen om de benodigde informatie structureel te borgen bij de beoordeling van de Gemeente- en Provinciefondsbegroting,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Wingelaar</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

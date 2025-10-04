@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36594-3/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 594</dossiernr>
+      </dossiernummer>
+      <titel>Burgerinitiatief «Nicotinee'</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DANIËLLE JANSEN EN KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-12">12 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat roken in een auto zorgt voor minstens een hoeveelheid tabaksrook als in een rokerig café van vroeger;</al>
+            <al>constaterende dat dit extra zorgwekkend is omdat dit betekent dat minderjarigen in de auto worden blootgesteld aan een bijzonder schadelijke hoeveelheid rook;</al>
+            <al>constaterende dat baby's en kinderen extra gevoelig zijn voor de blootstelling aan tweedehands rook omdat hun immuunsysteem nog niet volledig is ontwikkeld en hun ademhalingsfrequentie hoger is;</al>
+            <al>constaterende dat hierdoor een groter risico ontstaat op luchtweginfectie, astma, kanker en wiegendood;</al>
+            <al>constaterende dat in 2020 al 91% van de Nederlanders vond dat auto's waarin kinderen zitten geheel rookvrij zouden moeten worden;</al>
+            <al>constaterende dat in 2021 al twaalf landen binnen de Europese Unie een rookverbod in auto's hadden ingevoerd wanneer kinderen aanwezig zijn;</al>
+            <al>verzoekt de regering gehoor te geven aan de oproep van de EU Gezondheidsraad om auto's met kinderen rookvrij te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30486-34/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 486</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Embryowet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">34</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het onderzoeksrapport «Zorgvuldigheid in de omgang met leeftijdsgrenzen in de Wet donorgegevens kunstmatige bevruchting» aangeeft dat ieder kind verschillend is in behoefte naar afstammingsgegevens en dat niet de overheid maar directe relationele betrokkenen zoals de ouders hier primair de verantwoordelijkheid en zorg in hebben;</al>
+            <al>overwegende dat hetzelfde onderzoeksrapport concludeert dat er geen gedegen reden is om leeftijdsgrenzen in de wet te behouden en, indien dat wel wordt gedaan, dit in strijd is met internationale verdragen;</al>
+            <al>overwegende dat het onderzoeksrapport aanbeveelt om de leeftijdsgrenzen te laten vervallen;</al>
+            <al>verzoekt de regering om toe te werken naar het loslaten van leeftijdsgrenzen binnen de Wet donorgegevens kunstmatige bevruchting;</al>
+            <al>verzoekt de regering om bij de uitvoering mogelijkheden beschikbaar te stellen voor het bieden van adequate voorlichting aan donorkinderen, ouders en donoren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Paulusma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

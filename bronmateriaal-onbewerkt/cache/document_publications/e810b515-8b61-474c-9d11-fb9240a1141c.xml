@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36332-47"/>
+      <meta name="OVERHEIDop.ondernummer" content="47"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36332"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Vondeling over het aantal kennismigranten dat via de Europese blauwe kaart naar Nederland mag komen maximaal beperken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Vondeling"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Vreemdelingenwet 2000 in verband met de implementatie van richtlijn (EU) 2021/1883 van het Europees Parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van Richtlijn 2009/50/EG van de Raad (PbEU 2021, L 382/1)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-20"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Vreemdelingenwet 2000 in verband met de implementatie van richtlijn (EU) 2021/1883 van het Europees Parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van Richtlijn 2009/50/EG van de Raad (PbEU 2021, L 382/1); Motie; Motie van het lid Vondeling over het aantal kennismigranten dat via de Europese blauwe kaart naar Nederland mag komen maximaal beperken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Immigratie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 332</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Vreemdelingenwet 2000 in verband met de implementatie van richtlijn (EU) 2021/1883 van het Europees parlement en de Raad van 20 oktober 2021 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, en tot intrekking van Richtlijn 2009/50/EG van de Raad (PbEU 2021, L 382/1)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">47</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VONDELING </titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-20">20 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat artikel 79, lid 5 van het Verdrag betreffende de werking van de Europese Unie het aan de lidstaten zelf overlaat te bepalen hoeveel onderdanen van derde landen worden toegelaten om daar te werken;</al>
+                  <al>verzoekt de regering het aantal kennismigranten dat via de Europese blauwe kaart naar Nederland mag komen maximaal te beperken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Vondeling</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

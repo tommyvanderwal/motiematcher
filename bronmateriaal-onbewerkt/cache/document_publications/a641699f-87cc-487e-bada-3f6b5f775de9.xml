@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-A-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland een enorme opgave kent om de komende decennia de bestaande infrastructuur te vernieuwen en te renoveren, dat deze renovatie-opgave urgent is en Zuid-Europese toestanden moeten worden voorkomen;</al>
+            <al>overwegende dat daarbij de doorstroming overeind moet blijven en verkeersinfarcten moeten worden voorkomen;</al>
+            <al>overwegende dat ongeplande werkzaamheden vaak voor chaos, verkeersinfarcten en nog meer economische schade zorgen;</al>
+            <al>overwegende dat nog meer achterstanden in het onderhoud zullen leiden tot nog rigoureuzere maatregelen en enorme kosten;</al>
+            <al>constaterende dat bij de aanbestedingen voor onderhoud van (vaarweg)infrastructuur een evenwichtige risicoverdeling en een duidelijke dealflow van tien jaar ontbreken;</al>
+            <al>constaterende dat andere sectoren werken met lagere risicoprofielen en heldere meerjarige dealflows en dat het voor marktpartijen daardoor minder interessant wordt om opdrachten aan te nemen in de weg- en waterbouw;</al>
+            <al>verzoekt de regering versneld inzicht te krijgen in de staat van de (vaar)weginfrastructuur, doelen te stellen over wanneer wat in onderhoud moet worden genomen en wat daarbij prioriteit heeft en tot een «dealflow» van tien jaar te komen;</al>
+            <al>verzoekt de regering een plan uit te werken voor een evenwichtigere verdeling van risico’s bij de uitvoering van weg- en waterbouwprojecten,</al>
+            <al-groep>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Veltman</al>
+              <al>Grinwis</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

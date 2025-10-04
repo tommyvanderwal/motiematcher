@@ -1,0 +1,15 @@
+# Copilot Rules for this workspace
+
+NOOIT NOOIT NOOIT  python -c   of   py -c gebruiken
+
+## Python Command Execution
+- **NEVER use `python -c`, `py -c`, or inline Python execution**
+- Always create a `.py` file first, then execute it with `py filename.py`
+- Use the `temp/` directory for temporary scripts
+- Example: Create `temp/script.py`, then run `py temp/script.py`
+
+## General Guidelines
+- Prefer creating files over inline code execution
+- Keep commands short and focused
+- Use absolute paths for file operations
+- NEVER use combined commands using ; or |

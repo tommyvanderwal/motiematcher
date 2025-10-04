@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34104-423/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 104</dossiernr>
+      </dossiernummer>
+      <titel>Langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">423</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN C.S</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het jaarlijkse herindicatieproces voor gezinnen vaak een bron is van veel stress en onzekerheid, terwijl herindicatie vaak niet ieder jaar wenselijk is;</al>
+            <al>constaterende dat de Tweede Kamer via de motie-Mohandis/Werner zich al heeft uitgesproken voor meerjarige indicaties;</al>
+            <al>overwegende dat het kabinet desondanks aangeeft jaarlijkse herindicatie nodig te vinden «om voor het kind en het gezin de juiste zorg en ondersteuning te organiseren»;</al>
+            <al>verzoekt de regering om indicaties van minstens twee jaar alsnog de standaard te maken, waarbij eventueel tussentijds kan worden geëvalueerd of het nodig is om de indicatie aan te passen om voor het kind en het gezin de juiste zorg en ondersteuning te organiseren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Dobbe</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

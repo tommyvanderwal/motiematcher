@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-639/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">639</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN JOSEPH EN VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat deelnemers geen instemmingsrecht hebben bij invaren terwijl ze normaal gesproken individueel bezwaar konden maken tegen de omzetting van een vaste in een variabele uitkering;</al>
+            <al>constaterende dat de Minister het bezwaarrecht onwenselijk vond en daarvoor in de plaats onder meer een hoorrecht voor organisaties van gepensioneerden en slapers heeft ingesteld;</al>
+            <al-groep>
+              <al>constaterende dat het hoorrecht de individuele deelnemers geen handelingsperspectief biedt en juridische risico's bij invaren vergroot;</al>
+              <al>overwegende dat er signalen zijn vanuit ANBO-PCOB en de Koepel Gepensioneerden dat het hoorrecht in de praktijk niet in alle gevallen voldoet;</al>
+            </al-groep>
+            <al>overwegende dat momenteel een analyse wordt uitgevoerd naar de juridische en aansprakelijkheidsrisico's van het invaren voor de Staat, pensioenfondsen, werkgevers en het rechtsstelsel, waarvan de resultaten in september worden verwacht;</al>
+            <al>verzoekt de regering om onafhankelijk onderzoek te laten doen of het hoorrecht in de praktijk voldoet aan de wensen van de deelnemers en ook juridisch voldoet, en de resultaten van dat onderzoek binnen vijf maanden aan de Kamer te doen toekomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

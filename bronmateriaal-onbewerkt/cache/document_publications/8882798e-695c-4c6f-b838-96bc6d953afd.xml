@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1452/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1452</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel gedupeerde ouders geruime tijd wachten op inzage in hun dossier, bestaande uit gegevens op basis waarvan zij zijn beoordeeld;</al>
+            <al-groep>
+              <al>overwegende dat inzage in dossiers essentieel is voor het (emotionele) herstel van ouders én voor de afhandeling van de hersteloperatie;</al>
+              <al>van mening dat ouders recht hebben op volledige inzage in hun dossiers;</al>
+            </al-groep>
+            <al>verzoekt de regering te bewerkstelligen dat gedupeerde ouders die daarom vragen in alle gevallen inzage krijgen in hun dossier, en het proces rondom het beoordelen en verstrekken van dossiers te versimpelen en te versnellen;</al>
+            <al>verzoekt de regering tevens om de betreffende informatie bij voorkeur ongelakt te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-23645-854"/>
+      <meta name="OVERHEIDop.ondernummer" content="854"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="23645"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Soepboer c.s. over randvoorwaarden voor de overgang naar volledig elektrisch varen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. (Aukje) de Vries"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Soepboer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Openbaar vervoer"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.title" scheme="" content="Openbaar vervoer; Motie; Motie van het lid Soepboer c.s. over randvoorwaarden voor de overgang naar volledig elektrisch varen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>23 645</dossiernr>
+         </dossiernummer>
+         <titel>Openbaar vervoer</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">854</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SOEPBOER C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-06-26">26 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat in het programma van eisen voor de concessie Friese Waddenveren de verplichting tot elektrisch varen is opgenomen;</al>
+                  <al>overwegende dat er op dit moment nog aanzienlijke onzekerheden bestaan over de technische haalbaarheid van volledige elektrificatie van de veerdiensten in dit gebied;</al>
+                  <al>overwegende dat de beschikbaarheid van laadinfrastructuur en de huidige netcongestie in de regio een risico vormen voor de betrouwbaarheid en continuïteit van de veerdiensten;</al>
+                  <al>van mening dat essentiële verbindingen met de Waddeneilanden niet in gevaar mogen komen door overhaaste keuzes ten aanzien van verduurzaming zonder dat randvoorwaarden zijn geborgd;</al>
+                  <al>verzoekt de regering om de eis tot volledig elektrisch varen uit het programma van eisen voor dẹ concessie Friese Waddenveren te schrappen als er op voorhand geen duidelijk jaartal kan worden vastgelegd en er geen duidelijkheid over de kostenverhogende effecten kan zijn,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Soepboer</al>
+                     <al>Grinwis</al>
+                     <al>Aukje de Vries</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

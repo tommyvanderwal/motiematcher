@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-570/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">570</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de meeste veehouders de mestmarkt niet als transparant ervaren en dat er momenteel geen helder overzicht is van de mestmarkt, belangrijke deelmarkten daarin en hoe deze functioneren;</al>
+            <al>overwegende dat aanbod en vraag op de mestmarkt onderhevig zijn aan veranderingen door en de stapeling van beleid, alsook door de rol die innovaties op de middellange termijn kunnen gaan spelen;</al>
+            <al>overwegende dat seizoenseffecten, zoals een nat voorjaar, incidentele effecten op de mestmarkt en de prijsvorming hebben, maar het inzicht hierin en in het volume van de opslagcapaciteit bij de diverse actoren nog te wensen overlaat;</al>
+            <al>overwegende dat een goed functionerende mestmarkt een sleutelonderdeel is bij het bereiken van meer circulariteit in de landbouw en alleen daarom al een goede analyse en begrip vereist, inclusief de impact daarvan op de inkomensvorming van boeren;</al>
+            <al>verzoekt de regering een degelijke analyse van de mestmarkt op te (laten) stellen die bijdraagt aan allereerst transparantie met betrekking tot het functioneren van de mestmarkt en haar deelmarkten, die ten tweede inzicht biedt in de rol van actoren die zich op de mestmarkt begeven (aanbieders, vragers, verwerkers en hun potentiële capaciteit), die ten derde inzicht geeft in de rol van internationale handel en de verklarende factoren daarbij, en daarmee ten slotte bijdraagt aan inzicht in de huidige en toekomstige volume- en prijsontwikkelingen en de impact daarvan op het verdienvermogen van de boer;</al>
+            <al>verzoekt de regering vervolgens aan de hand van deze analyse stappen te zetten om de mestmarkt transparanter en beter te laten functioneren, en de Kamer hier in aanloop naar het komende zomerreces over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Van Campen</al>
+              <al>Holman</al>
+              <al>Flach</al>
+              <al>Bromet</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

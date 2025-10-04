@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JETTEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-19">19 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat deze regering in het hoofdlijnenakkoord de ambitie heeft om te werken aan een herstelplan kwaliteit onderwijs;</al>
+            <al>constaterende dat deze regering in het regeerakkoord zelf juist bezuinigt op onderwijs, zoals de brede brugklas, lerarensalarissen in het voortgezet onderwijs en extra huiswerkbegeleiding buiten school;</al>
+            <al>verzoekt de regering om boter bij de vis te doen voor scholen en wel geld beschikbaar te blijven stellen om scholen echt te helpen met extra taal- en rekenlessen of voor kleinere klassen op scholen met grote achterstanden;</al>
+            <al>verzoekt de regering voor dekking hiervan bijvoorbeeld te kijken naar het aanscherpen van de earningsstrippingmaatregel, het verhogen van de kartelboetes en het beperken van constructies waarmee winstbelasting wordt ontweken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Jetten</al>
+              <al>Dijk</al>
+              <al>Bontenbal</al>
+              <al>Ouwehand</al>
+              <al>Timmermans</al>
+              <al>Stoffer</al>
+              <al>Dassen</al>
+              <al>Bikker</al>
+              <al>Van Baarle</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

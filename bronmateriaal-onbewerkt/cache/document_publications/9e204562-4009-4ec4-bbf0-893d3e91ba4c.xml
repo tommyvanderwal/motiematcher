@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28973-270"/>
+      <meta name="OVERHEIDop.ondernummer" content="270"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28973"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van der Plas over een pilot opstarten voor mestaanzuring in de akkerbouw en mogelijkheden onderzoeken voor opschaling"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomst veehouderij"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Toekomst veehouderij; Motie; Motie van het lid Van der Plas over een pilot opstarten voor mestaanzuring in de akkerbouw en mogelijkheden onderzoeken voor opschaling"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Dieren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 973</dossiernr>
+         </dossiernummer>
+         <titel>Toekomst veehouderij</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">270</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat mestaanzuring in de akkerbouw een veelbelovende maatregel is om de stikstofdepositie te verlagen, met bewezen effect in andere EU-lidstaten, en de toepassing ervan tevens leidt tot betere benutting van nutriënten, lagere methaanemissies én lagere kosten voor de agrariër, zonder milieudruk;</al>
+                  <al>constaterende dat Denemarken al sinds 2011 mestaanzuring verplicht stelt, en verschillende Duitse deelstaten mestaanzuring onder voorwaarden toelaten en subsidiëren;</al>
+                  <al>constaterende dat de provincie Zeeland concrete belangstelling heeft om hiermee aan de slag te gaan, maar tegen juridische en praktische belemmeringen aanloopt;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om, in samenwerking met de provincie Zeeland, zo spoedig mogelijk een pilot op te starten voor mestaanzuring in de akkerbouw, juridisch te ondersteunen en mogelijkheden te onderzoeken voor opschaling via bijvoorbeeld het gemeenschappelijk landbouwbeleid (het GLB) en de</al>
+                     <al>bijbehorende ecoregelingen,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van der Plas</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

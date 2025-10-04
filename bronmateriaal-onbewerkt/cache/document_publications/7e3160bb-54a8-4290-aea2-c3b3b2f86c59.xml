@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-307/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">307</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de stelselwijziging om tot 80 streekomroepen te komen niet per 1 januari 2026 in zal gaan maar per 1 januari 2027;</al>
+            <al>constaterende dat er met de beschikbare middelen ongeveer 40 aankomende streekomroepen ondersteund kunnen worden;</al>
+            <al>overwegende dat dit leidt tot een ongelijk speelveld omdat er samenwerkingsverbanden zijn die geen financiële middelen ontvangen;</al>
+            <al>overwegende dat de middelen voor de basisbekostiging 2026 niet tot besteding komen, waardoor ze ingezet kunnen worden om de andere helft van de aankomende streekomroepen te ondersteunen;</al>
+            <al>verzoekt de regering de middelen uit 2026 in te zetten om de andere helft van aankomende streekomroepen te ondersteunen, vooruitlopend op de stelselwijziging, met als de doel de 80 streekomroepen zo veel als mogelijk een gelijk speelveld te bieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

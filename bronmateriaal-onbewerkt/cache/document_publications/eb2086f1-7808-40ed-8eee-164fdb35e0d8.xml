@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23432-550/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 432</dossiernr>
+      </dossiernummer>
+      <titel>De situatie in het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">550</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DASSEN EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de organisatie van de Verenigde Naties voor hulpverlening aan Palestijnse vluchtelingen (UNRWA) de grootste hulporganisatie is in de Gazastrook en daar nu voorziet in onder andere distributie van voedsel en medicijnen;</al>
+            <al>constaterende dat Nederland heeft toegezegd UNRWA in 2025 met 15 miljoen euro te steunen en de Kamer dit middels het amendement-Stoffer/Eerdmans separaat heeft vastgelegd in de begroting 2025;</al>
+            <al>overwegende dat de humanitaire situatie in Gaza juist nu, ten tijde van het staakt-het-vuren, steun vereist;</al>
+            <al>overwegende dat UNRWA op omvallen staat door gebrek aan financiering en al deze maand salarissen niet betaald kunnen worden;</al>
+            <al>overwegende dat het niet kunnen functioneren van UNRWA een groot risico vormt voor de stabiliteit in Gaza;</al>
+            <al>verzoekt de regering om, net als in 2018, 2019, 2020, 2021, 2022, 2023 en 2024, het eerste deel van de aan UNRWA toegezegde middelen in januari over te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

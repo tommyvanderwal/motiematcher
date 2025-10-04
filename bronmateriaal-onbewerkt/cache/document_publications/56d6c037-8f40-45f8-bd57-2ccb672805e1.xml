@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36159-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 159</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-20">20 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het wetsvoorstel om een drietal stofgroepen op de nieuw te vormen lijst IA te plaatsen niet generiek is;</al>
+            <al>overwegende dat drugsproducenten en handelaren precies weten hoe ze de wet moeten omzeilen om hun geld te blijven verdienen en levens van gebruikers te ontwrichten;</al>
+            <al>overwegende dat het onwenselijk is dat de handel in hallucinerende producten die buiten het verbod op NPS vallen doorzet;</al>
+            <al>verzoekt de regering met een actieplan te komen om het verkeerd gebruik van hallucinerende geneesmiddelen tegen te gaan zonder het legitieme gebruik van deze geneesmiddelen onmogelijk te maken, en de Kamer daar voor de zomer van 2024 over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Krul</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

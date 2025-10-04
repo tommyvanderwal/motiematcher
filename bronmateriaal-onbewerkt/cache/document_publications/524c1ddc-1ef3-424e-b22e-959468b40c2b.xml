@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36488-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 488</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met een bijzondere verhoging van het wettelijk minimumloon met 1,2 procentpunt met ingang van 1 juli 2024 (Wet verhoging minimumloon 2024)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AARTSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het minimumloon in de afgelopen vier jaar met 37% gestegen is en dat dit tot een forse toename van de werkgeverslasten heeft geleid;</al>
+            <al>overwegende dat het minimumloon voldoende moet zijn om rond te kunnen komen voor iedereen die voltijd werkt, maar dat het minimumloon tegelijkertijd wel opgebracht moet kunnen worden door werkgevers;</al>
+            <al>overwegende dat veel ondernemers in bepaalde sectoren de afgelopen jaren al met flinke kostenstijgingen te maken hebben gehad en duidelijk waarschuwen voor de gevolgen van verdere minimumloonsverhogingen;</al>
+            <al>verzoekt de regering om per sector de consequenties voor werkgeverslasten in kaart te brengen van de flinke verhogingen van het minimumloon over de afgelopen vier jaar voor (kleine) werkgevers in sectoren waarin relatief veel medewerkers op of rond het minimumloon verdienen, zoals in ieder geval de horeca en de retail;</al>
+            <al>verzoekt de regering om dit soort veel nauwkeurigere en sectorale berekeningen van de effecten van verzwaringen van werkgeverslasten bij toekomstige besluitvorming altijd te maken en deze mee te wegen in de besluitvorming,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aartsen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+{
+  "target_dates": [
+    "2025-10-02",
+    "2025-10-03"
+  ],
+  "total_motions": 145,
+  "motions_with_votes": 140,
+  "motions_missing_votes": [
+    {
+      "nummer": "2025Z18476",
+      "zaak_id": "02f219a7-c4f3-4f67-8a11-b1dc74c14dde",
+      "titel": "Terrorismebestrijding",
+      "gestart_op": "2025-10-02T00:00:00+02:00"
+    },
+    {
+      "nummer": "2025Z18528",
+      "zaak_id": "1eebb3e0-d6dc-431b-a526-06d6b37403f5",
+      "titel": "Arbeidsmarktbeleid",
+      "gestart_op": "2025-10-02T00:00:00+02:00"
+    },
+    {
+      "nummer": "2025Z18556",
+      "zaak_id": "caf4e88d-58b8-4b90-a6c7-bb4b1d2198c5",
+      "titel": "Racisme en Discriminatie",
+      "gestart_op": "2025-10-02T00:00:00+02:00"
+    },
+    {
+      "nummer": "2025Z18581",
+      "zaak_id": "2b06de27-d6d3-4ad3-9b08-4df2c78d53fa",
+      "titel": "Vreemdelingenbeleid",
+      "gestart_op": "2025-10-02T00:00:00+02:00"
+    },
+    {
+      "nummer": "2025Z18626",
+      "zaak_id": "5ef5c217-f102-4594-a60c-7933a9a14b9d",
+      "titel": "Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2026",
+      "gestart_op": "2025-10-02T00:00:00+02:00"
+    }
+  ]
+}

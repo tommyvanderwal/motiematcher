@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33529-1332"/>
+      <meta name="OVERHEIDop.ondernummer" content="1332"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33529"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Holman en Vedder over vanaf 2026 de voortgang van het daadwerkelijk herstel onder de aangepaste regeling transparant bijhouden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.C. Vedder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gaswinning"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Gaswinning; Motie; Motie van de leden Holman en Vedder over vanaf 2026 de voortgang van het daadwerkelijk herstel onder de aangepaste regeling transparant bijhouden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 529</dossiernr>
+         </dossiernummer>
+         <titel>Gaswinning</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1332</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN HOLMAN EN VEDDER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat vele Groningers al jaren wachten op daadwerkelijk herstel van de schade aan hun huizen, en dat onder de huidige regeling sinds juli 2024 van de ruim 2.000 aanvragen er na een jaar slechts 194 zijn afgehandeld;</al>
+                  <al>overwegende dat dit trage tempo opnieuw leidt tot frustratie, onzekerheid en gevoelens van onrecht bij de getroffen inwoners;</al>
+                  <al>constaterende dat het Instituut Mijnbouwschade Groningen (IMG) een nieuwe werkwijze invoert per november 2025, die beter aansluit bij de actuele situatie en waarmee sneller duidelijkheid kan worden geboden;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om vanaf 1 januari 2026 de voortgang van het</al>
+                     <al>daadwerkelijk herstel onder de aangepaste regeling zichtbaar en transparant bij te houden op het IMG-dashboard, zodat Groningers kunnen zien dat het herstel eindelijk in beweging komt,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Holman</al>
+                     <al>Vedder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

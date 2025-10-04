@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-89/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">89</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de professionaliteit en dus beschikbaarheid van gekwalificeerde en gecertificeerde tolken en vertalers in onze rechtspraak van groot belang zijn;</al>
+            <al>constaterende dat vooral het wegbezuinigen van de voorrijkosten en de invoering van betaling per minuut professionele tolken heeft doen vertrekken, en de lage vertaaltarieven hetzelfde effect hebben gehad voor registervertalers;</al>
+            <al>verzoekt de regering om zo snel mogelijk de tolken die voor het OM en het Parket CVOM worden ingezet weer voorrijkosten en wachttijden te betalen, tolkdiensten weer te vergoeden per begonnen halfuur, en voor vertalingen de betaling per normregel in te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Sneller</al>
+              <al>Lahlah</al>
+              <al>Teunissen</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

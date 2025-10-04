@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1184/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1184</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er voor het Luchthavenverkeersbesluit (LVB) door het kabinet is toegezegd om een bezwaar-en beroepsmogelijkheid in te stellen, zodat burgers goede toegang hebben tot de rechter;</al>
+            <al>overwegende dat naast het LVB de luchtruimherziening veel gevolgen heeft voor alles wat zich daaronder afspeelt, waaronder eventuele woningbouw;</al>
+            <al>overwegende dat het regelen van een bezwaar- en beroepsmogelijkheid bijdraagt aan rechtsherstel voor burgers, in lijn met uitspraken van de rechter;</al>
+            <al>verzoekt de regering om een bezwaar en beroepsmogelijkheid voor de luchtruimherziening zo spoedig mogelijk in te stellen, en de Kamer te informeren over de aanpak hiervan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

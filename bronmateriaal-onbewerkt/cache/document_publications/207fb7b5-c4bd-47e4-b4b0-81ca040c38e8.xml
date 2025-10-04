@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36378-73/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 378</dossiernr>
+      </dossiernummer>
+      <titel>Regels over energiemarkten en energiesystemen (Energiewet) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">73</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN ERKENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ProRail een landelijk elektriciteitsnet beheert ten behoeve van de energievoorziening van het treinverkeer en uitbreiding van dat net noodzakelijk is voor een toekomstbestendig spoorsysteem;</al>
+            <al>overwegende dat de congestieproblematiek uitbreiding van het elektriciteitsnet van het treinverkeer hindert, maar dat dit net ook kansen biedt om de congestieproblematiek in ons land te verzachten;</al>
+            <al>verzoekt de regering om in overleg met ProRail, de regionale netbeheerders en de vervoerders tot een gezamenlijke aanpak te komen die bijdraagt aan het oplossen van de congestieproblematiek, zowel voor het spoor als voor andere maatschappelijke doeleinden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Erkens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

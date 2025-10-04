@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VII-98/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">98</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het adviescomité van de Raad van Europa voor het Kaderverdrag inzake de bescherming van nationale minderheden stelt dat de positie van het Friestalige media-aanbod kwetsbaar is door het ontbreken van een wettelijke borging en afhankelijkheid van het sluiten van bestuursakkoorden;</al>
+            <al>voorts overwegende dat makers van Friestalige producties drempels ervaren om aanspraak te doen op subsidiëring uit het Filmfonds en het NPO-fonds;</al>
+            <al>verzoekt de regering in lijn met voorgenoemd advies en in overleg met Friestalige media-aanbieders te komen tot een wettelijke borging van Friestalig media-aanbod in bijvoorbeeld de Mediawet of de Wet gebruik Friese taal;</al>
+            <al>verzoekt de regering ervoor zorg te dragen dat Friestalige producties niet alleen op papier, maar ook daadwerkelijk in de praktijk aanspraak kunnen maken op subsidiëring uit het Filmfonds en het NPO-fonds, en dat dit ook actief wordt gestimuleerd en kenbaar gemaakt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Inge van Dijk</al>
+              <al>Van Nispen</al>
+              <al>Soepboer</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

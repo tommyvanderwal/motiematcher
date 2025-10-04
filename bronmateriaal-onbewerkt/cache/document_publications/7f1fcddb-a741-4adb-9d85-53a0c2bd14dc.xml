@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32820-549"/>
+      <meta name="OVERHEIDop.ondernummer" content="549"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32820"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Mohandis en Koops over onderzoeken hoe opdrachtgevers ertoe bewogen kunnen worden de fairpayrichtlijnen te volgen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.J. Koops"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe visie cultuurbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Nieuwe visie cultuurbeleid; Motie; Motie van de leden Mohandis en Koops over onderzoeken hoe opdrachtgevers ertoe bewogen kunnen worden de fairpayrichtlijnen te volgen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Cultuur"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 820</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe visie cultuurbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">549</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN MOHANDIS EN KOOPS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de culturele en creatieve sector veel zzp'ers kent, die gemiddeld tot de laagstbetaalden behoren;</al>
+                  <al>constaterende dat opeenvolgende kabinetten hebben benadrukt dat fair pay waar mogelijk verplicht moet worden gesteld om zzp'ers bestaanszekerheid te bieden;</al>
+                  <al>constaterende dat het Ministerie van OCW fair pay verplicht heeft voor rijksgesubsidieerde instellingen;</al>
+                  <al>overwegende dat de overheid instrumenten kan inzetten om deze richtlijnen verplicht te maken;</al>
+                  <al>verzoekt de Minister te onderzoeken welke prikkels en voorwaarden mogelijk zijn om de werkverschaffers en opdrachtgevers te bewegen de fairpayrichtlijnen te volgen en deel te nemen aan een bindend convenant,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Mohandis</al>
+                     <al>Koops</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

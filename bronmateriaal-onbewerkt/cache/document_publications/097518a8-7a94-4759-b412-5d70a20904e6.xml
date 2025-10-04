@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3352/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3352</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er plannen zijn om het aantal plekken van de vtl-locatie in Budel te verdubbelen;</al>
+            <al>overwegende dat Budel al jarenlang gebukt gaat onder zware overlast van asielzoekers en de situatie in het dorp hierdoor steeds verder escaleert;</al>
+            <al>verzoekt het kabinet af te zien van de uitbreiding van het aantal plekken van de vtl-locatie in azc Budel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

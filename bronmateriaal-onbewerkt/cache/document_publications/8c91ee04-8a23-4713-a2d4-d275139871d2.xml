@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIMMERMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat alle vormen van antisemitisch en racistisch geweld onacceptabel zijn en bestraft dienen te worden;</al>
+            <al>overwegende dat uitspraken van bewindspersonen hebben geleid tot gevoelens van boosheid en onveiligheid bij Nederlandse moslims omdat zij collectief schuldig worden verklaard aan het geweld in Amsterdam;</al>
+            <al>verzoekt de regering zo spoedig mogelijk een gesprek te organiseren met vertegenwoordigers van de islamitische gemeenschap in Nederland om deze zorgen weg te nemen en om bij te dragen aan het verminderen van spanningen in de samenleving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Timmermans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

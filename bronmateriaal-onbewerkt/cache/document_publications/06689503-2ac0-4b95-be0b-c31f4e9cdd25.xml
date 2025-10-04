@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36682-11"/>
+      <meta name="OVERHEIDop.ondernummer" content="11"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36682"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Daniëlle Jansen en Tielen over de verhouding tussen de baten van het preferentiebeleid en de kosten die voortkomen uit geneesmiddelentekorten (t.v.v. 36682-9)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.Z.C.M. Tielen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.E.M.C. (Daniëlle) Jansen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2024)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-22"/>
+      <meta name="DC.title" scheme="" content="Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2024); Motie (gewijzigd/nader); Gewijzigde motie van de leden Daniëlle Jansen en Tielen over de verhouding tussen de baten van het preferentiebeleid en de kosten die voortkomen uit geneesmiddelentekorten (t.v.v. 36682-9)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 682</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van een aantal wetten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport (Verzamelwet VWS 2024)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">11</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DANIËLLE JANSEN EN TIELEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 9</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-22">22 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>Constaterende dat het preferentiebeleid gericht is op kostenbeheersing binnen de farmaceutische zorg</al>
+                  <al>Constaterende dat het aantal geneesmiddelentekorten nog steeds onacceptabel hoog is, met in 2024 ruim 1.500 meldingen en miljoenen getroffen patiënten</al>
+                  <al>Overwegende dat doelmatigheid niet ten koste mag gaan van de beschikbaarheid van geneesmiddelen</al>
+                  <al>Overwegende dat de baten van het preferentiebeleid niet langer lijken op te wegen tegen de maatschappelijke en financiële kosten van tekorten, administratieve lasten en tijdelijke noodmaatregelen</al>
+                  <al>Verzoekt de regering, een onafhankelijke evaluatie te laten verrichten naar de verhouding tussen de baten van het preferentiebeleid en de kosten die voortkomen uit geneesmiddelentekorten, noodmaatregelen en administratieve lasten, en de Kamer hierover uiterlijk in oktober 2026 te informeren,</al>
+                  <al>En gaat over tot de orde van de dag</al>
+                  <al-groep>
+                     <al>Daniëlle Jansen</al>
+                     <al>Tielen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

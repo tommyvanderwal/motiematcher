@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35867-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 867</dossiernr>
+      </dossiernummer>
+      <titel>Parlementaire enquête fraudebeleid en dienstverlening</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID CEDER C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 23</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-21">21 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Parlementaire Enquêtecommissie concludeert dat politici «blind zijn voor de gevolgen voor mensen» wanneer het stelsel van toeslagen niet grondig wordt hervormd;</al>
+            <al>overwegende dat reeds enkele jaren wordt gewerkt aan het afschaffen van de kinderopvangtoeslag, in het Hoofdlijnenakkoord nog eens is bevestigd dat de kinderopvangtoeslag wordt afgeschaft, maar er nog geen wetsvoorstel aan de Kamer is voorgelegd;</al>
+            <al>verzoekt het kabinet om het wetsvoorstel voor hervorming van de kinderopvangtoeslag uiterlijk rond de zomer van 2025 te publiceren voor consultatie en vervolgens zo spoedig mogelijk bij de Kamer in te dienen, en gedurende 2025 waar mogelijk stappen te zetten in een verdere vereenvoudiging van de zorgtoeslag en het kindgebonden budget;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van Eijk</al>
+              <al>Sneller</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

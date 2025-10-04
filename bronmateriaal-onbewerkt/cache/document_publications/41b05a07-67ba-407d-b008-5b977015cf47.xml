@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-353/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">353</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOOPS</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-04-14">14 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat als gevolg van de afname van lineair kijken de STER-inkomsten afnemen en mogelijk op den duur geheel opdrogen;</al>
+            <al>constaterende dat de publieke middelen nu al dermate schaars zijn dat op de bekostiging van de NPO moet worden bezuinigd;</al>
+            <al>overwegende dat online adverteren niet wezenlijk verschilt van lineair adverteren en er in dat opzicht geen reden is om het ene wel en het andere niet toe te staan;</al>
+            <al>overwegende dat de NPO dermate belangrijk is binnen het bestel van onze democratische rechtsstaat dat instandhouding van de financiering met alle mogelijke maatregelen moet worden nagestreefd;</al>
+            <al>verzoekt de regering om ook onlineruimte te bieden aan commerciële adverteerders, maar daarvan wel kinderprogramma's en de nieuwsapps van de NOS uit te zonderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koops</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

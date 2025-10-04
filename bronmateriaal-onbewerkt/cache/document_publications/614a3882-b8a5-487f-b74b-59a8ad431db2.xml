@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35867-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 867</dossiernr>
+      </dossiernummer>
+      <titel>Parlementaire enquête fraudebeleid en dienstverlening</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN BAARLE EN KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-15">15 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een Nationaal Coördinator tegen Discriminatie en Racisme is ingesteld, die zorgt voor rijksbrede afstemming van het antidiscriminatiebeleid en de overheid hierop scherp houdt;</al>
+            <al>overwegende dat uit de evaluatie volgt dat de geïnterviewden meerwaarde zien in de NCDR en dat rollen en taken zich momenteel uitkristalliseren;</al>
+            <al>van mening dat de strijd tegen discriminatie niet gebaat is bij het in onzekerheid laten verkeren van de NCDR;</al>
+            <al>verzoekt de regering om het instituut van de Nationaal Coördinator tegen Discriminatie en Racisme voort te zetten en zo spoedig mogelijk aan te geven op welke wijze de regering dit gaat doorvoeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Baarle</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

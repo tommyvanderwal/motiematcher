@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1134/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1134</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ROODERKERK EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de MIVD en de AIVD het weglekken en de diefstal van kennis en technologie door bijvoorbeeld China onverminderd zorgelijk noemen;</al>
+            <al>constaterende dat Oberon, Dialogic en AWTI adviseren om een eenduidige definitie voor internationale samenwerking te gebruiken en dit te verwerken in een volgende editie van de Nationale leidraad kennisveiligheid;</al>
+            <al>van mening dat effectief risicomanagement op het gebied van kennisveiligheid en bewustwording over de afhankelijkheden van een kennisinstelling van groot belang is;</al>
+            <al>van mening dat het daarvoor noodzakelijk is dat universiteiten zo snel mogelijk centrale, actuele overzichten van hun internationale partnerschappen hebben;</al>
+            <al>verzoekt de Minister de universiteiten op te dragen uiterlijk dit jaar een centraal en actueel overzicht te realiseren van hun internationale samenwerkingen;</al>
+            <al>verzoekt de regering om met de kennisinstellingen een landelijke set uniforme criteria te ontwikkelen op grond waarvan zij inschattingen kunnen maken van de risico's bij het aangaan van internationale samenwerkingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rooderkerk</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BUSHOFF C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 20</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-22">22 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de begroting op onderdelen voorzien is van concrete doelen, maar deze onvoldoende meetbaarder en tijdgebonden zijn en zonder subdoelen;</al>
+            <al>verzoekt de regering waar mogelijk in de ontwerpbegroting 2026 extra meetbare indicatoren in de begroting op te nemen en doelen zo concreet, meetbaar en tijdgebonden mogelijk in te vullen, bijvoorbeeld over het verminderen van de administratietijd en daar in de begroting op te reflecteren hoe deze doelen behaald worden;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Daniëlle Jansen</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

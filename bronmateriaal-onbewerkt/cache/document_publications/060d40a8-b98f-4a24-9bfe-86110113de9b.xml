@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-270/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">270</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-26">26 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het in principe verboden is voor bedrijven om schadelijke stoffen te lozen in de Waddenzee;</al>
+            <al>constaterende dat zeker 54 bedrijven nog steeds lozingsvergunningen hebben en dat hierdoor grote hoeveelheden schadelijke stoffen, zoals kwik, cadmium, lood, nikkel en borium, worden geloosd;</al>
+            <al>overwegende dat we ons unieke werelderfgoedgebied en nationale trots goed moeten beschermen;</al>
+            <al>overwegende dat het aanpakken van schadelijke lozingen de leefbaarheid van het gebied voor mens en dier ten goede komt;</al>
+            <al>verzoekt de regering een plan van aanpak te ontwikkelen om het aantal lozingen in de Waddenzee op termijn terug te dringen tot nul, en dit plan zo snel mogelijk aan de Tweede Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

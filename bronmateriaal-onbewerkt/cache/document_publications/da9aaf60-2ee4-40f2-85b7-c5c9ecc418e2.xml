@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32805-178/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 805</dossiernr>
+      </dossiernummer>
+      <titel>Hulpmiddelenbeleid in de gezondheidszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">178</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DANIËLLE JANSEN EN CLAASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het geneesmiddelentekort in Nederland hoger is dan ooit;</al>
+            <al>constaterende dat het preferentiebeleid in beginsel leidt tot goedkopere medicijnen en meer leveringszekerheid, maar ook tot situaties waarbij bij tekorten niet of niet tijdig een vervangend medicijn voorhanden is;</al>
+            <al-groep>
+              <al>verzoekt de Minister om naast haar voorstellen in de brief Tijdpad verbetering preferentiebeleid geneesmiddelen van 10 juni 2024 de volgende opties mee te nemen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>classificatie van een dreigend tekort: wanneer is het dreigend en hoe is dit vast te stellen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>timing van versoepeling preferentiebeleid en van communicatie hierover (wanneer in de tijdlijn);</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voorwaarden voor voorraden preferente geneesmiddelen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de optie om kritische geneesmiddelen uit te sluiten van het preferentiebeleid;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de optie om geneesmiddelen aan de onderkant (minder dan 1 miljoen euro omzet) van de markt uit te sluiten van het preferentiebeleid;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>wat de voorstellen en opties betekenen voor de premiebetaler;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de Kamer hierover binnen een halfjaar te informeren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Claassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

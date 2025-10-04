@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-VIII-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Jaarverslag en slotwet Ministerie van Onderwijs, Cultuur en Wetenschap 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN </titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-06-10">10 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het coalitieakkoord tussen PVV, VVD, NSC en BBB een bezuiniging van 215 miljoen wordt voorgesteld op het programma School en Omgeving;</al>
+            <al>constaterende dat het programma School en Omgeving in 2022 startte om kansengelijkheid onder kinderen en jongeren te vergroten door p.o.- en vo-scholen extra activiteiten op het gebied van sport, techniek, cultuur en huiswerkbegeleiding aan te laten bieden;</al>
+            <al>overwegende dat deze bezuinigingsmaatregel verregaande gevolgen heeft voor kinderen en jongeren die deze aanpak het hardst nodig hebben;</al>
+            <al>verzoekt de regering om de effecten van het terugschroeven van het criterium 10% hoogste achterstandsscores naar 5% in beeld te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

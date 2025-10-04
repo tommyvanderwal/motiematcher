@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-650/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">650</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een wettelijk hoorrecht geldt voor verenigingen van gepensioneerden en voor verenigingen van voormalige deelnemers van pensioenfondsen;</al>
+            <al>constaterende dat sociale partners vrij zijn in de manier waarop het hoorrecht wordt vormgegeven;</al>
+            <al>constaterende dat we signalen krijgen dat dit niet overal op een manier gebeurt zodat mensen zich ook gehoord voelen;</al>
+            <al>verzoekt de regering om een quickscan naar hoe het hoorrecht tot nu toe wordt ingevuld bij verschillende fondsen waaronder een aantal grote bedrijfstakfondsen, en de Kamer hierover te informeren uiterlijk 1 juli van dit jaar,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Inge van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

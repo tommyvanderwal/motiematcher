@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-100/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">100</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aangenomen motie Bisschop (<extref doc="kst-35925-VI-94" soort="document" status="actief">35 925-VI, nr. 94</extref>), welke voortzetting en financiële middelen van de taskforce «Onze hulpverleners veilig» regelt, slechts gedeeltelijk is uitgevoerd;</al>
+            <al-groep>
+              <al>constaterende dat de termijn en de financiële middelen van de taskforce in 2026 aflopen;</al>
+              <al>overwegende dat een systemische aanpak voor dit thema noodzakelijk is teneinde een veilige publieke taak te waarborgen;</al>
+            </al-groep>
+            <al>verzoekt de regering met voorstellen te komen teneinde de taskforce rijksbreed te waarborgen, en de Kamer voor de zomer van 2025 over de uitkomsten te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Michon-Derkzen</al>
+              <al>Mutluer</al>
+              <al>Bikker</al>
+              <al>Boswijk</al>
+              <al>Helder</al>
+              <al>Eerdmans</al>
+              <al>Van der Werf</al>
+              <al>Six Dijkstra</al>
+              <al>Van Nispen</al>
+              <al>Teunissen</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

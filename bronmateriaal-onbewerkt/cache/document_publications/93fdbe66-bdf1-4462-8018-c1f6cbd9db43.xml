@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XVII-47/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">47</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-31">31 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat internationale klimaatfinanciering niet altijd optimaal inzichtelijk en transparant is, en Nederlandse klimaatfinanciering betere rapportage behoeft;</al>
+            <al>constaterende dat in het klimaatdashboard onder andere internationale afdrachten via het Ministerie van Financiën en Europese afdrachten via NDICI niet inzichtelijk zijn;</al>
+            <al>overwegende dat het lokaal maatschappelijk middenveld een belangrijke rol speelt in klimaatadaptatie en hun voorwaarden voor financiering belangrijk zijn voor gelijke deelname;</al>
+            <al>verzoekt de regering het klimaatdashboard te verbeteren en daarbij duidelijk te maken welke geldstromen hoe worden uitgegeven en welke geldstromen tegen welke voorwaarden beschikbaar zijn voor lokale maatschappelijke organisaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Hirsch</al>
+              <al>Boswijk</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

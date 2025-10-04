@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Algemene Rekenkamer aangeeft dat bij de Wmo en Wlz bijna een op de drie mensen die eigen bijdragen betalen wordt geconfronteerd met stapelfacturen;</al>
+            <al>constaterende dat de Nationale ombudsman ook in meerdere rapporten heeft aangegeven hier veel klachten over te ontvangen;</al>
+            <al>overwegende dat deze mensen vaak juist extra hulp kunnen gebruiken in plaats van verdere administratieve lasten en financiële druk vanuit instituten;</al>
+            <al>verzoekt de regering een aanpak uit te werken waardoor dit probleem zo snel mogelijk wordt opgelost, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

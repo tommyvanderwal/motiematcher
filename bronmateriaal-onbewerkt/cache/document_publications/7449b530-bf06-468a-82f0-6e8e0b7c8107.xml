@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-634/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">634</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TSEGGAI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat minderjarige hbo- en wo-studenten met een medische beperking een studietoeslag van € 146 per maand kunnen aanvragen omdat zij vaak niet kunnen bijverdienen naast hun school of studie;</al>
+            <al>constaterende dat minderjarige mbo-studenten geen aanspraak kunnen maken op deze studietoeslag;</al>
+            <al>constaterende dat het verschil in financiële ondersteuning voor studenten met een medische beperking minimaal € 700 op jaarbasis is, maar in sommige gevallen zelfs oploopt tot € 9.146;</al>
+            <al>overwegende dat dit verschil niet valt te rechtvaardigen en dat de regering actief uitdraagt de verschillen tussen mbo-, hbo- en wo-studenten te willen opheffen;</al>
+            <al>verzoekt de regering het mogelijk te maken dat ook minderjarige mbo-studenten aanspraak kunnen maken op een studietoeslag als zij een medische beperking hebben, door dit bijvoorbeeld te koppelen aan het studentenreisproduct,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tseggai</al>
+              <al>Westerveld</al>
+              <al>Ergin</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

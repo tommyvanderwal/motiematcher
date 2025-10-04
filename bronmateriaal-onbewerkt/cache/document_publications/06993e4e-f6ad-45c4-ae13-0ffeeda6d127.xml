@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24170-344/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 170</dossiernr>
+      </dossiernummer>
+      <titel>Gehandicaptenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">344</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat mensen in Nederland met een beperking nog steeds in grote mate niet mee kunnen doen in de maatschappij;</al>
+            <al>overwegende dat de uitvoering van het VN-verdrag inzake de rechten van personen met een handicap achterblijft;</al>
+            <al>overwegende dat het VN-comité aangeeft dat mensen met een handicap of beperking, met name vrouwen en kinderen, onvoldoende betrokken zijn bij de uitvoering van het VN-verdrag en hier verbetering in mogelijk is;</al>
+            <al>verzoekt de regering om op nationaal niveau nauwe betrokkenheid en representatie van mensen met een beperking te organiseren bij de uitvoering van en besluitvorming rond het VN-verdrag en dit op lokaal en regionaal niveau aan te jagen;</al>
+            <al>verzoekt de regering hierbij met name aandacht te geven aan betrokkenheid van groepen die nu onvoldoende zijn vertegenwoordigd, zoals vrouwen en kinderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Westerveld</al>
+              <al>Krul</al>
+              <al>Dobbe</al>
+              <al>El Abassi</al>
+              <al>Bevers</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

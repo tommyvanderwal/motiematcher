@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XII-50/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">50</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-25">25 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Rijk door middel van de prijsmutatie bruto overheidsinvesteringen (IBOI) de prijscompensatie voor onder andere investeringen van het Ministerie van Infrastructuur en Waterstaat bepaalt;</al>
+            <al>overwegende dat met de herprioritering binnen het Mobiliteitsfonds 2,7 miljard euro vrijgemaakt wordt voor aanlegprojecten in realisatie, omdat bij die projecten sprake is van (voorziene) tegenvallers als gevolg van hogere prijzen en uitvoeringsrisico's;</al>
+            <al>overwegende dat deze herprioritering een indicatie geeft dat de reguliere prijsbijstellingssystematiek structureel niet afdoende is om prijsstijgingen in de grond-, weg- en waterbouwsector op te vangen;</al>
+            <al>overwegende dat een vergelijkbare ontwikkeling zich voordoet in het Deltafonds bij de kosten voor de versterkingsopgave van de primaire keringen;</al>
+            <al>verzoekt de regering een evaluatie uit te voeren naar de prijsbijstellingssystematiek voor investeringen uit het Mobiliteitsfonds en Deltafonds in het afgelopen decennium, daarbij tevens vooruit te blikken op het komende decennium, en waar nodig en mogelijk met verbetervoorstellen te komen zodat de prijsbijstellingssystematiek de reële kostenontwikkeling structureel bijhoudt, en de Kamer hierover voor de begrotingsbehandeling van 2025 te informeren,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Stoffer</al>
+              <al>Vedder</al>
+              <al>Olger van Dijk</al>
+              <al>De Hoop</al>
+              <al>Veltman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

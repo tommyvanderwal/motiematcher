@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36280-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 280</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafrecht BES, het Wetboek van Strafvordering en het Wetboek van Strafvordering BES in verband met de uitbreiding van de strafbaarheid voor schadetoebrengende gedragingen ten behoeve van een buitenlandse mogendheid (uitbreiding strafbaarheid spionageactiviteiten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN BREKELMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-24">24 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat volgens het Dreigingsbeeld Statelijke Actoren digitale en fysieke politieke spionage een omvangrijk probleem is;</al>
+            <al>constaterende dat er onvoldoende zicht is op welke belangenbehartigers van buitenlandse mogendheden in Nederland actief zijn en welke activiteiten zij hier verrichten;</al>
+            <al>overwegende dat landen als Australië en de Verenigde Staten om die reden een vorm van een Foreign Agents Registration Act kennen, waarbij deze in het geval van de VS belangenbehartigers van buitenlandse mogendheden verplicht zich te registreren en periodiek openbaar te maken wat hun relatie is met de buitenlandse mogendheid, welke activiteiten zij verrichten en welke financiële compensatie zij daarvoor krijgen, waarbij het niet nakomen van die plicht kan leiden tot vijf jaar celstraf;</al>
+            <al>verzoekt de regering de opties voor een Nederlandse Foreign Agents Registration Act (FARA) uit te werken en aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Brekelmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

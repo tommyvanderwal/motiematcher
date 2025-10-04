@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36178-20"/>
+      <meta name="OVERHEIDop.ondernummer" content="20"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36178"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Mutluer over de Kamer zo snel mogelijk de inventarisatie aangaande de behoefte aan een steunpunt doen toekomen (t.v.v. 36178-15)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S. Mutluer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Voorstel van wet van de leden Paulusma, Becker, Westerveld, Van Nispen en Kostic tot wijziging van het Wetboek van Strafrecht en enige andere wetten in verband met het strafbaar stellen van handelingen gericht op het veranderen of onderdrukken van de seksuele gerichtheid, genderidentiteit of genderexpressie (Wet strafbaarstelling conversiehandelingen)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Voorstel van wet van de leden Paulusma, Becker, Westerveld, Van Nispen en Kostic tot wijziging van het Wetboek van Strafrecht en enige andere wetten in verband met het strafbaar stellen van handelingen gericht op het veranderen of onderdrukken van de seksuele gerichtheid, genderidentiteit of genderexpressie (Wet strafbaarstelling conversiehandelingen); Motie (gewijzigd/nader); Gewijzigde motie van het lid Mutluer over de Kamer zo snel mogelijk de inventarisatie aangaande de behoefte aan een steunpunt doen toekomen (t.v.v. 36178-15)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Strafrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 178</dossiernr>
+         </dossiernummer>
+         <titel>Voorstel van wet van de leden Paulusma, Becker, Westerveld, Van Nispen en Kostic tot wijziging van het Wetboek van Strafrecht en enige andere wetten in verband met het strafbaar stellen van handelingen gericht op het veranderen of onderdrukken van de seksuele gerichtheid, genderidentiteit of genderexpressie (Wet strafbaarstelling conversiehandelingen)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">20</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID MUTLUER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 15</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat slachtoffers soms pas jaren later durven te praten over wat hen is overkomen, en jaren kampen met trauma, schaamte of andere negatieve gevoelens,</al>
+                  <al>constaterende dat er enorme wachtlijsten zijn in zowel de jeugdzorg als de GGZ voor gespecialiseerde hulp,</al>
+                  <al>constaterende dat er al particuliere initiatieven bestaan, zoals het steunpunt opgericht door Wijdekerk,</al>
+                  <al>overwegende dat het essentieel is dat slachtoffers van conversiehandelingen zo snel mogelijk de juiste hulp ontvangen,</al>
+                  <al>overwegende dat de juiste hulp voor slachtoffers een belangrijke rol speelt in de verwerking van hun trauma en het herstel,</al>
+                  <al>overwegende dat initiatieven zoals het steunpunt van de Wijdekerk slachtoffers van conversietherapie veel kunnen helpen,</al>
+                  <al>overwegende dat er behoefte bestaat aan een uitbreiding van een dergelijke aanpak,</al>
+                  <al>verzoekt de regering om de Kamer zo snel mogelijk de inventarisatie aangaande de behoefte aan een steunpunt te doen toekomen,</al>
+                  <al>verzoekt tevens de regering om in overleg te treden met de bestaande meld- en steunpunten, belangenorganisaties en ervaringsdeskundigen over het optimaal waarborgen dat slachtoffers van conversiehandelingen terecht kunnen voor gespecialiseerde hulp en de Kamer voor het einde van het jaar te informeren over de opbrengst van de gesprekken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Mutluer</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

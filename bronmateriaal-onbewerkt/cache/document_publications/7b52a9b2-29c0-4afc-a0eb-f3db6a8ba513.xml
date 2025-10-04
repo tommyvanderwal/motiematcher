@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIJPELINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat onderwijshuisvesting een essentiële rol speelt in het bieden van kwalitatief hoogstaand onderwijs aan onze kinderen en jongeren;</al>
+            <al>van mening dat het waarborgen van adequate onderwijshuisvesting een prioriteit moet zijn voor de overheid;</al>
+            <al>constaterende dat het ibo onderwijshuisvesting funderend onderwijs stelt dat er een groot financieel tekort is op het gebied van onderwijshuisvesting en er tot 2050 jaarlijks 730 miljoen zou moeten worden geïnvesteerd, en dit bedrag door gestegen bouwkosten waarschijnlijk nog hoger ligt;</al>
+            <al>overwegende dat er op dit moment wordt gewerkt aan een programmatische aanpak die ervoor moet zorgen dat wanneer er middelen beschikbaar zullen zijn, de sector startklaar is voor realisatie van vernieuwde schoolgebouwen, maar er geen duidelijkheid is over wanneer en waarvandaan de middelen moeten komen;</al>
+            <al>verzoekt de Minister in haar volgende voortgangsbrief over onderwijshuisvesting opties uit te werken voor hoe er tot 2050 wordt gezorgd voor voldoende financiële middelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pijpelink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

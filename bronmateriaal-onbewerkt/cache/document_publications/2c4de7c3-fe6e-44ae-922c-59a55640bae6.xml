@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36704-71"/>
+      <meta name="OVERHEIDop.ondernummer" content="71"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-27"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36704"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Ceder over puntsgewijs ingaan op de aanbevelingen uit de verkenning naar het onbenutte arbeidspotentieel van migranten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet); Motie; Motie van het lid Ceder over puntsgewijs ingaan op de aanbevelingen uit de verkenning naar het onbenutte arbeidspotentieel van migranten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 704</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">71</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID CEDER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-26">26 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de verkenning van de Adviesraad Migratie «Talenten benutten, het onbenutte arbeidspotentieel van migranten» van 26 juni 2026, stelt dat als het onbenut arbeidspotentieel onder migranten zou worden benut, dat 330.000 nieuwe arbeidskrachten zou kunnen opleveren;</al>
+                  <al>overwegende dat als het onbenutte arbeidspotentieel van migranten zou worden benut, dit brede maatschappelijke winst oplevert;</al>
+                  <al>overwegende dat er aanbevelingen zijn gedaan die kunnen helpen om gerichter en efficiënter beleid vorm te geven;</al>
+                  <al>verzoekt de regering om puntsgewijs op de aanbevelingen uit de verkenning in te gaan, en dit voor de begrotingsbehandelingen in een brief aan de Kamer toe te zenden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Ceder</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

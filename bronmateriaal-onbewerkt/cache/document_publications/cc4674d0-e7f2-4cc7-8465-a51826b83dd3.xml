@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-797/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">797</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vrouwen met zeer dicht borstklierweefsel een verhoogde kans hebben op borstkanker en dat alleen een mammografie onvoldoende is om aanwezige kanker zichtbaar te maken;</al>
+            <al>constaterende dat vrouwen niet worden geïnformeerd over het hebben van zeer dicht borstklierweefsel, omdat zij op dit moment onvoldoende toegang hebben tot vervolgonderzoek;</al>
+            <al>overwegende dat het capaciteitsonderzoek en zorgaanbieders aangeven dat forse verbetering in screening voor deze groep mogelijk is door aanvullend één keer in de vier jaar een MRI aan te bieden;</al>
+            <al>verzoekt de regering om met spoed samen met zorgaanbieders en zorgprofessionals aanvullende MRI-screening toegankelijk te maken voor vrouwen met zeer dicht borstklierweefsel binnen het bevolkingsonderzoek borstkanker en vrouwen te informeren als zij zeer dicht borstklierweefsel hebben;</al>
+            <al>verzoekt de regering om de Kamer hier voor de zomer van 2025 over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Koekkoek</al>
+              <al>Kostić</al>
+              <al>Tielen</al>
+              <al>Eerdmans</al>
+              <al>Dobbe</al>
+              <al>El Abassi</al>
+              <al>Diederik van Dijk</al>
+              <al>Rikkers-Oosterkamp</al>
+              <al>Slagt-Tichelman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

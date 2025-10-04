@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-33-1156"/>
+      <meta name="OVERHEIDop.ondernummer" content="1156"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-33"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Six Dijkstra c.s. over naming-and-shaming van grote techplatforms die niet meewerken aan kinderrechtenimpactassessments"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.J. van der Werf"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raad voor Vervoer, Telecommunicatie en Energie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Raad voor Vervoer, Telecommunicatie en Energie; Motie; Motie van het lid Six Dijkstra c.s. over naming-and-shaming van grote techplatforms die niet meewerken aan kinderrechtenimpactassessments"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>33</raadnr>
+         </dossiernummer>
+         <titel>Raad voor Vervoer, Telecommunicatie en Energie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1156</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SIX DIJKSTRA C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat met het kinderrechtenimpactassessment (KIA) als opvolging aan een aangenomen Kamermotie een belangrijk instrument is ontwikkeld om de risico's en kansen van digitale diensten voor kinderrechten in kaart te brengen;</al>
+                  <al>overwegende dat grote platforms als TikTok, Instagram en Snapchat de mond vol hebben van het beschermen van kinderen, maar weigeren mee te werken aan de uitvoering van KIA's door de overheid;</al>
+                  <al>verzoekt de Staatssecretaris om in overheidscommunicatie naming-and-shaming te verbinden aan grote techplatforms die niet meewerken aan kinderrechtenimpactassessments;</al>
+                  <al>verzoekt de Staatssecretaris tevens om te onderzoeken of en hoe een keurmerk, publieke erkenning of andersoortige stimulans kan worden ingesteld voor bedrijven die actief en constructief meewerken aan KIA's en bijdragen aan een kindvriendelijke en veilige digitale omgeving,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Six Dijkstra</al>
+                     <al>Ceder</al>
+                     <al>Van der Werf</al>
+                     <al>Kathmann</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36378-74/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 378</dossiernr>
+      </dossiernummer>
+      <titel>Regels over energiemarkten en energiesystemen (Energiewet) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">74</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN KOEKKOEK </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er verschillen bestaan in wet- en regelgeving tussen Europese landen over de bevoegdheden van regionale netbeheerders;</al>
+            <al>overwegende dat voor een betrouwbaar, veilig en duurzaam energiesysteem een Europees gelijk speelveld van belang is, ook wat betreft wet- en regelgeving;</al>
+            <al>verzoekt de regering te onderzoeken of, en zo ja op welke manier, het Europees gelijk speelveld kan worden verbeterd door de Nederlandse wet- en regelgeving over de bevoegdheden van regionale netbeheerders waar nodig en nuttig meer in lijn te brengen met die van andere Europese landen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

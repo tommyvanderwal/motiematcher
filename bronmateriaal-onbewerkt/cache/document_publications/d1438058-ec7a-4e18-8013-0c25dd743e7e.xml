@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1365/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1365</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN BROMET</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>overwegende dat een huisdier houden fijn kan zijn,</al>
+              <al>maar dit ook zorg en lasten brengt voor het voorkomen van pijn;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat een huisdier vraagt om aandacht, liefde en veel plicht,</al>
+              <al>om te zorgen dat het dier gelukkig is en niet zwicht;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat een keuze voor een dier veel betekent,</al>
+              <al>en dat er niet altijd op de problemen wordt gerekend;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat over geschiktheid en kosten niet goed wordt gedacht,</al>
+              <al>waardoor te veel dieren naar een asiel worden gebracht;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat dierenartsen helpen bij zorg en raad,</al>
+              <al>en hun rol bij het welzijn groot is en zij staan altijd paraat;</al>
+              <al>van mening dat goede voorlichting essentieel is,</al>
+              <al>voor een juiste keuze zonder gemis;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering samen te werken met dierenartsen slim,</al>
+              <al>om voorlichting te verbeteren, helder en prim,</al>
+              <al>bijvoorbeeld met een gratis consult vooraf als horde,</al>
+              <al>of een campagne die breed informeert in heldere woorden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Bromet</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

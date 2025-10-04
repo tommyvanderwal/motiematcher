@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36714-14"/>
+      <meta name="OVERHEIDop.ondernummer" content="14"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36714"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kathmann c.s. over voortzetting van de activiteiten van ProDemos"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.C. Sneller"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-30"/>
+      <meta name="DC.title" scheme="" content="Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten; Motie; Motie van het lid Kathmann c.s. over voortzetting van de activiteiten van ProDemos"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 714</dossiernr>
+         </dossiernummer>
+         <titel>Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">14</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KATHMANN C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-30">30 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er zorgen zijn over de financiële middelen voor ProDemos om hun activiteiten voort te zetten, met name buiten de regio Den Haag;</al>
+                  <al>overwegende dat de activiteiten van ProDemos van essentieel belang zijn om jongeren in aanraking te laten komen met de democratische rechtsstaat;</al>
+                  <al>verzoekt het presidium om met ProDemos en het ministeries van BZK en JenV in overleg te treden met als doel om de activiteiten voort te laten zetten, en de Kamer over de uitkomsten hiervan te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kathmann</al>
+                     <al>Grinwis</al>
+                     <al>Sneller</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

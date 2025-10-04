@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1256/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1256</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat parallel plannen, doordat diverse fases van een bouwproject gelijktijdig en samenhangend worden uitgevoerd, voor versnelling van bouwprojecten kan zorgen;</al>
+            <al>overwegende dat zelfs in gemeenten waar succesvolle pilots zijn uitgevoerd, parallel plannen vervolgens niet altijd de nieuwe standaard is;</al>
+            <al>overwegende dat zowel gebrekkige ambtelijke capaciteit op dit beleidsterrein bij gemeenten als het doorbreken van een vaste manier van werken, obstakels lijken te zijn bij het verheffen van parallel plannen tot de standaardmanier van werken;</al>
+            <al>verzoekt het kabinet om samen met gemeenten en provincies een plan van aanpak te maken voor hoe in elke gemeente parallel plannen zo snel mogelijk de standaard wordt, en de Kamer hierover te informeren;</al>
+            <al>verzoekt het kabinet te bezien of het Rijk in samenwerking met provincies, vliegende teams met deskundigen kan oprichten of kan aansluiten bij bestaande vliegende teams, die zo veel mogelijk gemeenten gaan helpen te starten met parallel plannen en door middel van onder andere kennisoverdracht ervoor zorg gaan dragen dat parallel plannen in die gemeente de standaard wordt en blijft,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

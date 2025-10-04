@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-981/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">981</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering van plan is Veldzicht opnieuw in gebruik te nemen voor tbs'ers, maar dat dit ten koste gaat van de plaatsen die op dit moment nog hard nodig zijn voor ongedocumenteerden en COA-bewoners met ernstige psychische problemen;</al>
+            <al>overwegende dat als er geen vervangend onderkomen geregeld is voor deze mensen, zij op straat komen en dat dit gevaar op zal leveren voor de samenleving;</al>
+            <al-groep>
+              <al>verzoekt de regering ten aanzien van de huidige groep in Veldzicht geen</al>
+              <al>onomkeerbare stappen te zetten en eerst met voorstellen te komen om te voorkomen dat ongedocumenteerden en COA-bewoners met psychische problemen op straat komen te staan,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+              <al>Podt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

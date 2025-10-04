@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28676-512"/>
+      <meta name="OVERHEIDop.ondernummer" content="512"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28676"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Boswijk en Dobbe over zich ervoor inzetten dat het nieuwe WPS-actieplan in oktober 2025 wordt aangenomen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="NAVO"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="NAVO; Motie; Motie van de leden Boswijk en Dobbe over zich ervoor inzetten dat het nieuwe WPS-actieplan in oktober 2025 wordt aangenomen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Militaire missies"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 676</dossiernr>
+         </dossiernummer>
+         <titel>NAVO</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">512</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BOSWIJK EN DOBBE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat Women, Peace and Security (WPS) een essentieel thema is om de fundamentele waarden van NAVO te implementeren, met name individuele vrijheid, democratie, mensenrechten en de verplichtingen volgens het charter van de VN;</al>
+                  <al>overwegende dat de NAVO daarom sinds 2007 haar eigen beleid ontwikkelt op WPS, en dat het huidige actieplan dit jaar afloopt;</al>
+                  <al-groep>
+                     <al>constaterende dat de WPS-agenda momenteel onder druk staat bij sommige</al>
+                     <al>bondgenoten, waaronder de VS;</al>
+                  </al-groep>
+                  <al>constaterende dat WPS bovendien zowel door de NAVO als door haar bondgenoten ondergefinancierd wordt;</al>
+                  <al>verzoekt de regering zich ervoor in te zetten dat het nieuwe NAVO-actieplan voor vrouwen, vrede en veiligheid zoals gepland in oktober 2025 wordt aangenomen;</al>
+                  <al>verzoekt de regering hiertoe samen te werken met bondgenoten, en aan te dringen op een transparant proces, zodat het adviespanel van het NAVO-maatschappelijk middenveld rond vrouwen, vrede en veiligheid actief betrokken kan blijven en adequaat kan ondersteunen;</al>
+                  <al>verzoekt de regering ten slotte om zich samen met bondgenoten in te zetten voor geoormerkte budgetten om de WPS-agenda uit te kunnen voeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Boswijk</al>
+                     <al>Dobbe</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

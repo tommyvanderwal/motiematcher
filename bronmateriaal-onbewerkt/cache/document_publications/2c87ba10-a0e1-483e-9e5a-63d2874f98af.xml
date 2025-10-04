@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-146/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">146</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de huidige kwaliteit van de gezondheidszorg op de BES-eilanden niet voldoet aan de geldende normen en standaarden, de gebrekkige zorg de gezondheid en het welzijn van de inwoners ernstig in gevaar brengt en dat de toegankelijkheid en effectiviteit van gezondheidsdiensten cruciaal zijn voor het verbeteren van de levenskwaliteit;</al>
+            <al>van mening dat er een dringende behoefte is aan samenwerking en strategische planning tussen lokale en nationale gezondheidsorganisaties;</al>
+            <al>roept de regering op om een zorgtop te organiseren die vertegenwoordigers van lokale en nationale gezondheidsinstanties, deskundigen, beleidsmakers en maatschappelijke organisaties bijeenbrengt en tijdens deze top uitgebreid onderzoek en discussie te faciliteren omtrent de huidige problemen en uitdagingen binnen de gezondheidszorg op de BES-eilanden, concreet beleid en stappenplannen te ontwikkelen die gericht zijn op het verbeteren van de zorgstandaarden en het waarborgen van consistente en kwaliteitsvolle gezondheidsdiensten voor alle inwoners, en een periodieke monitoring en evaluatie van de voortgang vast te stellen om ervoor te zorgen dat de geformuleerde oplossingen effectief zijn en indien nodig kunnen worden aangepast,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bruyning</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

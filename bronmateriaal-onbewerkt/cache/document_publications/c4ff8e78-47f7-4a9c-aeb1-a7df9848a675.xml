@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1165/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1165</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOUTKAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het doel van de overheid is om het aantal ernstig gehinderden in de nacht met 15% te reduceren;</al>
+            <al>overwegende dat alle maatregelen om deze hinderreductie voor omwonenden van Schiphol te realiseren moeten worden beoordeeld en meegewogen;</al>
+            <al>constaterende dat voor de studie over nachtsluiting nu drie varianten worden onderzocht, met als uitgangspunt: een beetje dicht, minimaal vijf uur dicht of helemaal dicht;</al>
+            <al>verzoekt de regering om het sectorplan Schoner, stiller, zuiniger van juni 2023 als basis te gebruiken voor een extra variant van de impactanalyse inzake hinderreductie in de nacht en geen besluit te nemen voordat de impactanalyse klaar is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boutkan</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

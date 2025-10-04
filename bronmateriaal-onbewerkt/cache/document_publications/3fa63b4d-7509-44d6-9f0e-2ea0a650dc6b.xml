@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-642/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">642</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AARTSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat sommige pensioenfondsen een activistisch beleggingsbeleid voorstaan en ideële uitgangspunten soms meer leidend laten zijn dan rendement voor een koopkrachtig pensioen voor deelnemers;</al>
+            <al>overwegende dat een groot deel van de deelnemers verplicht zijn aangesloten bij een pensioenfonds en dat zij ervan uit mogen gaan dat hun ingelegde geld primair wordt gebruikt voor het behalen van een koopkrachtig pensioen in plaats van voor andere politiek gedreven doelen;</al>
+            <al>spreekt uit dat het niet de primaire taak is van fondsen om activistisch of ideëel te beleggen, maar dat bij hun beleggingsbeleid het realiseren van een koopkrachtig pensioen altijd centraal moet staan, helemaal gelet op de verplichtstelling die geldt in bepaalde sectoren;</al>
+            <al>verzoekt de regering te verkennen op welke wijze relevante toetsings- of toezichtkaders aangescherpt kunnen worden om dit uitgangspunt altijd centraal te laten zijn bij het beleggingsbeleid van fondsen en de toezichthouders hier ook op te laten toezien,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Aartsen</al>
+              <al>Vermeer</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32847-1327"/>
+      <meta name="OVERHEIDop.ondernummer" content="1327"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32847"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kostic over een onderbouwing van de keuze voor eDNA als methode in de Omgevingsregeling"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Integrale visie op de woningmarkt"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Integrale visie op de woningmarkt; Motie; Motie van het lid Kostic over een onderbouwing van de keuze voor eDNA als methode in de Omgevingsregeling"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 847</dossiernr>
+         </dossiernummer>
+         <titel>Integrale visie op de woningmarkt</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1327</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het mogelijk moet zijn goed geïsoleerde woningen te realiseren met respect en bescherming voor wilde dieren en dat hiervoor met provincies al een pad is uitgezet;</al>
+                  <al>constaterende dat de Minister van VRO echter opeens in de Omgevingsregeling de eDNA-methode als een erkende maatregel aanwijst;</al>
+                  <al>overwegende dat provincies als bevoegd gezag zich met hun juristen verzetten tegen dit besluit, omdat ze constateren dat eDNA nog onvoldoende uitgewerkt is, dat het besluit van de Minister de al ingezette oplossingen en afspraken over natuur inclusief isoleren schaadt, en dat er grote juridische bezwaren zijn,</al>
+                  <al>overwegende dat ook RVO en de Zoogdiervereniging vergelijkbare bezwaren hebben geuit;</al>
+                  <al>overwegende dat provincies en de Zoogdiervereniging constructief hebben aangegeven hoe het beter kan en dat eDNA als aanvullend instrument zou kunnen werken, maar dat als het niet zorgvuldig wordt uitgewerkt en ingepast, onder andere bedrijven straks alsnog in grote problemen komen;</al>
+                  <al>overwegende dat de Minister in het commissiedebat heeft aangegeven dat ze geen problemen ziet met haar besluit over eDNA, maar dit nog niet onderbouwd heeft;</al>
+                  <al>overwegende dat de Minister heeft toegezegd in gesprek te gaan met de provincies hierover;</al>
+                  <al>overwegende dat het belangrijk is dat de Kamer goed wordt geïnformeerd (artikel 68 Grondwet), om haar controlerende en kaderstellende taak te kunnen uitvoeren;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om voor het zomerreces aan de Kamer:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>een zorgvuldige juridische en wetenschappelijke onderbouwing te sturen van haar keuze om eDNA als een geschikte methode aan te wijzen in de Omgevingsregeling, waarin ze in ieder geval ingaat op de zorgen en argumenten van de provincies en de Zoogdiervereniging;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>terug te koppelen wat met de provincies en de Zoogdiervereniging is besproken en wat de conclusies zijn,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al>Kostić</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

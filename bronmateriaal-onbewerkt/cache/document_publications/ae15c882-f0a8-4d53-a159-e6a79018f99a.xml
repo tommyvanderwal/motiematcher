@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29282-598/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 282</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid en opleidingen zorgsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">598</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CLAASSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in toenemende mate een groot tekort is aan verpleegkundig en verzorgend personeel;</al>
+            <al>constaterende dat de instroom van mensen die in de zorg willen werken afneemt en de uitstroom van verpleegkundigen en verzorgenden toeneemt;</al>
+            <al>overwegende dat autonomie, zeggenschap en het kunnen tonen van verpleegkundig leiderschap bijdragen aan het boeien, binden en behouden van verplegend personeel en daarmee belangrijke factoren zijn voor goed werkgeverschap;</al>
+            <al>verzoekt de regering het borgen van autonomie, zeggenschap en verpleegkundig leiderschap als belangrijke factoren voor goed werkgeverschap op te nemen in het aanvullende zorg- en welzijnsakkoord,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Claassen</al>
+              <al>Daniëlle Jansen</al>
+              <al>Rikkers-Oosterkamp</al>
+              <al>Tielen</al>
+              <al>Krul</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36531-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 531</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/2065 van het Europees parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie is gestart met de handhaving van de DSA en nu al overtredingen constateert bij vijf zeer grote onlineplatforms, te weten X, Instagram, Facebook, TikTok en AliExpress;</al>
+            <al>overwegende dat ook bij andere zeer grote onlineplatforms als Telegram en Temu grote zorgen leven over de verspreiding van illegale content, desinformatie en misleidende aanbevelingsalgoritmes en dat het de vraag is of de DSA voldoende instrumenten biedt om hiertegen op te treden;</al>
+            <al>verzoekt de regering in Europa het initiatief te nemen voor een kopgroep met gelijkgestemde landen om mogelijke aanscherpingen van de DSA te onderzoeken en daarmee dus ook een DSA 2.0 voor te bereiden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

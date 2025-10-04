@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1000/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1000</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-28">28 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jongeren met een hulpvraag met aanwijzingen van onderliggende psychische problematiek zonder de juiste diagnose geplaatst worden in een instelling voor gesloten jeugdzorg;</al>
+            <al>constaterende dat deze jongeren gedurende de plaatsing vaak alsnog geen diagnose of goede probleemanalyse krijgen, terwijl zij daar wel recht op hebben in het kader van kwalitatieve en passende zorg;</al>
+            <al>constaterende dat onder de Wvggz strikte voorwaarden zijn geformuleerd voor verplichte zorg, waaronder het dreigende ernstige nadeel voor de patiënt, het gebrek aan alternatief, de proportionaliteit en effectiviteit van de verplichte zorg;</al>
+            <al>verzoekt de regering om de benodigde maatregelen te nemen om ervoor te zorgen dat alle kinderen die worden geplaatst in een instelling voor gesloten jeugdzorg, binnen een week worden gezien en beoordeeld door een jeugdpsychiater;</al>
+            <al>verzoekt de regering voor de gesloten jeugdzorg voortaan exact dezelfde voorwaarden te hanteren als die voor een zorgmachtiging onder de Wvggz gelden, en de Kamer over de voortgang hiervan voor de zomer van 2024 te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bruyning</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

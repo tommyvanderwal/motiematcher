@@ -1,153 +1,219 @@
 #!/usr/bin/env python3
 """
-Step 1: Recent Data Filtering & Enrichment
-Filters parliamentary data for 2022-2025 period, only votable items (Moties/Wetten/Amendementen),
-and enriches with complete voting data and full text content.
+Step 1: Full-term Data Filtering & Enrichment
+
+Filters parliamentary data for the current legislative term (Dec 2023 - today),
+restricts to votable items (Moties/Wetten/Amendementen), and enriches
+each zaak with complete voting data derived from besluit/agendapunt/zaak
+expansions.
 """
 
+from __future__ import annotations
+
 import json
-import os
-from pathlib import Path
-from datetime import datetime
 from collections import defaultdict
-from typing import List, Dict, Any, Optional
+from datetime import datetime, timezone, date
+from pathlib import Path
+from typing import Any, Dict, Iterable, List, Optional, Tuple
 
-def load_recent_zaak_data() -> List[Dict]:
-    """Load zaak data from recent 30-day files (2022-2025)"""
-    zaken = []
 
-    # Use relative path from current working directory
-    zaak_dir = "zaak"
-    print(f"Using zaak directory path: {zaak_dir}")
+DATA_ROOT = Path("bronmateriaal-onbewerkt")
+ZAAK_DIR = DATA_ROOT / "zaak"
+ENRICHED_STEMMING_DIR = DATA_ROOT / "stemming_enriched"
+OUTPUT_FILE = Path("step1_fullterm_filtered_enriched_data.json")
+MIN_START_DATE = datetime(2023, 12, 1, tzinfo=timezone.utc).date()
+VOTABLE_TYPES = {"Motie", "Wet", "Amendement"}
 
-    import os
-    if not os.path.exists(zaak_dir):
-        print(f"Path {zaak_dir} does not exist!")
-        # Try to list current directory contents
-        current = os.getcwd()
-        print(f"Current directory contents: {os.listdir(current)[:10]}")  # First 10 items
-        return zaken
 
-    print(f"Zaak directory exists! Contents: {os.listdir(zaak_dir)[:5]}...")
+def _load_json_records(directory: Path, description: str) -> List[Dict[str, Any]]:
+    """Load flattened records from all JSON files in a directory."""
 
-    # Focus on recent 30-day files which contain 2022-2025 data
-    all_files = os.listdir(zaak_dir)
-    matching_files = [f for f in all_files if '_30days_' in f and f.endswith('.json')]
-    print(f"Found {len(matching_files)} 30-day files: {matching_files[:3]}...")
+    records: List[Dict[str, Any]] = []
+    if not directory.exists():
+        print(f"⚠️  Directory {directory} missing for {description}.")
+        return records
 
-    for filename in matching_files:  # Load ALL 30-day files
-        file_path = os.path.join(zaak_dir, filename)
+    files = sorted(directory.glob("*.json"))
+    print(f"Loading {len(files)} {description} files from {directory}...")
+
+    for path in files:
         try:
-            print(f"Loading {filename}...")
-            with open(file_path, 'r', encoding='utf-8') as f:
-                page_data = json.load(f)
-                if isinstance(page_data, list):
-                    zaken.extend(page_data)
-                    print(f"  Added {len(page_data)} zaken")
-                else:
-                    value_data = page_data.get('value', [])
-                    zaken.extend(value_data)
-                    print(f"  Added {len(value_data)} zaken")
-        except Exception as e:
-            print(f"Error loading {filename}: {e}")
+            with path.open("r", encoding="utf-8") as handle:
+                payload = json.load(handle)
+        except Exception as exc:  # pragma: no cover - diagnostics
+            print(f"  ⚠️  Skipping {path.name}: {exc}")
             continue
 
-    return zaken
+        if isinstance(payload, list):
+            records.extend(payload)
+        elif isinstance(payload, dict):
+            value = payload.get("value")
+            if isinstance(value, list):
+                records.extend(value)
+            else:
+                print(f"  ⚠️  Unexpected payload structure in {path.name}")
+        else:
+            print(f"  ⚠️  Unknown payload type for {path.name}")
 
-def load_recent_stemming_data() -> List[Dict]:
-    """Load stemming data from recent 30-day files"""
-    stemmingen = []
+    print(f"Loaded {len(records)} {description} records.")
+    return records
 
-    # Use relative path
-    stemming_dir = "stemming"
-    print(f"Using stemming directory path: {stemming_dir}")
 
-    import os
-    if not os.path.exists(stemming_dir):
-        print(f"Path {stemming_dir} does not exist!")
-        return stemmingen
+def load_fullterm_zaak_data() -> List[Dict[str, Any]]:
+    return _load_json_records(ZAAK_DIR, "zaak")
 
-    print(f"Stemming directory exists! Contents: {os.listdir(stemming_dir)[:5]}...")
 
-    all_files = os.listdir(stemming_dir)
-    matching_files = [f for f in all_files if '_30days_' in f and f.endswith('.json')]
-    print(f"Found {len(matching_files)} 30-day files: {matching_files[:3]}...")
+def load_enriched_stemming_data() -> List[Dict[str, Any]]:
+    return _load_json_records(ENRICHED_STEMMING_DIR, "enriched stemming")
 
-    for filename in matching_files[:1]:  # Load first file for testing
-        file_path = os.path.join(stemming_dir, filename)
-        try:
-            print(f"Loading {filename}...")
-            with open(file_path, 'r', encoding='utf-8') as f:
-                page_data = json.load(f)
-                if isinstance(page_data, list):
-                    stemmingen.extend(page_data)
-                    print(f"  Added {len(page_data)} stemmingen")
-                else:
-                    value_data = page_data.get('value', [])
-                    stemmingen.extend(value_data)
-                    print(f"  Added {len(value_data)} stemmingen")
-        except Exception as e:
-            print(f"Error loading {filename}: {e}")
+
+def _parse_date(value: Optional[str]) -> Optional[date]:
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00")).date()
+    except ValueError:
+        return None
+
+
+def filter_votable_zaken(zaken: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    filtered = [zaak for zaak in zaken if zaak.get("Soort") in VOTABLE_TYPES]
+    print(f"Filtered {len(filtered)} votable zaken from {len(zaken)} total zaken")
+    return filtered
+
+
+def filter_recent_zaken(zaken: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    filtered: List[Dict[str, Any]] = []
+    for zaak in zaken:
+        started = _parse_date(zaak.get("GestartOp"))
+        if started is None or started >= MIN_START_DATE:
+            filtered.append(zaak)
+    print(f"Filtered {len(filtered)} zaken dated on/after {MIN_START_DATE}")
+    return filtered
+
+
+def _initial_vote_entry(besluit: Dict[str, Any]) -> Dict[str, Any]:
+    agendapunt = besluit.get("Agendapunt") or {}
+    return {
+        "besluit": {
+            "Id": besluit.get("Id"),
+            "BesluitTekst": besluit.get("BesluitTekst"),
+            "BesluitSoort": besluit.get("BesluitSoort"),
+            "StemmingsSoort": besluit.get("StemmingsSoort"),
+            "Status": besluit.get("Status"),
+            "Agendapunt_Id": besluit.get("Agendapunt_Id"),
+            "GewijzigdOp": besluit.get("GewijzigdOp"),
+            "ApiGewijzigdOp": besluit.get("ApiGewijzigdOp"),
+        },
+        "agendapunt": {
+            "Id": agendapunt.get("Id"),
+            "Nummer": agendapunt.get("Nummer"),
+            "Onderwerp": agendapunt.get("Onderwerp"),
+            "Status": agendapunt.get("Status"),
+            "GewijzigdOp": agendapunt.get("GewijzigdOp"),
+        },
+        "zaken": set(),
+        "votes": [],
+        "totals": defaultdict(int),
+    }
+
+
+def _normalise_vote(record: Dict[str, Any]) -> Dict[str, Any]:
+    fractie = record.get("Fractie") or {}
+    persoon = record.get("Persoon") or {}
+    return {
+        "stemming_id": record.get("Id"),
+        "vote": record.get("Soort"),
+        "fractie_grootte": record.get("FractieGrootte"),
+        "actor_naam": record.get("ActorNaam"),
+        "actor_fractie": record.get("ActorFractie"),
+        "fractie_id": record.get("Fractie_Id"),
+        "persoon_id": record.get("Persoon_Id"),
+        "fractie_details": {
+            "Id": fractie.get("Id"),
+            "Afkorting": fractie.get("Afkorting"),
+            "NaamNL": fractie.get("NaamNL"),
+        },
+        "persoon_details": {
+            "Id": persoon.get("Id"),
+            "Roepnaam": persoon.get("Roepnaam"),
+            "Achternaam": persoon.get("Achternaam"),
+        },
+    }
+
+
+def build_vote_index(
+    stemmingen: Iterable[Dict[str, Any]]
+) -> Tuple[Dict[str, Dict[str, Any]], Dict[str, List[str]]]:
+    index: Dict[str, Dict[str, Any]] = {}
+    zaak_to_besluit: Dict[str, List[str]] = defaultdict(list)
+
+    for record in stemmingen:
+        besluit = record.get("Besluit") or {}
+        besluit_id = besluit.get("Id") or record.get("Besluit_Id")
+        if not besluit_id:
             continue
 
-    return stemmingen
+        entry = index.setdefault(besluit_id, _initial_vote_entry(besluit))
 
-def filter_votable_zaken(zaken: List[Dict]) -> List[Dict]:
-    """Filter for only votable items: Moties, Wetten, Amendementen"""
-    votable_types = {'Motie', 'Wet', 'Amendement'}
+        vote_info = _normalise_vote(record)
+        entry["votes"].append(vote_info)
+        vote_type = vote_info["vote"] or "Onbekend"
+        entry["totals"][vote_type] += vote_info.get("fractie_grootte") or 0
 
-    filtered_zaken = []
+        agendapunt = besluit.get("Agendapunt") or {}
+        zaken = agendapunt.get("Zaak") or []
+        for zaak in zaken:
+            zaak_id = zaak.get("Id")
+            if not zaak_id:
+                continue
+            entry["zaken"].add(zaak_id)
+            if zaak_id not in zaak_to_besluit[zaak_id]:
+                zaak_to_besluit[zaak_id].append(besluit_id)
+
+    # Freeze the sets and totals into JSON-friendly structures
+    for besluit_id, entry in index.items():
+        entry["zaken"] = list(entry["zaken"])
+        entry["totals"] = dict(entry["totals"])
+
+    return index, zaak_to_besluit
+
+
+def enrich_zaken_with_voting(
+    zaken: List[Dict[str, Any]],
+    stemmingen: List[Dict[str, Any]]
+) -> List[Dict[str, Any]]:
+    vote_index, zaak_to_besluit = build_vote_index(stemmingen)
+    enriched: List[Dict[str, Any]] = []
+
     for zaak in zaken:
-        soort = zaak.get('Soort')
-        if soort in votable_types:
-            filtered_zaken.append(zaak)
+        zaak_id = zaak.get("Id")
+        besluit_ids = zaak_to_besluit.get(zaak_id, []) if zaak_id else []
+        voting_records: List[Dict[str, Any]] = []
 
-    print(f"Filtered {len(filtered_zaken)} votable zaken from {len(zaken)} total zaken")
-    return filtered_zaken
+        for besluit_id in besluit_ids:
+            entry = vote_index.get(besluit_id)
+            if not entry:
+                continue
+            totals = entry.get("totals", {})
+            voting_records.append(
+                {
+                    "besluit_id": besluit_id,
+                    "besluit": entry.get("besluit"),
+                    "agendapunt": entry.get("agendapunt"),
+                    "vote_totals": totals,
+                    "votes": entry.get("votes", []),
+                }
+            )
 
-def filter_recent_zaken(zaken: List[Dict], start_year: int = 2022) -> List[Dict]:
-    """Filter for zaken from start_year onwards"""
-    filtered_zaken = []
-
-    for zaak in zaken:
-        gestart_op = zaak.get('GestartOp')
-        if gestart_op:
-            try:
-                # Parse date and check if it's recent enough
-                date_str = gestart_op.split('T')[0]  # Get YYYY-MM-DD part
-                year = int(date_str.split('-')[0])
-                if year >= start_year:
-                    filtered_zaken.append(zaak)
-            except (ValueError, IndexError):
-                # If date parsing fails, include the zaak (better safe than sorry)
-                filtered_zaken.append(zaak)
-
-    print(f"Filtered {len(filtered_zaken)} zaken from {start_year} onwards")
-    return filtered_zaken
-
-def enrich_zaken_with_voting(zaken: List[Dict], stemmingen: List[Dict]) -> List[Dict]:
-    """Enrich zaken with complete voting data"""
-    # Group stemmingen by Besluit_Id
-    besluit_stemmingen = defaultdict(list)
-    for stemming in stemmingen:
-        besluit_id = stemming.get('Besluit_Id')
-        if besluit_id:
-            besluit_stemmingen[besluit_id].append(stemming)
-
-    enriched_zaken = []
-    for zaak in zaken:
         enriched_zaak = zaak.copy()
+        enriched_zaak["voting_records"] = voting_records
+        enriched_zaak["has_voting_data"] = bool(voting_records)
+        enriched.append(enriched_zaak)
 
-        # For now, we'll collect all voting data
-        # In a full implementation, we'd need to match zaak to besluit via various methods
-        enriched_zaak['voting_records'] = []
-        enriched_zaak['has_voting_data'] = False
+    return enriched
 
-        enriched_zaken.append(enriched_zaak)
-
-    return enriched_zaken
-
-def extract_full_text(zaak: Dict) -> str:
+def extract_full_text(zaak: Dict[str, Any]) -> str:
     """Extract full text content from zaak"""
     # Try different text fields
     text_sources = [
@@ -156,7 +222,7 @@ def extract_full_text(zaak: Dict) -> str:
     ]
 
     # If zaak has Documenten, try to get text from there
-    documenten = zaak.get('Documenten', [])
+    documenten = zaak.get('Documenten', [])  # May be absent in raw dumps
     if documenten and isinstance(documenten, list):
         for doc in documenten:
             if isinstance(doc, dict) and 'Inhoud' in doc:
@@ -165,31 +231,43 @@ def extract_full_text(zaak: Dict) -> str:
                     text_sources.append(inhoud)
 
     # Combine all text sources
-    full_text = ' '.join(str(text) for text in text_sources if text)
-
+    full_text = " ".join(str(text) for text in text_sources if text)
     return full_text.strip()
 
-def analyze_vote_margins(enriched_zaken: List[Dict]) -> List[Dict]:
-    """Analyze which zaken have close vote margins"""
-    # For now, we'll mark all zaken as needing voting analysis
-    # In a full implementation, this would analyze actual vote counts
 
+def analyze_vote_margins(enriched_zaken: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     for zaak in enriched_zaken:
-        zaak['close_vote'] = False  # Placeholder
-        zaak['vote_margin'] = None  # Placeholder
+        totals_voor = 0
+        totals_tegen = 0
+        for vote_block in zaak.get("voting_records", []):
+            totals_voor += vote_block.get("vote_totals", {}).get("Voor", 0)
+            totals_tegen += vote_block.get("vote_totals", {}).get("Tegen", 0)
+
+        if totals_voor or totals_tegen:
+            margin = abs(totals_voor - totals_tegen)
+            zaak["vote_margin"] = margin
+            zaak["close_vote"] = margin <= 20
+            zaak["vote_totals_overall"] = {
+                "Voor": totals_voor,
+                "Tegen": totals_tegen,
+            }
+        else:
+            zaak["vote_margin"] = None
+            zaak["close_vote"] = False
 
     return enriched_zaken
 
-def create_filtered_output(enriched_zaken: List[Dict]) -> Dict:
+
+def create_filtered_output(enriched_zaken: List[Dict[str, Any]]) -> Dict[str, Any]:
     """Create the filtered and enriched output"""
     output = {
         'metadata': {
             'generated_at': datetime.now().isoformat(),
             'total_zaken': len(enriched_zaken),
-            'date_range': '2022-2025',
+            'date_range': f"{MIN_START_DATE.isoformat()} - {datetime.now().date().isoformat()}",
             'votable_types_only': True,
             'types_allowed': ['Motie', 'Wet', 'Amendement'],
-            'enrichment_level': 'basic_voting_text',
+            'enrichment_level': 'besluit_agendapunt_links',
             'next_step': 'complete_voting_enrichment'
         },
         'zaken': []
@@ -210,6 +288,7 @@ def create_filtered_output(enriched_zaken: List[Dict]) -> Dict:
             'voting_records': zaak.get('voting_records', []),
             'close_vote': zaak.get('close_vote', False),
             'vote_margin': zaak.get('vote_margin'),
+            'vote_totals_overall': zaak.get('vote_totals_overall'),
             'raw_zaak': zaak  # Keep full raw data for reference
         }
 
@@ -217,53 +296,48 @@ def create_filtered_output(enriched_zaken: List[Dict]) -> Dict:
 
     return output
 
-def main():
-    print("=== STEP 1: Recent Data Filtering & Enrichment ===")
-    print("Loading recent zaak data (2022-2025)...")
+def main() -> None:
+    print("=== STEP 1: Full-term Data Filtering & Enrichment ===")
 
-    # Load data
-    zaken = load_recent_zaak_data()
-    stemmingen = load_recent_stemming_data()
+    print("Loading zaak dataset...")
+    zaken = load_fullterm_zaak_data()
 
-    print(f"\nLoaded {len(zaken)} zaken and {len(stemmingen)} stemmingen")
+    print("Loading enriched stemming dataset...")
+    stemmingen = load_enriched_stemming_data()
 
-    # Apply filters
-    print("\nFiltering for votable types only...")
+    print(f"Loaded {len(zaken)} zaken and {len(stemmingen)} enriched stemmingen")
+
+    print("\nFiltering for votable zaak types...")
     votable_zaken = filter_votable_zaken(zaken)
 
-    print("\nFiltering for recent dates (2022+)...")
-    recent_zaken = filter_recent_zaken(votable_zaken, start_year=2022)
+    print("Filtering for current term (>= Dec 2023)...")
+    recent_zaken = filter_recent_zaken(votable_zaken)
 
-    # Basic enrichment
-    print("\nEnriching with voting data...")
+    print("\nLinking zaken with voting data...")
     enriched_zaken = enrich_zaken_with_voting(recent_zaken, stemmingen)
 
-    print("\nAnalyzing vote margins...")
+    print("Analyzing vote margins...")
     analyzed_zaken = analyze_vote_margins(enriched_zaken)
 
-    # Create output
-    print("\nCreating filtered output...")
+    print("\nCreating filtered output payload...")
     output = create_filtered_output(analyzed_zaken)
     print(f"Output contains {len(output['zaken'])} zaken")
 
-    # Save results
-    output_file = '../step1_recent_filtered_enriched_data.json'
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with OUTPUT_FILE.open('w', encoding='utf-8') as handle:
+        json.dump(output, handle, indent=2, ensure_ascii=False)
 
-    print(f"\n✅ Step 1 Complete!")
-    print(f"Results saved to {output_file}")
+    print(f"\n✅ Step 1 Complete! Results saved to {OUTPUT_FILE}")
 
-    # Summary
-    type_counts = defaultdict(int)
+    type_counts: Dict[str, int] = defaultdict(int)
     for zaak in output['zaken']:
         type_counts[zaak['type']] += 1
 
     print("\n📊 SUMMARY:")
     print(f"Total zaken processed: {len(output['zaken'])}")
-    print(f"Date range: 2022-2025")
+    print(f"Date range: {output['metadata']['date_range']}")
     print(f"Types: {dict(type_counts)}")
-    print(f"Ready for Step 2: AI Impact Assessment")
+    print("Ready for Step 2: AI Impact Assessment")
 
 if __name__ == '__main__':
     main()

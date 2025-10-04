@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-198/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">198</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat start-up- en scale-upbedrijven in de productie van nieuwe eiwitbronnen, zoals kweekvlees en algenproductie, relatief weinig subsidies en investeringen ontvangen vanuit de overheid;</al>
+            <al-groep>
+              <al>overwegende dat het voor alle scale-ups moeilijk is om privaat durfkapitaal aan te trekken, maar voedselbedrijven een extra hobbel ervaren vanwege de strenge Europese regelgeving omtrent het introduceren van nieuw voedsel op</al>
+              <al>de Europese markt;</al>
+            </al-groep>
+            <al>overwegende dat de Groeifaciliteit, waaronder de overheid, die garant stond voor 50% van de investeringen in scale-ups, per 1 januari is gestopt en Invest-NL en de Europese Investeringsbank dat gat niet goed kunnen dichten;</al>
+            <al>van mening dat de overheid innovatieve duurzame bedrijven die bijdragen aan een robuuster voedselsysteem zou moeten stimuleren;</al>
+            <al>verzoekt de regering te verkennen of het Innovatiekrediet zo aangepast kan worden dat de lening conditioneel wordt toegekend vóór volledige financiering, om meer privaat kapitaal aan te trekken;</al>
+            <al>verzoekt de regering een rol te nemen als launching customer voor nieuwe eiwitproducten, zoals in Denemarken en Duitsland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

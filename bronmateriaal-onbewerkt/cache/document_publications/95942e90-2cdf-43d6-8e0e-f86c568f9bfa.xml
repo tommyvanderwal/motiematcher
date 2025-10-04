@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-658/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">658</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat kersentelers, op grond van de huidige vrijstelling, slechts eens per drie kalenderjaren gebruik mogen maken van het gewasbeschermingsmiddel Exirel;</al>
+            <al>overwegende dat een ruime Kamermeerderheid de Minister in een motie de opdracht heeft gegeven om te zorgen voor vrijstelling voor het gebruik van Exirel en Tracer en dit uit te voeren met werkbare randvoorwaarden;</al>
+            <al>overwegende dat het College voor de toelating van gewasbeschermingsmiddelen en biociden slechts een adviserende rol heeft bij de beoordeling van aanvragen voor vrijstellingen en dat de Minister niet verplicht is deze adviezen op te volgen, maar dient te betrekken bij de overwegingen;</al>
+            <al>overwegende dat Exirel een essentieel middel is ter bestrijding van de suzukivlieg en niet vervangen kan worden door Tracer, omdat Tracer alleen volwassen vliegen aanpakt en Exirel juist eieren en larven;</al>
+            <al>overwegende dat zonder jaarlijkse behandeling met Exirel een veelvoud aan behandelingen met Tracer noodzakelijk is, wat leidt tot een hoger totaalgebruik van gewasbeschermingsmiddelen;</al>
+            <al>overwegende dat bij de afwezigheid van een jaarlijkse behandeling met Exirel het risico op resistentie tegen Tracer toeneemt;</al>
+            <al>overwegende dat de aanvraag van een regulier toelatingstraject van Exirel voor dit jaar nog geen werkbare oplossing biedt voor ons land;</al>
+            <al-groep>
+              <al>verzoekt de regering bij de besluitvorming over de vrijstellingen ook het belang van de landbouwpraktijk en de impact op de sector mee te wegen, onafhankelijk van het advies van het Ctgb;</al>
+              <al>verzoekt de regering de eis dat kersentelers slechts eens per drie jaar Exirel mogen gebruiken met onmiddellijke ingang te verwijderen en hiermee effectieve en werkbare randvoorwaarden te creëren voor de toepassing van Exirel om de kersenteelt in ons land te kunnen behouden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+              <al>Nijhof-Leeuw</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

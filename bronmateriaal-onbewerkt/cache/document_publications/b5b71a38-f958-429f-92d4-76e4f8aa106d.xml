@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2001/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2001</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHRISTINE TEUNISSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Hamas op 7 oktober een gruwelijke terreurdaad heeft gepleegd die het leven kostte aan 1.200 mensen en Israël sindsdien aanvallen uitvoert op en in Gaza;</al>
+            <al>overwegende dat de gijzelaars vrij moeten komen en de raketten gestopt;</al>
+            <al>overwegende dat de hervatting van het grondoffensief door de Israëlische krijgsmacht sinds vorige week tot nog meer burgerslachtoffers heeft geleid;</al>
+            <al>overwegende dat daarmee ook de levensvatbaarheid van Gaza wordt vernietigd, wat bijdraagt aan een humanitaire ramp in de regio;</al>
+            <al>overwegende dat de secretaris-generaal van de Verenigde Naties middels artikel 99 van het Handvest van de VN voor het eerst sinds 1989 de Veiligheidsraad waarschuwt voor een grootschalige escalatie in de regio;</al>
+            <al>overwegende dat de VN al langere tijd een humanitair staakt-het-vuren bepleit;</al>
+            <al>verzoekt het kabinet om zich in Europees verband in te zetten voor een staakt-het-vuren, zodat enerzijds een verdere humanitaire ramp voorkomen kan worden en anderzijds gezocht kan worden naar mogelijkheden om de door Hamas gegijzelden vrij te krijgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Christine Teunissen</al>
+              <al>Piri</al>
+              <al>Paternotte</al>
+              <al>Koekkoek</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

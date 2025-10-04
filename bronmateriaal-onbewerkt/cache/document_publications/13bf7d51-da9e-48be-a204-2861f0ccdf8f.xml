@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36617-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 617</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Participatiewet inzake een tijdelijke regeling voor een tegemoetkoming in verband met de alleenverdienersproblematiek (Wet tijdelijke regeling alleenverdienersproblematiek)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de problematiek rond alleenverdieners al jaren bekend is en door een uitspraak van de Centrale Raad voor Beroep in 2019 is bevestigd;</al>
+            <al>constaterende dat in het Belastingplan 2025 gesproken wordt over een doelgroep van 17.000 huishoudens die onder het bestaansminimum uitkomen vanwege een samenloop van regelingen;</al>
+            <al>constaterende dat vervolgens in dit wetsvoorstel gesproken wordt over 6.000 huishoudens;</al>
+            <al>constaterende dat het hier gaat om een groot verschil, waardoor twijfel ontstaat over de duiding van de doelgroep;</al>
+            <al>verzoekt de regering te onderzoeken of de doelgroep juist is bepaald en aan te geven welke overwegingen hier exact aan ten grondslag liggen;</al>
+            <al>verzoekt de regering aan te geven wat ervoor nodig is om, indien de doelgroep groter blijkt te zijn dan de nu ingeschatte 6.000 huishoudens, ook deze huishoudens tegemoet te komen, en de Kamer hierover voor zo snel mogelijk, uiterlijk voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Welzijn</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36479-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 479</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele onderwijswetten in verband met de verplichtstelling van een verklaring omtrent het gedrag in het aanvullend onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-04">4 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer, de Minister, de onderwijsinspectie en onderwijzend personeel zich voortdurend uitspreken tegen de toename van commerciële onderwijsaanbieders en de verstrengeling tussen publiek en privaat onderwijs;</al>
+            <al>overwegende dat extra onderwijsondersteuning soms nodig is, maar dat diverse onderzoeken waarschuwen voor de toenemende ongelijkheid tussen leerlingen, doordat niet alle ouders de financiële middelen hebben voor extra ondersteuning;</al>
+            <al>constaterende dat er, ondanks aangenomen moties van de Kamer, alleen maar meer commerciële partijen het onderwijs zijn binnengetreden, en het verder groeit;</al>
+            <al-groep>
+              <al>spreekt uit dat publieke middelen moeten gaan naar publiek onderwijs dat toegankelijk is voor alle leerlingen en dat betaald aanvullend onderwijs hierin geen plaats heeft;</al>
+              <al>en verzoekt het kabinet om met een aanvalsplan te komen met duidelijke nastreefbare doelen en maatregelen om de verstrengeling tussen publiek en privaat onderwijs tegen te gaan,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

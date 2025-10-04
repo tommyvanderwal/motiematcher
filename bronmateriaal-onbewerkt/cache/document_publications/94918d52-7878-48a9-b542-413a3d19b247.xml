@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VIJLBRIEF EN EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat personeelstekorten de komende decennia misschien wel de grootste uitdaging van onze samenleving en economie zullen zijn en dat onderzoek laat zien dat veel mensen bereid zijn meer te werken als ze daar meer aan zouden overhouden;</al>
+            <al>verzoekt de regering om een lastenverlichting voor werkenden in te voeren, waarbij iedereen die minstens drie dagen per week werkt een extra belastingvoordeel krijgt;</al>
+            <al-groep>
+              <al>verzoekt de regering om wat betreft de vormgeving hiervan de zelfstandigenaftrek te nemen en deze regeling uit te breiden naar alle mensen die minimaal drie dagen per week werken, en het voordeel te verdubbelen;</al>
+              <al>constaterende dat deze maatregel leidt tot een extra voordeel van minimaal € 650 netto per jaar, terwijl de verlaging van het eigen risico slechts tot een voordeel van maximaal € 220 per jaar leidt;</al>
+            </al-groep>
+            <al>verzoekt de regering om voor het restant van de dekking de verlaging van het eigen risico terug te draaien,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vijlbrief</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

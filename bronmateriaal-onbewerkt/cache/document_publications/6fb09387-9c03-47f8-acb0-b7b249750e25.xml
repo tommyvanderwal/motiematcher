@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31985-105"/>
+      <meta name="OVERHEIDop.ondernummer" content="105"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31985"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Dassen c.s. over verkennen hoe een Europese digitale dienstenbelasting als alternatief voor pijler 1 van het OESO-verdrag kan worden ingevoerd (t.v.v. 31985-88)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.H. Hirsch"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Buitenlands beleid en handelspolitiek"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-03"/>
+      <meta name="DC.title" scheme="" content="Buitenlands beleid en handelspolitiek; Motie (gewijzigd/nader); Gewijzigde motie van het lid Dassen c.s. over verkennen hoe een Europese digitale dienstenbelasting als alternatief voor pijler 1 van het OESO-verdrag kan worden ingevoerd (t.v.v. 31985-88)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Handel"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Internationale samenwerking"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 985</dossiernr>
+         </dossiernummer>
+         <titel>Buitenlands beleid en handelspolitiek</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">105</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID DASSEN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 88</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-03">3 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Europese Unie (EU) een handelstekort van 109 miljard euro heeft met de Verenigde Staten op het gebied van digitale diensten;</al>
+                  <al>overwegende dat de EU een grote afzetmarkt is voor de Amerikaanse techbedrijven, die momenteel veel invloed hebben op het Trumpkabinet;</al>
+                  <al>overwegende dat een Europese digitale dienstenbelasting gericht moet zijn op techbedrijven die in feite omzet genereren binnen de EU maar onder het huidige belastingstelsel binnen de EU niet of nauwelijks in de belastingheffing worden betrokken,</al>
+                  <al>verzoekt de regering te verkennen hoe een Europese digitale dienstenbelasting als alternatief voor pijler 1 van het OESO-verdrag kan worden ingevoerd en hierin ook het voorkomen van dubbele belastingen mee te nemen, de afbakening en de concurrentiepositie.</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dassen</al>
+                     <al>Hirsch</al>
+                     <al>Paternotte</al>
+                     <al>Grinwis</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-469/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">469</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRÖGER EN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-27">27 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in verschillende gemeentes pogingen worden ondernomen voor het oprichten van lokale energiebedrijven;</al>
+            <al>overwegende dat dit een goede manier is om de regierol van gemeentes te versterken en daarmee de lokale democratische zeggenschap over de energievoorziening te vergroten;</al>
+            <al>overwegende dat gemeentes daarbij aanlopen tegen juridische en andere bezwaren;</al>
+            <al>verzoekt de regering om, in overleg met gemeentes waar dit nu speelt, in kaart te brengen welke obstakels er zijn voor het oprichten van lokale energiebedrijven en voorstellen naar de Kamer te sturen waarmee zulke lokale bedrijven gestimuleerd kunnen worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kröger</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36279-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 279</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet experiment gesloten coffeeshopketen in verband met de toevoeging van een elfde gemeente aan het experiment</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het uitvoeren van het experiment gesloten coffeeshopketen volgens de regering juridisch en praktisch onverenigbaar is met de invoering van het initiatiefvoorstel Wet gesloten coffeeshopketen (<dossierref dossier="34165">34 165</dossierref>);</al>
+            <al>overwegende dat het aan de Tweede Kamer is om na afronding van het experiment te besluiten over eventuele wetgeving;</al>
+            <al>constaterende dat de Tweede Kamer, conform artikel 86 van de Grondwet, formeel indiener is van het wetsvoorstel, en het ook mag intrekken;</al>
+            <al>besluit dat het voorstel Wet gesloten coffeeshopketen (<dossierref dossier="34165">34 165</dossierref>) dient te worden ingetrokken;</al>
+            <al>verzoekt de Voorzitter de Eerste Kamer te berichten dat het voorstel Wet gesloten coffeeshopketen (<dossierref dossier="34165">34 165</dossierref>) is ingetrokken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Diederik van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

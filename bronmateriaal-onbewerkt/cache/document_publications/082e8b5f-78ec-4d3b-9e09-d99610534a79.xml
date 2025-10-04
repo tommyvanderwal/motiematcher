@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1041/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1041</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet voornemens is om de Regeling tijdelijk verlaten van de inrichting (Rtvi) te wijzigen om bepaalde gedetineerden tot veertien dagen voor het einde van hun detentie heen te kunnen zenden zonder dat deze nadere voorwaarden hoeven na te leven en dat de Staatssecretaris zelfs al aan DJI en CJIB heeft gevraagd om vooruitlopend hierop dienovereenkomstig te handelen;</al>
+            <al>overwegende dat de reclasseringsorganisaties hebben voorgesteld om hier wel voorwaarden, zoals een meldplicht, aan te verbinden;</al>
+            <al-groep>
+              <al>verzoekt de regering om de Rtvi in plaats van conform het huidige voornemen van heenzending zonder bijzondere voorwaarden zodanig te wijzigen dat aan dergelijke heenzendingen wel bijzondere voorwaarden</al>
+              <al>gesteld dienen te worden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Van Nispen</al>
+              <al>Boswijk</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

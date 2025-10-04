@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29389-130/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 389</dossiernr>
+      </dossiernummer>
+      <titel>Vergrijzing en het integrale ouderenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">130</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Henk Geene een boek heeft geschreven over voorzorgcirkels;</al>
+            <al>constaterende dat voorzorgcirkels kleinschalige, laagdrempelige, informele verbanden zijn van acht tot veertien ouderen, familieleden, jongeren, vrijwilligers of buren, altijd op loop- of fietsafstand, op eigen initiatief, met eigen regie, met commitment naar elkaar;</al>
+            <al>constaterende dat er mooie resultaten worden behaald, zoals onderlinge verbondenheid, minder eenzaamheid en afname van de druk op de directe, vaak zwaar belaste mantelzorger, en dat hiermee de druk op de formele zorg verminderd kan worden;</al>
+            <al>overwegende dat Henk Geene de ontwikkeling van de voorzorgcirkels heeft overgedragen aan Nederland Zorgt Voor Elkaar en een samenwerking is aangegaan met een zorgverzekeraar;</al>
+            <al>verzoekt de regering deze oplossingsrichting te omarmen, om landelijk voorzorgcirkels te stimuleren en door heel Nederland mede mogelijk te maken in regionale samenwerkingsverbanden, bijvoorbeeld met brancheverenigingen van senioren, Nederland Zorgt Voor Elkaar, IZA-regio's of andere samenwerkingsverbanden als met zorgverzekeraars en/of zorgkantoren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

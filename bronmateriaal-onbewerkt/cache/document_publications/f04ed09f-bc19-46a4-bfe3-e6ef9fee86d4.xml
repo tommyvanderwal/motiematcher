@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29544-1266/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 544</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1266</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VIJLBRIEF EN PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor veel werkende ouders de kosten van de kinderopvang torenhoog zijn en vaak een belemmering vormen om (meer) te gaan werken;</al>
+            <al>constaterende dat het kabinet recent een wet heeft ingediend om een lastenverzwaring door te voeren in de kinderopvang door het maximumuurtarief niet te indexeren, wat een besparing oplopend naar 254 miljoen oplevert maar de kinderopvang voor werkende ouders duurder maakt;</al>
+            <al>overwegende dat werken moet lonen en meer werken gestimuleerd moet worden in plaats van bestraft;</al>
+            <al>verzoekt de regering om bij de voorjaarsbesluitvorming de geplande lastenverzwaring op de kinderopvang te schrappen en alternatieve dekking te zoeken in het afbouwen van ineffectieve en negatief geëvalueerde fiscale regelingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vijlbrief</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

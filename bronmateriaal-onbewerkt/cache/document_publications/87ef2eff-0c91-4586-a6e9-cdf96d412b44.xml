@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32820-547"/>
+      <meta name="OVERHEIDop.ondernummer" content="547"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32820"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Beckerman c.s. over het tweede scenario van RCE inzake het Palmhoutwrak verder uitwerken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe visie cultuurbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Nieuwe visie cultuurbeleid; Motie; Motie van het lid Beckerman c.s. over het tweede scenario van RCE inzake het Palmhoutwrak verder uitwerken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Cultuur"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 820</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe visie cultuurbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">547</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BECKERMAN C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat Nederland uniek maritiem erfgoed kent waaronder het Palmhoutwrak en andere wrakken op de rede van Texel;</al>
+                  <al>constaterende dat onbekend onbemind maakt en deze wrakken voor een tweede keer kunnen vergaan door verstoring door mens en natuur;</al>
+                  <al>voorts constaterende dat de RCE in een rapport met de titel «De BZN17 op koers!» vier scenario's schetst hoe om te gaan met het Palmhoutwrak, te weten (0) het wrak opgeven, (1) het wrak in situ behouden, en (2) en (3) het wrak opgraven met een kortere of langere doorlooptijd;</al>
+                  <al>spreekt uit dat opgraven van een van de wrakken van de rede van Texel met een lange doorlooptijd (scenario 2) wenselijk is, dat hier groot draagvlak voor is en dat opgraven kan zorgen voor kenniswinst, spin-off heeft richting het publiek en zorgt voor de verbetering van de maritieme archeologie;</al>
+                  <al>verzoekt de regering dit scenario, in samenwerking met de RCE, overheden en anderen, verder uit te werken, en hierover medio 2026 aan de Kamer te rapporteren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Beckerman</al>
+                     <al>Mohandis</al>
+                     <al>Krul</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

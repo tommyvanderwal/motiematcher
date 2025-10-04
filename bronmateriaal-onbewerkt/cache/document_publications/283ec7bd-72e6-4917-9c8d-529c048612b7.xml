@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31793-262/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 793</dossiernr>
+      </dossiernummer>
+      <titel>Internationale klimaatafspraken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">262</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat CCS een belangrijke poot is in het EU-klimaatdoel 2040;</al>
+            <al>constaterende dat er weinig landen in de EU zijn waar offshore CCS mogelijk is en er weinig draagvlak is onder de bevolking voor CCS-opslag op land;</al>
+            <al>constaterende dat we terughoudend moeten zijn met CCS om een carbon lock-in te voorkomen;</al>
+            <al>constaterende dat Nederland een van de weinige landen is waar CCS in grote schaal in de Noordzee kan plaatsvinden;</al>
+            <al>overwegende dat de kans groot is dat Nederland een grote rol moet vervullen in de realisatie van dit specifieke onderdeel van het EU-klimaatdoel 2040;</al>
+            <al>overwegende dat de impact van CCS voor Nederland groter zal zijn dan voor andere Europese landen;</al>
+            <al>verzoekt de regering een strategie te ontwikkelen voor de inzet van Nederland als het gaat om CCS in relatie tot deze EU-mededeling en deze voor te leggen</al>
+            <al>en te bespreken met de Tweede Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

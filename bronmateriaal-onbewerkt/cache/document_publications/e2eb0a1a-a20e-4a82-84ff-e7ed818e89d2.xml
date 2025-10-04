@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-552/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">552</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-07-04">4 juli 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bepaalde gebieden op basis van gedateerde gegevens ten onrechte zijn aangewezen als door nutriënten verontreinigde (NV-)gebieden, zoals in de waterschappen Noorderzijlvest en Amstel, Gooi en Vecht, aangezien is aangetoond dat de bijdrage van de landbouw aan de nutriëntenverontreiniging daar minder is dan 19%;</al>
+            <al>overwegende dat er momenteel een actualisatie van de cijfers plaatsvindt, waarbij het aandeel van de landbouw in de nutriëntenbelasting herijkt wordt;</al>
+            <al>verzoekt de regering met de grootst mogelijke spoed op basis van de geactualiseerde bronnenanalyses gebieden waar de landbouw 19% of minder aan de nutriëntenbelasting bijdraagt niet langer aan te wijzen als NV-gebied,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

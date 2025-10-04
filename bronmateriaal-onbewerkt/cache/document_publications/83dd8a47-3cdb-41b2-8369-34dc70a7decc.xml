@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29754-769"/>
+      <meta name="OVERHEIDop.ondernummer" content="769"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29754"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Van Nispen en Ellian over in de Wet op de medische keuringen verduidelijken dat psychologische vragen gesteld door een psycholoog geen medische vragen zijn (t.v.v. 29754-767)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="U. Ellian"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Terrorismebestrijding"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Terrorismebestrijding; Motie (gewijzigd/nader); Gewijzigde motie van de leden Van Nispen en Ellian over in de Wet op de medische keuringen verduidelijken dat psychologische vragen gesteld door een psycholoog geen medische vragen zijn (t.v.v. 29754-767)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Terrorisme"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 754</dossiernr>
+         </dossiernummer>
+         <titel>Terrorismebestrijding</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">769</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN VAN NISPEN EN ELLIAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 767</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende, dat het Nederlands Instituut van Psychologen (NIP) een urgent knelpunt bij de selectie van personen in wapendragende beroepen, zoals bij de politie, maar ook de FIOD, DJI, douane en defensie onder de aandacht heeft gebracht, dat tot op heden niet is opgelost;</al>
+                  <al>overwegende, dat het een probleem is dat de noodzakelijke vragen over bijvoorbeeld contra-indicaties voor het dragen van een wapen, die selectiepsychologen stellen aan degene die een wapendragend beroep gaat uitoefenen, op grond van een verkeerde interpretatie van de Wet op de Medische Keuringen (WMK) ten onrechte worden gezien als «medische gezondheidsvragen», die volgens de wet niet gesteld mogen worden, hetgeen tot klachten leidt en het werk belemmert van psychologen en de wapendragende beroepen;</al>
+                  <al-groep>
+                     <al>overwegende, dat de hinder naar verwachting de komende tijd zal toenemen door de</al>
+                     <al>groeiende vraag naar bijvoorbeeld defensie- en politiepersoneel;</al>
+                  </al-groep>
+                  <al>overwegende, dat dit probleem met een beperkte tekstuele verduidelijking in de WMK kan worden opgelost;</al>
+                  <al>verzoekt de regering te zorgen voor een verduidelijking van de WMK dat psychologische vragen gesteld door een psycholoog geen medische vragen zijn en dit zo spoedig mogelijk voor alle wapendragende beroepen te regelen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Nispen</al>
+                     <al>Ellian</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

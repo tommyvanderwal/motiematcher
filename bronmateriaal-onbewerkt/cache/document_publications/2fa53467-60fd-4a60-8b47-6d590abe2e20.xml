@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29502-205"/>
+      <meta name="OVERHEIDop.ondernummer" content="205"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29502"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Vermeer en Kisteman over het schrappen van de vijfjarige afbouw van de toegangstarieven"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Kisteman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector; Motie; Motie van de leden Vermeer en Kisteman over het schrappen van de vijfjarige afbouw van de toegangstarieven"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 502</dossiernr>
+         </dossiernummer>
+         <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">205</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VERMEER EN KISTEMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de huidige nota van wijziging in de Postwet 2009 voorziet in een stapsgewijze afbouw van de toegangstarieven tot het landelijk dekkende postnetwerk binnen vijf jaar;</al>
+                  <al>overwegende dat deze afbouw ertoe leidt dat regionale postbedrijven en sociale werkbedrijven na verloop van tijd geen wettelijk voorgeschreven korting meer hebben tot het netwerk van PostNL, terwijl hun continuïteit juist afhankelijk is van die toegang;</al>
+                  <al>overwegende dat effectieve en langdurige toegangsregulering nodig is om concurrentie, werkgelegenheid, waaronder circa 4.500 werknemers met een afstand tot de arbeidsmarkt, en een gezond postlandschap te waarborgen;</al>
+                  <al>van mening dat de Autoriteit Consument &amp; Markt periodiek moet kunnen toetsen of de toegangsvoorwaarden nog passend zijn, en zo nodig aanwijzingen kan aanpassen of verlengen;</al>
+                  <al>verzoekt de regering het in de nota van wijziging opgenomen artikel dat voorziet in de vijfjarige afbouw van de toegangstarieven te schrappen, en te borgen dat structureel, voor de lange termijn, toegang tot het netwerk wettelijk gewaarborgd blijft onder toezicht van de ACM,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Vermeer</al>
+                     <al>Kisteman</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

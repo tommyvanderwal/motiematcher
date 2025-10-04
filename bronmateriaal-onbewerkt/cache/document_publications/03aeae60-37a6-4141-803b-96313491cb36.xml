@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36561-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 561</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Zorgverzekeringswet in verband met het bevorderen van zorgcontractering</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zorgverzekeraars uiterlijk op 12 november 2024 hun polissen en de zorgpremies voor het jaar 2025 bekend moesten maken;</al>
+            <al>constaterende dat op 12 november 2024 slechts 41% van de zorgaanbieders daadwerkelijk gecontracteerd is voor het jaar 2025 en dat het zorgverzekeraars en ziekenhuizen dus net als voorgaande jaren weer niet is gelukt om de onderhandelingen uiterlijk 12 november af te ronden;</al>
+            <al>constaterende dat deze vertragingen onzekerheid veroorzaken voor patiënten over de toegankelijkheid en kosten van zorg, alsmede over de mogelijkheid om over te stappen naar een andere zorgverzekeraar;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zich in te spannen om zorgverzekeraars te stimuleren om, gedifferentieerd naar sector en aanbieder, variabele meerjarencontracten van vijf tot zeven jaar af te sluiten met partners die de regionale transformatie vormgeven;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>erop toe te zien dat er in 2025 een centrale bron met contractinformatie over de hele breedte van de zorg wordt opgeleverd;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zorgverzekeraars daarnaast te verplichten regelmatig de Kamer en verzekerden, in samenwerking met patiëntenorganisaties, te informeren over de voortgang van de contractonderhandelingen, zodat transparantie wordt gewaarborgd en zorgverzekeraars meer verantwoordelijkheid nemen voor het tijdig afronden van de onderhandelingen,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

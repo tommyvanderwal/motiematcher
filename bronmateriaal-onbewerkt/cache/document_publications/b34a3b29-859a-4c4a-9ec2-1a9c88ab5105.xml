@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-772/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">772</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DANIËLLE JANSEN EN TIELEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 763</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de kosten van preventie duidelijk zijn, maar de baten ervan op langere termijn liggen;</al>
+            <al>overwegende dat tweejaarlijks inzicht in de kosten en baten van preventie kan helpen bij het prioriteren van interventies die de grootste impact hebben op de volksgezondheid en op het verminderen van sociaaleconomische gezondheidsverschillen tegen de laagste kosten;</al>
+            <al>verzoekt het kabinet om met ingang van 2025 tweejaarlijks de inzichten over kosten en baten van verschillende vormen van gezondheidsbevordering systematisch (per beleidsterrein) te bundelen, dit mee te nemen in het instrumentarium dat sowieso ontwikkeld wordt en hierover te rapporteren aan de Tweede Kamer,</al>
+            <al>en gaat over tot de orde van de dag</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

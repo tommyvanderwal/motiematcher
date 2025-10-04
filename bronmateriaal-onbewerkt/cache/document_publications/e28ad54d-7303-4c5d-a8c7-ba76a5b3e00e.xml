@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1268/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1268</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat dit jaar de Nederlandse Digitaliseringsstrategie (NDS), die zich richt op overheidsbrede opgaven op het gebied van digitalisering, gereed moet zijn;</al>
+            <al>constaterende dat diverse aandachtspunten worden uitgewerkt in een nog te verschijnen herziening van het cloudbeleid;</al>
+            <al>overwegende dat heldere kaders met betrekking tot cloudsoevereiniteit nu vaak ontbreken;</al>
+            <al>verzoekt de regering in de Nederlandse Digitaliseringsstrategie en in de nog te verschijnen herziening duidelijke definities op te nemen van wat bedoeld wordt met soevereiniteit en welke voorwaarden daaraan worden gesteld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

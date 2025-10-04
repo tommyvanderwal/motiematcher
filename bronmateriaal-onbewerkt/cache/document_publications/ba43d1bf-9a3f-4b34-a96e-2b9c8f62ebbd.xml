@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31311-287"/>
+      <meta name="OVERHEIDop.ondernummer" content="287"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31311"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Flach c.s. over de Kamer elk kwartaal informeren over de in- en uitstroom van werkenden in zorg en welzijn"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A. Aartsen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.G.F. Rikkers-Oosterkamp"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Zelfstandig ondernemerschap"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-20"/>
+      <meta name="DC.title" scheme="" content="Zelfstandig ondernemerschap; Motie; Motie van het lid Flach c.s. over de Kamer elk kwartaal informeren over de in- en uitstroom van werkenden in zorg en welzijn"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Ondernemen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 311</dossiernr>
+         </dossiernummer>
+         <titel>Zelfstandig ondernemerschap</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">287</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-20">20 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat opheffing van het handhavingsmoratorium ertoe heeft geleid dat op bepaalde plekken in de zorg- en welzijnssector grote druk is ontstaan doordat zorgpersoneel niet meer ingezet kon worden;</al>
+                  <al>constaterende dat de regering verwacht dat de voordelen van de opheffing van het handhavingsmoratorium zullen opwegen tegen de situatie van voor 1 januari 2025;</al>
+                  <al>verzoekt de regering de ontwikkelingen nauwgezet te blijven volgen, de Kamer elk kwartaal te informeren over de in- en uitstroom van werkenden in de zorg- en welzijnssector, en indien nodig niet te schromen aanvullende maatregelen te treffen om te voorkomen dat de zorg verder verschraalt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Flach</al>
+                     <al>Diederik van Dijk</al>
+                     <al>Rikkers-Oosterkamp</al>
+                     <al>Aartsen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

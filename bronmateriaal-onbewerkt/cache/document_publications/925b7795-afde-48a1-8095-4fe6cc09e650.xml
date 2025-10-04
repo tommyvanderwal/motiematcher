@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36441-25/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 441</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Gaswet en Mijnbouwwet in verband met de beëindiging van de gaswinning uit het Groningenveld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">25</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-06">6 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Warffum en Marum blootstaan aan aardbevingen en verzakkingen die het gevolg zijn van gaswinning, ook uit het Groningenveld;</al>
+            <al>overwegende dat Warffum en Marum in zowel de Overeenkomst van Samenwerking uit 1963 (OvS) als in het Besluit concessie Groningen 1963 worden genoemd;</al>
+            <al>verzoekt de regering Warffum en Marum als onderdeel van het Groningenveld te zien en de rechten die daaraan gebonden zijn te respecteren;</al>
+            <al>verzoekt de regering de gaswinning uit het Warffumveld en Marumveld gelijktijdig met het Groningenveld te stoppen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Bushoff</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

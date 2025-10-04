@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-26419-113"/>
+      <meta name="OVERHEIDop.ondernummer" content="113"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="26419"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kisteman over direct starten met de evaluatie van de Winkeltijdenwet"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Kisteman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toerisme en recreatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Toerisme en recreatie; Motie; Motie van het lid Kisteman over direct starten met de evaluatie van de Winkeltijdenwet"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Recreatie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Toerisme"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>26 419</dossiernr>
+         </dossiernummer>
+         <titel>Toerisme en recreatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">113</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KISTEMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat er een evaluatie wordt gedaan van de Winkeltijdenwet en de recente wetswijziging van de Winkeltijdenwet;</al>
+                  <al>verzoekt de regering de evaluatie naar voren te halen en per direct te starten, opdat de uitkomsten in het voorjaar van 2026 opgeleverd kunnen worden;</al>
+                  <al>verzoekt de regering tevens in kaart te brengen hoe de Winkeltijdenwet zo aangepast kan worden dat ondernemers zelf mogen bepalen of zij op zondag open zijn, en deze analyse voor de begrotingsbehandeling naar de Kamer te sturen;</al>
+                  <al>verzoekt de regering na ommekomst van de evaluatie-uitkomsten, en indien daarin voldoende aanknopingspunten worden geboden, een besluit hierover te nemen en dit wetsvoorstel aan de Kamer voor te leggen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Kisteman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

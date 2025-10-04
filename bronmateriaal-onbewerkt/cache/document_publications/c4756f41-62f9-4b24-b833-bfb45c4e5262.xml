@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36496-66/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 496</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet goed verhuurderschap, Boek 7 van het Burgerlijk Wetboek, de Uitvoeringswet huurprijzen woonruimte en enige andere wetten in verband met de regulering van huurprijzen en de bescherming van rechten van huurders (Wet betaalbare huur)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">66</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MADLENER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-24">24 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat veel verhuurders van woningen welke onder het woningwaarderingsstelsel tussen 146 en 186 punten vallen, hun woningen dreigen te zullen verkopen vanwege te lage rendementen;</al>
+            <al>overwegende dat er grote lokale verschillen zijn in woningprijzen, draagkracht bij huurders en redelijke huurprijzen;</al>
+            <al>verzoekt de regering het woningwaarderingsstelsel te monitoren en indien nodig zodanig aan te passen dat regionale verschillen in woningwaarde en huurprijzen voldoende waarborg bieden voor een redelijk rendement op investeringen en zodoende het aantal huurwoningen in deze huurcategorie op peil blijft,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Madlener</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

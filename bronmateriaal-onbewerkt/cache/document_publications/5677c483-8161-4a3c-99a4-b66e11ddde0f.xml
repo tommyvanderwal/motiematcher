@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27879-99/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 879</dossiernr>
+      </dossiernummer>
+      <titel>Versterking van de positie van de consument</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">99</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN INGE VAN DIJK EN ZEEDIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemeenten verschillende instrumenten hebben om opdrachten in het sociaal domein uit te besteden aan aanbieders, zoals inkoop via aanbesteden, open house of subsidies;</al>
+            <al>overwegende dat lokale initiatieven hierbij vaak aan het kortste eind trekken, bijvoorbeeld vanwege administratieve lasten of schaalvoordelen van commerciële aanbieders, terwijl zij door hun wortels in de gemeenschap vaak zeer effectief zijn in het aanpakken van maatschappelijke problemen;</al>
+            <al>overwegende dat de Minister heeft aangegeven dat zij met name wil inzetten op het versterken van de dialoog met gemeenten via het programma Beter Aanbesteden;</al>
+            <al>verzoekt de regering in samenwerking met de VNG te onderzoeken hoe lokale partijen die geworteld zijn in een gemeenschap, zoals buurtinitiatieven of -coöperaties, een sterkere positie kunnen krijgen bij het meedingen naar gemeentelijke opdrachten;</al>
+            <al>verzoekt de regering daarbij nadrukkelijk mee te nemen of aanpassing of vereenvoudiging van de wettelijke kaders wenselijk is en hoe administratieve lasten verminderd kunnen worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Zeedijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

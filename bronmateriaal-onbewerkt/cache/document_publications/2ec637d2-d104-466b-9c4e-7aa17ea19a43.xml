@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-743/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">743</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KEIJZER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de dalende vaccinatiegraad versterkt en verdiept is sinds de coronatijd;</al>
+            <al>overwegende dat het adresseren van de redenen waarom dit zo is in het kader van het Rijksvaccinatieprogramma belangrijk is;</al>
+            <al>verzoekt de regering kwalitatief onderzoek te doen naar de vraag of de dwang en drang met betrekking tot het coronavaccinatieprogramma tijdens de coronatijd redenen zijn waarom mensen nu afzien van deelname aan het Rijksvaccinatieprogramma,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Keijzer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31289-575/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 289</dossiernr>
+      </dossiernummer>
+      <titel>Voortgezet Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">575</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de tijdelijke commissie Uitvoeringsorganisaties heeft geconcludeerd dat de Kamer een blinde vlek heeft voor de uitvoering (<extref doc="kst-35387-2" soort="document" status="actief">35 387, nr. 2</extref>);</al>
+            <al>overwegende dat genoeg voeling met de uitvoeringspraktijk om beleid te maken dat uitvoerbaar is, van groot belang is en de commissie daarvoor nadrukkelijk verder kijkt dan uitvoeringstoetsen en bijvoorbeeld wijst op het belang van direct contact tussen Kamerleden en medewerkers van uitvoeringsorganisaties;</al>
+            <al>overwegende dat de onderwijsinspectie, die verantwoordelijk zou worden voor de uitvoering van het toezicht op informeel onderwijs, ernstige zorgen over deze voorgenomen taak heeft geuit in de media en bij de Minister, maar dat er van direct contact tussen inspectie en Kamer geen sprake is geweest;</al>
+            <al>overwegende dat vroegtijdige betrokkenheid van de Kamer bij de totstandkoming van nieuwe wetgeving van belang is, zoals geadviseerd door de werkgroep versterking functies Tweede Kamer;</al>
+            <al>verzoekt de regering om aan de onderwijsinspectie de wens van de Kamer over te brengen om op korte termijn van haar een brief te ontvangen over haar visie op de voorgestelde rol van de inspectie bij het toezicht op informeel onderwijs,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Krul</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

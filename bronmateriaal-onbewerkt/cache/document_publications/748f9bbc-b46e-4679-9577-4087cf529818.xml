@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2803/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2803</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BREKELMANS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Hamas op 7 oktober grote aantallen onschuldige Israëlische burgers heeft gedood;</al>
+            <al>overwegende dat Hamas nog steeds Israëlische burgers gegijzeld houdt en raketaanvallen op burgerdoelen uitvoert;</al>
+            <al>constaterende dat de organisatie Hamas op de EU-terreurlijst staat maar leiders en kaderleden van de organisatie nauwelijks op terreur- of sanctielijsten voorkomen;</al>
+            <al>constaterende dat bij organisaties als de Iraanse Revolutionaire Garde wel een substantieel aantal leden op sanctielijsten is geplaatst;</al>
+            <al>verzoekt het kabinet zich er in Europees verband voor in te zetten dat alle (politieke en militaire) topfiguren en zo veel mogelijk kaderleden die betrokken zijn bij met name de gevechtsoperaties en financiering van Hamas op de terreurlijst of sanctielijst worden geplaatst,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Brekelmans</al>
+              <al>Ceder</al>
+              <al>Boswijk</al>
+              <al>Tuinman</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

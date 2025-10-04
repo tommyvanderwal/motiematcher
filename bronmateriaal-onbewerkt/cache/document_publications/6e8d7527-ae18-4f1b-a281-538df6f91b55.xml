@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28638-245/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 638</dossiernr>
+      </dossiernummer>
+      <titel>Mensenhandel </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">245</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Eindhovense inloophuis voor mannelijke prostitués House of Inner Strength (HIS) vanwege een gebrek aan financiering met sluiting wordt bedreigd;</al>
+            <al>constaterende dat het HIS als enige in Nederland in deze vorm van hulpverlening voor deze kwetsbare groep jongeren geeft;</al>
+            <al>van mening dat er een adequate landelijke voorziening moet zijn om deze groep te kunnen helpen;</al>
+            <al>van mening dat dit inloophuis past binnen van een van de strategische doelen van het actieplan;</al>
+            <al>verzoekt de regering om met de betrokken gemeenten en de VNG te overleggen over op welke wijze de continuering van dit inloophuis kan worden gegarandeerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mutluer</al>
+              <al>Van Nispen</al>
+              <al>Bikker</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

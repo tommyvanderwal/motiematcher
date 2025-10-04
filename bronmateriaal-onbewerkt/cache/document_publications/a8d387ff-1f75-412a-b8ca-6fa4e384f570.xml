@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-IV-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+        <begrotingshoofdstuk>IV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Jaarverslag en slotwet Koninkrijksrelaties en het BES-fonds 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WHITE EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zowel de drie eilanden van Caribisch Nederland als de drie autonome landen Curaçao, Aruba en Sint Maarten als zogenaamde «landen en gebieden overzee (LGO)» verbonden zijn aan de Europese Unie en derhalve geen deel uitmaken van de EU;</al>
+            <al>constaterende dat vrijwel alle Franse Caribische gebiedsdelen daarentegen gelden als ultraperifeer gebied (UPG) van de Europese Unie;</al>
+            <al>constaterende dat deze status niet in steen gebeiteld is, een Frans eiland onlangs gewisseld is en het rapport-Wuite/Kamminga zowel de uitdaging qua wetgeving als de economische voordelen beschrijft;</al>
+            <al>overwegende dat voor de toegang tot fondsen, het investeringsklimaat en daarmee de economische ontwikkeling van de eilanden het behoren tot de Europese Unie een groot verschil kan maken;</al>
+            <al>spreekt uit dat de Caribische eilanden van het Koninkrijk welkom zijn om, mits zij voldoen aan de voorwaarden, deel uit te gaan maken van de Europese Unie als UPG;</al>
+            <al>verzoekt de regering om samen met de drie BES-eilanden een analyse te maken van de voordelen en benodigde stappen van het omzetten van de LGO-status naar UPG en deze analyse begin 2025 aan de Kamer en de eilandraden te doen toekomen;</al>
+            <al>verzoekt de regering voorts om, op verzoek van de drie landen, bijstand te verlenen in het maken van een kosten- en batenanalyse van het toetreden tot de UPG van de Europese Unie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>White</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

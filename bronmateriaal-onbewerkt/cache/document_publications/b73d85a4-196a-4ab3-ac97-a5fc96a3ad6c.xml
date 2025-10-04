@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1221/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1221</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat vooral gemeenten met weinig sociale huurwoningen ook nauwelijks sociale huurwoningen bij bouwen;</al>
+            <al>overwegende dat CBS-cijfers laten zien dat in slechts 51 van de 342 gemeenten minstens 30% van de nieuwbouw een corporatiewoning was, dit percentage in de rest van de gemeenten veel lager was en 108 gemeenten 10% of minder van de nieuwbouwwoningen laten bouwen door corporaties;</al>
+            <al>constaterende dat we zonder voldoende sociale huurwoningen niet uit de wooncrisis gaan komen;</al>
+            <al>verzoekt de regering te borgen dat ten minste 30% van de nieuwbouw sociale huur moet zijn en ook gemeenten met een laag percentage sociale huur hun rechtvaardig deel moeten doen, en de Kamer te informeren over welke instrumenten ze hiervoor wil inzetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

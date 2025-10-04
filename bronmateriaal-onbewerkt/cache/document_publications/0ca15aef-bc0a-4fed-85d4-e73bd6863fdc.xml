@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1231/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1231</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VIJLBRIEF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel nieuwbouwprojecten vertraagd worden door lange gerechtelijke procedures;</al>
+            <al>constaterende dat aspirant-kopers geen partij kunnen zijn in gerechtelijke procedures over nieuwbouwprojecten;</al>
+            <al>overwegende dat de stem en de belangen van aspirant-kopers te weinig kunnen worden meegewogen in gerechtelijke procedures;</al>
+            <al>overwegende dat de zachte stem van woningzoekenden beter gehoord en versterkt moet worden;</al>
+            <al>overwegende dat dit niet moet leiden tot langere procedures;</al>
+            <al>verzoekt de regering in kaart te brengen hoe de belangen van aspirant-kopers vertegenwoordigd kunnen worden in bestuursrechtelijke procedures over nieuwbouwprojecten, bijvoorbeeld als derde belanghebbende, wanneer zij een koop-/aannemingsovereenkomst hebben gesloten, en de Kamer hier op korte termijn over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vijlbrief</al>
+              <al>Peter de Groot</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

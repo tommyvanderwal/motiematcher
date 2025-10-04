@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-599/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">599</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID WESTERVELD C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 598</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-13">13 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat leerlingen die hun entreeopleiding volgen via het praktijkonderwijs niet altijd examen kunnen doen in de gewenste afstudeerrichting omdat de mbo-instelling in de regio dit bijvoorbeeld niet aanbiedt;</al>
+            <al>constaterende dat dit voor ongelijkheid zorgt, terwijl juist een diploma van de entreeopleiding voor deze leerlingen de kansen op de arbeidsmarkt of bij een vervolgopleiding vergroot;</al>
+            <al>constaterende dat dit om een kleine groep leerlingen gaat voor wie maatwerk belangrijk is;</al>
+            <al>verzoekt de regering in het wetsvoorstel dat nu in voorbereiding is over de samenwerking tussen het praktijkonderwijs en de entreeopleiding op te nemen dat een bekostigde praktijkonderwijsschool in uitzonderingsgevallen en onder bepaalde voorwaarden voor de examinering en diplomering mag samenwerken met een niet-bekostigde mbo-instelling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Ceder</al>
+              <al>Paternotte</al>
+              <al>De Kort</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

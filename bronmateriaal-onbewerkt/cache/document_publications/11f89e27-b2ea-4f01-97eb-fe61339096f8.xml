@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35746-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 746</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-03-11">11 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een meerderheid van de Kamer de transitie naar een dierwaardige veehouderij steunt, zoals onder meer blijkt uit aangenomen moties over het stoppen met medisch niet-noodzakelijke ingrepen bij dieren, over het werken met tussendoelen in deze transitie, en over het overgaan tot dierwaardige veehouderij;</al>
+            <al>overwegende dat de algemene maatregel van bestuur, waarvoor de nota van wijziging bij de Wet dieren de grondslag in het leven roept, nog concreet ingevuld moet worden;</al>
+            <al>constaterende dat de partijen die onderhandelen over het convenant dierwaardige veehouderij het al vergaand eens zijn geworden over de benodigde maatregelen om tot een dierwaardige veehouderij te komen;</al>
+            <al>verzoekt de regering alle noodzakelijke voorbereidingen te treffen om het convenant doorgang te kunnen laten vinden, inclusief de voorbereidingen voor het benodigde flankerende beleid om de transitie naar dierwaardige veehouderij te ondersteunen, zodat binnen het convenant de randvoorwaarden om de doelen te bereiken kunnen worden gedefinieerd en er afspraken over verantwoordelijkheden van alle betrokken partijen kunnen worden gemaakt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

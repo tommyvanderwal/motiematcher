@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30175-466/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 175</dossiernr>
+      </dossiernummer>
+      <titel>Luchtkwaliteit</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">466</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WINGELAAR EN GABRIËLS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er grote onrust is in Zuid-Limburg over het gebruik van Beaumix bij de verbreding van de A2;</al>
+            <al>overwegende dat in Katwijk de toepassing van Beaumix heeft geleid tot problemen met vervuild drainagewater;</al>
+            <al>overwegende dat onder provinciale wegen in Limburg Beaumix niet is toegestaan;</al>
+            <al>overwegende dat onder de huidige bodemregelgeving Beaumix wel is toegestaan;</al>
+            <al>verzoekt de regering te bezien of bodemregelgeving aangescherpt moet worden ten aanzien van het gebruik van Beaumix,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Wingelaar</al>
+              <al>Gabriëls</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

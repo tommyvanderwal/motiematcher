@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1131/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1131</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zo'n 2.000 Chinese studenten in Nederland een PhD-traject bekostigd vanuit een CSC-beurs doen;</al>
+            <al>constaterende dat in contracten van CSC die deze studenten moeten ondertekenen, verplichtingen staan als het steunen van de Communistische Partij, het niet ontplooien van activiteiten die tegen de belangen van China ingaan, gehoorzaamheid aan de leiding vanuit de Chinese ambassade en het regelmatig rapporteren aan de Chinese ambassade;</al>
+            <al>constaterende dat deze onderzoekers verplicht een sponsor hebben die China niet langdurig mag verlaten;</al>
+            <al>overwegende dat een deel van deze studenten in aanraking komt met gevoelige kennis en China deze kennis actief probeert te bemachtigen;</al>
+            <al>overwegende dat er daarmee een zeer groot en reëel risico is dat deze Chinese onderzoekers onder druk worden gezet om gevoelige kennis te delen;</al>
+            <al>verzoekt de regering in overleg met kennisinstellingen te treden zodat er geen nieuwe PhD-studenten met een CSC-beurs worden toegelaten tot gevoelige onderzoeksgebieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Martens-America</al>
+              <al>Brekelmans</al>
+              <al>Hertzberger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

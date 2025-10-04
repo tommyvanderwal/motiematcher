@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36443-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 443</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet voortgezet onderwijs 2020, de Wet op de expertisecentra en de Wet medezeggenschap op scholen in verband met het versterken van de positie van leerlingen die extra ondersteuning behoeven en hun ouders (Wet versterking positie ouders en leerlingen in het passend onderwijs)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jaarlijks 1.600 mensen met een beperking uitstromen van het voortgezet onderwijs naar de dagbesteding;</al>
+            <al>constaterende dat er voor deze mensen geen regelingen zijn om een vervolgopleiding te doen;</al>
+            <al>verzoekt de regering te verkennen hoe opleidingen op maat te financieren, zoals de brancheopleidingen Assistent Groen en Assistent Facilitair, zodat mensen die het speciaal voortgezet onderwijs afronden zich kunnen doorontwikkelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

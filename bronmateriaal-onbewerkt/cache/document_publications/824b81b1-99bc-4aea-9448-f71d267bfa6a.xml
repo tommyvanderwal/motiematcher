@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2115/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2115</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de VN-Veiligheidsraad in 2006 resolutie 1701 heeft aangenomen, die Hezbollah oproept alle aanvallen te staken en Israël oproept alle militaire operaties te beëindigen, tot terugtrekking van alle gewapende groepen behalve die van de Libanese regering uit het gebied ten zuiden van de Litanirivier;</al>
+            <al>constaterende dat Hezbollah de aanvallen sindsdien niet gestaakt heeft, de Libanese regering niet als enige gewapende macht aanwezig is in het gebied naast UNIFIL en het Israëlische leger inmiddels een offensief is begonnen;</al>
+            <al>overwegende dat de burgerbevolking hiervan zeer te lijden heeft;</al>
+            <al>verzoekt de regering om op de komende Europese topontmoeting te pleiten voor een oproep namens de Europese Raad om een volledige implementatie van VN-Veiligheidsraadresolutie 1701, en daarvoor indien nodig de benodigde steun aan te bieden om dat doel te verwezenlijken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van Campen</al>
+              <al>Diederik van Dijk</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

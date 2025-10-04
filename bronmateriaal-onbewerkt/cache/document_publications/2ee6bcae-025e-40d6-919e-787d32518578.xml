@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-894/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">894</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat sinds 1 juli 2024 straatintimidatie strafbaar is gesteld en de eerste veroordelingen daarvan een feit zijn;</al>
+            <al>constaterende dat de strafrechtketen al meerdere jaren te maken heeft met capaciteitstekorten en te lange doorlooptijden van zedenzaken, waardoor het vaak niet lukt om binnen zes maanden een melding op te pakken;</al>
+            <al>overwegende dat te lange doorlooptijden ervoor kunnen zorgen dat slachtoffers van zedenmisdrijven worden afgeschrikt om aangifte te doen omdat ze denken dat de zaak toch niet wordt opgepakt;</al>
+            <al>overwegende dat lange doorlooptijden ook ertoe kunnen leiden dat slachtoffers het trauma steeds opnieuw beleven en het gevoel krijgen dat ze niet serieus worden genomen;</al>
+            <al>verzoekt de regering om met een plan van aanpak te komen om de capaciteitstekorten bij de zedenrecherche structureel aan te pakken, bijvoorbeeld met de inzet van zijinstromers en extra wervingscampagnes,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

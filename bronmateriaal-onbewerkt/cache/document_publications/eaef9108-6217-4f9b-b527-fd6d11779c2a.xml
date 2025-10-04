@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36545-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 545</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met de implementatie van Richtlijn (EU) 2022/2041 van het Europees parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie (Pb EU 2022, L 275) (Wet implementatie EU-richtlijn toereikende minimumlonen)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID PATIJN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 12</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-08">8 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het eerste, tweede en vijfde lid van artikel 5 van de richtlijn voorschrijven dat het minimumloon, naast de halfjaarlijkse verhoging, iedere vier jaar opnieuw moet worden vastgesteld en dat hiervoor de vier criteria uit de Europese richtlijn moeten worden gebruikt;</al>
+            <al>verzoekt de regering om de genoemde criteria minstens iedere vier jaar te hanteren voor het opnieuw vaststellen van de hoogte van het wettelijk minimumloon en hierover de Kamer te informeren;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Patijn</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

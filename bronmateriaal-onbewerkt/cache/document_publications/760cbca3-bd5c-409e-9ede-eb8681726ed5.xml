@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-193/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">193</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het elk jaar op 16 oktober Wereldvoedseldag is;</al>
+            <al>overwegende dat lokaal en seizoensgebonden vers voedsel gezond is en Nederlands voedsel een lagere CO2-voetafdruk heeft dan vergelijkbaar voedsel uit verre landen;</al>
+            <al>overwegende dat één grote cateraar al positief heeft gereageerd op de suggestie voor een «Week van de (H)eerlijke Hollandse Hap»;</al>
+            <al>verzoekt de regering om alle cateraars van rijksoverheidsinstanties te stimuleren om jaarlijks in de week waarin het Wereldvoedseldag is, een «Week van de (H)eerlijke Hollandse Hap» te organiseren, waarbij de focus ligt op het aanbieden van lokaal Nederlands geproduceerd en seizoensgebonden voedsel van al onze boeren, tuinders, telers en vissers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

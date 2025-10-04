@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-64/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">64</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het momenteel vijf over twaalf is in de sociaal advocatuur in alle rechtsgebieden, waaronder het strafrecht, en dat er scherpe maatregelen nodig zijn om het tij te keren;</al>
+            <al>overwegende dat de Vereniging Sociale Advocatuur Nederland (VSAN) een noodplan heeft gemaakt waarin er op korte termijn middels een begeleidingsvergoeding voor patroons, een kredietvoorziening voor stagiair-ondernemers en een terugkeer van de voorschotregeling, ongeveer 200 nieuwe sociaal advocaten jaarlijks bij zouden kunnen komen;</al>
+            <al>overwegende dat dit ook belangrijke maatregelen zijn om de trend van vergrijzing in de sociaal advocatuur te verzachten en het plan betaalbaar is met 3 miljoen euro aan (structurele) kosten;</al>
+            <al>verzoekt de regering het noodplan van de VSAN te omarmen en te bezien hoe deze maatregelen op korte termijn een plek kunnen krijgen in het beleid om de gesubsidieerde rechtsbijstand en daarmee de toegang tot het recht overeind te houden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

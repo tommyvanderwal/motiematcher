@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-VIII-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Jaarverslag en slotwet Ministerie van Onderwijs, Cultuur en Wetenschap 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-06-10">10 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de academische vrijheid van onze instellingen een groot goed is;</al>
+            <al>overwegende dat onze instellingen de kans moeten krijgen vrij, veilig en toegankelijk te zijn voor alle studenten;</al>
+            <al>overwegende dat er vandaag de dag studenten zijn die niet vrij en veilig toegang hebben tot deze kennisinstellingen en worden gehinderd door intimidatie;</al>
+            <al>verzoekt de regering om als stelselverantwoordelijke actief de Kamer te rapporteren wanneer een onderwijsinstelling niet vrij, veilig of toegankelijk is voor studenten en daarbij te vermelden welke maatregelen zij actief nemen om dit tegen te gaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Martens-America</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

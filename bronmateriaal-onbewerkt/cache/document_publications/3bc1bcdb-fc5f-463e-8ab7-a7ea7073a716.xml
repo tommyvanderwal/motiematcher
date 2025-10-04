@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36264-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 264</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Uitvoeringswet Algemene verordening gegevensbescherming en enkele andere wetten in verband met het stroomlijnen en actualiseren van het gegevensbeschermingsrecht (Verzamelwet gegevensbescherming)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DRAL EN MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zich online ernstige inbreuken in de bescherming van persoonsgegevens voordoen met deepfake;</al>
+            <al-groep>
+              <al>overwegende dat de ernst van de inbreuken zodanig is dat sneller handhaven</al>
+              <al>en een daartoe adequate wettelijke grondslag dringend nodig zijn bij de aanpak van deepfakewebsites;</al>
+            </al-groep>
+            <al>overwegende dat tevens belangrijk is te bepalen hoe snellere handhaving in het bestaande bestel moet worden ingepast, gelet op de bestaande taken en bevoegdheden van het OM, politie en AP;</al>
+            <al>verzoekt de Staatssecretaris onderzoek te doen naar hoe een snellere notice- and-take-downprocedure zo snel mogelijk en waar technisch mogelijk binnen een uur kan worden ingericht bij zeer ernstige inbreuken op privacy door deepfakes;</al>
+            <al>verzoekt de Staatssecretaris hierbij tevens in kaart te brengen of voor ernstige inbreuken op de privacy een aanvullende wettelijke grondslag vereist is die het mogelijk maakt sneller tot handhaving over te gaan en tevens te bepalen bij wie dit het beste kan worden belegd: bij OM/politie, de AP of de ACM als handhaver van de DSA,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dral</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

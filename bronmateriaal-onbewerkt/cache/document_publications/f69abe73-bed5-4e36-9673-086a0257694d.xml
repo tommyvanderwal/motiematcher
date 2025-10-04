@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32623-347/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 623</dossiernr>
+      </dossiernummer>
+      <titel>Actuele situatie in Noord-Afrika en het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">347</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de extraterritoriale impact van de Amerikaanse sancties tegen Syrië de positieve effecten van opschorting van Europese sancties belemmert en er geen zicht lijkt op verlichting van Amerikaanse sancties;</al>
+            <al>constaterende dat de Europese Unie in het eerdere geval van Amerikaanse sancties tegen Iran het INSTEX-mechanisme inzette om de negatieve effecten van het Amerikaanse sanctiebeleid op haar eigen beleid ten aanzien van Iran te omzeilen;</al>
+            <al>verzoekt de regering in Europees verband te pleiten voor de invoering van een instrument vergelijkbaar met het INSTEX-mechanisme, als onderdeel van het Europese sanctiebeleid tegen Syrië,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dassen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-284/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">284</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de hoogste en de oudste gietijzeren vuurtoren van Europa, de Lange Jaap, al jarenlang staat weg te rotten als gevolg van gebrekkig onderhoud;</al>
+            <al>overwegende dat er momenteel gewerkt wordt aan de voorlopige en definitieve ontwerpfase voor het voorkeursscenario Renoveren-Stabiliseren van deze parel van het Noorden;</al>
+            <al>overwegende dat de inwoners van Den Helder al vier jaar wachten op uitsluitsel over renovatie van hun icoon;</al>
+            <al>verzoekt de regering zo snel als mogelijk de beleidskeuze voor renovatie te maken, en de Kamer over de gemaakte keuze uiterlijk voor 1 juli 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Aukje de Vries</al>
+              <al>Soepboer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

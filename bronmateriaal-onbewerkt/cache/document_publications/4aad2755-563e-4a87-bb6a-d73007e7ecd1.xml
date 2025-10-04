@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32034-67"/>
+      <meta name="OVERHEIDop.ondernummer" content="67"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32034"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Soepboer en Rooderkerk over de leermiddelenmarkt zo reguleren dat scholen niet langer gebonden zijn aan meerjarige licenties"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Soepboer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Digitale leermiddelen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Digitale leermiddelen; Motie; Motie van de leden Soepboer en Rooderkerk over de leermiddelenmarkt zo reguleren dat scholen niet langer gebonden zijn aan meerjarige licenties"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 034</dossiernr>
+         </dossiernummer>
+         <titel>Digitale leermiddelen </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">67</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN SOEPBOER EN ROODERKERK</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat scholen bij de aanschaf van lesmateriaal vaak vastzitten aan meerjarige licentiecontracten en regelmatig verplicht worden digitale leeromgevingen aan te schaffen die in de helft van de gevallen niet eens worden geactiveerd, laat staan gebruikt;</al>
+                  <al>constaterende dat scholen hierdoor belemmerd worden leermiddelen te kiezen op basis van kwaliteit, behoefte en kosten, en ze daarnaast gedwongen worden tot het verspillen van publieke middelen aan diensten waar ze geen behoefte aan hebben;</al>
+                  <al>overwegende dat het schadelijk is voor ons publieke funderend onderwijs als aanbieders op de leermiddelenmarkt op deze wijze voorkomen dat scholen lesmethodes selecteren (hoofdzakelijk) op basis van essentiële criteria;</al>
+                  <al>overwegende dat het onwenselijk is dat aanbieders op de leermiddelenmarkt scholen ertoe verplichten publieke middelen ondoelmatig te besteden aan ongebruikte digitale licenties;</al>
+                  <al>verzoekt de regering de leermiddelenmarkt zo te reguleren dat scholen niet langer gebonden zijn aan meerjarige licenties en ze zelf kunnen bepalen wanneer zij overstappen, papieren en digitale leermiddelen altijd afzonderlijk kunnen worden aangeschaft en de bijkomende kosten daarvan volledig transparant zijn,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Soepboer</al>
+                     <al>Rooderkerk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

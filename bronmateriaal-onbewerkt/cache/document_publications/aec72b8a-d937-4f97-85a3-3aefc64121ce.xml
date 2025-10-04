@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27924-91/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 924</dossiernr>
+      </dossiernummer>
+      <titel>Pachtbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">91</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er een explosieve stijging is van grondprijzen de afgelopen jaren;</al>
+            <al>overwegende dat betaalbare pacht voor de boeren bijna niet meer mogelijk is;</al>
+            <al-groep>
+              <al>overwegende dat steeds meer beleggers, speculanten en ontwikkelaars grond</al>
+              <al>kopen;</al>
+            </al-groep>
+            <al>overwegende dat vrijstelling van overdrachtsbelasting bedoeld is voor agrariërs;</al>
+            <al>verzoekt de regering te onderzoeken of er ten spoedigste een eind gemaakt kan worden aan de vrijstelling van overdrachtsbelasting voor niet-agrariërs die grond kopen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

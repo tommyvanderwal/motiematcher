@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-979/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">979</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is om de nullijn toe te passen vanaf 2026 en dit ook zal gelden voor de medewerkers van de Dienst Justitiële Inrichtingen (DJI);</al>
+            <al>overwegende dat er nu al sprake is van nijpende capaciteitstekorten in de DJI en dat personeel ook vertrekt omdat op andere plekken in de beveiliging de salarissen beter zijn en de werkdruk lager;</al>
+            <al>verzoekt de regering af te zien van de nullijn voor in ieder geval de DJI;</al>
+            <al>verzoekt de regering voorts met spoed werk te maken van de herwaardering van de functie van uitvoerend gevangenispersoneel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

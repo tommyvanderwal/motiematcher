@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-332/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">332</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel EU-lidstaten hun eigen insolventie- en belastingwetgeving hebben, hetgeen de integratie van de kapitaalmarktunie en grensoverstijgend investeren in Europese bedrijven bemoeilijkt;</al>
+            <al>overwegende dat voor een ontwikkelde en functionerende Europese kapitaalmarktunie harmonisatie van insolventie- en belastingwetgeving nodig is;</al>
+            <al>overwegende dat het gebruikmaken van het 28ste regime voor insolventie- en belastingwetgeving ervoor kan zorgen dat de obstakels van het verder integreren van de kapitaalmarktunie kan stimuleren;</al>
+            <al>verzoekt de regering in Europees verband te pleiten voor het gebruikmaken van het 28ste regime voor insolventie- en belastingwetgeving met als doel om de kapitaalmarktunie verder te ontwikkelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dassen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

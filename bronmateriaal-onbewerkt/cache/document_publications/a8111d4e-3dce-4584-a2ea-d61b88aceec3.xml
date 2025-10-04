@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-III-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>III</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Algemene Zaken (IIIA), de begrotingsstaat van het Kabinet van de Koning (IIIB) en de begrotingsstaat van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (IIIC) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer de regering heeft verzocht om een weerbaarheidsscan in te voeren die inzicht geeft in de mate waarin het netwerk van politici en bestuurders een potentieel risico vormt voor ondermijning en integriteitskwesties;</al>
+            <al>constaterende dat de weerbaarheidsscan doorontwikkeld moet worden om hem toe te kunnen passen op bewindspersonen en topbestuurders;</al>
+            <al>verzoekt de regering de weerbaarheidsscan alleen uit te voeren als deze daadwerkelijk bruikbaar is voor deze doelgroepen en het daarbij nadrukkelijk de voorkeur verdient dat deze wetenschappelijk gevalideerd is door de wetenschappers die deze scan in de eerste instantie hebben ontwikkeld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

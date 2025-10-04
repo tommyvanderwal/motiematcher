@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1268/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1268</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de realisatiestimulans maximaal één jaar na realisatie van een woning wordt uitgekeerd;</al>
+            <al>overwegende dat daardoor de bijdrage uit de realisatiestimulans voorgefinancierd moet worden, wat de bouw van woningen lastiger maakt, en dat het wenselijk is dat de middelen uit de realisatiestimulans zo snel mogelijk beschikbaar komen voor gemeenten;</al>
+            <al>verzoekt de regering de middelen uit de realisatiestimulans zo vroeg mogelijk beschikbaar te stellen aan gemeenten, en daarbij te overwegen om deze middelen al uit te keren voordat kosten gemaakt worden, en daarbij een terugbetaalverplichting op te nemen als de woningbouw onverhoopt niet doorgaat,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Grinwis</al>
+              <al>De Hoop</al>
+              <al>Peter de Groot</al>
+              <al>Vijlbrief</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

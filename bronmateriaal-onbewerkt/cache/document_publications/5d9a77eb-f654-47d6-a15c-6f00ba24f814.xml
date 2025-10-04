@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-86/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">86</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet ernaar streeft om het percentage bbl-studenten binnen het middelbaar beroepsonderwijs te verhogen naar 35%;</al>
+            <al>constaterende dat dit percentage momenteel op 28% ligt en naar verwachting zal dalen tot 22% in 2028;</al>
+            <al>overwegende dat de combinatie van werken en leren binnen een bbl-opleiding ervoor zorgt dat studenten zich beter voorbereiden op de arbeidsmarkt van de toekomst;</al>
+            <al>overwegende dat grote maatschappelijke opgaven vragen om veel getalenteerde studenten, en dat bbl-studenten eerder dan bol-studenten een bijdrage leveren aan deze uitdagingen;</al>
+            <al>verzoekt de regering om, samen met onderwijsinstellingen en het bedrijfsleven, het bbl-offensief te intensiveren en te streven naar een percentage van 35%,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Martens-America</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

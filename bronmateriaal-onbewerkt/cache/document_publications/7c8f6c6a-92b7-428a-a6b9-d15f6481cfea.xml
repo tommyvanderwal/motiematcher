@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-999/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">999</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het regeerakkoord staat dat het herstelrecht van positieve waarde is voor slachtoffers in de praktijk;</al>
+            <al>overwegende dat de rechtstreekse toegang tot mediation in strafzaken voor slachtoffers en verdachten nog niet goed geregeld is en geen standaardoptie is;</al>
+            <al>overwegende dat het bieden van rechtstreekse toegang tot mediation in strafzaken met name in jeugdstrafzaken van toegevoegde waarde is voor slachtoffers en jeugdige verdachten in het kader van herstel en recidivevermindering;</al>
+            <al>verzoekt de regering in te zetten op rechtstreekse toegang tot alle herstelrechtvoorzieningen voor slachtoffers en (jeugdige) verdachten, waaronder mediation in strafzaken en herstelbemiddeling, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

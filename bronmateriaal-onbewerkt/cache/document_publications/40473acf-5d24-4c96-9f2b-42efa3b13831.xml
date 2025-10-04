@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22343-412/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 343</dossiernr>
+      </dossiernummer>
+      <titel>Handhaving milieuwetgeving </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">412</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat naar aanleiding van het rapport van Van Aartsen «Om de leefomgeving» uit 2021 een interbestuurlijk programma Versterking van het stelsel vergunningverlening, toezicht en handhaving (IBP VTH) is opgestart;</al>
+            <al>constaterende dat een van de aanbevelingen uit het rapport van Van Aartsen is dat de onafhankelijkheid van de omgevingsdiensten gewaarborgd moet zijn;</al>
+            <al>constaterende dat dat bij sommige omgevingsdiensten nog onvoldoende het geval is;</al>
+            <al>verzoekt de regering om erop toe te zien dat bij álle omgevingsdiensten de onafhankelijkheid gewaarborgd is en, als dat niet het geval is, in te grijpen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Gabriëls</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

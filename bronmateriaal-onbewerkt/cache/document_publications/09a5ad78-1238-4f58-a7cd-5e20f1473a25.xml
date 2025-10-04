@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1120/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1120</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het advies ter verbetering van de autorijscholenbranche wordt geadviseerd om over te gaan van rijles naar rijonderwijs;</al>
+            <al>overwegende dat in het rapport-Roemer wordt gesproken over een nationaal leerplan om de kwaliteit van rijonderwijs te verbeteren;</al>
+            <al>overwegende dat de kosten voor het behalen van een rijbewijs fors zijn toegenomen en dat het verlagen van deze kosten kan bijdragen aan de toegankelijkheid;</al>
+            <al>overwegende dat het btw-tarief op rijonderwijs een drukkend effect heeft op de prijs en dat vrijstelling van btw, zoals bij andere vormen van onderwijs, kostenverlagend kan werken;</al>
+            <al>verzoekt de regering onderzoek te doen naar de mogelijkheden om rijonderwijs, net als andere vormen van onderwijs, vrij te stellen van btw,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

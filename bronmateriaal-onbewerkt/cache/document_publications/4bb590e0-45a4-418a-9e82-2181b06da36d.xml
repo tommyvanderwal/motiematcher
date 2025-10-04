@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31793-263/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 793</dossiernr>
+      </dossiernummer>
+      <titel>Internationale klimaatafspraken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">263</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VERMEER EN POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat energie-intensieve mkb-bedrijven, zoals bakkerijbedrijven en de glastuinbouw, willen overstappen op elektrische energie;</al>
+            <al>constaterende dat veel mkb-bedrijven niet kunnen omschakelen op elektrische energie, onder meer vanwege overbelasting van het bestaande energienet;</al>
+            <al>overwegende dat bedrijven ook bezig zijn met groene waterstof;</al>
+            <al>overwegende dat gemeenten niet altijd willen meewerken aan vergunningverlening, bijvoorbeeld omdat een bedrijf te dicht bij een woonwijk zou zitten;</al>
+            <al>overwegende dat al in november 2022 een motie-Van der Plas/Eerdmans is aangenomen die het kabinet verzoekt om in gesprek te gaan met de Vereniging van Nederlandse Gemeenten (VNG) en het Expertise Centrum Warmte om te kijken hoe gemeenten gestimuleerd kunnen worden om mkb-bedrijven beter te faciliteren in de vergunningverlening bij het omschakelen naar groene waterstof;</al>
+            <al>verzoekt het kabinet om binnen zes maanden met concrete maatregelen te komen die lokale waterstofproductie makkelijker en sneller mogelijk maakt door de risico's voor gemeenten te beperken door het beschikbaar stellen van standaardvergunningsprotocollen via Bureau Energieprojecten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vermeer</al>
+              <al>Postma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

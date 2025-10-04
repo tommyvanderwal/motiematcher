@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36394-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 394</dossiernr>
+      </dossiernummer>
+      <titel>Tijdelijke regels over de opvang van ontheemden uit Oekraïne (Tijdelijke wet opvang ontheemden Oekraïne)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARKUSZOWER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>gehoord hebbende de Oekraïense ambassadeur in Nederland, die van mening is dat Oekraïense mannen in Oekraïne hun land horen te verdedigen en aangeeft dat de Oekraïense regering graag wil meewerken en meepraten over manieren om hun mensen terug naar huis te laten gaan;</al>
+            <al>verzoekt de regering zo spoedig mogelijk te bevorderen dat de ontheemde Oekraïense mannen terugkeren om daar hun land te verdedigen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Markuszower</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

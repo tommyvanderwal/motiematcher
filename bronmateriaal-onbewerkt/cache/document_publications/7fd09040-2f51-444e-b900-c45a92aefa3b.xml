@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-02-3210"/>
+      <meta name="OVERHEIDop.ondernummer" content="3210"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-07"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-02"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Dobbe en Boswijk over opvoeren van de diplomatieke druk om het beleg op El- Fasher te beëindigen (t.v.v. 21501-02-3194)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.title" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie (gewijzigd/nader); Gewijzigde motie van de leden Dobbe en Boswijk over opvoeren van de diplomatieke druk om het beleg op El- Fasher te beëindigen (t.v.v. 21501-02-3194)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr>
+         </dossiernummer>
+         <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3210</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DOBBE EN BOSWIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 3194</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-03">3 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de oorlog in Soedan al meer dan twee jaar duurt, met onnoemelijk humanitair leed tot gevolg,</al>
+                  <al>constaterende dat Artsen zonder Grenzen in een nieuw rapport specifiek aandacht vraagt voor de situatie in El Fasher en het Zamzam vluchtelingenkamp, waar de situatie volgens hen catastrofaal is en honderdduizenden burgers slachtoffer zijn geworden van etnisch gemotiveerd geweld,</al>
+                  <al>constaterende dat Artsen zonder Grenzen ook beschrijft dat er grootschalig geweld is tegen hulpverleners en ziekenhuizen,</al>
+                  <al>verzoekt de regering de diplomatieke druk op te voeren op de RSF, SAF en landen die een van de strijdende partijen steunen, om het beleg op El Fasher te beëindigen, in lijn met veiligheidsraadresolutie 2736,</al>
+                  <al>verzoekt de regering tevens in Europees verband de humanitaire hulp aan Soedan op te voeren, inclusief luchtbruggen en airdrops,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Boswijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

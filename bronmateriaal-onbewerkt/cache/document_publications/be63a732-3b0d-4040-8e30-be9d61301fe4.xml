@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-568/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">568</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het vervangen van stikstof uit kunstmest door stikstof uit dierlijke mest kan bijdragen aan een meer circulaire landbouw en een verruiming van de mestmarkt;</al>
+            <al>constaterende dat het vervangen van 2 kilogram stikstof uit kunstmest door 1 kilogram stikstof uit dierlijke mest een praktische oplossing biedt voor boeren;</al>
+            <al>verzoekt de regering om deze optie in de gesprekken met de Europese Commissie mee te nemen en te vragen of dit een optie zou kunnen zijn en wat er nodig is om dit mogelijk te maken, en de Kamer hierover zo snel mogelijk tẹ informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36180-163"/>
+      <meta name="OVERHEIDop.ondernummer" content="163"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36180"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Kamminga en De Korte over binnen het artikel Veiligheid en stabiliteit aandacht en middelen beschikbaar stellen voor goodgovernanceprojecten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.C. de Korte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.J. Kamminga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Doen waar Nederland goed in is - Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="Doen waar Nederland goed in is - Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking; Motie; Motie van de leden Kamminga en De Korte over binnen het artikel Veiligheid en stabiliteit aandacht en middelen beschikbaar stellen voor goodgovernanceprojecten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 180</dossiernr>
+         </dossiernummer>
+         <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">163</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KAMMINGA EN DE KORTE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat stabiliteit en veiligheid in kwetsbare regio's essentieel zijn voor de Nederlandse en Europese veiligheid en welvaart;</al>
+                  <al>constaterende dat een gebrek aan goed bestuur en het schenden van mensenrechten, in het bijzonder die van vrouwen en minderheden, aantoonbaar bijdragen aan instabiliteit, conflicten en extremisme;</al>
+                  <al>overwegende dat investeringen in goodgovernanceprojecten en de bevordering van mensenrechten, waaronder vrouwenrechten en de rechten van andere minderheden, duurzame stabiliteit en veiligheid bevorderen;</al>
+                  <al>verzoekt de regering om binnen het artikel Veiligheid en stabiliteit nadrukkelijk aandacht en middelen beschikbaar te stellen voor goodgovernanceprojecten en de rechten van vrouwen en andere minderheden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kamminga</al>
+                     <al>De Korte</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

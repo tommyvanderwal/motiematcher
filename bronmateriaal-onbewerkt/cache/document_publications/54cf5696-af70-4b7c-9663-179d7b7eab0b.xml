@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36704-67"/>
+      <meta name="OVERHEIDop.ondernummer" content="67"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-27"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36704"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Boomsma en Van Zanten over een fundamentele herziening van het asielstelsel waarbij mensen buiten de EU worden opgevangen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet); Motie; Motie van de leden Boomsma en Van Zanten over een fundamentele herziening van het asielstelsel waarbij mensen buiten de EU worden opgevangen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 704</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">67</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BOOMSMA EN VAN ZANTEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-26">26 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het huidige asielstelsel, waarin mensen op EU-grondgebied asiel kunnen aanvragen en alleen daar, leidt tot mensensmokkel, duizenden slachtoffers op zee, grootschalig misbruik en overbelaste asielketens;</al>
+                  <al>overwegende dat er behoefte is aan een ander asielstelsel waarbij Nederland zelf weer kan bepalen wie naar ons land komt en wie zich hier vestigen, en de komst via irreguliere routes en via mensensmokkelaars niet langer wordt «beloond»;</al>
+                  <al>overwegende dat de Tweede Kamer onlangs een motie heeft aangenomen om een herziening van Europese en internationale verdragen te verkennen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>bij de uitwerking daarvan een stappenplan op te stellen om te komen tot een fundamentele herziening van het asielstelsel waarbij mensen niet langer in de EU worden opgevangen maar daarbuiten, en niet meer langs illegale routes kunnen komen om asiel aan te vragen, zodat EU-lidstaten zelf kunnen bepalen of en welke mensen eventueel op uitnodiging naar Europa kunnen komen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>als onderdeel daarvan met gelijkgestemde lidstaten samen te werken om dat op EU-niveau te realiseren;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>daarbij de mogelijkheid te verkennen om een ervaren regeringscommissaris aan te wijzen die het voortouw neemt om in Brussel en in overleg met andere landen een dergelijke herziening te realiseren en steun daarvoor te verwerven,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Boomsma</al>
+                     <al>Van Zanten</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

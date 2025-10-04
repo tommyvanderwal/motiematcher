@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-43/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">43</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BAMENGA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 22</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Israël UNRWA heeft verboden in de door hen bezette gebieden te opereren, terwijl bijna 2 miljoen Gazanen direct afhankelijk zijn van de door UNRWA geleverde hulp;</al>
+            <al>overwegende dat het tegenhouden van humanitaire hulp vanuit UNRWA directe risico's met zich meebrengt voor hongersnood voor de bijna 2 miljoen Gazanen die direct afhankelijk zijn van humanitaire hulp;</al>
+            <al>verzoekt de regering om nodige maatregelen te nemen om ongehinderde toegang van humanitaire hulp tot Gaza mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+              <al>Van Baarle</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

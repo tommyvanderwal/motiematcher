@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1209/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1209</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PETER DE GROOT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de doelstelling is dat er -20% L<inf>den</inf> en -15% L<inf>night</inf> aantal ernstig gehinderden ten opzichte van het vaste referentiepunt 1 november 2024 moet worden gehaald;</al>
+            <al>overwegende dat de impact van de maatregelen gedurende 2026 gemonitord wordt en na 1 november 2026 zal worden geëvalueerd;</al>
+            <al>constaterende dat indien de -20% L<inf>den</inf> geluidsreductie niet behaald wordt in fase 1, aanvullende maatregelen in fase 2 moeten worden genomen, terwijl het evaluatiemoment ruimschoots is na het aflopen van het maatregelenpakket, dat loopt tot 1 november 2025;</al>
+            <al>verzoekt de regering het referentiepunt van 1 november 2024 voor de 20% geluidsreductie vast te zetten en bij maatregelen voor fase 2, indien deze nodig zijn, alle verstilling mee te nemen vanaf 1 november 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Peter de Groot</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

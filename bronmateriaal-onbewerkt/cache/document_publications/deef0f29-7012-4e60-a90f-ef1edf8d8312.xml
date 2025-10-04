@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32824-471"/>
+      <meta name="OVERHEIDop.ondernummer" content="471"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-11"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32824"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bamenga en Eerdmans over actief het gesprek aangaan met initiatieven om mensen sneller aan het werk te krijgen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.J. Eerdmans"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Integratiebeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.title" scheme="" content="Integratiebeleid; Motie; Motie van de leden Bamenga en Eerdmans over actief het gesprek aangaan met initiatieven om mensen sneller aan het werk te krijgen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Immigratie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 824</dossiernr>
+         </dossiernummer>
+         <titel>Integratiebeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">471</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BAMENGA EN EERDMANS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-10">10 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat werk misschien wel de beste manier is voor nieuwkomers om te integreren;</al>
+                  <al>constaterende dat hoewel nieuwkomers steeds vaker werken, er nog steeds barrières zijn bij het vinden van werk;</al>
+                  <al>constaterende dat methodes als open hiring, waarbij mensen heel snel aan het werk kunnen zonder een uitgebreid sollicitatieproces, effectief zijn om mensen sneller aan het werk te krijgen;</al>
+                  <al>verzoekt de regering om actief het gesprek aan te gaan met dergelijke initiatieven en te kijken hoe de bekendheid en het aanbod van dergelijke initiatieven breder verspreid kunnen worden, en hoe de belemmeringen waar deze initiatieven mee te maken hebben zo veel als mogelijk weggenomen kunnen worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bamenga</al>
+                     <al>Eerdmans</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

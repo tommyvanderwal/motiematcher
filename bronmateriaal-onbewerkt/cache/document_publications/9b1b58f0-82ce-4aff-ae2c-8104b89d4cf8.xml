@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1430/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1430</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet met behulp van soortenmanagementplannen gemeenten ondersteunt om natuurvriendelijk te isoleren;</al>
+            <al>constaterende dat het drie jaar duurt voordat er overal in Nederland soortenmanagementplannen uitgerold zijn;</al>
+            <al>constaterende dat momenteel naar schatting een zesde van de gemeenten al een ontheffing heeft op basis van een presoortenmanagementplan;</al>
+            <al>overwegende dat ook de overige gemeenten zo snel mogelijk moeten kunnen werken met een (pre)soortenmanagementplan, waarbij de huidige ontwikkelingen die spelen rondom eDNA als aanvulling op het soortenmanagementplan meegenomen kunnen worden;</al>
+            <al>verzoekt de regering te verkennen hoe we het natuurvriendelijk isoleren versneld mogelijk maken via een spoedige inwerkingtreding van eDNA en een versneld proces van goedkeuring van (pre)SMP's, lerende van de manier zoals toegepast bijvoorbeeld in de provincie Utrecht, en de Kamer periodiek van de voortgang op de hoogte te stellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>Peter de Groot</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

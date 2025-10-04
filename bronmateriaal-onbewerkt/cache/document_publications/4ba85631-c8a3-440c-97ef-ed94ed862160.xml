@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-221/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">221</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIMMERMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat verschillende Europese veiligheidsdiensten waarschuwen dat Rusland en andere landen in toenemende mate sabotage, spionage en ondermijnende beïnvloeding inzetten om Europese samenlevingen te destabiliseren;</al>
+            <al>overwegende dat het van belang is dat Europese landen effectief met elkaar samenwerken om de samenleving weerbaarder te maken;</al>
+            <al>verzoekt de regering om zich samen met andere lidstaten in te zetten voor een Eurocommissaris voor civiele weerbaarheid die verantwoordelijk is voor een integrale aanpak ten behoeve van de Europese weerbaarheid tegen buitenlandse ondermijnende beïnvloeding,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Timmermans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

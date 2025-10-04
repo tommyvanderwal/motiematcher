@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36708-27"/>
+      <meta name="OVERHEIDop.ondernummer" content="27"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36708"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Grinwis c.s. over duidelijkheid over de structurele bezuiniging op de huurtoeslag (t.v.v. 36708-21)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.W. Haage"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toeslagen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-17"/>
+      <meta name="DC.title" scheme="" content="Toeslagen; Motie (gewijzigd/nader); Gewijzigde motie van het lid Grinwis c.s. over duidelijkheid over de structurele bezuiniging op de huurtoeslag (t.v.v. 36708-21)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Sociale zekerheid | Gezin en kinderen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 708</dossiernr>
+         </dossiernummer>
+         <titel>Toeslagen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">27</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID GRINWIS C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 21</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-17">17 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de in de Voorjaarsnota afgesproken bevriezing van de huren voor sociale huurwoningen in 2025 en 2026 en de incidentele verhoging van de huurtoeslag, de zogenaamde «boodschappenbonus», inmiddels zijn ingetrokken door het demissionaire kabinet;</al>
+                  <al>overwegende dat dit logischerwijs ook betekent dat de hiermee samenhangende structureel lagere uitgaven aan de huurtoeslag zich niet materialiseren, maar het demissionaire kabinet nog geen duidelijkheid heeft gegeven over het terugdraaien van deze bezuiniging op de huurtoeslag;</al>
+                  <al>overwegende dat daarmee vooralsnog dreigt dat huurders niet alleen te maken krijgen met een huurverhoging, maar ook nog eens met minder huurtoeslag;</al>
+                  <al>verzoekt de regering, nu zij de huurbevriezing heeft ingetrokken en de besparingen (inverdieneffecten) op de huurtoeslag niet worden gerealiseerd, in de eerstvolgende Miljoenennota de duidelijkheid te verschaffen dat ook de structurele bezuiniging op de huurtoeslag oplopend naar 492 miljoen euro per jaar van tafel is en niet ten koste van de begroting van VRO gaat,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Inge van Dijk</al>
+                     <al>Vijlbrief</al>
+                     <al>Haage</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

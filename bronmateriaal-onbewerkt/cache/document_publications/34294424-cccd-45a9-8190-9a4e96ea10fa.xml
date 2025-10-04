@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36196-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 196</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 in verband met aanscherping van het openbare ordebeleid voor criminele vreemdelingen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PODT EN KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-17">17 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vreemdelingen ongedocumenteerd kunnen raken als gevolg van een veroordeling voor een of meerdere misdrijven;</al>
+            <al>constaterende dat vertrek niet altijd mogelijk is vanwege gebrek aan medewerking van het land van bestemming of door andere juridische belemmeringen, bijvoorbeeld zoals geformuleerd in artikel 3 EVRM;</al>
+            <al>overwegende dat onder ongedocumenteerden een groter risico op levensonderhoudende criminaliteit bestaat en dat de overheid verminderd zicht heeft op ongedocumenteerden;</al>
+            <al>verzoekt het kabinet om zo snel mogelijk een voorstel uit te werken om dit gat tussen beleid en praktijk te dichten en daarbij onder andere te kijken naar een vorm van voorwaardelijk verblijf en een door de rechter te bepalen meldplicht;</al>
+            <al>verzoekt het kabinet daarnaast om de Kamer hierover voor de zomer van 2024 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1280/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1280</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WELZIJN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de ingangsdatum van 1 juli voor de jaarlijkse huurverhoging van de sociale huursector afwijkt van de ingangsdatum voor de jaarlijkse huurverhoging voor het middensegment en de vrije sector;</al>
+            <al>overwegende dat de meeste verhuurders van woningen in het middensegment en de vrije sector aangeven in de praktijk hun prijzen te verhogen per 1 juli, zoals dat wettelijk geregeld is voor de sociale verhuur;</al>
+            <al>overwegende dat verhuurders vaak huizen in meerdere segmenten verhuren;</al>
+            <al>overwegende dat voor nieuwe en bestaande huurders eenzelfde ingangsdatum voor alle huurstijgingen beter te volgen is;</al>
+            <al>verzoekt de regering om richting de Kamer aan te geven wat ervoor nodig is om de wettelijke ingangsdatum voor de huurverhoging van het middensegment en de vrije sector gelijk te trekken met de ingangsdatum van de sociale verhuur,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>De Hoop</al>
+              <al>Vijlbrief</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

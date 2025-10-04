@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36349-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 349</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 in verband met verlenging van de beslistermijnen in asiel- en nareiszaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie richtsnoeren COM(2014) 210 heeft opgesteld over hoe de Gezinsherenigingsrichtlijn uitgevoerd dient te worden;</al>
+            <al>constaterende dat in de Gezinsherenigingsrichtlijn opgenomen staat dat in het geval van een overschrijding van de termijn van negen maanden sprake moet zijn van bijzondere omstandigheden die verband houden met het complexe karakter van de behandeling van het verzoek;</al>
+            <al>constaterende dat in de richtsnoeren van de Europese Commissie daarover gesteld wordt dat een gebrek aan administratieve capaciteit geen reden is voor bijzondere verlenging;</al>
+            <al>verzoekt de regering zich bij de uitvoering van de wet te allen tijde te conformeren aan de Gezinsherenigingsrichtlijn en de daarbij behorende richtsnoeren van de Europese Commissie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koekkoek</al>
+              <al>Piri</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

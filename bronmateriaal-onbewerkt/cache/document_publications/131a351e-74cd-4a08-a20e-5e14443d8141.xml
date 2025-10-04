@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36225-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 225</dossiernr>
+      </dossiernummer>
+      <titel>Regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten (Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat anti-institutioneel extremisme volgens de AIVD een fenomeen is waarbij personen en groepen zich vanuit ideologisch motief richten tegen democratische instituties en processen;</al>
+            <al>constaterende dat deze extremisten bereid zijn om niet-gewelddadige activiteiten te verrichten die de democratische rechtsorde ondermijnen;</al>
+            <al>constaterende dat deze extremisten systematisch haatzaaien, angst verspreiden, doelbewust desinformatie verspreiden, demoniseren en intimideren en pogingen ondernemen om een parallelle samenleving tot stand te brengen, waarbij het gezag van de Nederlandse overheid en het rechtssysteem wordt afgewezen;</al>
+            <al>verzoekt de regering anti-institutionele extremisten expliciet bij de definitie van radicalisering te betrekken, zodat ook deze groep extremisten indien dat noodzakelijk is, tijdig kan worden aangemeld voor een casusoverleg,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

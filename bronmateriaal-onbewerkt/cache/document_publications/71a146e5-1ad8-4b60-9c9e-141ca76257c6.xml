@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2123/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2123</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN DASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in het rapport-Draghi en het rapport-Letta diverse aanbevelingen staan om het concurrentievermogen van de EU te verbeteren, zoals het verminderen van regeldruk, het harmoniseren van de interne markt en het verbeteren van de coördinatie van het Europese industriebeleid;</al>
+            <al>overwegende dat deze doelstelling ook wordt gedeeld door de huidige regering volgens het regeerprogramma, en de Benelux altijd een voorloper en proeftuin is geweest voor maatregelen die de Europese integratie versterken;</al>
+            <al>overwegende dat het lang kan duren voordat de EU concreet aan de slag gaat met eerdergenoemde aanbevelingen;</al>
+            <al>constaterende dat een deadline ontbreekt voor een concrete internemarktstrategie van de Europese Commissie en dat we snel over moeten van «analyse» naar «actie»;</al>
+            <al>verzoekt de regering om, vooruitlopend op de Europese behandeling, binnen de Benelux de eerdergenoemde aanbevelingen van Draghi en Letta te implementeren en zo een voorbeeld te zijn voor de rest van de EU, en in de aankomende Europese Raad te pleiten voor een concrete deadline voor de internemarktstrategie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3186/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3186</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vijandige non-state actors opgenomen zijn in de crisisverordening onder het concept van instrumentalisering;</al>
+            <al>constaterende dat overweging 6c van de crisisverordening stelt dat humanitaire hulpoperaties hieronder kunnen vallen, indien zij tot doel hebben de Unie te destabiliseren;</al>
+            <al>overwegende dat de termen «vijandig» en «de Unie destabiliseren» juridisch ambigue termen zijn die open zijn voor interpretatie en dat dit de mogelijkheid openlaat om ngo's te criminaliseren;</al>
+            <al>overwegende dat het daarom van groot belang is dat er duidelijke criteria zijn op basis waarvan deze afweging gemaakt wordt;</al>
+            <al>overwegende dat definities en criteria de komende maanden in technische onderhandelingen verder kunnen worden uitgewerkt;</al>
+            <al>verzoekt de regering zich ervoor in te zetten de technische onderhandelingen te gebruiken om specifieke criteria op te stellen op basis waarvan gekwalificeerd kan worden in welk geval humanitaire hulpoperaties tot doel hebben om de Unie te destabiliseren voordat de crisisverordening in werking treedt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koekkoek</al>
+              <al>Podt</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

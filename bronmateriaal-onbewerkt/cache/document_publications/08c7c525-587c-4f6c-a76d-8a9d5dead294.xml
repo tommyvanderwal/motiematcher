@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1148/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1148</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN STOFFER EN FLACH </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat woningcorporaties slechts onder strikte voorwaarden middenhuurwoningen mogen bouwen, omdat dit geen diensten van algemeen economisch belang (niet-DAEB) zijn op grond van Europese regelgeving;</al>
+            <al>overwegende dat woningcorporaties meer in staat moeten worden gesteld om woningen met een middenhuur te bouwen, met behoud van de eigenstandige positie van woningcorporaties;</al>
+            <al>verzoekt de regering zich in Europees verband blijvend in te spannen om de voorwaarden voor het bouwen van middenhuurwoningen door woningcorporaties te versoepelen;</al>
+            <al>verzoekt de regering tevens onderzoek te doen naar maatregelen die woningcorporaties in staat stellen deze woningen ook daadwerkelijk te bouwen, bijvoorbeeld ook op financieel gebied,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-108/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">108</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland in vergelijking met andere landen geen koploper is in het aantrekken en behouden van kennismigranten;</al>
+            <al>overwegende dat verschillende factoren daarin een belangrijke rol spelen, zoals de loopbaanmogelijkheden voor meereizende partners en stigma's over bevolkingsgroei;</al>
+            <al>overwegende dat in de EUREGIO succesvolle initiatieven zijn geweest voor het aantrekken en behouden van talent, waaronder het stimuleren van internationale studenten, onder andere door investeringen in het onderwijs, kennisclusters, samenwerkingen tussen onderwijs en bedrijfsleven, nieuwe woningbouw en het aantrekken van bedrijvigheid;</al>
+            <al>verzoekt de regering op basis van best practices uit de EUREGIO en andere Europese lidstaten een plan van aanpak te maken over het behoud van internationale studenten en talent in Nederland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koekkoek</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

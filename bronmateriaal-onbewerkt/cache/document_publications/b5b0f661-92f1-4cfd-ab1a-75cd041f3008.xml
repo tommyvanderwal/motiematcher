@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35749-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 749</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 teneinde te voorzien in herziening van de regels voor niet tijdig beslissen op aanvragen op grond van de Vreemdelingenwet 2000 (Wet herziening regels niet tijdig beslissen in vreemdelingenzaken)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BONTENBAL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-18">18 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een groep ongedocumenteerde Surinamers is die voor 1975 in Suriname, destijds onderdeel van het Koninkrijk der Nederlanden, als Nederlander zijn geboren maar nu al jaren ongedocumenteerd in Nederland leven;</al>
+            <al>overwegende dat het na de onafhankelijkheid in 1975 nog vijf jaar mogelijk was om een Nederlands verblijfsrecht aan te vragen, maar dat deze groep er door leeftijd, gezinsomstandigheden, onbekendheid of andere omstandigheden geen gebruik van heeft kunnen maken en inmiddels wel al tientallen jaren in Nederland verblijft;</al>
+            <al>overwegende dat deze groep in zeer grote mate familieleden heeft in Nederland die de Nederlandse nationaliteit hebben, waaronder kinderen en kleinkinderen, en zij mede daardoor sterke banden met Nederland hebben;</al>
+            <al>overwegende dat dit tot schrijnende situaties leidt waar gemeenten en maatschappelijke organisaties mee worden geconfronteerd, maar het ontbreekt aan voldoende handelingsperspectief vanwege het feit dat deze mensen ongedocumenteerd zijn;</al>
+            <al>constaterende dat er reeds vergaande overeenstemming was over een verblijfsregeling voor ongedocumenteerde Surinamers die voor 1975 zijn geboren en op dit moment tien jaar of meer in Nederland verblijven;</al>
+            <al>verzoekt de regering alsnog te besluiten om deze regeling te formaliseren en tot uitvoering over te gaan zodat deze beperkte groep niet langer ongedocumenteerd in Nederland door het leven gaat,</al>
+            <al-groep>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Bontenbal</al>
+              <al>Van Oostenbruggen</al>
+              <al>White</al>
+              <al>Podt</al>
+              <al>Van Nispen</al>
+              <al>Ceder</al>
+              <al>Koekkoek</al>
+              <al>Diederik van Dijk</al>
+              <al>Ouwehand</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

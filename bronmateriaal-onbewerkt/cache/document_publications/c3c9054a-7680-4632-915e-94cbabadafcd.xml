@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28165-442/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 165</dossiernr>
+      </dossiernummer>
+      <titel>Deelnemingenbeleid rijksoverheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">442</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat onder meer de Tweede Kamer, de burgerbeweging Ons Geld en de Wetenschappelijke Raad voor het Regeringsbeleid hebben uitgesproken dat een full-reservebank, depositobank, betaalbank of een vergelijkbare variant hierop grote toegevoegde waarde zou hebben voor de financiële sector;</al>
+            <al>overwegende dat binnen de geldende wettelijke kaders een dergelijke concurrent voor banken niet realiseerbaar is gebleken buiten de overheid;</al>
+            <al>van mening dat meer diversiteit in het bankensysteem in de vorm van een nationale publieke bank voor betalen en sparen een disciplinerend effect zal hebben op commerciële banken terwijl consumenten meer keuzevrijheid krijgen;</al>
+            <al>overwegende dat digitaal centralebankgeld en een nationale betaal- en spaarbank elkaar niet uitsluiten, maar aanvullen;</al>
+            <al>verzoekt de regering een nationale betaal- en spaarbank op te richten in lijn met de initiatiefnota 100% veilig sparen en betalen, waarbij expliciet wordt gekeken naar de Volksbank of gebruik wordt gemaakt van de bestaande organisatie en infrastructuur van de Volksbank,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

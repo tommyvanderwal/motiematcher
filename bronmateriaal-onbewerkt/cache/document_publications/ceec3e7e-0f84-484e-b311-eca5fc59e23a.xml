@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-94/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">94</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de NAM stopt met het meebetalen aan het perspectief voor Groningen;</al>
+            <al>overwegende dat de NAM jarenlang heeft geprofiteerd van de gaswinning in Groningen;</al>
+            <al>constaterende dat de president-directeur van Shell in 2023 in de media opriep te stoppen met de gaswinning;</al>
+            <al>overwegende dat de NAM heeft toegezegd te blijven meebetalen aan het perspectief van Groningen tot 2030;</al>
+            <al>overwegende dat zolang de NAM de betalingen richting Groningen niet hervat, zij geen betrouwbare partij is waar de overheid zaken mee zou moeten doen;</al>
+            <al>verzoekt de regering om geen nieuwe gaswinningen of verlengingen van bestaande gaswinningen goed te keuren voor de NAM zolang zij niet volledig voldoet aan de afspraken over het meebetalen aan het schadeherstel en het verbeteren van het economische en sociale perspectief van Groningen, door geen nieuwe winningsvergunningen af te geven en geen nieuwe winningsplannen goed te keuren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bamenga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

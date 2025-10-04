@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33009-153/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 009</dossiernr>
+      </dossiernummer>
+      <titel>Innovatiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">153</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat investeringen in onderzoek en ontwikkeling cruciaal zijn voor een concurrerende economie en om onze toekomstige welvaart te behouden;</al>
+            <al>constaterende dat Nederland de Lissabondoelstelling om 3% van het bbp te investeren in onderzoek en ontwikkeling niet haalt, en er ook niet in slaagt het Europese ambitieniveau van 17% publiek inkoopvolume te realiseren dat aan innovatieve oplossingen besteed wordt;</al>
+            <al>overwegende dat de (decentrale) overheid haar inkoopmacht kan benutten om zo investeringen in onderzoek en ontwikkeling te stimuleren, waardoor de doelstelling dichterbij kan komen en tegelijkertijd overheden hun taken efficiënter en effectiever uit kunnen voeren;</al>
+            <al>verzoekt de regering om een plan van aanpak te presenteren om te zorgen dat Nederland per 2030 het Europese ambitieniveau van 17% innovatiegerichte aanbestedingen haalt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Sneller</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34843-99/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 843</dossiernr>
+      </dossiernummer>
+      <titel>Seksuele intimidatie en geweld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">99</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SYNHAEVE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat acute slachtoffers van seksueel geweld bij de Belgische Zorgcentra na Seksueel Geweld aanzienlijk vaker aangifte doen, vaker medische zorg ontvangen en vaker forensisch onderzoek zijn ondergaan dan in de Nederlandse Centra Seksueel Geweld;</al>
+            <al>overwegende dat dit mogelijk te verklaren is door de beschikbaarheid van 24 uur per dag geopende fysieke centra in België, met inloopmogelijkheden, verhoorkamers voor de politie en consultatieruimtes voor psychologen, waar ter plaatse forensisch en medisch onderzoek wordt uitgevoerd;</al>
+            <al>overwegende dat dit jaar het CSG Amsterdam-Amstelland een fysiek inloophuis zal openen en dat er binnenkort een fysiek inlooppunt opent in Rotterdam voor slachtoffers van seksueel en huiselijk geweld en kindermishandeling;</al>
+            <al>overwegende dat er reeds een traject loopt waarin het kabinet met alle betrokken hulporganisaties verkent hoe zorg aan slachtoffers van seksueel geweld het meest laagdrempelig kan worden aangeboden, waarvan de uitkomst in het najaar met de Kamer wordt gedeeld;</al>
+            <al>verzoekt de regering binnen dit traject de mogelijkheden te verkennen van fysieke centra voor seksueel geweld in Nederland naar voorbeeld van België, en daarbij naast de inloopmogelijkheid ook de andere verschillen met België mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Synhaeve</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

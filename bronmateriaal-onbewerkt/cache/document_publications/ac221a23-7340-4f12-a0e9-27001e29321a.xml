@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-25/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">25</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de hoofdaanklager van het Internationaal Strafhof om arrestatiebevelen tegen de Israëlische premier en de voormalige Israëlische Minister van Defensie heeft verzocht;</al>
+            <al-groep>
+              <al>constaterende dat er bij het Internationaal Gerechtshof een genocidezaak tegen Israël is aangespannen;</al>
+              <al>constaterende dat Israël Gaza al meer dan een jaar aanvalt, met duizenden kinderdoden als gevolg;</al>
+            </al-groep>
+            <al>constaterende dat Rusland al vier dagen na de invasie in Oekraïne uit de UEFA was gekickt;</al>
+            <al>overwegende dat Maccabi-aanhangers genocidale leuzen hebben gescandeerd en vernielingen, diefstallen en mishandelingen hebben gepleegd;</al>
+            <al>verzoekt de regering om het standpunt aan de UEFA kenbaar te maken dat Israëlische voetbalteams moeten worden geweerd uit de internationale Europese clubcompetities,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

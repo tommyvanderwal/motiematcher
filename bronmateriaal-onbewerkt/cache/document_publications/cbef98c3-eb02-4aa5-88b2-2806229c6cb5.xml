@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1626/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1626</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister in de L&amp;V-Raad steun heeft uitgesproken voor het juridisch aanvechten van het besluit van het Verenigd Koninkrijk (VK) om het vissen op zandspiering in Britse wateren te verbieden;</al>
+            <al>constaterende dat het VK dit besluit heeft genomen om zeevogels, zoals papegaaiduikers, drieteenmeeuwen en alken, die onder druk staan door overbevissing, te beschermen;</al>
+            <al>constaterende dat een op de vier papegaaiduikers in de afgelopen twintig jaar is verdwenen in het Verenigd Koninkrijk;</al>
+            <al>constaterende dat uit een onderzoek uit 2021 blijkt dat de visvangst van zandspiering in Engelse en Schotse wateren moet worden gestopt om het voortbestaan van deze vogelsoorten te garanderen;</al>
+            <al>overwegende dat het besluit in lijn is met dit onderzoek;</al>
+            <al>overwegende dat het gezien de omvang van de natuurcrisis ongepast is om natuurbeschermende maatregelen van andere landen juridisch aan te vechten;</al>
+            <al>verzoekt de Minister om in het vervolg af te zien van het juridisch aanvechten van besluiten die andere landen nemen om hun eigen natuur te beschermen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

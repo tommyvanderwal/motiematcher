@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-34104-437"/>
+      <meta name="OVERHEIDop.ondernummer" content="437"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="34104"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Slagt-Tichelman over voor de begroting van 2026 een plan van aanpak voor de structurele opgave in de langdurige zorg opstellen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. Slagt-Tichelman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Langdurige zorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Langdurige zorg; Motie; Motie van het lid Slagt-Tichelman over voor de begroting van 2026 een plan van aanpak voor de structurele opgave in de langdurige zorg opstellen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>34 104</dossiernr>
+         </dossiernummer>
+         <titel>Langdurige zorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">437</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er zorgen zijn uitgesproken tijdens het commissiedebat over de daadkracht en het tempo waarmee de langdurige zorg toekomstbestendig gemaakt wordt;</al>
+                  <al>constaterende dat de bouwopgave voor ouderenwoningen enorm is en de kans dat we de doelstelling van 2030 halen steeds kleiner lijkt;</al>
+                  <al>overwegende dat in de Voorjaarsnota nu geen concrete oplossingen zijn opgenomen om de uitdagingen in de langdurige zorg op te pakken en daarbij de vraag openstaat in hoeverre het mogelijk is om de structurele opgave van de langdurige zorg op te lossen binnen het huidige financiële kader;</al>
+                  <al>overwegende dat de situatie vraagt om daadkrachtige en concrete stappen;</al>
+                  <al-groep>
+                     <al>overwegende dat er versnippering van initiatieven wordt ervaren: er is veel</al>
+                     <al>overlap en weinig samenhang tussen de beleidsplannen en akkoorden (IZA, AZWA, HLO et cetera);</al>
+                  </al-groep>
+                  <al>verzoekt de regering voor de begroting van 2026 een concreet plan van aanpak te presenteren waarin de structurele opgave in de langdurige zorg, inclusief de bouwopgave voor ouderenwoningen, helder wordt geadresseerd;</al>
+                  <al>verzoekt de regering voor de begroting van 2026 te zorgen voor duidelijkheid over de financiële uitwerking van het hoofdlijnenakkoord ouderenzorg en de wijze waarop de benodigde middelen beschikbaar worden gesteld,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Slagt-Tichelman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

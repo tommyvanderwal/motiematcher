@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2834/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2834</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HIRSCH EN TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet een Joint Statement Initiative heeft ondertekend over e-commerce en hierover verder wordt gesproken tijdens de aanstaande bijeenkomst van de WTO;</al>
+            <al>constaterende dat de intentie van deelnemende partijen is om de regulering op e-commerce te beperken, in het vervolg ook op broncodes;</al>
+            <al>verzoekt de regering een analyse te maken van de impact van verdere liberalisering van e-commerce op onze strategische autonomie;</al>
+            <al>verzoekt de regering een pas op de plaats te maken wat betreft de liberalisering van e-commerce en tijdens de aankomende WTO geen verdere stappen te nemen wat betreft verdere liberalisering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hirsch</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

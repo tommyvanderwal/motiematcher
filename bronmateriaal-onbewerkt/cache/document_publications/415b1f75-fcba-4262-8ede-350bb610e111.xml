@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-28/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">28</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland op het gebied van voedselzekerheid streeft naar meer zelfvoorziening en weerbaarheid van landen in Afrika;</al>
+            <al>overwegende dat de export van sommige Nederlandse voedselproducten kan bijdragen aan voedselzekerheid, maar dat de export van andere voedselproducten de opbouw van de lokale productiecapaciteit ook in de weg kan zitten;</al>
+            <al>overwegende dat de regering een onderzoek laat doen op dit thema naar aanleiding van de motie-Thijssen/Amhaouch;</al>
+            <al>verzoekt de regering in de appreciatie van het onderzoek uiteen te zetten wat de structurele impact is van de Nederlandse voedselexport op de voedselzekerheid in met name fragiele landen in Afrika,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Dobbe</al>
+              <al>Paternotte</al>
+              <al>Bamenga</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

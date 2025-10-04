@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36639-13"/>
+      <meta name="OVERHEIDop.ondernummer" content="13"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-16"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36639"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Ceder en Bruyning over specifiek beleid voor digibeten en mensen met beperkte digitale toegang"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.H. Bruyning"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van diverse wetten in verband met het invoeren van het burgerservicenummer en de voorzieningen van de digitale overheid in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet invoering BSN en voorzieningen digitale overheid BES)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-15"/>
+      <meta name="DC.title" scheme="" content="Wijziging van diverse wetten in verband met het invoeren van het burgerservicenummer en de voorzieningen van de digitale overheid in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet invoering BSN en voorzieningen digitale overheid BES); Motie; Motie van de leden Ceder en Bruyning over specifiek beleid voor digibeten en mensen met beperkte digitale toegang"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | De Nederlandse Antillen en Aruba"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 639</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van diverse wetten in verband met het invoeren van het burgerservicenummer en de voorzieningen van de digitale overheid in de openbare lichamen Bonaire, Sint Eustatius en Saba (Wet invoering BSN en voorzieningen digitale overheid BES)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">13</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN CEDER EN BRUYNING</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-15">15 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het kabinet voornemens is het burgerservicenummer (bsn) breed in te voeren in Caribisch Nederland als middel tot efficiëntere overheidsdienstverlening;</al>
+                  <al>overwegende dat het van belang is dat alle bewoners, ongeacht digitale vaardigheid of sociaaleconomische positie, toegang houden tot publieke diensten en hun recht op overheidsvoorzieningen kunnen realiseren en dat het uitsluiten van digibeten of mensen die digitaal op afstand staan, de rechtsgelijkheid en het vertrouwen in de overheid kan schaden;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>bij de invoering van het bsn in Caribisch Nederland specifiek beleid te ontwikkelen dat inzet op begeleiding en ondersteuning van digibeten en mensen met beperkte digitale toegang;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>hierbij de implementatie van fysieke loketten, hulptrajecten, lokale voorlichting in begrijpelijke taal en samenwerking met maatschappelijke organisaties ter plaatse mee te nemen;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de Kamer uiterlijk begin 2026 te informeren over de voorgenomen aanpak en wijze van implementatie,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Ceder</al>
+                     <al>Bruyning</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2110/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2110</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het regeerprogramma staat opgenomen dat Nederland Oekraïne politiek, militair, financieel en moreel actief en onverminderd blijft steunen in tijden van oorlog, herstel en wederopbouw, zolang als nodig, maar dat de begrote militaire steun in 2024 3,5 miljard bedraagt, terwijl voor 2025 een daling naar 2,3 miljard is voorzien;</al>
+            <al>overwegende dat de invasie al geleid heeft tot 1 miljoen slachtoffers en gewonden en dat de intensiteit van deze invasie in de afgelopen weken lijkt toe te nemen;</al>
+            <al>overwegende dat zonder voldoende steun vanuit Europa en de VS Oekraïne niet in staat zal zijn om de invasie het hoofd te bieden;</al>
+            <al>verzoekt de regering de militaire steun aan Oekraïne onverminderd door te zetten op het niveau van dit jaar, 2024,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Paternotte</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

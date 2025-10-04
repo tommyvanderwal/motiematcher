@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-253/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">253</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het in het kansspelbeleid van belang is dat aanbieders die zich niet aan de regels houden daarop doeltreffend aangesproken worden en de Kansspelautoriteit dus voldoende ruimte moet hebben om legale aanbieders effectief te kunnen aanpakken bij (herhaaldelijke) overtredingen;</al>
+            <al>verzoekt de regering om in de aangekondigde wetsherziening de mogelijkheden te verruimen voor de Kansspelautoriteit om vergunningen van kansspelaanbieders te schorsen of in te trekken bij het (ernstig en herhaaldelijk) niet naleven van de regels;</al>
+            <al>verzoekt de regering voorts de mogelijkheden te bezien om al in het aanstaande traject van verlenging van vergunningen van kansspelaanbieders door de Kansspelautoriteit het naleven van de regels nadrukkelijk mee te wegen bij het (niet) verlengen van de vergunningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Bikker</al>
+              <al>Diederik van Dijk</al>
+              <al>Tseggai</al>
+              <al>El Abassi</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36584-18/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 584</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Handelsregisterwet 2007 en de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter beperking van de toegang tot informatie over uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten alsmede van de toegang tot informatie over uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Wijzigingswet beperking toegang UBO-registers)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">18</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-10">10 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het begrip «legitiem belang» in de Wijzigingswet beperking toegang UBO-registers nader wordt uitgewerkt in een algemene maatregel van bestuur;</al>
+            <al>overwegende dat het op dit moment lastig is om hier concrete richtlijnen voor op te nemen in formele wetgeving, mede door aanstaande Europese wetgeving die hier invloed op heeft;</al>
+            <al>overwegende dat de toegang tot het UBO-register op grond van een legitiem belang niet moet leiden tot een ruime toegangspoort, noch tot privacyschendingen;</al>
+            <al>verzoekt de regering in de uitwerking van de algemene maatregel van bestuur het begrip «legitiem belang» strikt te interpreteren, de gevolgen voor de privacy van UBO's nadrukkelijk mee te wegen en de drempel voor toegang tot het UBO-register hoog te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Aukje de Vries</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

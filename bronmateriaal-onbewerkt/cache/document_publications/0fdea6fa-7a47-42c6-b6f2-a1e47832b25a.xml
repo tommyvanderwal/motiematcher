@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29689-1278/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 689</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Zorgstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1278</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat onverzekerde mensen, zoals dakloze mensen, vaak geweigerd worden door zorgaanbieders zoals ziekenhuizen, terwijl zij dringend zorg nodig hebben;</al>
+            <al>overwegende dat zorg een mensenrecht is dat ook geldt voor mensen in een kwetsbare positie;</al>
+            <al>overwegende dat het kabinet meer onverzekerden aan een verzekering wil helpen, maar er daarmee hoogstwaarschijnlijk alsnog onverzekerden over zullen blijven;</al>
+            <al>verzoekt de regering om in overleg met straatartsen, maatschappelijke organisaties die zich inzetten voor onverzekerde mensen en zorgaanbieders, met een actieplan te komen om de toegang van onverzekerde mensen tot de zorg te verbeteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

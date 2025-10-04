@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-943/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">943</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HELDER EN UITERMARK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister voor Rechtsbescherming voornemens is om elektronisch toezicht aan het einde van de detentieperiode mogelijk te maken om capaciteit in het gevangeniswezen (Dienst Justitiële Inrichtingen) vrij te maken;</al>
+            <al>van mening dat onherroepelijke vonnissen uitgevoerd moeten worden en dat de veroordeelde de opgelegde straf geheel dient te ondergaan;</al>
+            <al>constaterende dat 325 fte kan worden vrijgemaakt als gedetineerden per dag twee uur eerder op hun cel worden gezet;</al>
+            <al>verzoekt de regering om gedetineerden elke dag eerder te laten insluiten, zodat de huidige personeelscapaciteit kan worden vergroot, met inachtneming van een voor de veiligheid van het personeel acceptabele grens,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Helder</al>
+              <al>Uitermark</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

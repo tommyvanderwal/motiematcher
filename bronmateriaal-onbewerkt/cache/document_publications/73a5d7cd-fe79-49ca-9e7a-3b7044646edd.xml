@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-871/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">871</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIJK EN KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de tekorten aan geneesmiddelen in Nederland nooit zo groot waren;</al>
+            <al>constaterende dat een deel van de oorzaken hiervan ligt in de grote mate waarin we afhankelijk zijn van andere landen voor de productie van geneesmiddelen;</al>
+            <al>verzoekt het kabinet zo snel mogelijk met een lijst te komen van geneesmiddelen die essentieel zijn voor Nederlandse patiënten;</al>
+            <al>verzoekt het kabinet tevens een plan uit te werken om de productie van deze geneesmiddelen zo veel als mogelijk te organiseren in eigen land, en indien dit niet mogelijk is Europees, door bijvoorbeeld collectief meerjarige afspraken te maken met farmaceutische bedrijven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

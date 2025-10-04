@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XX-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Asiel en Migratie (XX) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN BOOMSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat volgens cijfers van het COA het aantal kinderen dat in asielnoodopvang of crisisnoodopvang heeft gezeten sinds begin juli 2023 met 65% gestegen is tot 5.566 in juli dit jaar;</al>
+            <al>constaterende dat het bovendien voorkomt dat kinderen veel langer dan volgens de norm is toegestaan in noodopvang opgevangen worden;</al>
+            <al>overwegende dat de situatie in de noodopvang nadelig is voor de ontwikkeling van kinderen en dat deze in sommige gevallen zelfs tot gevallen van ondervoeding heeft geleid;</al>
+            <al>verzoekt de regering erop toe te zien dat bestuursafspraken tussen COA en lokale overheden over de termijnen van het verblijf in de noodopvang vooral ten aanzien van kinderen nageleefd worden en gezinnen met kinderen met voorrang te plaatsen in reguliere opvang wanneer die beschikbaar komt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Boomsma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

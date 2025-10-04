@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRÖGER C.S. </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat collectieve warmtenetten een belangrijk onderdeel zijn van de uitvoering van de energietransitie in de gebouwde omgeving, maar dat er op diverse plaatsen in Nederland zorgen zijn rond de kosten voor warmtenetten, met name voor bewoners van sociale huurwoningen in kwetsbare wijken;</al>
+            <al>overwegende dat de kosten van de energietransitie op verschillende manieren neerslaan bij huishoudens, waardoor de hoogte van de energierekening tussen huishoudens steeds meer uiteen gaat lopen naarmate de variatie in energiebronnen en lokale situaties toeneemt, en hier geen integraal beleid op is;</al>
+            <al>constaterende dat bewoners die aangesloten zijn op een warmtenet hetzelfde nettarief voor elektriciteit betalen als bewoners die middels een elektrische warmtepomp in hun warmtevraag voldoen, en op deze manier dus zowel voor het warmtenet als voor het elektriciteitsnet meebetalen, maar daar niet evenredig gebruik van maken;</al>
+            <al>verzoekt de regering de kostensystematiek voor warmteverbruik in huis integraal in kaart te brengen, waarbij het uitgangspunt is dat de optie die maatschappelijk het meest wenselijk is ook voor de bewoners het meest aantrekkelijk wordt, te schetsen met welke instrumenten (zoals tarieven, belastingen, subsidies en toeslagen) hierop gestuurd kan worden, en dit voor de behandeling van de Wet collectieve warmte met de Kamer te delen,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kröger</al>
+              <al>Erkens</al>
+              <al>Postma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

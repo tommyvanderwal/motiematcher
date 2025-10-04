@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31477-109/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 477</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijden witwassen en terrorismefinanciering </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">109</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID IDSINGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering per brief van 20 januari 2025 haar visie op de financiële sector met de Kamer heeft gedeeld;</al>
+            <al-groep>
+              <al>verder constaterende dat de ACM heeft geconcludeerd dat de gebrekkige</al>
+              <al>concurrentie tussen banken een zeer belangrijke oorzaak is van de achterblijvende spaarrentes in Nederland;</al>
+            </al-groep>
+            <al>verder constaterende dat kosten die banken berekenen voor een bankrekening de afgelopen jaren fors zijn gestegen;</al>
+            <al-groep>
+              <al>verder constaterende dat bedrijven, stichtingen en verenigingen vaak moeite hebben om een bankrekening te krijgen of te behouden;</al>
+              <al>daarbij constaterende dat dit laatste verband houdt met de vastgelopen aanpak van witwassen waarbij banken jaarlijks 1,4 miljard aan kosten maken;</al>
+            </al-groep>
+            <al>tot slot constaterende dat de regering samen met de sector stappen wil zetten om dit laatste probleem op te lossen, hetgeen logischerwijs een forse kostenreductie voor banken zou betekenen, waarbij dat geld, in lijn met genoemde visiebrief, zou kunnen worden ingezet voor verbetering van dienstverlening;</al>
+            <al-groep>
+              <al>verzoekt de regering, mede gelet op de waarschijnlijk forse kostenreducties, al het nodige te doen om banken op korte termijn te bewegen om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>achterblijvende spaarrentes te verhogen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zowel consumenten als genoemde instellingen een basisbetaalrekening te garanderen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>en geen of fors lagere kosten te berekenen voor bankrekeningen,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Idsinga</al>
+              <al>Flach</al>
+              <al>Van der Lee</al>
+              <al>Inge van Dijk</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

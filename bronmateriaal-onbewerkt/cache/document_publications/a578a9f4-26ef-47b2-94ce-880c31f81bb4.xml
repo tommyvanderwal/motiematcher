@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29665-508/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 665</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Schipholbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">508</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overheid een wettelijke verplichting heeft om PAS-melders, ondernemers die te goeder trouw hebben gehandeld, van een in rechte vaststaande vergunning te voorzien;</al>
+            <al>overwegende dat het daarvoor wenselijk is dat vrijkomende stikstofruimte waar mogelijk met prioriteit naar PAS-melders gaat;</al>
+            <al>verzoekt de regering een juridisch bindende instructie op te stellen voor zowel bevoegde gezagen als private partijen, waarbij een PAS-meldersnorm voor extern salderen wordt ingericht;</al>
+            <al>verzoekt de regering deze PAS-meldersnorm aan de voorkant zodanig in te richten dat bevoegde gezagen aanvullend op de bestaande 30%-afroming een vast percentage aanvullend afromen voor stikstofruimte ten behoeve van PAS-melders;</al>
+            <al>verzoekt de regering om de PAS-meldersnorm daarnaast zo in te vullen dat rest- en onbenutte ruimte na saldering ook beschikbaar wordt gesteld aan bevoegde gezagen voor legalisering van PAS-melders,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

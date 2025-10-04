@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN EERDMANS EN FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het vestigings- en ondernemersklimaat in Nederland de afgelopen jaren aanzienlijk is verslechterd, met een dalende score voor het ondernemersklimaat in 2024 tot een 6, waarbij 20% overweegt naar het buitenland te vertrekken;</al>
+            <al>constaterende dat regeldruk, onvoorspelbaar overheidsbeleid, hoge energieprijzen en een hoge belastingdruk leiden tot toenemende onzekerheid en een verslechterd vestigingsklimaat;</al>
+            <al>verzoekt de regering toe te zeggen dat nieuwe tegenvallers worden opgevangen door middel van ombuigingen en alleen nog in het uiterste geval over te gaan tot lastenverzwaring,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Eerdmans</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

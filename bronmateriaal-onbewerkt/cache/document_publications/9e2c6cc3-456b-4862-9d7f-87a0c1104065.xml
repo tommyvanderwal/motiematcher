@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-764/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">764</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DOBBE EN KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er grote zorgen zijn over de gezondheidseffecten van de pfas-uitstoot door Chemours;</al>
+            <al>overwegende dat de Kamer eerder de motie-Van Esch c.s. (<extref doc="kst-33118-276" soort="document" status="actief">33 118, nr. 276</extref>) heeft aangenomen, waarin de regering wordt verzocht «het RIVM opdracht te geven tot het uitvoeren van een uitgebreid onderzoek naar het effect van Chemours op de gezondheid van omwonenden en werknemers»;</al>
+            <al>overwegende dat de Staatssecretaris van VWS in het debat stelde niet te kunnen garanderen dat dit onderzoek doorgang kan vinden, gezien de grote bezuinigingen op publieke gezondheid uit het hoofdlijnenakkoord;</al>
+            <al>verzoekt de regering om het uitgebreide onderzoek naar de gezondheidseffecten van Chemours in ieder geval door te laten gaan en daarbij ook de noodzaak voor eventueel vervolgonderzoek in kaart te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

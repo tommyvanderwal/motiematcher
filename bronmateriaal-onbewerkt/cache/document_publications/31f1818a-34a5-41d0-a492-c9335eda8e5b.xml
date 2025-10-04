@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-25087-354"/>
+      <meta name="OVERHEIDop.ondernummer" content="354"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="25087"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Eijk over een systeem met kiosken voor btw-teruggave op relevante exitpoints"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.P.J. van Eijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Internationaal fiscaal (verdrags)beleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-11"/>
+      <meta name="DC.title" scheme="" content="Internationaal fiscaal (verdrags)beleid; Motie; Motie van het lid Van Eijk over een systeem met kiosken voor btw-teruggave op relevante exitpoints"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Belasting"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Internationale samenwerking"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>25 087</dossiernr>
+         </dossiernummer>
+         <titel>Internationaal fiscaal (verdrags)beleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">354</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID EIJK</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-11">11 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de digitalisering van het btw-teruggaveproces is vertraagd en dat dit leidt tot economische schade en concurrentienadeel voor Nederland;</al>
+                  <al>overwegende dat op de verschillende plekken waarop reizigers het land verlaten, zoals in de trein naar Engeland of op internationale boottochten, het niet mogelijk is om btw-teruggave te regelen;</al>
+                  <al>overwegende dat al bestaande en bewezen technologie ook bij andere exitpoints gebruikt kan worden voor een veilig en efficiënt btw-teruggavesysteem;</al>
+                  <al>verzoekt de regering expliciet in de lopende verkenning mee te nemen hoe en onder welke voorwaarden een systeem met kiosken kan worden ingevoerd voor btw-teruggave op relevante exitpoints, zodat zowel ondernemers als reizigers hier voordeel uit halen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Eijk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

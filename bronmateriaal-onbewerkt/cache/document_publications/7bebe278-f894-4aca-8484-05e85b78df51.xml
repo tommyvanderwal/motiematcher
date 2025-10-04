@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-XV-113"/>
+      <meta name="OVERHEIDop.ondernummer" content="113"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-XV"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Nader gewijzigde motie van het lid Dassen c.s. over de stapsgewijze verhoging van het minimumjeugdloon (t.v.v. 36600-XV-81)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.A. Ergin"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Patijn"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-25"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025; Motie (gewijzigd/nader); Nader gewijzigde motie van het lid Dassen c.s. over de stapsgewijze verhoging van het minimumjeugdloon (t.v.v. 36600-XV-81)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">113</ondernummer>
+         </stuknr>
+         <titel>NADER GEWIJZIGDE MOTIE VAN HET LID DASSEN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 81</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-25">25 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het loon van een 18-jarige op 50% zit van het volwassenenminimumloon van een 21-jarige;</al>
+                  <al>constaterende dat Nederland in Europees perspectief een van de laagste jeugdminimumlonen heeft;</al>
+                  <al>verzoekt de regering het minimumjeugdloon stapsgewijs te verhogen, waarbij de eerste stap is dat een 20-jarige 90% van het volwassenenminimumloon verdient, een 19-jarige 80%, een 18-jarige 70%, 17-jarige 60% van het volwassenenminimumloon verdient, een 16-jarige 50% en een 15-jarige 40% en dit te dekken uit de middelen die nu gereserveerd zijn voor de voorgestelde minimumjeugdloonverhoging voor 2027 en de beperkte aanvullende dekking te zoeken in het alsnog toebedelen van de middelen die gereserveerd waren voor groepen in de knel, en het plaatsen van middelen op de SZW begroting in een realistischer kasritme door taakstellende onderuitputting in te boeken;</al>
+                  <al>verzoekt de regering de wijzigingen binnen het minimumjeugdloon te implementeren per 1 januari 2026,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dassen</al>
+                     <al>Patijn</al>
+                     <al>Ergin</al>
+                     <al>Vijlbrief</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

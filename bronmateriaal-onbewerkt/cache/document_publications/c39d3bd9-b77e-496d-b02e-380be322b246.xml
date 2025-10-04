@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-90/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">90</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID NIJHOF-LEEUW</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat deze traditionele vergunningen in 2001 gegund zijn aan 21 handkokkelvissers waarbij de vergunning bij opvolging doorgegeven mag worden;</al>
+            <al>constaterende dat er bij de handkokkelvissers met additionele vergunningen de wens is op gelijke wijze als de traditionele vergunningen in 2001 de familietraditie te kunnen voortzetten;</al>
+            <al>constaterende dat in de bekendmaking van de Minister van Landbouw, Natuur en Voedselkwaliteit van 9 augustus 2006 staat dat de «additionele» vergunningen jaarlijks tijdelijk worden uitgegeven voor de periode tot en met maximaal 2015 en dat er in 2013 een evaluatie komt en een besluit over eventuele voortzetting en de voorwaarden;</al>
+            <al>constaterende dat de evaluatie in 2013 niet heeft plaatsgevonden en de betreffende tien extra handkokkelvisvergunningen tot op heden jaarlijks conform het beleid zijn verleend;</al>
+            <al>overwegende dat deze tien vissers met additionele vergunningen voor handkokkelvisserij ook voortkomen uit families waar handkokkelvisserij een familietraditie is;</al>
+            <al>overwegende het oogpunt dat familiebedrijven gekoesterd zouden moeten worden, naar persoon waarmee bloed- of aanverwantschap bestaat in de eerste, tweede of derde graad;</al>
+            <al>overwegende dat het wenselijk is de evaluatie met betrekking tot deze vergunningen uit te voeren;</al>
+            <al>verzoekt de regering met de tien houders van additionele vergunningen in gesprek te gaan om te onderzoeken wat mogelijk is ten aanzien van de overdraagbaarheid van deze vergunningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Nijhof-Leeuw</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

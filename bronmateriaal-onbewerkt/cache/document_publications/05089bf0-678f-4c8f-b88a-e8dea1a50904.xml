@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31409-448/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 409</dossiernr>
+      </dossiernummer>
+      <titel>Zee- en binnenvaart</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">448</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID PETER DE GROOT TER VERVANGING VAN DIE GEDRUKT ONDER NR. 445</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor de woningbouwopgave in Nederland plannen zijn om dit dicht tegen of in havengebieden te ontwikkelen;</al>
+            <al>constaterende dat op gemeentelijk niveau hiervoor beleid wordt gemaakt;</al>
+            <al>overwegende dat havens belangrijk zijn voor de Nederlandse economie en banen creëert;</al>
+            <al>overwegende dat havens juist meer ruimte nodig hebben om de circulaire en energietransitie te accommoderen;</al>
+            <al>overwegende dat herontwikkeling kansen biedt voor de woningbouwopgave maar daarvoor nieuwe ruimte nodig is voor verplaatsen van bedrijven;</al>
+            <al>verzoekt de regering zich in NOVEX hard te maken voor het ruimtelijke belang van de havens en als havenontwikkeling in het gedrang komt daarover in overleg te treden met de regio en alle in de omgeving betrokken partijen waaronder de havens zelf,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Peter de Groot</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

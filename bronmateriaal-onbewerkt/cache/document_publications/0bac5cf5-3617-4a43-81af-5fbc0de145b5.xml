@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-504/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">504</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het tijdens de energiecrisis te laat duidelijk werd dat Gazprom stopte met het leveren van gas aan Nederland, waardoor onze leveringszekerheid in het geding kwam;</al>
+            <al>constaterende dat Nederland hierdoor dure noodmaatregelen heeft moeten treffen om de gasopslagen toch op tijd gevuld te krijgen en de energieprijzen hard stegen vanwege de tekorten en onzekerheden;</al>
+            <al>overwegende dat verplichte vulgraden in de toekomst kunnen voorkomen dat de gasopslagen niet op tijd gevuld zijn en zorgen voor meer stabiliteit en zekerheid;</al>
+            <al>verzoekt de regering in het wetsvoorstel gasleveringszekerheid op te nemen dat de Minister voor Klimaat en Energie jaarlijks een te behalen vulgraad voor de gasopslagen zal vaststellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Erkens</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

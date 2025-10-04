@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33037-622"/>
+      <meta name="OVERHEIDop.ondernummer" content="622"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33037"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Beckerman over maatregelen die passen binnen het mestproductieplafond pas in laten gaan als de benodigde reductie is vastgesteld"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Mestbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Mestbeleid; Motie; Motie van het lid Beckerman over maatregelen die passen binnen het mestproductieplafond pas in laten gaan als de benodigde reductie is vastgesteld"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 037</dossiernr>
+         </dossiernummer>
+         <titel>Mestbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">622</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BECKERMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de besluiten om het afromingspercentage voor pluimvee en varkens op 0% te zetten gebaseerd zijn op een prognose van de mestproductie in plaats van op feitelijk vastgestelde productie;</al>
+                  <al>constaterende dat voor de varkenshouderij in 2025 een overschrijding van het mestproductieplafond wordt verwacht;</al>
+                  <al>constaterende dat wordt verwacht dat de varkensmestproductie pas op termijn onder het plafond komt en dat dit afhankelijk is van verschillende factoren;</al>
+                  <al>overwegende dat boeren in het verleden in de knel zijn gekomen, doordat de overheid voorbarig is geweest met beschikbare emissieruimtes;</al>
+                  <al>overwegende dat de Minister aangegeven heeft dat een mogelijk gevolg van overschrijding kan zijn dat de afromingspercentages weer verhoogd moeten worden, met jojobeleid tot gevolg;</al>
+                  <al>verzoekt de regering om maatregelen waarvan wordt uitgegaan dat ze binnen het mestproductieplafond passen pas in te laten gaan als de benodigde reductie daadwerkelijk vastgesteld is in plaats van op basis van prognoses,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Beckerman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

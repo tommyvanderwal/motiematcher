@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36637-8"/>
+      <meta name="OVERHEIDop.ondernummer" content="8"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden De Hoop en Beckerman over het afschaffen van de winstbelasting voor woningcorporaties"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.E. de Hoop"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-25"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?; Motie; Motie van de leden De Hoop en Beckerman over het afschaffen van de winstbelasting voor woningcorporaties"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 637</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Welzijn over een fundamentele kijk op volkshuisvesting en woningmarkt: Hoe wordt de volgende wooncrisis voorkomen?</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">8</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DE HOOP EN BECKERMAN</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-25">25 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er een groot tekort aan betaalbare woningen in Nederland is;</al>
+                  <al>constaterende dat woningbouwcorporaties wel meer nieuwbouwwoningen opleveren dan vorig jaar, maar nog veel meer zouden kunnen als zij niet bekneld werden door de winstbelasting (vpb) die oploopt naar 1,5 miljard in 2027;</al>
+                  <al>overwegende dat afschaffing van de vpb bekostigd kan worden door winst van grondspeculanten af te romen middels een planbatenheffing, wat ook bijdraagt aan het verlagen van de grondprijzen;</al>
+                  <al>verzoekt de regering de winstbelasting voor woningbouwcorporaties af te schaffen en dit te dekken door invoering van een planbatenheffing,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>De Hoop</al>
+                     <al>Beckerman</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

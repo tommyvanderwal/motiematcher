@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-71/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">71</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>overwegende dat passende zorg nodig is om schaars personeel en schaarse middelen proportioneel in te zetten;</al>
+              <al>overwegende dat het Zorginstituut en de NZa al een aantal stappen gezet hebben om de initiatieven en contractering van passende zorg in beeld te brengen, maar dat er nog meer nodig is om voortgang te maken in transparantie en implementatie van passende zorg;</al>
+              <al>verzoekt de regering</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>afspraken te maken in het aanvullende zorg- en welzijnsakkoord om de beweging naar passende zorg te versnellen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de NZa te vragen om transparant te maken welke contracteervormen er zijn om ruimte te geven aan passende zorg en welke contracteervorm het meest geschikt is om passende zorg vorm te geven;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>met zorgverzekeraars te overleggen over structurele implementatie van passende zorg;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>en de Kamer jaarlijks te informeren over de voortgang van de transparantieagenda en structurele implementatie van passende zorg,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Tielen</al>
+              <al>Rikkers-Oosterkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

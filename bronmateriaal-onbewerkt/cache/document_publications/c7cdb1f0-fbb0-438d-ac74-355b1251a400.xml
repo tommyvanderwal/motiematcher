@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1294/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1294</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SIX DIJKSTRA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat de overheid voor haar informatiesystemen en hoogtechnologische toepassingen als AI en cloud moet aansturen op het realiseren van een hogere mate van digitale autonomie;</al>
+            <al>overwegende dat dit enkel mogelijk is wanneer er sprake is van samenhangend overheidsbeleid en een duidelijke centrale coördinatie daarop;</al>
+            <al>verzoekt de regering om het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst uit te breiden, zodanig dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties kaders kan vaststellen ter bevordering van de digitale autonomie van de informatiesystemen van de ministeries, en in verband met het bevorderen van de digitale autonomie eisen kan stellen aan voorzieningen die door alle of een daarbij aangegeven deel van de ministeries zullen worden gebruikt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Six Dijkstra</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1292/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1292</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BUIJSSE EN DE KORT </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 51% van de overheidswebsites en -apps niet voldoet aan de wettelijke vereisten voor toegankelijkheid;</al>
+            <al>overwegende dat de Staatssecretaris zich inspant om de digitale toegankelijkheid te verbeteren aan de hand van een lichte vorm van handhaving en van bewustwording bij de departementen;</al>
+            <al>overwegende dat de overheid als werkgever achterblijft in de banenafspraak en dus meer mensen met een afstand tot de arbeidsmarkt een baan zou moeten aanbieden;</al>
+            <al>verzoekt de regering om te bekijken hoe zij de kennis van ervaringsdeskundigen kan inzetten om én een inhaalslag te maken voor wat betreft de toegankelijkheid van overheidswebsites en -apps én een inhaalslag te maken om meer mensen met een afstand tot de arbeidsmarkt een baan aan te bieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Buijsse</al>
+              <al>De Kort</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

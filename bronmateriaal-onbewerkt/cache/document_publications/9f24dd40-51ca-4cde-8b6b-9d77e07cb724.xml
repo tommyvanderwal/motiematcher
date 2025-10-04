@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3278/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3278</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zowel kabinet als COA een einddatum hebben toegezegd van 1 november 2032 ten aanzien van de opvang van asielzoekers in het voormalige hotel in Albergen;</al>
+            <al>constaterende dat het COA als eigenaar van het pand echter geen bindende afspraak wil maken met de gemeente Tubbergen, waardoor de einddatum in de praktijk onzeker blijft;</al>
+            <al>overwegende dat dit tot veel onrust en een deuk in het vertrouwen bij omwonenden leidt;</al>
+            <al>verzoekt de regering zich ervoor in te spannen dat de overeengekomen einddatum van 1 november 2032 in de bestuursovereenkomst tussen de gemeente en het COA juridisch bindend wordt, waardoor opvang na die datum op deze locatie is uitgesloten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

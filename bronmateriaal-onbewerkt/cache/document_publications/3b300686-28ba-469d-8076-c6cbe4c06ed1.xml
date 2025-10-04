@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VII-101/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">101</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende er een nieuwe Wet op de identificatieplicht wordt voorbereid;</al>
+            <al>constaterende dat Nederlandse identiteitskaarten al in het Nederlands, Frans en Engels worden uitgegeven;</al>
+            <al>overwegende dat Frysk een officiële taal is;</al>
+            <al>verzoekt het kabinet om bij het voorstel voor een nieuwe Wet op de identificatieplicht te borgen dat in ieder geval identiteitskaarten dan wel delen daarvan in het Frysk kunnen worden uitgegeven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman</al>
+              <al>Van der Plas</al>
+              <al>Stoffer</al>
+              <al>Soepboer</al>
+              <al>De Hoop</al>
+              <al>Van Nispen</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

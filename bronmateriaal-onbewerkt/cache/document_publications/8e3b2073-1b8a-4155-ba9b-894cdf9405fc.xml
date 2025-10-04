@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31765-886/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 765</dossiernr>
+      </dossiernummer>
+      <titel>Kwaliteit van zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">886</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SLAGT-TICHELMAN EN BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat VNG, NVZ, FMS, NFU, ZKN en V&amp;VN uit het IZA-overleg zijn gestapt;</al>
+            <al>overwegende dat doelen van het IZA-akkoord uit zicht komen zonder deze partijen;</al>
+            <al>verzoekt de regering deze partijen zo tegemoet te komen dat ze weer bij de overleggen aansluiten, en de Kamer over de hiertoe ondernomen acties te informeren voor het voorjaarsreces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>Bushoff</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-28/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">28</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er oproepen worden gedaan om het demonstratierecht te beperken, terwijl burgemeesters juist aangeven dat zij hiermee niet geholpen zijn;</al>
+            <al>verzoekt de regering om in gesprek te gaan met burgemeesters en te inventariseren op welke manier de lokale driehoek ondersteund kan worden in zijn verantwoordelijkheid ten aanzien van het demonstratierecht, en de bevindingen met de Kamer te delen voor het meireces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Chakor</al>
+              <al>Koekkoek</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

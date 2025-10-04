@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de woningbouwopgave gehinderd wordt door te weinig en gefragmenteerde informatie over de volkshuisvesting en vastgoedmarkt, terwijl digitalisering juist een bijdrage kan én moet leveren aan de opgave;</al>
+            <al>overwegende dat de huidige beleidsmonitoring van de volkshuisvesting onvoldoende informatie oplevert, te weinig samenhang heeft en te traag is;</al>
+            <al>overwegende dat er behoefte is aan diverse data in de woningbouw met betrekking tot aantallen en segmenten, optoppen, splitsen, transformeren, verduurzaming en meer;</al>
+            <al>overwegende dat de digitalisering en informatievoorziening van Ruimtelijke Ordening en Volkshuisvesting nauw samenhangen;</al>
+            <al>overwegende dat gemeenten, provincies en Rijk daarom veel tijd en geld kwijt zijn aan het verzamelen van informatie en het koppelen van losse databronnen;</al>
+            <al>verzoekt de regering om te komen tot een digitaliseringsstrategie en een meerjarig informatieplan voor het volkshuisvestingsbeleid, een samenhangend datafundament en monitoringssystematiek voor het volkshuisvestingsbeleid;</al>
+            <al>verzoekt de regering te borgen dat deze ontwikkeling aansluit op het datafundament voor de ruimtelijke ordening, Zicht op Nederland;</al>
+            <al>verzoekt de regering om het datascienceteam voor Volkshuisvesting en Bouwen in staat te stellen zijn informatievoorziening hiervoor in te richten en de Kamer jaarlijks te informeren over de stand van de digitalisering en informatiebehoefte voor het volkshuisvestingsbeleid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>Wijen-Nass</al>
+              <al>Vedder</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

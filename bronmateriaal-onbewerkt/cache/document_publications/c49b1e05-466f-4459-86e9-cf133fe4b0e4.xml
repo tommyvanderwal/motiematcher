@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-B-39/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>B</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het gemeentefonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">39</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WINGELAAR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het afwegingskader voor specifieke uitkeringen ruimte laat voor politieke afwegingen, waardoor specifieke uitkeringen in stand kunnen blijven;</al>
+            <al>constaterende dat het regeerprogramma bepaalt dat specifieke uitkeringen alleen op basis van een kabinetsbesluit kunnen worden voortgezet of toegekend;</al>
+            <al-groep>
+              <al>overwegende dat overheveling naar fondsuitkeringen gemeenten meer</al>
+              <al>bestedingsvrijheid geeft en bijdraagt aan lokale autonomie;</al>
+            </al-groep>
+            <al>van mening dat de Kamer betrokken moet worden bij de besluitvorming over zowel de verlenging van bestaande specifieke uitkeringen als het overhevelen naar het Gemeentefonds;</al>
+            <al>verzoekt de regering na het besluit over de specifieke uitkeringen, maar voor het daadwerkelijk overhevelen naar het Gemeentefonds, de Kamer volledig en zo spoedig mogelijk te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Wingelaar</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

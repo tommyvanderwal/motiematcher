@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-128/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">128</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIJPELINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Arbeidsinspectie een rol heeft in het toezicht op werkgevers die een goede werkomgeving moeten creëren voor hun werknemers en gemeenten toezien op bouwregelgeving;</al>
+            <al>voorts constaterende dat onderwijzend personeel toch te vaak wordt geconfronteerd met een slecht binnenklimaat in schoolgebouwen en ook de leerprestaties van scholieren hieronder lijden;</al>
+            <al>overwegende dat het interdepartementaal beleidsonderzoek naar de onderwijshuisvesting heeft vastgesteld dat de beleidscyclus niet gesloten is, doordat er geen monitoring of toezicht bestaat op specifiek onderwijshuisvesting;</al>
+            <al>verzoekt de regering om voor de zomer van 2025 een brede verkenning uit te voeren van monitoringsmogelijkheden binnen het stelsel en daarbij de voor- en nadelen inzake de uitvoerbaarheid en administratieve lasten voor diverse betrokken partijen in kaart te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pijpelink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

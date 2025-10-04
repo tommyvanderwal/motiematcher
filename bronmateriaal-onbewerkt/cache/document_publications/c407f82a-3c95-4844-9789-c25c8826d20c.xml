@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-39/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">39</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor zowel de aanleg van een warmtenet als isolatie van woningen werkzaamheden aan of bij woningen moeten worden verricht;</al>
+            <al>overwegende dat dit idealiter in samenhang gebeurt uit oogpunt van hinder en kostenefficiëntie;</al>
+            <al>constaterende dat veel huishoudens niet altijd de financiën hebben voor verduurzaming en dat een gebouwgebonden financiering op de woning hiervoor een uitkomst zou zijn;</al>
+            <al>verzoekt de regering om de mogelijkheid tot gebouwgebonden financiering van woningen te versnellen, zodat bij de aanleg van warmtenetten woningen meteen optimaal geïsoleerd en verduurzaamd kunnen worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

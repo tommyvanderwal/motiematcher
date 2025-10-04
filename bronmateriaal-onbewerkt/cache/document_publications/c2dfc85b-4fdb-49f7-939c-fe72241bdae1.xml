@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOOMSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat schelpdierkweek gezond voedsel biedt voor een gevarieerd dieet met een zeer lage footprint;</al>
+            <al>overwegende dat de Nederlandse kustzone perspectief biedt om de voedselzekerheid te versterken en «voedsel uit zee» als een van de prioriteiten staat genoemd, maar er op dit moment weinig ruimte is voor huidige kwekers;</al>
+            <al>overwegende dat het mogelijk is om tijdelijk mosselen te kweken op zandwinlocaties die nog niet in gebruik zijn;</al>
+            <al>verzoekt de regering met een plan te komen om samen met de schelpdierensector een tweetal demonstratieprojecten uit te rollen waar zandwinlocaties die niet in gebruik zijn, tijdelijk gebruikt kunnen worden voor schelpdierkweek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boomsma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

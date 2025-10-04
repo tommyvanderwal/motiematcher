@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-94/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">94</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HELDER EN ELLIAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in artikel 191 Wetboek van Strafrecht is bepaald dat degene die opzettelijk iemand die op openbaar gezag of krachtens rechterlijke uitspraak of bij schikking van de vrijheid is beroofd, bevrijdt of bij zijn zelfbevrijding behulpzaam is, strafbaar is;</al>
+            <al>constaterende dat wanneer het tot een gevangenisstraf veroordeelde zelf is die zich onttrekt aan de door de rechter opgelegde gevangenisstraf niet strafbaar is;</al>
+            <al>van mening dat een door de rechter opgelegde, onherroepelijke gevangenisstraf daadwerkelijk moet worden ondergaan en dat het onttrekken daaraan strafbaar moet zijn;</al>
+            <al>verzoekt de regering met een voorstel te komen om onttrekking aan een opgelegde gevangenisstraf strafbaar te stellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Helder</al>
+              <al>Ellian</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

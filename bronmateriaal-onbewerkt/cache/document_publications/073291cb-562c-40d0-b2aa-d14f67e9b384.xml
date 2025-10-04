@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36576-107"/>
+      <meta name="OVERHEIDop.ondernummer" content="107"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36576"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Kröger c.s. over een faciliterend kader en een waarborgfonds voor warmtegemeenschappen (t.v.v. 36576-83)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Beckerman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.C. Kröger"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-25"/>
+      <meta name="DC.title" scheme="" content="Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte); Motie (gewijzigd/nader); Gewijzigde motie van het lid Kröger c.s. over een faciliterend kader en een waarborgfonds voor warmtegemeenschappen (t.v.v. 36576-83)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 576</dossiernr>
+         </dossiernummer>
+         <titel>Regels omtrent productie, transport en levering van warmte (Wet collectieve warmte)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">107</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID KRÖGER C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 83</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-25">25 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de potentie van warmtegemeenschappen groot is: tot 25% van alle warmtevoorziening;</al>
+                  <al>overwegende dat warmtegemeenschappen de slagingskans van een warmtenetproject vergroten en daarmee de doelstellingen van de warmtetransitie helpen te bereiken;</al>
+                  <al>overwegende dat er momenteel een groot aantal pionierende initiatieven zijn die de weg voorbereiden voor meer warmtegemeenschappen, maar deze groep lastig voorbij de initiatiefase komt;</al>
+                  <al>overwegende dat daar verschillende oorzaken achter zitten, zoals onduidelijkheid over wet- en regelgeving, het ontbreken van en onduidelijkheden over het waarborgfonds en de uitdaging om eigen vermogen te organiseren en het verkrijgen van aantrekkelijke financiering met vreemd vermogen;</al>
+                  <al>overwegende dat de Europese richtlijn voorschrijft dat lidstaten zorg moeten dragen dat energiegemeenschappen een gelijke kans van toetreding op de markt krijgen en een faciliterend kader moeten inrichten voor energiegemeenschappen;</al>
+                  <al>verzoekt de regering in overleg met warmtegemeenschappen het nationale waarborgfonds zo vorm te geven dat deze aansluit op de karakteristieken van warmtegemeenschappen;</al>
+                  <al>verzoekt de regering om snel tot een actieplan te komen om invulling te geven aan het faciliterend kader voor warmtegemeenschappen, met daarbij ook steun om het organiseren van eigen vermogen in de sector te versnellen;</al>
+                  <al>verzoekt de regering om ondersteuning te bieden aan projecten die nu al een gedegen ontwikkeld plan hebben maar vast dreigen te lopen doordat nu nog een faciliterend kader en een waarborgfonds ontbreekt, zoals onder andere het geval is bij Warm Heeg en MeerEnergie</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kröger</al>
+                     <al>Grinwis</al>
+                     <al>Vermeer</al>
+                     <al>Flach</al>
+                     <al>Postma</al>
+                     <al>Beckerman</al>
+                     <al>Rooderkerk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

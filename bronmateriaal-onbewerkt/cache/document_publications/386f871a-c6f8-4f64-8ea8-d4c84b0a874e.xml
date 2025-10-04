@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24515-791/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 515</dossiernr>
+      </dossiernummer>
+      <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">791</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN EIJK EN INGE VAN DIJK </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in de nieuwe richtlijn van de NVVK de volledige kwijtschelding van schulden zonder aflossing of tegenprestatie als optie voor het oplossen van schulden is opgenomen en dat een schuldenaar na kwijtschelding verdere schuldhulpverlening om herhaling te voorkomen mag weigeren;</al>
+            <al>overwegende dat het aantal crediteuren dat een dergelijk «nulaanbod» krijgt, sindsdien fors is toegenomen en hierdoor bij kleine crediteuren financiële problemen kunnen ontstaan;</al>
+            <al>spreekt uit dat schulden in beginsel moeten worden afbetaald en dat het wenselijk is dat dit waar mogelijk ook gebeurt;</al>
+            <al>verzoekt de regering een maatregel te nemen die ervoor zorgt dat schuldhulpverlening ook bij volledige kwijtschelding verplicht in beeld blijft om zo het ontstaan van nieuwe problematische schulden te voorkomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Eijk</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

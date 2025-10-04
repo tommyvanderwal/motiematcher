@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-103/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">103</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN KRUL EN VAN ZANTEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 78</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-23">23 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel scholen het continurooster gebruiken,</al>
+            <al>overwegende dat kinderen op deze scholen nauwelijks tijd hebben om hun lunch te eten, waardoor volle broodtrommeltjes weer mee naar huis gaan,</al>
+            <al>overwegende dat tijdens de lunch kinderen vaak een filmpje moeten kijken om deze tijd mee te laten als tellen als onderwijstijd,</al>
+            <al>overwegende dat de Minister scholen handvatten heeft gegeven om het continurooster beter vorm te geven,</al>
+            <al>verzoekt de regering om uiterlijk in Q3 de kamer te informeren over wat scholen hebben gedaan met de handvatten om het continurooster beter vorm te geven zodat deze kinderen ook rustig pauze kunnen hebben, geen filmpjes hoeven te kijken en tijd hebben om hun lunch op te eten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29754-768"/>
+      <meta name="OVERHEIDop.ondernummer" content="768"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29754"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Six Dijkstra over strakkere regels en verplichte handhaving voor gameplatforms met een risico op onlineradicalisering"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Terrorismebestrijding"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Terrorismebestrijding; Motie; Motie van het lid Six Dijkstra over strakkere regels en verplichte handhaving voor gameplatforms met een risico op onlineradicalisering"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Terrorisme"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 754</dossiernr>
+         </dossiernummer>
+         <titel>Terrorismebestrijding</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">768</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SIX DIJKSTRA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat veel online inhoud «awful but lawful» is maar wel maakt dat jongeren afglijden in online echokamers naar vaak nihilistische vormen van extremisme;</al>
+                  <al>constaterende dat platforms die onder de DSA niet als very large online platform (VLOP) zijn aangemerkt wettelijk gezien geen aanvullende maatregelen hoeven te treffen om schadelijke inhoud actief te weren of minderjarigen te beschermen;</al>
+                  <al>constaterende dat onderzoeken als «Een web van haat – De onlinegrip van extremisme en terrorisme op minderjarigen» van de AIVD en «Van meme tot moord» van HCSS aantonen dat ook platforms die niet onder de aanvullende regels van de DSA vallen, zoals Discord, Minecraft en Roblox, door kwaadwillenden gebruikt worden om jongeren te ronselen voor extremistische handelingen;</al>
+                  <al>verzoekt de regering om samen met andere EU-landen zich in te spannen voor strakkere regels en verplichte handhaving voor gameplatforms en overige kanalen waarbij een aanmerkelijk risico op onlineradicalisering en ronselen van minderjarigen bestaat,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Six Dijkstra</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

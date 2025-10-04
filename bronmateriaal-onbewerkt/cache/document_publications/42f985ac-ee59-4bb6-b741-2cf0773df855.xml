@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-471/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">471</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-27">27 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland staat voor een aantal grootschalige transities, zoals energie, AI, dus artificial intelligence, digitalisering en grondstoffen, waarbij het publieke belang in het geding is;</al>
+            <al>overwegende dat nieuw «privatiseringsverdriet» moet worden voorkomen;</al>
+            <al>verzoekt de regering de WRR te vragen om in het licht van de grootschalige transities opnieuw het publieke belang voor ten minste deze terreinen te definiëren en tegen het licht te houden wat dat betekent voor zeggenschap en eigenaarschap en de verhouding tussen overheid, samenleving en markt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Bontenbal</al>
+              <al>Postma</al>
+              <al>Vermeer</al>
+              <al>Kröger</al>
+              <al>Dijk</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

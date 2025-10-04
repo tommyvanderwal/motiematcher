@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34843-105/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 843</dossiernr>
+      </dossiernummer>
+      <titel>Seksuele intimidatie en geweld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">105</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het voor slachtoffers van verkrachting of aanranding niet te verkroppen is dat daders wegkomen met een taakstraf omdat zij zogeheten «first offenders» zijn;</al>
+            <al>overwegende dat het taakstrafverbod bij zedendelicten het opleggen van een enkele taakstraf onmogelijk maakt, maar dit in de praktijk wordt omzeild door het opleggen van één dag gevangenisstraf met aftrek van voorarrest;</al>
+            <al>constaterende dat het Openbaar Ministerie op dit moment beziet of aanpassing van de strafvorderingsrichtlijn naar aanleiding van het wetsvoorstel Wet seksuele misdrijven nodig is;</al>
+            <al>verzoekt de regering om in gesprek met het OM te benadrukken de strafvorderingsrichtlijnen voor first offenders tegen het licht te houden en hierbij de kans op secundaire victimisatie expliciet mee te wegen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Diederik van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

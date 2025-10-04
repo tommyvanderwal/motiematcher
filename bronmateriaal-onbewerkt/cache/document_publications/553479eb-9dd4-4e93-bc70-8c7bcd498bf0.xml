@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36463-22"/>
+      <meta name="OVERHEIDop.ondernummer" content="22"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-25"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36463"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Diederik van Dijk en Michon-Derkzen over bij drugslabs de daders op laten draaien voor de saneringskosten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I.J.M. Michon-Derkzen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.title" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II); Motie; Motie van de leden Diederik van Dijk en Michon-Derkzen over bij drugslabs de daders op laten draaien voor de saneringskosten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 463</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">22</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK EN MICHON-DERKZEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-24">24 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het wetsvoorstel Versterking strafrechtelijke aanpak ondermijnende criminaliteit II (<dossierref dossier="36463">36 463</dossierref>) regelt dat de kosten voor vernietiging van voorwerpen die in beslag zijn genomen door opsporingsdiensten en OM worden verhaald op degene die daarvoor veroordeeld wordt;</al>
+                  <al>overwegende dat de saneringskosten voor drugsdumpingen in de buurt van drugslabs op dit moment niet verhaald worden op de dader, maar dat deze kosten ten laste komen van de provincie;</al>
+                  <al>van mening dat de samenleving niet opgezadeld moet worden met deze kosten, die per dumping kunnen oplopen tot tienduizenden euro's, maar dat daders deze kosten rechtstreeks moeten vergoeden middels een schadevergoeding, zonder dat hiervoor een civiele zaak gestart dient te worden;</al>
+                  <al>verzoekt de regering met een voorstel te komen om bij ieder gevonden drugslab te inventariseren hoeveel drugs er zijn geproduceerd en hoeveel drugsafval dat heeft opgeleverd en de daders middels schadevergoeding op te laten draaien voor de saneringskosten,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Diederik van Dijk</al>
+                     <al>Michon-Derkzen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

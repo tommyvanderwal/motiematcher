@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-91/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">91</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat mensen met sociaal-juridische problematiek terecht moeten kunnen in een laagdrempelige voorziening in de buurt, waar de juiste instanties ingeschakeld worden en waar mogelijk samenwerken of in ieder geval afstemmen om tot een oplossing te komen;</al>
+            <al>overwegende dat het Huis van het Recht in Heerlen een mooi voorbeeld is en goed blijkt te werken in de praktijk;</al>
+            <al>constaterende dat de doorontwikkeling tot een landelijk dekkend netwerk van laagdrempelige voorzieningen niet vanzelf gaat en gebaat is bij landelijke regie, waarbij Rijk en gemeenten samenwerken om de rechtsbescherming voor mensen te verbeteren;</al>
+            <al>verzoekt de regering met voorstellen te komen hoe een landelijk dekkend netwerk tot stand zou kunnen komen waarin lokale en regionale samenwerkingsvormen zoals het Huis van het Recht een plek krijgen, te beginnen in die regio's waar de sociaal-juridische problematiek het grootst is en/of het aanbod beperkt is, en de Kamer over een concreet tijdpad met doelstellingen te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

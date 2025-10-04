@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-123/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">123</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DEN HIL C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat toegang tot sport en beweging voor mensen met een beperking van groot belang is voor participatie, gezondheid en welzijn;</al>
+            <al>constaterende dat de aanschaf en vergoeding voor hetzelfde sporthulpmiddel voor mensen met een beperking verschilt tussen gemeenten;</al>
+            <al>overwegende dat de huidige versnipperde aanpak rondom sporthulpmiddelen leidt tot inefficiëntie, onduidelijkheid en ongelijke toegang;</al>
+            <al>van mening dat een duurzaam, efficiënt en toekomstbestendig systeem noodzakelijk is om zowel individuele behoeften als collectieve oplossingen te ondersteunen;</al>
+            <al>verzoekt de regering één centraal loket bij Uniek Sporten te realiseren voor sporthulpmiddelen, ondersteund door passende middelen en binnen de financiële kaders, ervoor te zorgen dat dit systeem ruimte biedt voor maatwerkoplossingen, waarbij ook topsporters gebruik kunnen maken van een basisvoorziening voor sporthulpmiddelen en het centraal loket tevens de mogelijkheid te bieden sporthulpmiddelen bij sportverenigingen te plaatsen wanneer dit efficiënter en effectiever is dan individuele verstrekking;</al>
+            <al>verzoekt de regering te onderzoeken of de vergoeding voor sporthulpmiddelen in alle gemeenten kan worden gerealiseerd, zodat de toegang tot sporthulpmiddelen eenvoudiger en gelijkwaardiger wordt voor mensen met een beperking,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van den Hil</al>
+              <al>Saris</al>
+              <al>Van Nispen</al>
+              <al>Mohandis</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

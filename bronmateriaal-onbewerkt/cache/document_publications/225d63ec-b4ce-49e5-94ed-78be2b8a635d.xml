@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29683-300/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 683</dossiernr>
+      </dossiernummer>
+      <titel>Dierziektebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">300</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN KOSTIC </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Ministerie van LNV bevoegd gezag is voor het opruimen van de kadavers van wilde vogels en de opvang van mogelijk besmette dieren;</al>
+            <al>overwegende dat op dit moment dierenhulporganisaties de verantwoordelijkheid op zich hebben genomen en tijdelijke ondersteuning geregeld is middels de motie-De Groot/Beckerman (Kamerstuk 29683–282);</al>
+            <al>overwegende dat bij een aanhoudende epidemie en onvoldoende financiële ondersteuning zij deze taak niet oneindig kunnen blijven uitvoeren;</al>
+            <al>overwegende dat daarmee soortenbescherming, bescherming van pluimvee, de pluimveebedrijven en uiteindelijk de volksgezondheid in het geding komen;</al>
+            <al>verzoekt de regering om in overleg met dierenhulporganisaties te bezien hoe gezamenlijk met een structurele financiële strategie te komen en deze bij de begroting voor 2025 te presenteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

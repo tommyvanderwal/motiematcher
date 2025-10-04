@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26485-445/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 485</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijk verantwoord ondernemen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">445</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HIRSCH EN TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de misstanden in Mozambique door de projecteigenaar TotalEnergies zelf zijn onderzocht;</al>
+            <al>overwegende dat dit geen onafhankelijke partij is, dat de rol van TotalEnergies zelf en haar personeel geen plek heeft gehad in dit onderzoek, en dat TotalEnergies de troepen heeft gefinancierd die van zware geweldpleging tegen burgers worden beschuldigd;</al>
+            <al-groep>
+              <al>overwegende dat een onafhankelijk onderzoek cruciaal is voor slachtoffers,</al>
+              <al>overlevenden, getuigen en hun families om zich veilig uit te kunnen spreken;</al>
+            </al-groep>
+            <al>overwegende dat het in het belang is van het instrument van exportkredietverzekeringen dat misstanden goed en onafhankelijk onderzocht worden;</al>
+            <al>verzoekt het kabinet zich in te zetten om de misdaden die gepleegd zijn in Mozambique onafhankelijk te laten onderzoeken, bij voorkeur onder toezicht van de VN,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hirsch</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

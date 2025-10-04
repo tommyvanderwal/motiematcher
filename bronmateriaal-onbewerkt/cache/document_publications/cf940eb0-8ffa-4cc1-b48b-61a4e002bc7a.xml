@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31765-864/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 765</dossiernr>
+      </dossiernummer>
+      <titel>Kwaliteit van zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">864</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel vrouwen in Nederland een spiraaltje laten plaatsen;</al>
+            <al>constaterende dat dit voor veel vrouwen als traumatisch en pijnlijk ervaren wordt;</al>
+            <al>overwegende dat de pijn een drempel vormt voor sommige vrouwen;</al>
+            <al>overwegende dat het van groot belang is dat iedere vrouw optimale toegang heeft tot anticonceptie;</al>
+            <al>verzoekt de regering meer stappen te zetten in samenwerking met het veld om pijnbehandeling bij het plaatsen van een spiraaltje voor vrouwen mogelijk te maken en hierbij eerlijke voorlichting en begeleiding te bevorderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>Tielen</al>
+              <al>Koekkoek</al>
+              <al>Dobbe</al>
+              <al>Kostić</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

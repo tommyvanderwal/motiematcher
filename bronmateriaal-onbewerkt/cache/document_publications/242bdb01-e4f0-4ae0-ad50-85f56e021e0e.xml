@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29502-190/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 502</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">190</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat veel consumenten en bedrijven afhankelijk zijn van de postmarkt of participeren op de postmarkt;</al>
+            <al>overwegende dat de Autoriteit Consument en Markt een onderzoek uitvoert op verzoek van Economische Zaken naar een toekomstvisie van de postmarkt;</al>
+            <al>overwegende dat dit verzoek beperkt is tot vier korte regels;</al>
+            <al>overwegende dat het onderzoek zich vooral richt op de universele postdienst;</al>
+            <al>verzoekt de regering om te komen tot een uitgebreidere scenariostudie en een bijbehorende bredere opdracht, waarbij het belang van de UPD, de consument, concurrentie en marktwerking centraal staan en in dit scenario ook een visie te maken over een eventueel samengaan van de post- en pakketmarket en welke nieuwe mogelijkheden dit zal bieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kisteman</al>
+              <al>Thijssen</al>
+              <al>Zeedijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

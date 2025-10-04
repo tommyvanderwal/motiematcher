@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35709-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 709</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van de leden Timmermans en Bikker tot wijziging van het Wetboek van Strafrecht in verband met de invoering van het discriminatoir oogmerk als strafverzwaringsgrond</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN TSEGGAI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het invoeren van het discriminatoir aspect als strafverzwaringsgrond bij kan dragen aan een betere bestraffing van discriminatie;</al>
+            <al>overwegende dat een effectieve aanpak van discriminatie tevens vraagt aan de slag te gaan met de pleger van dit strafbare feit en niet enkel een niet-gerelateerde straf op te leggen;</al>
+            <al>constaterende dat gerichte alternatieve straffen, maatregelen en opgelegde voorwaarden zoals het verplicht bezoek aan een museum of monument, gesprekken met overlevenden of mensen uit de gemeenschap, een cursus of een gedragstraining naast óf in plaats van de straf nuttig kunnen zijn, als deze als doel hebben aan te zetten tot reflectie op het gedrag, hier iets van te leren en te voorkomen dat de pleger recidiveert;</al>
+            <al>verzoekt de regering te onderzoeken hoe het opleggen van gerichte straffen, maatregelen of voorwaarden gerelateerd aan het delict discriminatie verder bevorderd kan worden, en daartoe uiterlijk voor de zomer 2025 met voorstellen te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

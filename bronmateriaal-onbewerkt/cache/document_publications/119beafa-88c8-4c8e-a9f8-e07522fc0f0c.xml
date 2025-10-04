@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31524-661"/>
+      <meta name="OVERHEIDop.ondernummer" content="661"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31524"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Stultiens c.s. over afzien van de invoering van een eigen bijdrage in de jeugdzorg"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Koekkoek"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.M. Westerveld"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.C.J. Stultiens"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Beroepsonderwijs en Volwassenen Educatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Beroepsonderwijs en Volwassenen Educatie; Motie; Motie van het lid Stultiens c.s. over afzien van de invoering van een eigen bijdrage in de jeugdzorg"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Beroepsonderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 524</dossiernr>
+         </dossiernummer>
+         <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">661</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID STULTIENS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het kabinet van plan is een eigen bijdrage in de jeugdzorg in te voeren;</al>
+                  <al>constaterende dat het vragen van een eigen bijdrage in strijd is met het Internationaal Verdrag inzake de Rechten van het Kind, waarin staat dat kinderen nooit noodzakelijke zorg mag worden onthouden omdat ouders die niet kunnen betalen;</al>
+                  <al>constaterende dat financiële drempels hulp uitstellen, preventie ondermijnen en leiden tot zwaardere, duurdere zorg op de lange termijn;</al>
+                  <al>overwegende dat eerdere invoering van de eigen bijdrage in de ggz desastreus uitpakte en is teruggedraaid;</al>
+                  <al-groep>
+                     <al>verzoekt de regering af te zien van de invoering van een eigen bijdrage in de</al>
+                     <al>jeugdzorg,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Stultiens</al>
+                     <al>Westerveld</al>
+                     <al>Dobbe</al>
+                     <al>Koekkoek</al>
+                     <al>Kostić</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

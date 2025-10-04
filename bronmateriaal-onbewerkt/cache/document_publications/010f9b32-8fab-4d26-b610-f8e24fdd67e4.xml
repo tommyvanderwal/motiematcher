@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36541-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 541</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tabaks- en rookwarenwet in verband met de invoering van een registratieplicht voor verkooppunten van tabaksproducten en aanverwante producten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het RIVM heeft berekend dat met het huidige beleid de doelen uit het Nationaal Preventieakkoord niet zullen worden behaald, en dat daarvoor meer vergaande maatregelen nodig zijn, zoals het terugdringen van verkooppunten;</al>
+            <al>overwegende dat een registratieplicht voor de verkooppunten van tabak weliswaar helpt bij de monitoring en handhaving, maar uiteindelijk geen invloed heeft op het aantal verkooppunten, omdat na 2032 verkoop in tabaksspeciaalzaken toegestaan blijft;</al>
+            <al>overwegende dat zowel in de motie-Kuik/Van Esch en de motie-Krul/Bikker reeds is verzocht om een vergunningsstelsel voor de verkoop van tabak uit te werken alsmede een afstandscriterium, waarmee gemeenten kunnen sturen op het aantal verkooppunten, maar dat de Kamer hiervan nog geen uitwerking heeft ontvangen;</al>
+            <al>verzoekt de regering met gemeenten een verkenning te doen naar een vergunningsstelsel op het moment dat tabak alleen nog in speciaalzaken verkocht mag worden, bijvoorbeeld in combinatie met een afstandscriterium, en de Kamer hierover voor de begrotingsbehandeling van 2026 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Algemene Rekenkamer constateert dat de maatschappelijke zorgen over het zeker stellen van het verdienvermogen van Nederland groeien, en hoe het vestigings- en ondernemingsklimaat, innovatie en een visie op industriebeleid hieraan een bijdrage kunnen leveren;</al>
+            <al>overwegende dat de Algemene Rekenkamer constateert dat er in de Monitor Brede Welvaart geen indicator is voor vestigingsklimaat;</al>
+            <al>van mening dat de staat van het vestigingsklimaat een belangrijk thema is om op te nemen in de Monitor Brede Welvaart, omdat geld eerst verdiend moet worden voordat we het kunnen uitgeven, voor nu, maar zeker voor toekomstige generaties;</al>
+            <al>verzoekt de regering in gesprek te treden met het CBS over het toevoegen van vestigingsklimaat als indicator aan de Monitor Brede Welvaart onder de paragraaf economisch kapitaal,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Inge van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

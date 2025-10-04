@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35386-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 386</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de nationale vuurwerkshow op de Erasmusbrug in Rotterdam jaarlijks een veilig, professioneel en feestelijk alternatief biedt voor particulier vuurwerk;</al>
+            <al>overwegende dat een centraal georganiseerde vuurwerkshow bijdraagt aan het verminderen van overlast, letsel en schade rond de jaarwisseling;</al>
+            <al>overwegende dat bij verdere inperking of een verbod op consumentenvuurwerk het belang van een gedeelde nationale viering alleen maar toeneemt;</al>
+            <al>verzoekt de regering te garanderen dat de nationale vuurwerkshow in Rotterdam blijft bestaan en dat deze wordt bekostigd uit rijksmiddelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3290/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3290</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOOMSMA EN VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemeenten per 1 januari 2025 een eigen bijdrage moeten vragen aan werkende Oekraïense ontheemden die zij opvangen;</al>
+            <al>constaterende dat door een omissie gemeenten geen toegang hebben tot de actuele inkomensgegevens en er dus effectief nauwelijks eigen bijdragen geïnd kunnen worden;</al>
+            <al>constaterende dat de eigen bijdrage van € 105 per maand aan de lage kant is voor bijvoorbeeld iemand die het minimumloon verdient en dus een netto-inkomen heeft van iets meer dan € 2.000 per maand en een gratis zorgverzekering;</al>
+            <al>van mening dat gemeentes dus toegang dienen te hebben tot de gegevens als bedoeld in artikel 33, lid 2, onderdeel d van de Wet SUWI, maar ze op grond van de gewijzigde regeling alleen toegang hebben tot lid 2, onderdeel a tot en met c;</al>
+            <al>verzoekt de regering om binnen drie weken spoedwetgeving (de Tijdelijke wet opvang ontheemden Oekraïne, TWOO) voor te leggen aan de Kamer, zodat gemeentes toegang krijgen tot de gegevens die ze effectief nodig hebben om de eigen bijdragen zelf op te leggen en te innen, en de Kamer binnen een week te informeren over het tijdpad van deze eenvoudige spoedwetgeving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

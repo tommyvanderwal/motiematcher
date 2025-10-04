@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XII-73/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">73</ondernummer></stuknr>
+      <titel>GEWIJZGIDE MOTIE VAN DE LEDEN GABRIËLS EN KOSTIĆ TER VERVANGING VAN DIE GEDRUKT ONDER NR. 61</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-01-29">29 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat uit alle rapporten blijkt dat Nederland niet meer tijdig overal aan alle KRW-doelen kan voldoen;</al>
+            <al>overwegende dat de doelen en kaders van de Kaderrichtlijn Water decennia geleden zijn vastgesteld, dat Nederland telkens onvoldoende effectieve maatregelen heeft genomen en dat alle opties voor verder uitstel, slappere normen of niets doen zijn uitgeput;</al>
+            <al>overwegende dat het niet-voldoen aan de KRW-eisen gaat leiden tot een verslechteringsverbod en daarmee een verlammende werking voor vrijwel alle activiteiten rond die betrokken wateren;</al>
+            <al>overwegende dat dit excessieve beperkingen en maatschappelijke kosten met zich meebrengt;</al>
+            <al>verzoekt de regering om alles op alles te zetten om wél overal aan de KRW-eisen te voldoen en geen enkel bestuurlijk of juridisch middel uit te sluiten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Gabriëls</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

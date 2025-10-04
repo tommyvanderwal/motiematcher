@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1308/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1308</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat shortstaycontracten juridisch zijn bedoeld voor vakantiewoningen en tijdelijke logies maar steeds vaker worden misbruikt voor reguliere verhuur, waardoor huurders geen recht hebben op huurbescherming, maximale huurprijzen of vaste contracten;</al>
+            <al>constaterende dat uit onderzoek blijkt dat het aanbod van shortstaywoningen met 45% is toegenomen sinds de inwerkingtreding van de Wet vaste huurcontracten, en dat verhuurders deze constructie gebruiken om hoofdprijzen te vragen en huurbescherming te ontwijken;</al>
+            <al>overwegende dat dit leidt tot een dubbele vorm van uitsluiting, waarbij woningzoekenden zonder expatstatus uit de markt worden gedrukt, terwijl expats worden uitgebuit;</al>
+            <al>verzoekt de regering om het gebruik van shortstaycontracten voor reguliere woonruimte wettelijk te beperken en heldere, afdwingbare criteria vast te leggen voor wat als «short stay» mag gelden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36566-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 566</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tijdelijke wet Groningen in verband met het herstel van omissies en het aanbrengen van verduidelijkingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PETER DE GROOT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in 2023 voor elke euro aan uitgekeerde schadevergoeding € 0,78 aan uitvoeringskosten werd gemaakt;</al>
+            <al>overwegende dat er sneller, effectiever en meer doelgericht moet worden gewerkt aan de afhandeling van de aardbevingsschade en het versterken van onveilige huizen en gebouwen in Groningen;</al>
+            <al>overwegende dat overhead bestaat uit vaste kosten, juridische kosten en technische advieskosten;</al>
+            <al>overwegende dat bij makkelijker en milder schadeherstel de juridische kosten en fte's zouden moeten afnemen;</al>
+            <al>verzoekt de regering om bij de Staat van Groningen de Kamer te informeren hoe deze overheadkosten drastisch kunnen worden teruggebracht, zoals verzocht in de eerder aangenomen motie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Peter de Groot</al>
+              <al>Vermeer</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

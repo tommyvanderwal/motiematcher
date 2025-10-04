@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-30/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">30</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er ondanks aandacht voor geografische spreiding in de BIS en de fondsen nog steeds sprake is van een aanzienlijk verschil van cultuurvoorzieningen tussen regio’s;</al>
+            <al>overwegende dat het van belang is dat er in elke regio een toegankelijk cultuuraanbod is;</al>
+            <al-groep>
+              <al>overwegende dat landelijke algemeen geldende criteria geen recht doen aan Elke regio telt! en de specifieke situatie in een regio;</al>
+              <al>overwegende dat de door de Tweede Kamer aangenomen motie op stuk nr. <extref doc="kst-36410-VIII-82" soort="document" status="actief">82 (36 410-VIII)</extref> over een evenredigere verdeling van cultuursubsidies over Nederland nog niet tot het gewenste effect heeft geleid;</al>
+            </al-groep>
+            <al>verzoekt de regering te onderzoeken waarom geografische spreiding achterblijft;</al>
+            <al>verzoekt de regering de uitkomsten van dit onderzoek voor het einde van 2025 met de Kamer te delen zodat de uitkomsten kunnen worden meegenomen in de ontwikkeling van een nieuw cultuurbestel vanaf 2029,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

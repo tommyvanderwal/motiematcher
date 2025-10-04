@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering in haar beleid inzet op het voldoen aan de Europese begrotingsregels, maar niet expliciet stuurt op de Europese doelstelling om de inflatie tot 2% te beperken;</al>
+            <al>constaterende dat het inflatiepeil in Nederland met 3,5% momenteel het op een na hoogste van de eurozone is en dat volgens de laatste CPB-raming (MLT) de inflatie gedurende de gehele beoogde kabinetsperiode ruim boven de 2% dreigt te blijven;</al>
+            <al>overwegende dat prijsstabiliteit primair een taak is van de centrale banken, maar budgettair en fiscaal beleid ook doorwerkt in de consumentenprijzen;</al>
+            <al-groep>
+              <al>overwegende dat inflatie de sluipmoordenaar is van de koopkracht van (al dan niet) hardwerkende Nederlanders;</al>
+              <al>verzoekt de regering de gevolgen voor de inflatie mee te wegen in haar financieel-economische beleid en vervolgens in de Miljoenennota aandacht te besteden aan het effect van de begroting en het Belastingplan op de inflatie,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Inge van Dijk</al>
+              <al>Dassen</al>
+              <al>Flach</al>
+              <al>Vijlbrief</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

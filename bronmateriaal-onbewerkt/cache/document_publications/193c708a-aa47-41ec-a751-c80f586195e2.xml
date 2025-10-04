@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36740-XVI-17"/>
+      <meta name="OVERHEIDop.ondernummer" content="17"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36740-XVI"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Paulusma over geen middelen reserveren voor de bouw van nieuwe verzorgingshuizen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W. Paulusma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Jaarverslag en slotwet Ministerie van Volksgezondheid, Welzijn en Sport 2024"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.title" scheme="" content="Jaarverslag en slotwet Ministerie van Volksgezondheid, Welzijn en Sport 2024; Motie; Motie van het lid Paulusma over geen middelen reserveren voor de bouw van nieuwe verzorgingshuizen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 740</dossiernr>
+            <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Jaarverslag en slotwet Ministerie van Volksgezondheid, Welzijn en Sport 2024</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">17</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PAULUSMA</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-07-02">2 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het demissionaire kabinet voornemens is te investeren in de bouw van nieuwe verzorgingshuizen;</al>
+                  <al>constaterende dat veel ouderen juist niet naar een traditioneel verzorgingshuis willen, maar behoefte hebben aan woonvormen waarin zij zelfstandig kunnen blijven wonen, met passende ondersteuning en in een omgeving waarin zij zich prettig voelen;</al>
+                  <al>overwegende dat investeren in nieuwe verzorgingshuizen niet aansluit bij de wensen van veel ouderen en voorbijgaat aan innovatieve en toekomstbestendige woonzorgvormen;</al>
+                  <al>verzoekt de regering geen middelen te reserveren voor de bouw van nieuwe verzorgingshuizen of de gereserveerde middelen in te zetten voor de bouw van kleinschaligere, toekomstbestendige woonzorgvormen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Paulusma</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

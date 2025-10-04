@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-260/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">260</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SMITSKAM</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris voornemens is de minimumleeftijd voor deelname aan bepaalde kansspelen te verhogen van 18 naar 21 jaar;</al>
+            <al>overwegende dat 18 jaar in Nederland in brede zin wordt gehanteerd als de leeftijd waarop mensen meerderjarig zijn en volledige handelingsbekwaamheid verkrijgen;</al>
+            <al>overwegende dat een verhoging van de minimumleeftijd kan leiden tot een toename van illegaal gokken, waardoor spelers geen toegang hebben tot verslavingspreventie en consumentenbescherming;</al>
+            <al>overwegende dat strengere handhaving en betere voorlichting effectievere instrumenten zijn om gokverslaving onder jongvolwassenen tegen te gaan dan een leeftijdsverhoging;</al>
+            <al>verzoekt de regering af te zien van het verhogen van de minimumleeftijd voor kansspelen naar 21 jaar en in plaats daarvan in te zetten op versterkte handhaving en preventie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Smitskam</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

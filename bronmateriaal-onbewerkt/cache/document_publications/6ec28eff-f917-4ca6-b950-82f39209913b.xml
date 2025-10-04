@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-210/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">210</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIMMERMANS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het nodig is om het toezicht op politieke partijen en politici steviger wettelijk te verankeren;</al>
+            <al>overwegende dat het wetsvoorstel Wpp, Wet op de politieke partijen, vooralsnog niet voorziet in mogelijkheden om toezicht te houden op buitenlandse financiële beïnvloeding van individuele politici;</al>
+            <al>verzoekt de regering te onderzoeken hoe aanvullende maatregelen genomen kunnen worden om het toezicht op buitenlandse financiële beïnvloeding te versterken, en daarbij de regels voor giften en de interne verantwoordingsstructuur van partijen te betrekken en te bezien welke rol de Autoriteit Wpp kan spelen voor toezicht op fracties en individuele politici, en hier voor het najaar over te rapporteren;</al>
+            <al>verzoekt de regering het wetsvoorstel binnen een jaar in te dienen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Timmermans</al>
+              <al>Bikker</al>
+              <al>Stoffer</al>
+              <al>Koekkoek</al>
+              <al>Omtzigt</al>
+              <al>Bontenbal</al>
+              <al>Dijk</al>
+              <al>Van Baarle</al>
+              <al>Eerdmans</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

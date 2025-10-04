@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-1981/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1981</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de situatie in Gaza onmenselijk en onhoudbaar is;</al>
+            <al>constaterende dat de tot nu toe ingezette humanitaire hulp de noden bij lange na niet tegemoetkomt;</al>
+            <al>constaterende uit cijfers van UNICEF dat er voor de gevechtspauze minimaal 5.300 kinderen zijn gedood;</al>
+            <al>overwegende dat de Israëlische regering ook de «veilige zones» als doelwit beschouwt en burgers in heel Gaza niet veilig zijn;</al>
+            <al>verzoekt de regering om zich in te zetten voor daadkrachtige en effectieve toegang tot hulp voor de burgers in Gaza door onder andere het openen van meerdere grensovergangen af te dwingen, er bij Israël op aan te dringen humanitaire hulp onvoorwaardelijk toe te staan en niet afhankelijk te maken van unilaterale veilige zones, en medische evacuaties van kinderen mogelijk te maken zonder dat zij van hun ouder(s) gescheiden worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koekkoek</al>
+              <al>Christine Teunissen</al>
+              <al>Van Baarle</al>
+              <al>Piri</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

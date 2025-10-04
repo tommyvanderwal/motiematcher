@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-775/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">775</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Expertgroep Gezondheid IJmond vraagt om meer transparantie en het uitvoeren van de gezondheidseffectrapportage (GER) ziet als essentieel om de maatwerkafspraken met Tata Steel goed te kunnen toetsen;</al>
+            <al>overwegende dat het RIVM en de Expertgroep Gezondheid IJmond eerst een milieueffectrapportage (MER) nodig hebben, voordat ze een gezondheidseffectrapportage kunnen maken;</al>
+            <al>constaterende dat er al een concept-MER ligt die gedeeld zou kunnen worden met de Expertgroep Gezondheid IJmond en het RIVM, zodat ze verder kunnen gaan met de beoordeling van de plannen van Tata Steel en zo vertraging kan worden voorkomen, maar dat dit nog niet gebeurd is;</al>
+            <al>verzoekt de regering er bij Tata Steel op aan te dringen de concept-MER in ieder geval nog deze maand met het RIVM en de Expertgroep Gezondheid IJmond te delen, om verdere vertraging te voorkomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Bamenga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

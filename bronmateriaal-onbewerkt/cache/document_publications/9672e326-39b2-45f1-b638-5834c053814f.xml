@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Belastingplan diverse voorstellen bevat met een latere inwerkingtreding dan 1 januari 2025;</al>
+            <al>constaterende de kritische opmerkingen van de Raad van State over de spreiding van de wetgeving;</al>
+            <al>overwegende dat fiscale wetgeving die pas in latere jaren in werking treedt niet noodzakelijkerwijs mee hoeft te lopen in het strakke behandelschema van wetgeving die direct in januari van het volgende jaar in werking treedt, maar er ook voor gekozen kan worden om de behandeling uiterlijk in het eerstvolgende kwartaal af te ronden;</al>
+            <al>overwegende dat spreiding van wetgeving bijdraagt aan zorgvuldigheid en parlementaire betrokkenheid;</al>
+            <al>verzoekt de regering voortaan in de fiscale wetgeving die op Prinsjesdag naar de Kamer wordt gestuurd zo veel mogelijk scheiding aan te brengen tussen wetgeving die mee moet lopen in het strakke behandelschema van het Belastingplan en wetgeving waarvoor een langere behandeltijd kan worden genomen, bijvoorbeeld tot en met het eerste kwartaal van het volgende jaar,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Vermeer</al>
+              <al>Grinwis</al>
+              <al>Vijlbrief</al>
+              <al>Inge van Dijk</al>
+              <al>Maatoug</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

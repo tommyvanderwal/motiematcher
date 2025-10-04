@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32140-236/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 140</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Belastingstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">236</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris van Financiën de Tweede Kamer heeft geïnformeerd over de uitkomsten van een onderzoek naar de mogelijkheden voor een verlaagd btw-tarief op reparatiediensten voor huishoudelijke apparaten;</al>
+            <al>overwegende dat de EU-btw-richtlijn lidstaten toestaat een verlaagd btw-tarief toe te passen op de reparatie van huishoudelijke apparaten, maar dat Nederland hier momenteel geen gebruik van maakt;</al>
+            <al>overwegende dat het ontbreken van een duidelijke definitie van «huishoudelijke apparaten» en de daarmee samenhangende afbakeningsproblematiek een belemmering vormen voor de invoering van een verlaagd btw-tarief op deze reparatiediensten;</al>
+            <al>verzoekt de regering een heldere en juridisch houdbare definitie vast te stellen voor «huishoudelijke apparaten» ten behoeve van de toepassing van een verlaagd btw-tarief op reparatiediensten en de budgettaire gevolgen van deze maatregel in kaart te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

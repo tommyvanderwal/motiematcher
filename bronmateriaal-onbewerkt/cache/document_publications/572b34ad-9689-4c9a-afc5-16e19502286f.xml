@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36221-22"/>
+      <meta name="OVERHEIDop.ondernummer" content="22"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36221"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Wijen-Nass c.s. over een openbare rapportage van de Kamer over de feiten en omstandigheden rondom het onderzoek naar Khadija Arib"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. van Waveren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.J.M.H. Wijen-Nass"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Instellen van een extern onderzoek naar aanleiding van twee anonieme brieven"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Instellen van een extern onderzoek naar aanleiding van twee anonieme brieven; Motie; Motie van het lid Wijen-Nass c.s. over een openbare rapportage van de Kamer over de feiten en omstandigheden rondom het onderzoek naar Khadija Arib"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 221</dossiernr>
+         </dossiernummer>
+         <titel>Instellen van een extern onderzoek naar aanleiding van twee anonieme brieven</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">22</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WIJEN-NASS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de Kamer eerder een motie heeft aangenomen die uitspreekt dat nader onderzoek plaats moet vinden naar het onderzoek naar Khadija Arib en alles wat daarbij fout is gegaan, met als doel waarheidsvinding rondom de gehele gang van zaken bij het onderzoek naar Arib en het trekken van lessen voor de toekomst;</al>
+                  <al>constaterende dat het lijvige strafdossier nu vertrouwelijk ter inzage is gelegd en er over andere stukken nog discussie plaatsvindt over of deze vertrouwelijk of openbaar met de rest van de Kamer gedeeld worden;</al>
+                  <al>spreekt uit dat een voorbereidende groep van Kamerleden kennis gaat nemen van alle beschikbare stukken om vervolgens te komen tot een openbare rapportage over de hele gang van zaken, feiten en omstandigheden rondom het onderzoek naar Arib op basis van alle beschikbare documenten met als doel om een advies aan de Kamer uit te brengen over het al dan niet starten van een traject tot het vervolgen van Kamerleden voor het lekken en om lessen te trekken voor de toekomst over de sociale veiligheid tussen de ambtelijke organisatie en de politieke ambtsdragers,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Wijen-Nass</al>
+                     <al>Van Nispen</al>
+                     <al>Van Waveren</al>
+                     <al>Kathmann</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

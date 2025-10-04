@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33836-114/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 836</dossiernr>
+      </dossiernummer>
+      <titel>Personen- en familierecht</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">114</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de commissie-De Winter onafhankelijk onderzoek uitvoert naar de geschiedenis van binnenlandse afstand en adoptie in de periode 1956–1984;</al>
+            <al>constaterende dat in deze periode een aantal moeders onvrijwillig hun kinderen hebben afgestaan;</al>
+            <al>constaterende dat de Kamer eerder bij motie-Van Nispen/Ellian (<extref doc="kst-33836-94" soort="document" status="actief">33 836, nr. 94</extref>) de regering heeft verzocht ervoor te zorgen dat er voor de betrokken afgestane en afstandsmoeder gezamenlijk onbeperkte en volledige toegang is tot zowel het eigen afstands- als het adoptiedossier;</al>
+            <al>overwegende dat naar aanleiding van deze motie advies aan de landsadvocaat is gevraagd, waaruit bleek dat binnen de huidige wetgeving de mogelijkheid bestaat om de beperkingen aan de openbaarheid op grond van artikel 15, derde lid, van de Archiefwet op te heffen en dat het ook mogelijk is om een specifieke wettelijke grondslag te creëren voor het raadplegen van persoonsgegevens in afstands- en/of adoptiedossiers;</al>
+            <al>verzoekt de regering naar aanleiding van het advies van de landsadvocaat een hernieuwde uiterste inspanning te doen om de Kameruitspraak te volgen en betrokken afgestanen en de afstandsmoeders onbeperkte en volledige toegang te bieden tot zowel het eigen afstands- als het adoptiedossier;</al>
+            <al>verzoekt de regering het mogelijk te maken dat afstandsmoeders een «brief van je moeder» aan het dossier in het Nationaal Archief kunnen toevoegen, waardoor afstandsmoeders de gelegenheid krijgen een aanvullende verklaring te verstrekken teneinde de door hen geconstateerde onjuistheden of onvolledigheden in het dossier te corrigeren;</al>
+            <al-groep>
+              <al>verzoekt de regering de archieven van de Stichting Fiom over te dragen aan het Nationaal Archief,</al>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Van Nispen</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

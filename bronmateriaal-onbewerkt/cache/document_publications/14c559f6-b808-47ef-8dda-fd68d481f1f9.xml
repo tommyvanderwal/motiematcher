@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3283/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3283</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister ervoor kiest om de financiering voor de landelijke voorzieningen vreemdelingen (lvv's) per 1 januari 2025 stop te zetten;</al>
+            <al>overwegende dat de ambitie om uitgeprocedeerde asielzoekers terug te sturen begrijpelijk is, maar dat met het stopzetten van de financiering zij toch voornamelijk op straat zullen belanden, buiten beeld zullen raken en vanwege gebrek aan begeleiding juist niet weggaan;</al>
+            <al>overwegende dat het risico op overlast groter wordt door asielzoekers op straat te zetten in buurten waar al bovengemiddeld veel problematiek heerst;</al>
+            <al>verzoekt de regering de opvang voor uitgeprocedeerde asielzoekers pas te beëindigen zodra de terugkeer van deze mensen is gerealiseerd en de risico's op overlast voldoende zijn ondervangen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

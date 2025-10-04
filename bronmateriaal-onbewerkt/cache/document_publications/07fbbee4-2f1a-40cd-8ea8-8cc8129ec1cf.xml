@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33561-81/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 561</dossiernr>
+      </dossiernummer>
+      <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">81</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE VOS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister voor Klimaat en Groene Groei voornemens zou zijn om nieuwe windturbines op land toe te staan tot een afstand van woningen van slechts twee keer de tiphoogte;</al>
+            <al>constaterende dat uit verschillende onderzoeken en signalen blijkt dat windturbines in de nabijheid van woningen kunnen leiden tot gezondheidsklachten, zoals slaapstoornissen;</al>
+            <al>constaterende dat in andere Europese landen, zoals Denemarken, strengere afstandsnormen worden gehanteerd;</al>
+            <al>verzoekt de regering een moratorium in te stellen op de plaatsing van nieuwe windturbines op land ten minste totdat een onafhankelijke en uitgebreide evaluatie heeft plaatsgevonden naar de gezondheidsrisico's;</al>
+            <al-groep>
+              <al>verzoekt de regering de afstandsnorm voor windturbines tot woningen opnieuw te beoordelen, waarbij gezondheidsrisico's voor omwonenden eerste</al>
+              <al>prioriteit krijgen;</al>
+            </al-groep>
+            <al>verzoekt de Kamer daarbij tijdig en transparant over deze herbeoordeling te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Vos</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

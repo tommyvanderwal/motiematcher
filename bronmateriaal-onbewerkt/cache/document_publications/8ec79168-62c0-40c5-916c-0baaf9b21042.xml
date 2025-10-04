@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35165-78/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 165</dossiernr>
+      </dossiernummer>
+      <titel>Verkiezingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">78</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN OOSTENBRUGGEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat stemwijzers, zoals het Kieskompas of de StemWijzer, een belangrijk hulpmiddel zijn om kiezers te ondersteunen bij het maken van hun keuze;</al>
+            <al>constaterende dat de totstandkoming en het gebruik van stemwijzers echter niet altijd navolgbaar en uitlegbaar zijn;</al>
+            <al>van mening dat stemwijzers moeten voldoen aan de vereiste transparantie, volledigheid van informatie en eisen van de democratische rechtsstaat;</al>
+            <al>verzoekt de regering om te onderzoeken welk voorstel gedaan kan worden om ook stemwijzers te laten voldoen aan de waarborgen van de democratische rechtsstaat, in de vorm van bijvoorbeeld een kwaliteitseis voor een stemhulp,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Oostenbruggen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

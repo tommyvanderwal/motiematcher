@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32317-959"/>
+      <meta name="OVERHEIDop.ondernummer" content="959"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32317"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Baarle over het beleid inzake de beoordeling van nieuwe aanvragen of lopende procedures van Syrische vluchtelingen niet wijzigen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="JBZ-Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="JBZ-Raad; Motie; Motie van het lid Van Baarle over het beleid inzake de beoordeling van nieuwe aanvragen of lopende procedures van Syrische vluchtelingen niet wijzigen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 317</dossiernr>
+         </dossiernummer>
+         <titel>JBZ-Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">959</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Minister Syrië in brede zin als veilig genoeg heeft verklaard naar aanleiding van het ambtsbericht om het landenbeleid aan te passen;</al>
+                  <al>overwegende dat de Minister zelf erkent in zijn brief naar de Kamer dat de positieve ontwikkelingen in Syrië nog niet van ingrijpende en blijvende aard zijn en dat de situatie nog niet voldoende bestendig is om over te gaan tot herbeoordeling van bestaande verblijfsvergunningen;</al>
+                  <al>overwegende dat organisaties als de UNHCR en VluchtelingenWerk waarschuwen voor aanhoudend geweld en instabiliteit in Syrië;</al>
+                  <al>verzoekt de Minister zich te onthouden van het doorvoeren van beleidswijzigingen met betrekking tot de beoordeling van nieuwe aanvragen of lopende procedures van Syrische vluchtelingen, nu er geen sprake is van daadwerkelijke zekerheid over de veiligheidssituatie in Syrië,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Baarle</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

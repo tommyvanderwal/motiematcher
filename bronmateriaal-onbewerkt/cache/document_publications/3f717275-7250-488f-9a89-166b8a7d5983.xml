@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36545-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 545</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet minimumloon en minimumvakantiebijslag in verband met de implementatie van Richtlijn (EU) 2022/2041 van het Europees parlement en de Raad van 19 oktober 2022 betreffende toereikende minimumlonen in de Europese Unie (Pb EU 2022, L 275) (Wet implementatie EU-richtlijn toereikende minimumlonen)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN KENT EN PATIJN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat met de nieuwe Europese richtlijn variaties op het wettelijk minimumloon evenredig en non-discriminatoir moeten zijn;</al>
+            <al>overwegende dat deze richtlijn ook de taak oplegt om de toereikendheid van het jeugdloon voor volwassenen te onderzoeken, aangezien dit onder de evenredigheidstoets valt;</al>
+            <al>verzoekt de regering onderzoek uit te voeren naar de gevolgen van het huidige minimumjeugdloon voor volwassenen, specifiek gericht op hun financiële stabiliteit en onafhankelijkheid, onderwijsdeelname en arbeidsmarktpositie, en de resultaten binnen drie maanden met de Kamer te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Kent</al>
+              <al>Patijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

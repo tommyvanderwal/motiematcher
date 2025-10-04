@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-721/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">721</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-29">29 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat groene schoolpleinen aantoonbaar bij kunnen dragen aan het bereiken van de GALA-doelen, waaronder een gezonde fysieke leefomgeving die uitnodigt tot bewegen en ontmoeten, een gezonde leefstijl en het versterken van de mentale weerbaarheid en mentale gezondheid en dat dit niet alleen zorgt voor betere gezondheid, maar ook voor betere leerprestaties;</al>
+            <al>constaterende dat kinderen op 60% van de Nederlandse basisscholen een schoolplein hebben zonder groen en dus niet de vrijheid hebben om te profiteren van de voordelen die groene schoolpleinen bieden;</al>
+            <al>constaterende dat de huidige situatie leidt tot kansenongelijkheid waarbij kinderen die het meest baat zouden hebben bij een gezonde buitenruimte rond school dit nu veel minder hebben;</al>
+            <al>verzoekt de regering om met een voorstel te komen op welke manier VWS verder kan bijdragen aan meer gezonde, groene schoolpleinen, te beginnen bij de meest kwetsbare scholen, en dit voorstel aan de Kamer voor te leggen vóór het zomerreces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Teunissen</al>
+              <al>Kostić</al>
+              <al>Slagt-Tichelman</al>
+              <al>Krul</al>
+              <al>Paulusma</al>
+              <al>Daniëlle Jansen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

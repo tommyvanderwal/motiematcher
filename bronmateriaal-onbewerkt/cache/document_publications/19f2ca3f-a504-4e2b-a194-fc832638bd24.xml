@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-69/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">69</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK EN HIRSCH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister voor Buitenlandse Handel en Ontwikkelingshulp nu bezig is met de uitwerking van het drempelcriterium van 50% externe financiering;</al>
+            <al>overwegende dat bij een acute implementatie er maatschappelijke organisaties, en daarmee doelgroepen in het mondiale Zuiden en hun achterban in de Nederlandse samenleving, buiten de boot vallen omdat zij zich nog niet hebben kunnen aanpassen;</al>
+            <al>overwegende dat maatschappelijke organisaties ongelijksoortig zijn en het kabinet het van belang acht dat er maatwerk voor specialistische organisaties is;</al>
+            <al>verzoekt de regering om, conform het principe van behoorlijk bestuur, Nederlandse en zuidelijke maatschappelijke organisaties de ruimte te geven om te voldoen aan het drempelcriterium, en de Kamer te informeren over hoe een opbouwpad naar 50% externe financiering praktisch en uitvoerbaar kan worden opgenomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Hirsch</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-344/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">344</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Ministeriële Commissie Economie en Natuurherstel is ingesteld om Nederland zo snel mogelijk van het stikstofslot te krijgen en een concreet programma van maatregelen uit te werken;</al>
+            <al>overwegende dat er op dit moment onvoldoende transparantie is over de werkwijze van deze commissie, waaronder hoe vaak zij bijeenkomt, welke partijen worden betrokken bij de besluitvorming en welke belangen worden vertegenwoordigd;</al>
+            <al>overwegende dat helderheid over het proces en de betrokkenheid van verschillende belanghebbenden essentieel is voor het democratisch proces en de legitimiteit van de besluitvorming;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een openbaar register bij te houden van de bijeenkomsten van de Ministeriële Commissie Economie en Natuurherstel, inclusief data, agenda's en aanwezige partijen, en een lobbyregister in te stellen waarin wordt vastgelegd welke organisaties en personen overleg hebben met deze commissie en over welke onderwerpen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Kamer periodiek te informeren over de voortgang van de commissie, inclusief geplande en genomen maatregelen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Kamer op de hoogte stellen op het moment dat de eerste resultaten van de ministeriële commissie worden gedeeld met de Kamer;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>expliciet te definiëren wanneer de Ministeriële Commissie Economie en Natuurherstel haar doelstellingen als behaald beschouwt en hierover transparantie te bieden,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Koekkoek</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32620-297/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 620</dossiernr>
+      </dossiernummer>
+      <titel>Beleidsdoelstellingen op het gebied van Volksgezondheid, Welzijn en Sport</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">297</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN RIKKERS-OOSTERKAMP EN TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het ministerie recentelijk een negatief besluit heeft genomen over het experiment Tijdelijke zelfstandige bevoegdheid mondhygiënisten;</al>
+            <al>overwegende dat dit besluit niet in lijn is met de positieve ervaringen en de resultaten van het KEMTA-rapport, waarin de effectiviteit en doelmatigheid van de mondhygiënisten bij de uitvoering van zelfstandige voorbehouden handelingen worden bevestigd;</al>
+            <al>constaterende dat het gebruik van voorbehouden handelingen door de geregistreerd-mondhygiënisten een efficiënter gebruik van beroepscapaciteit betekent, wat bijdraagt aan het doel om de administratieve lasten in 2030 te halveren;</al>
+            <al-groep>
+              <al>constaterende dat de handelingen van de geregistreerd-mondhygiënisten geen nieuwe fysieke handelingen zijn maar enkel administratief;</al>
+              <al>van mening dat het efficiënter inzetten van mondzorgcapaciteit zonder kwaliteitsverlies de noodzaak voor administratieve goedkeuringen, rapportages en werkprocessen vermindert, wat uiteindelijk de administratieve druk op de zorgverleners aanzienlijk verlicht;</al>
+            </al-groep>
+            <al>verzoekt de regering om de mondhygiënisten definitief de zelfstandige bevoegdheid toe te kennen voor het toepassen van plaatselijke verdoving via injecties, het behandelen van kleine gaatjes en het maken van röntgenfoto's zonder tussenkomst en opdracht van de tandarts,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rikkers-Oosterkamp</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

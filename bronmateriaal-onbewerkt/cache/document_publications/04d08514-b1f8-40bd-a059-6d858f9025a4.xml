@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2080/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2080</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-16">16 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de toenemende regeldruk het concurrentievermogen van de Europese Unie verslechtert;</al>
+            <al>constaterende dat het «one in, one out»-principe in de achterliggende periode niet structureel is aangehouden bij nieuwe EU-regelgeving;</al>
+            <al>overwegende dat handhaving van het «one in, one out»-principe nu en in de toekomst wenselijk is, zodat voor iedere nieuwe regel één oude regel verdwijnt;</al>
+            <al>overwegende dat door middel van een schrapwet genoemd principe ook met terugwerkende kracht kan worden nageleefd;</al>
+            <al>verzoekt de regering aan de diverse EU-tafels eerherstel van het «one in, one out»-principe te bepleiten en in te zetten op het opnemen van substantiële vermindering van regeldruk als prioriteit in de strategische agenda van de Europese Raad en het werkprogramma van de nieuwe Europese Commissie, waarbij ook met terugwerkende kracht regeldruk wordt geschrapt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Tuinman</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

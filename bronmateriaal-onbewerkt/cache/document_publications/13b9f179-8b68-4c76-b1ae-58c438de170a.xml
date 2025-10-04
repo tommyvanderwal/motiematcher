@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1303/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1303</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het gebruik van smartphones onder jongeren een steeds grotere impact heeft op de sociale interacties, de schoolprestaties en de mentale gezondheid van jongeren;</al>
+            <al>overwegende dat in de Nederlandse samenleving steeds meer geluiden opgaan om te wachten met kinderen een smartphone te geven tot ze de basisschool hebben afgerond, maar dat het risico op sociale isolatie van kinderen maakt dat dit niet louter en alleen een keuze van individuele ouders is;</al>
+            <al>overwegende dat ouders in de Ierse gemeente Greystones op vrijwillige basis onderling een verdrag hebben gesloten om kinderen tot de middelbare school geen smartphone te geven;</al>
+            <al>overwegende dat in de vorm van lokale pilots waarin wordt geëxperimenteerd met smartphonevrij opgroeien, de theorieën dat er geen causaliteit maar slechts een correlatie bestaat tussen smartphonegebruik en het verminderd mentaal welzijn onder jongeren, kunnen worden gefalsificeerd;</al>
+            <al>overwegende dat voor dergelijke pilots geen wettelijke inperkingen nodig zijn, maar dat deze kunnen worden gegoten in de vorm van een overeenkomst waarvan de precieze voorwaarden in samenspraak afgestemd worden;</al>
+            <al>verzoekt de regering lokale pilots voor een collectief smartphonevrij opgroeien tot en met de basisschooltijd te organiseren of te bevorderen, hierin samen te werken met welwillende gemeenten, scholen, ouders en het maatschappelijk middenveld, de precieze voorwaarden in samenspraak met hen op te stellen en de resultaten nauwkeurig te monitoren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

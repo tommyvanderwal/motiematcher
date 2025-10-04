@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3123/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3123</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland belang heeft bij goede economische en politieke betrekkingen met de VS, mede vanwege de rol die de VS spelen op het wereldtoneel op militair, economisch en politiek terrein;</al>
+            <al>constaterende dat de VS zich recent echter minder voorspelbaar tonen zowel op het vlak van veiligheid als op het vlak van economie;</al>
+            <al>overwegende dat we hierdoor moeten constateren dat we de tendensen die leiden tot dit politieke beleid onvoldoende hebben onderkend;</al>
+            <al>van mening dat het daarom enerzijds naïef is om te veronderstellen dat de trans-Atlantische relatie met de VS onveranderd voortgezet kan worden;</al>
+            <al>van mening dat het anderzijds ook onverstandig is om de trans-Atlantische band met de Verenigde Staten volledig te verbreken;</al>
+            <al>overwegende dat het daarom van groot belang is systematisch in kaart te brengen wat op deelgebieden de belangen van de Verenigde Staten en van Europa zijn, zodat hierop een actuele, geïntegreerde, heldere en toekomstbestendige visie en strategie gevoerd kunnen worden;</al>
+            <al>verzoekt de regering een Amerikastrategie op te stellen, zoals we dat eerder ook met China en Afrika hebben gedaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Van der Burg</al>
+              <al>Paternotte</al>
+              <al>Piri</al>
+              <al>Dassen</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

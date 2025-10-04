@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-174/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">174</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DE KORTE EN BIKKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in de afgelopen twee jaar het aantal abortussen is gestegen van ongeveer 31.000 naar 40.000;</al>
+            <al>overwegende dat lopend onderzoek naar de factoren die leiden tot onbedoelde zwangerschap, de stijging niet afdoende kan verklaren;</al>
+            <al>overwegende dat het ondergaan van een abortus voor sommige vrouwen psychisch belastend kan zijn, met mogelijk langdurige gevolgen voor hun welzijn, en dat het dus wenselijk is om onbedoelde zwangerschappen, waar mogelijk, te voorkomen;</al>
+            <al>verzoekt de regering om de evaluatie Wet afbreking zwangerschap binnen twee jaar te starten en expliciet aandacht te geven aan de mogelijke oorzaken en andere relevante factoren en ontwikkelingen die bijdragen aan de stijging van het aantal abortussen, en de uitkomsten van dit onderzoek zo spoedig mogelijk voor te leggen aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>De Korte</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

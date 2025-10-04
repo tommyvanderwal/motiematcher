@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Europees Hof voor de Rechten van de Mens in de zaak-Kudrevičius heeft aangegeven dat demonstraties niet gebruikt mogen worden als dwangmiddel, maar dat zij ten dienste staan aan de meningsuiting;</al>
+            <al>constaterende dat demonstraties geregeld plaatsvinden om verandering van beleid af te dwingen bij de overheid, bedrijven of maatschappelijke organisaties, zelfs door het herhaaldelijk negeren van aanwijzingen van het bevoegd gezag;</al>
+            <al>verzoekt de regering in de Wet openbare manifestaties op te nemen dat demonstraties ook verboden kunnen worden indien blijkt dat deze als dwangmiddel worden ingezet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

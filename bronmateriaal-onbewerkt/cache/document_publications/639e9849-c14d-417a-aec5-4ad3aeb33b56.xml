@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29237-223"/>
+      <meta name="OVERHEIDop.ondernummer" content="223"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29237"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Baarle over pleiten voor internationaal onderzoek naar genocide en etnische zuivering gepleegd door de RSF"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Afrika-beleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-27"/>
+      <meta name="DC.title" scheme="" content="Afrika-beleid; Motie; Motie van het lid Van Baarle over pleiten voor internationaal onderzoek naar genocide en etnische zuivering gepleegd door de RSF"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Ontwikkelingssamenwerking"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 237</dossiernr>
+         </dossiernummer>
+         <titel>Afrika-beleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">223</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-27">27 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er sterke aanwijzingen zijn, bevestigd door onder meer Human Rights Watch, dat de Rapid Support Forces (RSF) zich schuldig maken aan genocide en etnische zuivering in Sudan;</al>
+                  <al>overwegende dat misdaden tegen de menselijkheid niet onbestraft mogen blijven;</al>
+                  <al>constaterende dat Human Rights Watch in zijn rapport aanwijzingen ziet dat leden van de etnische groep Masalit doelgericht slachtoffer zijn geworden van geweld;</al>
+                  <al>overwegende dat de Verenigde Staten inmiddels officieel hebben vastgesteld dat de RSF zich schuldig maken aan genocide;</al>
+                  <al>verzoekt de regering om in EU-verband te pleiten voor het instellen van een onafhankelijk internationaal onderzoek naar genocide en etnische zuivering gepleegd door de RSF,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Baarle</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

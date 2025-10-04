@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-5/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">5</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER LEE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het te vaak onduidelijk is welke doelen met beleid worden nagestreefd en dat voortgang van deze doelen onvoldoende getoetst wordt;</al>
+            <al>overwegende dat de Tweede Kamer haar werk alleen kan doen als voldoende duidelijk is welke doelen worden nagestreefd en er voldoende wordt gerapporteerd over de voortgang;</al>
+            <al>spreekt uit dat bij de uitwerking van het hoofdlijnenakkoord de doelen van beleid worden geëxpliciteerd en consequent worden gerapporteerd, waardoor deze jaarlijks te volgen zijn en toetsbaar zijn voor de Tweede Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Lee</al>
+              <al>Grinwis</al>
+              <al>Dijk</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

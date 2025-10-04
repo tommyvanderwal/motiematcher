@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+      </dossiernummer>
+      <titel>Voorjaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DIJK EN BIKKER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 11</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-07-04">4 juli 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Nationaal Programma Leefbaarheid en Veiligheid (NPLV) belangrijke steun geeft aan wijken in verschillende Nederlandse steden om de langdurige achterstelling en problemen aan te pakken;</al>
+            <al>constaterende dat de burgemeesters van de negentien betrokken gemeenten en het Rijk zich hierbij hebben gecommitteerd aan een langjarige inzet van vijftien tot twintig jaar;</al>
+            <al>overwegende dat de financiering van dit programma versnipperd en niet structureel is;</al>
+            <al>verzoekt de regering in overleg te treden met de 19 NPLV-gemeenten over langjarige voortzetting van het NPLV en de Kamer voorafgaand aan de behandeling van de begroting Volkshuisvesting en Ruimtelijke Ordening te informeren over de uitkomsten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-573/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">573</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het verlagen van het aandeel ruw eiwit in het rantsoen een potentieel belangrijke maatregel is om de excretie van stikstof in dierlijke mest terug te dringen;</al>
+            <al>constaterende dat er gesprekken lopen tussen LVVN en sectorpartijen over de private borging van dit voerspoor via een gecertificeerd systeem, maar dat het de verantwoordelijkheid is van de sector om zijn verantwoordelijkheid te nemen en resultaten te boeken op het voerspoor;</al>
+            <al>overwegende dat de urgentie van de mestproblematiek vraagt om concrete stappen en resultaten op korte termijn;</al>
+            <al>verzoekt de regering om ten aanzien van het voerspoor met de sector overeen te komen dat er een doelafspraak wordt gemaakt om daarmee bij te dragen aan het reduceren van het mestprobleem, waarbij de inzet gebaseerd is op transparantie middels benchmarking en borging daarvan vorm wordt gegeven via een private verificatie;</al>
+            <al>verzoekt de regering de Kamer hierover in het tweede kwartaal te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

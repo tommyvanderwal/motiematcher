@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-163/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">163</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WINGELAAR C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het huidige beleidskader voor de spreiding van rijkswerkgelegenheid is gebaseerd op een inspanningsverplichting zonder concrete en meetbare resultaatsdoelstellingen;</al>
+            <al>constaterende dat de regering naar aanleiding van de motie-Flach/Zeedijk een actieplan om te komen tot een meer evenredige spreiding van rijkswerkgelegenheid heeft opgesteld, waarin wordt vermeld dat er een database voor de spreiding van rijkswerkgelegenheid komt;</al>
+            <al>overwegende dat een resultaatverplichting voor spreiding van de rijkswerkgelegenheid door het toevoegen van meetbare doelstellingen concreter is en het tevens mogelijk maakt om nauwkeuriger te monitoren, en daarmee bijdraagt aan duurzame verbetering in de meest kwetsbare regio's;</al>
+            <al>verzoekt de regering een resultaatverplichting in te stellen voor de spreiding van de rijkswerkgelegenheid, met daarin concrete, meetbare doelstellingen per regio;</al>
+            <al>verzoekt de regering voorts in de resultaatverplichting expliciet aandacht te geven aan het redeneren vanuit de regio's, naast aandacht voor provincies, en te focussen op maatwerkoplossingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Wingelaar</al>
+              <al>Soepboer</al>
+              <al>Bikker</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

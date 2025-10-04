@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-308/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">308</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN VROONHOVEN EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat de media als pijler van onze democratie en in het licht van macht en tegenmacht onafhankelijk en pluriform moet blijven;</al>
+            <al>overwegende dat apolitiek toezicht daarvan een wezenlijk onderdeel is;</al>
+            <al>constaterende dat in artikel 30 van de EU-Richtlijn audiovisuele mediadiensten staat dat het toezicht op de media zowel juridisch als functioneel onafhankelijk moet zijn van de overheid;</al>
+            <al>constaterende dat op basis van de artikel 7.9 van de Mediawet de bewindspersoon evenwel besluiten van het Commissariaat voor de Media kan schorsen en vernietigen en dat dit artikel daardoor in strijd is met bovengenoemde EU-richtlijn;</al>
+            <al>verzoekt de regering de Mediawet zo aan te passen dat de regering niet langer kan ingrijpen in besluiten van het Commissariaat,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Vroonhoven</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

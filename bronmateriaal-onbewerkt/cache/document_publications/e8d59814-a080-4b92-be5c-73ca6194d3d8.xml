@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2059/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2059</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HOUWELINGEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-19">19 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op 26 september 2022 de Nord Stream-gaspijpleiding onherstelbaar beschadigd raakte na een onderwaterexplosie;</al>
+            <al>constaterende dat de dader of daders van het opblazen van deze gaspijpleiding nog niet bekend zijn;</al>
+            <al>constaterende dat de Nederlandse Gasunie aandeelhouder is van de Nord Stream-gaspijpleiding met een belang van 9%;</al>
+            <al>constaterende dat Zweden en Denemarken zijn gestopt met hun onderzoek naar de explosies en alleen Duitsland nu nog een lopend onderzoek heeft;</al>
+            <al>overwegende dat Nederland directe belangen heeft bij het achterhalen van de dader of daders en daarom niet afhankelijk moet zijn van het onderzoek van Duitsland, dat mogelijk net zoals Denemarken en Zweden het onderzoek voortijdig zal stoppen;</al>
+            <al>roept de regering op om zelf een onderzoek te starten naar de explosies van de Nord Stream-gaspijpleiding op 26 september 2022,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Houwelingen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

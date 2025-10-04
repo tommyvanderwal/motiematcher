@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30139-276/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 139</dossiernr>
+      </dossiernummer>
+      <titel>Veteranenzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">276</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN VAN DER WERF</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg <datum isodatum="2024-06-24">24 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Ministerie van Defensie al gebruikmaakt van veteranen en hun persoonlijke verhalen binnen het onderwijs;</al>
+            <al>constaterende dat veteranen waardevolle vaardigheden, ervaringen en leiderschap met zich meebrengen, die goed ingezet kunnen worden in het bedrijfsleven en de samenleving als geheel;</al>
+            <al>constaterende dat deze vaardigheden bijdragen aan de collectieve weerbaarheid van onze samenleving;</al>
+            <al>roept de regering op om samen met brancheorganisaties en werkgevers het belang van veteranen en reservisten te benadrukken en hen aan te moedigen om hun actief een plek te geven in hun organisaties om deze unieke vaardigheden ook buiten Defensie optimaal te benutten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Van der Werf</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

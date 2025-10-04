@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-VII-140"/>
+      <meta name="OVERHEIDop.ondernummer" content="140"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-VII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Nispen over het verzelfstandigen van de Afdeling bestuursrechtspraak van de Raad van State"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025; Motie; Motie van het lid Van Nispen over het verzelfstandigen van de Afdeling bestuursrechtspraak van de Raad van State"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">140</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat er op dit moment vier hoogste bestuursrechters zijn, deze versnippering risico's voor de rechtseenheid met zich meebrengt, maar er nog weinig vaart is gemaakt met het voornemen uit het regeerakkoord om de Afdeling bestuursrechtspraak van de Raad van State te verzelfstandigen;</al>
+                  <al>constaterende dat de parlementaire enquêtecommissie Fraudebeleid en Dienstverlening heeft aanbevolen om de Afdeling bestuursrechtspraak af te splitsen van de Raad van State en onder te brengen bij de rechterlijke macht;</al>
+                  <al>verzoekt de regering dit voornemen met voorrang uit te werken, het afsplitsen van de rechtspraak bij de Raad van State en het onderbrengen bij de rechterlijke macht hierbij centraal te stellen, en uiterlijk voor het einde van dit jaar een wetsvoorstel aan de Tweede Kamer te sturen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Nispen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

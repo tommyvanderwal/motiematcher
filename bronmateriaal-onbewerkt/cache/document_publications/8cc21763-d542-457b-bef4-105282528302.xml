@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-294/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">294</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-09">9 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat volgens jurisprudentie de Richtlijn industriële emissies (RIE) zo moet worden geïnterpreteerd dat alle Europese bedrijven alle passende en preventieve maatregelen moeten nemen om de gezondheid van omwonenden te beschermen;</al>
+            <al>constaterende dat zowel de RIE als de Omgevingswet al de mogelijkheid biedt om scherper te vergunnen dan de best beschikbare technieken (BBT) als de volksgezondheid in het geding is;</al>
+            <al>overwegende dat onder andere in de omgeving van Tata Steel en Chemours de volksgezondheid in het geding is;</al>
+            <al>verzoekt de regering het bevoegd gezag te helpen om zo snel mogelijk alle passende en preventieve maatregelen te nemen om de uitstoot van schadelijke stoffen door grote vervuilers te minimaliseren en de gezondheid van omwonenden en medewerkers te beschermen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

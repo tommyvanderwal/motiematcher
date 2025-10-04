@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-183/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">183</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord staat «er komt een recht op vergissen» en dat in het regeerprogramma staat dat het kabinet beziet of het recht op vergissen uniform en domeinoverstijgend gerealiseerd kan en moet worden;</al>
+            <al>overwegende dat onder andere bij de gecombineerde opgave vergissingen van agrariërs, waaronder het te laat indienen, door de RVO keihard worden afgestraft, terwijl de RVO ongestraft extra tijd kan nemen om subsidiebeschikkingen toe te kennen;</al>
+            <al>overwegende dat de Minister van LVVN in het commissiedebat Uitvoerbaarheid van beleid op het boerenerf in dit verband opmerkte schrijnende voorbeelden te kennen en vond dat «we hierin wel iets van coulance mogen tonen»;</al>
+            <al>verzoekt de regering voor de zomer een uitwerking van het «recht op vergissen» voor boeren naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Flach</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

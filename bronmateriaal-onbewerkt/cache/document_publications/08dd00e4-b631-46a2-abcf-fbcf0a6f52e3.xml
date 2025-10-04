@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35867-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 867</dossiernr>
+      </dossiernummer>
+      <titel>Parlementaire enquête fraudebeleid en dienstverlening</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-15">15 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de waakhondfunctie van de Autoriteit Persoonsgegevens toeneemt met de digitalisering van maatschappij en overheid;</al>
+            <al>constaterende dat de omvang en het budget van de Autoriteit Persoonsgegevens momenteel niet voldoende zijn om deze rol te vervullen;</al>
+            <al>verzoekt de regering een uitgebreidere reactie te geven op de aanbevelingen van de parlementaire enquête Fraudebeleid en Dienstverlening om het budget van de Autoriteit Persoonsgegevens stapsgewijs structureel te verhogen, hier een inschatting van benodigde investeringen bij te maken, en dit voor de zomer aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Van Baarle</al>
+              <al>Koekkoek</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

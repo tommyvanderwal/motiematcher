@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-21/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">21</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat enerzijds het vertrouwen in de overheid is afgenomen en anderzijds de overheid in omvang is toegenomen;</al>
+            <al>overwegende dat het kabinet voornemens is om een besparing op het ambtelijk apparaat te realiseren;</al>
+            <al>van mening dat deze besparing hand in hand moet gaan met een hervorming van de overheid, met als doel om de overheid sterk, wendbaar en toekomstbestendig te maken;</al>
+            <al>verzoekt de regering om uiterlijk in het eerste kwartaal van 2025 een kader voor de departementen op te stellen, waarmee invulling wordt gegeven aan de voorgenomen besparingen;</al>
+            <al-groep>
+              <al>verzoekt de regering tevens om door middel van dit kader te sturen op:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het zo veel mogelijk ontzien van de uitvoeringsorganisaties bij de voorgenomen besparingen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het meer in hun kracht zetten van professionals in uitvoeringsorganisaties en minder voorschrijven hoe ze hun werk moeten doen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een betere aansluiting tussen beleid en uitvoering;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een nog grotere inzet op expertise van ambtenaren met passende beloning;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een meer verantwoorde inzet van kunstmatige intelligentie, binnen veilige randvoorwaarden, om zo de arbeidsproductiviteit van de overheid te vergroten,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Erkens</al>
+              <al>Ceder</al>
+              <al>Flach</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-34/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">34</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BONTENBAL C.S</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet met een spoedwet de kostenstijging van collectieve warmtelevering voor warmteklanten wil beperken;</al>
+            <al>overwegende dat de betaalbaarheid van de realisatie van warmtenetten daarmee verder onder druk komt te staan;</al>
+            <al>overwegende dat het beperken van de kosten aan de kant van de warmtebedrijven kan helpen om hieraan (deels) tegemoet te komen;</al>
+            <al>verzoekt de regering te onderzoeken of de kosten die warmtebedrijven maken, kunnen worden verlaagd, zoals de energiebelasting die warmtebedrijven betalen voor het verbruik van gas voor de hulpwarmtecentrales in hun warmtenetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bontenbal</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

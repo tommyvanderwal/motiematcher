@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33836-113/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 836</dossiernr>
+      </dossiernummer>
+      <titel>Personen- en familierecht</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">113</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Wet kind, draagmoederschap en afstamming tot doel heeft om kinderen, draagmoeders en wensouders beter te beschermen en daarnaast het recht van kinderen op informatie over hun afstamming te versterken;</al>
+            <al>constaterende dat deze wet ook kinderhandel en uitbuiting van draagmoeders zo veel mogelijk effectief beoogt tegen te gaan;</al>
+            <al>overwegende dat er verslag is uitgebracht en de Kamer inmiddels al ruim zeventien maanden wacht op de beantwoording van de gestelde vragen;</al>
+            <al>verzoekt de regering de nota naar aanleiding van het verslag en een eventuele nota van wijziging zo snel mogelijk maar uiterlijk op 1 juli 2025 naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Sneller</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1603/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1603</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-07">7 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het voornemen bestaat om het quotum van 2024 voor de tongvisserij op de Noordzee met ruim 60% te korten, een derde opeenvolgende korting;</al>
+            <al>overwegende dat deze grote korting grote gevolgen heeft voor de Nederlandse visserijvloot, omdat met dit quotum slechts enkele maanden op tong gevist kan worden;</al>
+            <al>overwegende dat het ICES-rapport aangeeft dat ook met halvering van de korting het paaibestand nog steeds met 25% zal toenemen;</al>
+            <al>overwegende dat sprake is van grote onzekerheden in de huidige bestandsschatting van tong onder meer vanwege het niet kunnen terugvinden van de sterke jaarklasse 2018;</al>
+            <al>verzoekt de regering zich in de afrondende fase van de onderhandelingen met het Verenigd Koninkrijk over de Noordzeequota en in de komende Visserijraad sterk te maken voor halvering van de voorgenomen korting op het tongquotum voor de Noordzeevisserij,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Van der Plas</al>
+              <al>Vedder</al>
+              <al>Nijhof-Leeuw</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

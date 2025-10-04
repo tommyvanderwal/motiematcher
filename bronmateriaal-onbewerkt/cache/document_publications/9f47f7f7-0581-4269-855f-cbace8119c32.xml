@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-148/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">148</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SLAGT-TICHELMAN EN WHITE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat iedereen recht heeft op gezondheid;</al>
+            <al>constaterende dat in Caribisch Nederland veel financiële problematiek is en dat groente en fruit extreem duur zijn;</al>
+            <al>constaterende dat overgewicht en diabetes veelvoorkomende problemen zijn in Caribisch Nederland;</al>
+            <al>overwegende dat zelfvoorzienende projecten op het gebied van groente en fruit onder het Ministerie van LVVN vallen;</al>
+            <al>overwegende dat luchtkwaliteit onder IenW valt;</al>
+            <al>overwegende dat de Staatssecretaris in het commissiedebat de toezegging heeft gedaan na zijn bezoek aan Caribisch Nederland in februari een brief te sturen met een totaalaanpak gericht op gezondheid in Caribisch Nederland;</al>
+            <al>overwegende dat BZK los daarvan komt met een aanpak bestaanszekerheid;</al>
+            <al>overwegende dat de lokale context meenemen in beleid belangrijk is;</al>
+            <al>verzoekt de regering om met één kabinetsbrede aanpak met meer maatregelen voor het verhogen van de publieke gezondheid in Caribisch Nederland te komen, met oog voor de lokale context en afgestemd met de andere ministeries, zoals LVVN en IenW,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>White</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

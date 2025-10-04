@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-336/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">336</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUIJSSE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het doel van de Richtlijn single-use plastics (SUP) is om de hoeveelheid plastic in zwerfafval te verminderen en dat de richtlijn verder niet kijkt naar de bredere milieu-impact;</al>
+            <al>constaterende dat papieren bekers met een plastic coating ten opzichte van hardplastic bekers bijdragen aan de vermindering van plasticgebruik tot wel 95% en daarbij een lagere bredere milieu-impact hebben;</al>
+            <al>constaterende dat het bijkomende systeem van inzameling en reiniging van hardplastic bekers tot meerkosten en regeldruk leidt;</al>
+            <al>verzoekt de regering om bij de herziening van de Regeling kunststofproducten voor eenmalig gebruik papieren bekers en bakjes met een plastic coating toe te staan als optie om de doelstelling voor vermindering van het plasticverbruik te bereiken, op voorwaarde dat er een systeem voor inzameling, sortering en recycling is opgezet;</al>
+            <al>verzoekt de regering om bij het vaststellen de Verpakkingsverordening na te leven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Buijsse</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

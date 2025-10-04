@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3079/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3079</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-13">13 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in Hongarije de democratie, rechtsstaat en mediavrijheden steeds verder worden afgebroken;</al>
+            <al>overwegende dat de Kamer reeds eind 2023 een motie heeft aangenomen die de regering oproept om de artikel 7-procedure tegen Hongarije te intensiveren en toe te werken naar het ontnemen van het stemrecht van de regering-Orbán;</al>
+            <al>overwegende dat Orbán voortdurend gemeenschappelijk beleid tegen Russische agressie ondermijnt, terwijl de noodzaak voor een krachtig en eensgezind EU-optreden alleen maar is toegenomen;</al>
+            <al>verzoekt de regering per direct concrete stappen te zetten om de artikel 7-procedure tegen Hongarije verder te brengen en zich daarmee actief in te spannen voor het ontnemen van het Hongaarse stemrecht in de raden van de EU, en de Kamer uiterlijk bij de Voorjaarsnota te informeren over de ondernomen acties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36495-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 495</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/1925 van het Europees parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van Richtlijnen (EU) 2019/1937 en (EU) 2020/1828 (Uitvoeringswet digitalemarktenverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-04">4 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat sommige bedrijven in uiteenlopende sectoren te veel marktmacht hebben, wat kan leiden tot hogere consumentenprijzen, het achterblijven van innovatie en minder kansen voor nieuwe bedrijven;</al>
+            <al>overwegende dat marktmacht kan ontstaan door fusies, overnames of natuurlijke groei van bedrijven;</al>
+            <al>overwegende dat de meeste kleine fusies en overnames onder de wettelijke omzetdrempels meestal niet tot concurrentieproblemen leiden, maar dat zogenaamde killer acquisitions en het rijgen van kralen – dat is het een voor een overnemen van kleintjes totdat je zelf heel groot bent – wel degelijk leiden tot marktmacht, bijvoorbeeld in de techsector en de farmasector;</al>
+            <al>constaterende dat de ACM aangeeft dat het voorkomen van marktmacht beter is dan genezen en pleit voor een call-inbevoegdheid, waarbij kleine overnames voor een korte periode worden getoetst, zonder daarbij adequate rechtszekerheid voor bedrijven uit het oog te verliezen;</al>
+            <al>verzoekt de regering om in de Mededingingswet een dergelijke call-inbevoegdheid voor de ACM voor kleine overnames op te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Sneller</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

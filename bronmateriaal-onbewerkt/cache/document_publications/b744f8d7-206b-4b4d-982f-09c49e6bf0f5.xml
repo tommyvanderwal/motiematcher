@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3222/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3222</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BREKELMANS EN KEIJZER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-26">26 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de tijdelijke regeling voor derdelanders uit Oekraïne op 4 maart beëindigd is voor derdelanders en dat hun tijdelijke verblijfstatus daarmee vervalt;</al>
+            <al>overwegende dat de meeste derdelanders afkomstig zijn uit een veilige situatie in hun herkomstland en daarom kunnen terugkeren;</al>
+            <al>constaterende dat de rechtbank in Roermond heeft uitgesproken dat derdelanders toch hun verblijfstatus behouden, welke strijdig is met de uitspraken van andere rechtbanken en de hoogste rechter in het bestuursrecht, de Raad van State;</al>
+            <al>van mening dat derdelanders die veilig kunnen terugkeren naar hun herkomstland, zo snel mogelijk dienen te vertrekken;</al>
+            <al>verzoekt de regering zich er maximaal voor in te zetten dat derdelanders uit Oekraïne zo snel mogelijk terugkeren naar hun herkomstland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Brekelmans</al>
+              <al>Keijzer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

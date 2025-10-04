@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1286/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1286</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SIX DIJKSTRA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Autoriteit Persoonsgegevens in haar brief aan het kabinet aangeeft dat algoritmische risicoselectie conform artikel 22 AVG slechts kan plaatsvinden mits het risico op discriminatoire verwerkingen periodiek wordt onderzocht en ondervangen, er sprake is van betekenisvolle menselijke tussenkomst, de selectie niet automatisch ook andere aanmerkelijke gevolgen heeft en de risicoselectie voldoende kenbaar is voor betrokkenen;</al>
+            <al>overwegende dat de Staatssecretaris Digitalisering de ambitie heeft uitgesproken om voor het einde van 2025 het Algoritmeregister gevuld te hebben, maar dat het Algoritmeregister tot op heden maar zeer beperkt gevuld is;</al>
+            <al>roept het voltallige kabinet op om voor de zomer van 2025 per departement een brief te sturen aan de Kamer met daarin een plan voor de registratie van impactvolle algoritmen (categorie B in de Handreiking Algoritmeregister, waar risicoselectiealgoritmes onderdeel van zijn), boven op de plannen voor het registreren van hoogrisico-AI (categorie A);</al>
+            <al>verzoekt de Staatssecretaris om eind 2025 een voortgangsbrief met de Kamer te delen inzake de registratie per departement van zowel hoogrisico-Al (categorie A) als impactvolle algoritmen (categorie B) en daarbij expliciet in te gaan op de vraag of er voldaan wordt aan de wettelijke eisen, inclusief de door de AP gegeven uitleg van artikel 22 AVG,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Six Dijkstra</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

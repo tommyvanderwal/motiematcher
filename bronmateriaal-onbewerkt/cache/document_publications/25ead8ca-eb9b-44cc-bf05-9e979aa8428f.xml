@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-662/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">662</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat conflicterende uitspraken van het College voor de toelating van gewasbeschermingsmiddelen en gerechtelijke uitspraken over het verbod van gewasbeschermingsmiddelen in de lelieteelt op specifieke percelen leidt tot grote onzekerheid voor telers;</al>
+            <al>constaterende dat de Minister van LNV een gids voor goede praktijken kan vaststellen waarmee de overheid een gewasbeschermingsplan van een teler kan beoordelen;</al>
+            <al>constaterende dat zo'n gids nu ook in samenwerking met de sector wordt opgesteld voor de aardappelteelt, maar nog niet voor andere teelten zoals de lelieteelt;</al>
+            <al>overwegende dat ondanks het terugtrekken van de SUR en daarmee de reductiedoelstelling van 50% het nog steeds wenselijk is om dit doel in 2030 te halen;</al>
+            <al>overwegende dat de Minister onderzoek laat uitvoeren naar de wijze waarop de uitbreiding van het areaal van lelies kan worden beperkt;</al>
+            <al>verzoekt de regering om vooruitlopend op dit onderzoek in gesprek met de sector te gaan om te komen tot 50% reductie van chemische gewasbeschermingsmiddelen in de lelieteelt in 2030 en te komen tot een gids voor goede praktijken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

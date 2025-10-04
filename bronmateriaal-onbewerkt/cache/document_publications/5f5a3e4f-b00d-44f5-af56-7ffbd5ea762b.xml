@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32156-130/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 156</dossiernr>
+      </dossiernummer>
+      <titel>Monumentenzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">130</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MOHANDIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er voor de instandhouding van (rijks)monumenten ook dringende opgaven zijn op het gebied van verduurzaming, klimaatadaptatie, herbestemming naar woningen en funderingsproblematiek;</al>
+            <al>constaterende dat eigenaren van (rijks)monumenten worden geconfronteerd met steeds hogere kosten voor de instandhouding van hun monumenten in combinatie met onvoldoende beschikbare subsidies;</al>
+            <al>verzoekt de regering te onderzoeken om vanuit de beschikbare budgetten bij de ministeries van Klimaat en Groene Groei, Infrastructuur en Waterstaat en Volkshuisvesting en Ruimtelijke Ordening gezamenlijk te investeren in een integrale subsidieregeling voor de versterking van het belang van monumenten en erfgoed voor de fysieke leefomgeving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mohandis</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

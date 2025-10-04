@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34682-218/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 682</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Omgevingsvisie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">218</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MEULENKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in de Nota Ruimte keuzes worden gemaakt over hoe we de komende jaren omgaan met onze ruimte;</al>
+            <al>overwegende dat ruimte voor bedrijven om te groeien essentieel is voor onze economie en voor onze werkgelegenheid;</al>
+            <al>constaterende dat in het voorontwerp van de Nota Ruimte onvoldoende aandacht wordt besteed aan het creëren van ruimte voor het bedrijfsleven;</al>
+            <al>verzoekt de regering de Nota Ruimte zodanig vorm te geven dat er voldoende ruimte is voor bedrijven en economische activiteiten om flink te groeien;</al>
+            <al>verzoekt hierin ook relevante regelgeving die een rem zet op de groei van bedrijven af te schaffen, zoals de Ladder voor duurzame verstedelijking voor economische activiteit, zodat het bedrijfsleven ruimte heeft om te groeien,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Meulenkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

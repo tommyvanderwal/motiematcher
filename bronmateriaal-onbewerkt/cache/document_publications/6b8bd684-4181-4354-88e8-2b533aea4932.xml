@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-315/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">315</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ZEEDIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-28">28 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het afdekken van grondstoffenvelden per direct bijdraagt aan het verminderen van de overlast van omwonenden van Tata Steel Nederland;</al>
+            <al>constaterende dat het afdekken van grondstoffenvelden en het sluiten van Kooksfabriek 2 via de Omgevingswet verplicht is, maar dat de handhaving van de provincie ontoereikend is;</al>
+            <al>overwegende dat moet worden voorkomen dat via de maatwerkafspraken de belastingbetaler opdraait voor de eerdere verplichtingen van Tata Steel Nederland aan de provincie;</al>
+            <al>verzoekt de regering in te zetten op maximale handhaving van bestaande verplichtingen en daarbij de provincie Noord-Holland te steunen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Zeedijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

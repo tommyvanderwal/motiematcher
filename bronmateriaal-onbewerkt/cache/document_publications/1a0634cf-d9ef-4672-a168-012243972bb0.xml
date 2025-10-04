@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-927/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">927</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CLAASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de huidige aanpak voor toegang tot nieuwe geneesmiddelen een «one size fits all»-benadering is en er vaak veel tijd te winnen is voor patiënten door middel van creatieve, op maat gemaakte oplossingen per medicijn;</al>
+            <al>overwegende dat een maatwerkaanpak kan leiden tot snellere toegang tot nieuwe geneesmiddelen en patiënten dan eerder geholpen kunnen worden;</al>
+            <al>overwegende dat flexibiliteit in het onderhandelingsproces kan bijdragen aan efficiëntie van het proces en het overeenkomen van een prijs;</al>
+            <al>overwegende dat een maatwerkaanpak aansluiting vindt bij de aangenomen motie op stuk nr. <extref doc="kst-32805-183" soort="document" status="actief">183 (32 805)</extref> over het stimuleren dat fabrikanten, het Zorginstituut, CBG en de beroepsgroepen eerder met elkaar in gesprek gaan over hun studieopzet met als doel de postsluisperiode te verkorten;</al>
+            <al>verzoekt de regering te bewerkstelligen dat er meer flexibiliteit en maatwerk in het onderhandelingsproces voor nieuwe geneesmiddelen kan worden geïntroduceerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Claassen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

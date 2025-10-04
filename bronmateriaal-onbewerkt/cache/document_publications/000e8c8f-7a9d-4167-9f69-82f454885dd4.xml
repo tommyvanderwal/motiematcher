@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VII-108/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">108</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN OOSTENBRUGGEN EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ambtenaren op ministeries worden voorzien van vele opleidingsmogelijkheden die hoofdzakelijk gericht zijn op het waarborgen van ambtelijk vakmanschap en niet op het verwerven van kennis over de democratische rechtsstaat;</al>
+            <al>overwegende dat brede kennis en vaardigheden over het toepassen van democratische rechtsbeginselen essentieel zijn voor ambtenaren in hun functioneren binnen onze democratische samenleving;</al>
+            <al>overwegende dat het bevorderen van een dieper begrip van de democratische rechtsstaat bij ambtenaren bijdraagt aan een rechtvaardiger openbaar bestuur;</al>
+            <al>verzoekt de regering om te onderzoeken hoe het opleidingsaanbod voor ambtenaren kan worden verbreed, zodat naast ambtelijk vakmanschap ook voldoende aandacht wordt besteed aan brede kennis en vaardigheden over de democratische rechtsstaat,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Oostenbruggen</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35851-67/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 851</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van Richtlijn (EU) 2019/1937 van het Europees parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">67</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN WAVEREN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in de wet verschillende autoriteiten zijn benoemd die toezichts- en handhavingsbevoegdheden hebben die niet in de Wet bescherming klokkenluiders zijn benoemd;</al>
+            <al>constaterende dat de Aanbestedingswet grondslagen biedt om partijen uit te sluiten van aanbestedingen wanneer de integriteit in twijfel kan worden getrokken;</al>
+            <al>constaterende dat de sanctionerende en handhavende bevoegdheid uit het amendement-Leijten nog niet in werking is getreden;</al>
+            <al>overwegende dat het van belang is dat overtreding van de Wet bescherming klokkenluiders consequenties heeft;</al>
+            <al>verzoekt de regering in beeld te brengen welke constateringen of oordelen van de autoriteiten voldoende grondslag bieden om overtreders nu al te sanctioneren, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Waveren</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

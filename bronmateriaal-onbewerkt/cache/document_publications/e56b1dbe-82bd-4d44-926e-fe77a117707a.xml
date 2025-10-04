@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-56/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">56</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 42% van de humanitaire hulp afkomstig is van USAID, maar dat president Trump heeft besloten het werk te staken en verdere afbraak dreigt;</al>
+            <al>overwegende dat zowel op de korte als op de lange termijn de allerarmsten ter wereld hieronder lijden en het tevens vanuit diplomatiek en geopolitiek oogpunt een onverstandig besluit is;</al>
+            <al>verzoekt het kabinet de Amerikaanse regering aan te spreken op het besluit om de hulp via USAID te staken;</al>
+            <al>verzoekt de regering tevens om binnen EU-verband te verkennen hoe de Europese Unie méér kan investeren in internationale samenwerking en ontwikkelingshulp om zo snel mogelijk bij te dragen aan het oplossen van de ontstane acute noden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Hirsch</al>
+              <al>Bamenga</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

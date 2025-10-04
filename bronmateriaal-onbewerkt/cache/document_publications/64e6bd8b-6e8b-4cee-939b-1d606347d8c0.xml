@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32802-89/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 802</dossiernr>
+      </dossiernummer>
+      <titel>Toepassing van de Wet open overheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">89</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat artikel 5.1, tweede lid, onder i, van de Woo (Wet open overheid) is bedoeld om de onder de Wob geldende jurisprudentie te behouden inzake het goed functioneren van de Staat;</al>
+            <al>overwegende dat er een praktijk is ontstaan waarbij dit artikel veel vaker wordt ingeroepen dan waarvoor het is bedoeld, waardoor de openbaarheid ten opzichte van de Wob is afgenomen;</al>
+            <al>overwegende dat ook uit jurisprudentie blijkt dat de openbaarheid van een document moet worden beoordeeld op de inhoud en slechts die gedeelten niet openbaar zijn waarbij de in artikel 5.1 van de Woo genoemde belangen zwaarder wegen dan de openbaarheid, het openbaar-tenzijprincipe;</al>
+            <al>overwegende dat in de «Rijksbrede instructie voor het behandelen van Woo-verzoeken» in strijd met deze jurisprudentie wordt afgezien van individuele inhoudelijke beoordeling van concepten, maar dat wordt voorgeschreven dat concepten van stukken in beginsel niet openbaar worden gemaakt, omdat ze nog niet «rijp» zijn;</al>
+            <al>verzoekt de regering om de Woo uit te voeren overeenkomstig de wet en de jurisprudentie, de rijksbrede instructie in overeenstemming te brengen met de wet en de jurisprudentie, en de Kamer hiervan binnen zes weken verslag te doen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Palmen</al>
+              <al>Chakor</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

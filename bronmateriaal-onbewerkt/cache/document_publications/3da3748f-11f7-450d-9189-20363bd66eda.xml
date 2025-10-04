@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-126/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">126</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 78% van de jongeren sociale media gebruikt voor hun nieuwsgaring, waarbij het gevaar is dat zij door AI en algoritmen in zogenaamde «rabbit holes» en informatiefuiken belanden en mensen hun wereldbeeld vormen gebaseerd op een werkelijkheid die niet bestaat;</al>
+            <al>constaterende dat het een onderdeel van de opdracht van de NPO is om een breed publiek te voorzien van een evenwichtig, pluriform, gevarieerd en kwalitatief hoogstaand media-aanbod;</al>
+            <al>overwegende dat het bestrijden van misinformatie en het tegengaan van rabbit holes van groot belang is;</al>
+            <al>overwegende dat er een taak ligt voor de NPO om tegenwicht te bieden aan deze informatiefuiken;</al>
+            <al>verzoekt de regering om in samenspraak met de NPO, de omroepen en het Commissariaat voor de Media een strategie uit te werken voor hoe de NPO het beste kan inspelen op de genoemde technologische ontwikkelingen als AI om de publieke mediaopdracht zo goed mogelijk uit te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

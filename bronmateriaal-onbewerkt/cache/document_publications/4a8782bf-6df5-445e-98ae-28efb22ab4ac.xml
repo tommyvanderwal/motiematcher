@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-619/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">619</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SNELLER EN THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-12">12 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Nationaal Groeifonds is opgezet om te investeren in langdurige projecten die de Nederlandse economie op lange termijn versterken;</al>
+            <al>overwegende dat de Algemene Rekenkamer al eerder heeft gewaarschuwd dat deze middelen goed bewaakt moeten worden tegen kortetermijnuitgaven die niet passen bij het doel waarvoor het geld apart is gezet;</al>
+            <al>constaterende dat er op dit moment nog voor 8,2 miljard aan middelen gereserveerd staat in het Nationaal Groeifonds om het verdienvermogen van de toekomst aan te jagen, waarvan 3,4 voor de uitgestelde vierde ronde;</al>
+            <al>verzoekt de regering niet te bezuinigen op het Nationaal Groeifonds en de resterende middelen te blijven inzetten voor innovatieve, duurzame en structurele economische groei, zoals in lijn met de aanbevelingen van het rapport van de Algemene Rekenkamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Thijssen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

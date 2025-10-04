@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-IV-61/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>IV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">61</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WHITE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat naar aanleiding van het advies van de commissie-Thodé besloten is om het minimumloon en de onderstand op de BES-eilanden per januari 2024 en per juli 2024 te verhogen;</al>
+            <al>overwegende dat het waarborgen van het sociaal minimum essentieel is voor het tegengaan van de armoede en het verbeteren van de welvaart op de eilanden;</al>
+            <al>overwegende dat het van groot belang is om goed te monitoren of de stappen die dit jaar gezet worden voldoende zijn om te zorgen dat iedereen op de BES-eilanden op een fatsoenlijk bestaansminimum komt;</al>
+            <al>verzoekt de regering om voor de drie afzonderlijke eilanden te monitoren of de stappen die nu gezet zijn voldoende zijn en per eiland te inventariseren welke eventuele verdere stappen noodzakelijk zijn om het bestaansminimum te bereiken en de Kamer hierover voor de begroting Koninkrijksrelaties voor het jaar 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>White</al>
+              <al>Paternotte</al>
+              <al>Ceder</al>
+              <al>Bruyning</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

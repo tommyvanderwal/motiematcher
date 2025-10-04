@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-596/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">596</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID HOLMAN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 592</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de mestmarkt aanzienlijk verandert door het wegvallen van derogatie,</al>
+            <al>overwegende dat het verminderen van kunstmestgebruik belangrijk is voor emissiereductie</al>
+            <al>overwegende dat er naar verwachting dit jaar een besluit wordt genomen over RENURE,</al>
+            <al>overwegende dat RENURE en andere kunstmestvervangers zowel een uitdaging als een oplossing vormen voor het mest- en stikstofprobleem;</al>
+            <al>overwegende dat de Kamer in meerderheid heeft uitgesproken dat de toekomst van de Nederlandse landbouw grondgebonden dient te zijn, in lijn met de afspraken met Brussel;</al>
+            <al>van mening dat mestverwerking zich moet richten op het verwaarden van mest tot RENURE en andere kunstmestvervangers,</al>
+            <al>overwegende dat export van mest, al dan niet behandeld of verwerkt, niet bijdraagt aan een gesloten kringloop binnen Nederland;</al>
+            <al>overwegende dat er gezocht moet worden naar een structurele oplossing voor niet-plaatsbare mest, waarbij het 8e actieprogramma van de Nitraatrichtlijn mogelijk nieuwe en betere kansen biedt dan het opnieuw inzetten op derogatie;</al>
+            <al>verzoekt de regering een grondgebonden landbouw, bodemgezondheid en een gesloten kringloop in acht te nemen bij het stimuleren en ontwikkelen van mestverwerking, waarbij in de toekomst Nederlandse mest of mestvervangers zo veel mogelijk aangewend worden op Nederlandse bodem ter vervanging van kunstmest en het voorstel hiervoor aan de Kamer voor te leggen</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Van Campen</al>
+              <al>Bromet</al>
+              <al>Podt</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

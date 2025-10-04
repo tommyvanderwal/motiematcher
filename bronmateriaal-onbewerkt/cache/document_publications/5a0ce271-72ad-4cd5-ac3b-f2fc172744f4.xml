@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36196-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 196</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 in verband met aanscherping van het openbare ordebeleid voor criminele vreemdelingen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-17">17 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat antisemitisme een kwaad is dat ook in Nederland geweerd en krachtig bestreden dient te worden;</al>
+            <al>constaterende dat de Duitse wet- en regelgeving mogelijkheden biedt om antisemitische vreemdelingen uit te zetten;</al>
+            <al>overwegende dat in Duitsland daarnaast wordt gewerkt aan strengere wetgeving ten aanzien van het weren of uitzetten van vreemdelingen die zich schuldig maken aan antisemitisme, onder andere door hen uit te sluiten van de inburgeringsprocedure of migranten het Duitse staatsburgerschap te ontnemen;</al>
+            <al>verzoekt de regering om verschillende mogelijkheden te verkennen hoe antisemitisme als weigerings- of intrekkingsgrond zwaarder kan worden meegewogen in de asiel- en inburgeringsprocedure, bij de aanvraag van een tijdelijke en permanente verblijfsvergunning en in de naturalisatieprocedure, en daarbij het Duitse voorbeeld nadrukkelijk te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Veldkamp</al>
+              <al>Keijzer</al>
+              <al>Brekelmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

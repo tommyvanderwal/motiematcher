@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29689-1285/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 689</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Zorgstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1285</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RIKKERS-OOSTERKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er steeds meer jongeren zijn die moeite hebben om hun zorgpremie te betalen;</al>
+            <al>constaterende dat het aantal wanbetalers in 2023 steeg van 178.912 naar ongeveer 185.000 op 1 september 2024, waarbij het een relatief groot aantal jongeren betreft;</al>
+            <al>overwegende dat betalingsachterstanden op de zorgpremie een belangrijke indicatie kunnen zijn voor bredere schuldenproblematiek;</al>
+            <al>verzoekt de regering om er bij de zorgverzekeraars op aan te dringen om extra maatregelen te nemen om jongeren actief te ondersteunen om te voorkomen dat ze betalingsachterstanden krijgen, bijvoorbeeld door meer gerichte voorlichting bij het kiezen van hun zorgverzekering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rikkers-Oosterkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

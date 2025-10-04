@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31239-405/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 239</dossiernr>
+      </dossiernummer>
+      <titel>Stimulering duurzame energieproductie </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">405</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de kosten van groene waterstof minder snel dalen dan verwacht waardoor grootschalig gebruik in 2030 niet langer realistisch lijkt;</al>
+            <al>constaterende dat de huidige doelen en grootschalige verplichtingen voor het gebruik van groene waterstof daarom schadelijk kunnen zijn voor onze industrie;</al>
+            <al>overwegende dat door middel van lidstaatkeuzes bijgestuurd kan worden op de invulling van Europese verplichtingen;</al>
+            <al>verzoekt de regering om het wetsvoorstel Jaarverplichting hernieuwbare brandstoffen van niet-biologische oorsprong in de industrie zonder de nationale kop van verplichtingen op bedrijfsniveau te implementeren;</al>
+            <al>verzoekt het kabinet om bij de implementatie van dit wetsvoorstel wel te blijven inzetten met de sector op de uitrol van waterstof zoals gepland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Erkens</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

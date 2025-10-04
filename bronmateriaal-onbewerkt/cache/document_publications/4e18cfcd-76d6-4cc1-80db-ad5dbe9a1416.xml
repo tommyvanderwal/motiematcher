@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31209-254/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 209</dossiernr>
+      </dossiernummer>
+      <titel>Schoon en zuinig</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">254</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een groene, biodiverse stad het welzijn en de gezondheid van mensen en dieren verbetert en bijdraagt aan het opvangen van hittestress en waterberging;</al>
+            <al>constaterende dat de Minister werkt aan een wijziging van het Besluit bouwwerken leefomgeving (Bbl), waarin wordt voorzien in regelgeving voor nestvoorzieningen voor beschermde dieren;</al>
+            <al>overwegende dat natuurinclusief bouwen volgens de Rli breder is dan dat;</al>
+            <al>overwegende dat de Rli onder andere heeft aanbevolen om in het Bbl vast te leggen dat natuurinclusief inrichten, bouwen en renoveren moet bijdragen aan de minimumvereisten voor de gebiedsspecifieke Basiskwaliteit Natuur;</al>
+            <al>verzoekt de regering om deze aanbeveling van de Rli uit te voeren en aan de Kamer te rapporteren op welke manier de regering dit gaat doen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

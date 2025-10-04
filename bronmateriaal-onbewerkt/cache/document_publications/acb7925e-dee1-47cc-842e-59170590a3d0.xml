@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VII-103/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">103</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland zowel het Kaderverdrag inzake de bescherming van nationale minderheden als het Europees Handvest voor regionale talen of talen van minderheden heeft ondertekend en geratificeerd, en zich daarmee heeft verbonden aan de verplichtingen die daaruit voortvloeien;</al>
+            <al>overwegende dat Rijk en provincie een gezamenlijke verantwoordelijkheid hebben voor het beschermen en bevorderen van de Friese taal en cultuur en er op dit moment wordt gewerkt aan de afronding van de nieuwe bestuursafspraak, maar er op enkele punten verhoogde inzet nodig is van het Rijk;</al>
+            <al>spreekt uit dat zij streeft naar een gelijkwaardige positie voor de Friese taal en cultuur in de provincie Fryslân, waarbij een gelijkwaardige en proportionele behandeling in wet- en regelgeving essentieel is en een verantwoordelijkheid is van het Rijk en de provincie om de middelen te zoeken voor de uitvoering van de wettelijke taak en taken die voortvloeien uit het ondertekenen en ratificeren van Europese verdragen en handvesten;</al>
+            <al>verzoekt de regering om in beeld te brengen wat er nodig is om aan de in de overweging genoemde punten tegemoet te komen en ondertekening van de BFTK te bespoedigen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Soepboer</al>
+              <al>De Hoop</al>
+              <al>Tjeerd de Groot</al>
+              <al>Bikker</al>
+              <al>Van Nispen</al>
+              <al>Inge van Dijk</al>
+              <al>Tuinman</al>
+              <al>Meulenkamp</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

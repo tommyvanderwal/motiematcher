@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-170/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">170</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID GRINWIS C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 166</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord een structurele korting op specifieke uitkeringen vanaf 2026 is afgesproken van 10%, ofwel 638 miljoen euro, die in de Rijksbegroting 2025 om diverse redenen reeds is bijgesteld met 200 miljoen euro naar 438 miljoen euro, maar dat de SPUK-korting op de brede doeluitkering (BDU) om «technische redenen» is gehandhaafd, ondanks dat deze SPUK blijft bestaan en er derhalve geen besparing op administratieve lasten uit voortvloeit;</al>
+            <al>overwegende dat als gevolg van deze SPUK-korting vanaf 2026 een bezuiniging van 110 miljoen euro structureel dreigt op de BDU, waardoor vervoersregio's in en rond de steden Amsterdam, Rotterdam en Den Haag gedwongen zijn om fors te gaan snijden in het aantal buslijnen (20% minder buslijnen vergeleken met 2025) en de prijzen fors te verhogen (naast de reguliere inflatiecorrectie 12% extra ten opzichte van 2025), met grote gevolgen voor vervoersarmoede en zelfs woningbouw;</al>
+            <al>overwegende dat de voorgenomen bezuiniging niet alleen de grote steden treft, maar juist (kleine) dorpen in de regio eromheen, zoals Schipluiden, Ankeveen en Rockanje, hard raakt, omdat juist daar de (laatste) buslijnen dreigen te verdwijnen;</al>
+            <al>verzoekt de regering, conform haar toezegging, nog deze maand helderheid te verschaffen over de vraag of een korting van 10% op de brede doeluitkering (BDU) realistisch is en in overeenstemming is met de andere beleidsdoelen van het kabinet betreffende openbaar vervoer, leefbaarheid en woningbouw, en zo niet, zich bij de voorjaarsbesluitvorming in te spannen om de voorgenomen korting op de BDU te voorkomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Bikker</al>
+              <al>Inge van Dijk</al>
+              <al>Flach</al>
+              <al>Chakor</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

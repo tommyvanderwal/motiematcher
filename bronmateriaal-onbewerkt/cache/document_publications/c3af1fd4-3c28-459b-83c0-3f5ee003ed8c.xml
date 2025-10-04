@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36618-28/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 618</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Meststoffenwet in verband met de voorwaarden over de maximale mestproductie in de derogatiebeschikking 2022–2025 (Wet wijziging Meststoffenwet in verband met de maximale mestproductie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">28</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-10-07">7 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de huidige mestplannen een generieke korting of koude sanering niet kan worden uitgesloten;</al>
+            <al>constaterende dat er in een vergelijkbare situatie, bij het fosfaatdrama in 2017, 160.000 te veel gefokte koeien vroegtijdig moesten worden afgevoerd naar de slacht;</al>
+            <al>constaterende dat een dier dat niet gefokt is, ook niet (vervroegd) hoeft te worden afgevoerd naar de slacht;</al>
+            <al>constaterende dat het welzijn en de intrinsieke waarde van dieren gerespecteerd moeten worden, maar dat de belangen van dieren nog altijd geen onderdeel vormen van het mestbeleid;</al>
+            <al>verzoekt de regering om zo snel mogelijk fokbeperkingen in te stellen om onnodig dierenleed te voorkomen bij de aanpak van het mestprobleem,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

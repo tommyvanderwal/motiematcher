@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29517-259/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 517</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheidsregio’s</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">259</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AARDEMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit het rapport «Leren van twee vuurwerkrampen» van de Universiteit Twente blijkt dat consumentenvuurwerk dat in een opslag ligt, toch massa-explosief kan reageren bij brand, ondanks dat de vuurwerkopslag voldoet aan de huidige regelgeving;</al>
+            <al>constaterende dat omwonenden gevaar kunnen lopen bij brand in een vuurwerkopslag;</al>
+            <al>constaterende dat voor vuurwerkopslagen van consumentenvuurwerk van meer dan 10.000 kilo een vergunningplicht geldt;</al>
+            <al>overwegende dat het voor ondernemers een financiële opgave is de vuurwerkopslagen te verplaatsen;</al>
+            <al>verzoekt de regering te onderzoeken of de opslagen van meer dan 10.000 kilo consumentenvuurwerk op een voldoende veilige afstand liggen ten opzichte van omwonenden, indien de vuurwerkopslag tot massa-explosie zou komen;</al>
+            <al>verzoekt de regering, indien blijkt dat vuurwerkopslagen zich niet op een veilige afstand bevinden, bij nieuwe vergunningaanvragen pas over te gaan tot verlening en bij huidige vergunningen pas over te gaan tot verlenging, indien een voldoende veilige afstand is gewaarborgd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aardema</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

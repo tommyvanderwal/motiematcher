@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-49/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">49</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BROMET EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-01">1 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat landschapselementen, zoals houtwallen, een grote bijdrage leveren aan het unieke karakter van ons Nederlandse landschap, de biodiversiteit, waterkwaliteit, waterbeschikbaarheid, opslag van CO<inf>2</inf>, aantrekkelijkheid voor toeristen, recreanten en ondernemers, en de binding met de streek;</al>
+            <al>verzoekt de regering om structureel voldoende middelen te alloceren voor de aanleg en het onderhoud van landschapselementen, bijvoorbeeld middels een landschapsfonds, waarop landeigenaren ten minste twintig jaar aanspraak kunnen maken op een behoorlijke vergoeding, en deze te dekken uit het transitiefonds;</al>
+            <al>verzoekt de regering om hiervoor nadere regels en voorwaarden op te stellen en bijvoorbeeld de Ecologische Autoriteit aan te wijzen als beheerder,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bromet</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

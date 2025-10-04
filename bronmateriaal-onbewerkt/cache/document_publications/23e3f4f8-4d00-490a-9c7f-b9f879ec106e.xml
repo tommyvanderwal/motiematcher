@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-825/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">825</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN KENT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-16">16 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overheid verantwoordelijk is voor de fouten die gemaakt zijn bij de WIA;</al>
+            <al>constaterende dat nabetalingen effect kunnen hebben op de hoogte van toeslagen en belastingen die negatieve effecten kunnen hebben op het netto-inkomen van de gedupeerde;</al>
+            <al>verzoekt de regering te garanderen dat nabetalingen in de hersteloperatie geen financieel nadeel mogen hebben voor toeslagen en belastingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Kent</al>
+              <al>Ceder</al>
+              <al>Patijn</al>
+              <al>Vijlbrief</al>
+              <al>Ergin</al>
+              <al>Inge van Dijk</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

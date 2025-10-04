@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-593/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">593</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de akkerbouwsector met de Sectoraanpak Nitraat inzet op doelsturing;</al>
+            <al>overwegende dat de sector in het najaar van 2025 een vliegende start wil maken met doelsturing door zelf te zorgen voor bemonstering van 100.000 hectare grond;</al>
+            <al>overwegende dat voor de succesvolle uitrol van doelsturing ook financieel commitment vanuit de overheid nodig is;</al>
+            <al>verzoekt de regering het spoor doelsturing op te nemen in het achtste actieprogramma Nitraatrichtlijn en de middelen voor doelsturing in de akkerbouw bij voorjaarsbesluitvorming te reserveren binnen het budget voor doelsturing en innovatie, zodat de sector zo snel mogelijk aan de slag kan met het uitrollen van doelsturing,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

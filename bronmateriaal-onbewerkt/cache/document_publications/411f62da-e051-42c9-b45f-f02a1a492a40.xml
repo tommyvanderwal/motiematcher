@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-877/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">877</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering van plan is om ervoor te zorgen dat het Centraal Justitieel Incassobureau eerst een gratis betalingsherinnering kan sturen voordat aanmaningkosten in rekening worden gebracht, maar er nog niet iets wordt gedaan tegen de forse aanmaningskosten bij verkeersboetes bij niet tijdig betalen, waardoor de oorspronkelijke boete kan verdrievoudigen;</al>
+            <al>overwegende dat er verschillende redenen aan ten grondslag kunnen liggen dat verkeersboetes niet tijdig worden betaald, maar deze vervolgens fors worden verhoogd waardoor mensen in de problemen kunnen komen;</al>
+            <al>constaterende dat het CJIB nu zelf in de Stand van de Uitvoering 2023 aangeeft dat de huidige verhogingen van de boetes evident onredelijke gevolgen hebben;</al>
+            <al>verzoekt de regering de aanmanings- en incassokosten bij verkeersboetes fors te verlagen en in lijn te brengen met de toegestane verhogingen van de hoofdsom in andere rechtsgebieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>El Abassi</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

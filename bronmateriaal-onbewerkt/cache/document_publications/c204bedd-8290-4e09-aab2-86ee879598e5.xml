@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36412-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 412</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Waterschapswet, de Waterwet en de Algemene wet bestuursrecht in verband met het versterken van de toepassing van het profijtbeginsel bij de watersysteemheffing, het geven van ruimte aan nieuwe ontwikkelingen en het oplossen van enkele knelpunten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het profijtbeginsel in het huidige wetsvoorstel is uitgewerkt op basis van het aantal hectares van een betalerscategorie;</al>
+            <al>overwegende dat het aantal hectares niet altijd wat zegt over het profijt of de vervuiling van een bepaalde categorie, bijvoorbeeld omdat natuurterreinen door waterberging en waterzuivering of agrarische bedrijven met ecosysteemdiensten bijdragen aan doelen van het waterschap;</al>
+            <al>overwegende dat het principe «de vervuiler betaalt» hierdoor niet volledig doorwerkt in de voorliggende wetswijziging;</al>
+            <al>overwegende dat toepassing van het profijtbeginsel louter op basis van hectares daardoor kan leiden tot onterechte belastingverhogingen voor sectoren die een nettobijdrage leveren aan de doelen van het waterschap;</al>
+            <al>verzoekt de regering de Kamer jaarlijks te informeren over de belastingopbrengst per waterschap, de verdeling tussen de categorieën en de relatieve en absolute stijging en daling van de lasten per categorie;</al>
+            <al>verzoekt de regering binnen vijf jaar na inwerkingtreding van het huidige wetsvoorstel onafhankelijk onderzoek uit te laten voeren naar de toepassing van het «de vervuiler betaalt»-principe binnen de waterschapsbelastingen en hierbij de maatschappelijke kosten en baten (relaterend aan hun bijdrage aan de doelen van het waterschap en de mate waarin ze vervuilen) van en voor de diverse categorieën in het waterschap te onderzoeken, en de resultaten hiervan aan de Kamer toe te zenden,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Gabriëls</al>
+              <al>Stoffer</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

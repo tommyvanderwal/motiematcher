@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-116/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">116</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER VELDE</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het huidige mediabestel sterk gefragmenteerd is, waardoor de belangen van verschillende partijen, zoals publieke omroepen, commerciële mediabedrijven en overige stakeholders, niet altijd in samenhang worden meegenomen;</al>
+            <al>constaterende dat de digitalisering en internationale concurrentie grote uitdagingen vormen voor de toekomstbestendigheid van het Nederlandse medialandschap;</al>
+            <al>overwegende dat een integraal mediabestel waarin publieke en commerciële partijen beter samenwerken, essentieel is om pluriformiteit, innovatie en onafhankelijkheid in de media te waarborgen;</al>
+            <al>overwegende dat een hervorming van het mediabestel noodzakelijk is om deze uitdagingen aan te pakken;</al>
+            <al>overwegende dat het versterken van de Nederlandse media van groot belang is om onze eigen culturele identiteit, taal en onafhankelijke journalistiek te waarborgen, zeker in een tijd waarin buitenlandse mediabedrijven en platforms domineren;</al>
+            <al>verzoekt de regering om bij de hervorming van het mediabestel actief alle relevante partijen, waaronder commerciële mediabedrijven en overige stakeholders, te betrekken om te komen tot een zo integraal en toekomstbestendig mogelijk mediabestel;</al>
+            <al>verzoekt de regering tevens om daarbij specifiek aandacht te besteden aan het ondersteunen en versterken van Nederlandse mediabedrijven en omroepen, zodat zij kunnen concurreren met grote buitenlandse platforms en de Nederlandse taal, cultuur en journalistieke onafhankelijkheid kunnen blijven bevorderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Velde</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

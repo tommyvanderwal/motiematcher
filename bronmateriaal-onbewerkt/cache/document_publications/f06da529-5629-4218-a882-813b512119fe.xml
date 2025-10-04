@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24170-336/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 170</dossiernr>
+      </dossiernummer>
+      <titel>Gehandicaptenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">336</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel mensen met een beperking wel willen, maar niet (fulltime) kunnen werken;</al>
+            <al>constaterende dat overal in de publieke sector en het bedrijfsleven arbeidstekorten zijn;</al>
+            <al>constaterende dat de nationale strategie voor de implementatie van het VN-verdrag mooie doelen heeft op het gebied van werk en inkomen, maar het niet nodig is om tot 2040 te wachten;</al>
+            <al>overwegende dat veel knelpunten, zoals een mindering op toeslagen en uitkeringen, al bekend zijn bij zowel de doelgroepen als de uitvoeringsorganisaties;</al>
+            <al>verzoekt de regering om samen met belangenorganisaties voor mensen met een beperking, vakbonden, werkgevers en het onderwijs een stappenplan te maken met concrete en meetbare doelen voor de verbetering van bestaanszekerheid voor mensen met een beperking zodat de voortgang jaarlijks geëvalueerd wordt, en dit plan samen met de werkagenda naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Krul</al>
+              <al>Dobbe</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

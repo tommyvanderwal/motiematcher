@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2973/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2973</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HIRSCH EN KAMMINGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de handelsverhoudingen internationaal zullen verschuiven door onder andere de protectionistische handelspolitiek van de aantredende Amerikaanse president Trump en de assertieve houding van China;</al>
+            <al>constaterende dat dit een groot effect zal hebben op de Nederlandse economie en dus vraagt om een proactief antwoord van Nederland en Europa om zich in de veranderende verhoudingen staande te houden;</al>
+            <al>constaterende dat het nog ontbreekt aan een duidelijke kabinetsvisie op dit thema;</al>
+            <al>verzoekt de regering om de Kamer per brief te informeren over een visie op de veranderende handelsverhoudingen, de verwachte gevolgen voor de Nederlandse economie, en haar handelingsperspectief,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hirsch</al>
+              <al>Kamminga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

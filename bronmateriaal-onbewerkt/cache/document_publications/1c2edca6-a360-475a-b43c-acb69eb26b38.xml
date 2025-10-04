@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-910/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">910</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jeugdcriminaliteit een groeiende zorg is binnen Caribisch Nederland en dat preventieve maatregelen cruciaal zijn om jongeren op het juiste pad te houden;</al>
+            <al>overwegende dat effectieve preventie van jeugdcriminaliteit niet alleen de veiligheid vergroot, maar ook de toekomstkansen van jongeren verbetert;</al>
+            <al-groep>
+              <al>verzoekt de regering te onderzoeken welke programma's en initiatieven die gericht zijn op het versterken van sociale, educatieve en beroepsmatige kansen voor jongeren er zijn, zowel in Europees als Caribisch Nederland, samen te werken met lokale gemeenschappen, scholen en jeugdorganisaties om betrokken en zinvolle activiteiten te ontwikkelen die jongeren inspireren en verbinden, te zorgen voor passende ondersteuning en begeleiding van jongeren die risico lopen op crimineel gedrag, door middel van mentorschap en counseling, en de resultaten van deze initiatieven jaarlijks te evalueren en</al>
+              <al>de Kamer hierover te informeren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Mutluer</al>
+              <al>Van der Werf</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

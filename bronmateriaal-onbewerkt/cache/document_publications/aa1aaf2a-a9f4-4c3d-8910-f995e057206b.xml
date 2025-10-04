@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-345/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">345</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de geopolitieke situatie, waaronder de oorlog in Oekraïne, leidt tot instabiliteit in de wereld en gevolgen heeft voor de voedselzekerheid en handelsstromen;</al>
+            <al>overwegende dat een sterke en weerbare agrarische sector essentieel is om Nederland en Europa in deze instabiele situatie te voorzien van voldoende en veilig geproduceerd voedsel;</al>
+            <al>overwegende dat de ministeriële commissie plannen uitwerkt die direct invloed hebben op de toekomst van de agrarische sector;</al>
+            <al>verzoekt de regering om bij de verdere uitwerking van de plannen van de Ministeriële Commissie Economie en Natuurherstel aandacht te geven aan het belang van een sterke en weerbare agrarische sector in het licht van de internationale stabiliteit,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

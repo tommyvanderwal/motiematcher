@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22112-4124"/>
+      <meta name="OVERHEIDop.ondernummer" content="4124"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22112"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Nispen over een doorrekening van de kosten van de beleidsinzet op terugkeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Motie; Motie van het lid Van Nispen over een doorrekening van de kosten van de beleidsinzet op terugkeer"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 112</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">4124</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het momenteel onduidelijk is welke initiële en structurele kosten zijn verbonden aan de Nederlandse uitwerking van de Terugkeerverordening;</al>
+                  <al>overwegende dat het faciliteren van terugkeerhubs door derde landen kan worden ingezet als een verdienmodel waarmee veel geld aan Nederland en Europa kan worden gevraagd voor de opvang, zeker gezien het feit dat landen zoals Nederland consequent spreken van een asielcrisis;</al>
+                  <al>verzoekt de regering op korte termijn een doorrekening te maken van de kosten van de Nederlandse beleidsinzet op terugkeer, waarbij zowel de extra benodigde bewaringscapaciteit (cellen en medewerkers) in Nederland als de kosten van de Europese inzet, zoals de terugkeerhubs, worden meegenomen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Nispen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

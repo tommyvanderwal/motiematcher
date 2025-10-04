@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25424-697/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 424</dossiernr>
+      </dossiernummer>
+      <titel>Geestelijke gezondheidszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">697</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID JOSEPH C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 696</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het van groot belang is om de privacy van individuen te respecteren en dat we de verzameling en verwerking van persoonlijke gegevens zorgvuldig moeten afwegen tegen potentiële voordelen;</al>
+            <al>constaterende dat de NZa op grote schaal HoNOS+-vragenlijsten met zeer privacygevoelige gezondheidsgegevens van ggz-patiënten verzamelt met als doel om tot zorgvraagtypering te komen in verband met bekostiging;</al>
+            <al>constaterende dat uit een peiling van MIND is gebleken dat bijna 75% van de ondervraagde ggz-patiënten niet op de hoogte was van de datadeling en van de opt-outmogelijkheid en dat zorgverleners hierbij verplicht hun beroepsgeheim moeten doorbreken;</al>
+            <al>overwegende dat veel wetenschappelijke studies vraagtekens zetten bij de betrouwbaarheid en validiteit van HoNOS;</al>
+            <al>overwegende dat na uitvoerige studies in het buitenland en ook na de eerste analyses van de NZa de HoNOS-data niet geschikt lijken voor kostprijsberekening en voorspelling van zorgactiviteit;</al>
+            <al>overwegende dat de grootschalige dataverzameling tot veel maatschappelijke onrust leidt onder zowel ggz-patiënten als zorgaanbieders;</al>
+            <al>overwegende dat populatiemodellen op geaggregeerd niveau betere voorspelling van zorgactiviteit leveren, zodat instellingen, in de geest van het IZA, samen kunnen sturen om te zorgen dat ze verantwoordelijkheid nemen voor de gezondheid van de mensen in de regio;</al>
+            <al>verzoekt de regering om ervoor te zorgen dat de NZa de nu al verzamelde HoNOS+-data vernietigt en niet opnieuw overgaat tot de uitvraag van HoNOS+-vragenlijsten;</al>
+            <al>verzoekt de regering voorts ervoor te zorgen dat de NZa bij het voorspellen van zorgkosten in de GGZ voortaan slechts gebruikmaakt van geaggregeerde data en geen patiëntgegevens op persoonsniveau,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Dobbe</al>
+              <al>Westerveld</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

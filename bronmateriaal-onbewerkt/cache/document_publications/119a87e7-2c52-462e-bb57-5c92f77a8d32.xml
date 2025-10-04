@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35207-85/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 207</dossiernr>
+      </dossiernummer>
+      <titel>China</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">85</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat apparaten en apps van Chinese makelij, van DeepSeek tot TikTok en airfryers, nietsvermoedende burgers bespioneren door zeer veel persoonsgegevens te verzamelen van Europese burgers en in China op te slaan, en TikTok naar verluidt al een boete van meer dan 500 miljoen tegemoet ziet;</al>
+            <al>constaterende dat de Europese Commissie het toezicht op TikTok recent heeft aangescherpt vanwege mogelijke overtredingen bij de presidentsverkiezingen in Roemenië;</al>
+            <al>overwegende dat er zeer grote zorgen zijn over zowel de omgang met data als andere risico's voor gebruikers, en ambtenaren reeds wordt afgeraden om TikTok en DeepSeek te gebruiken;</al>
+            <al>verzoekt de regering om in Europees verband aan ByteDance harde voorwaarden te stellen om een verbod op TikTok te voorkomen, waarbij de garantie dat er geen gegevens meer naar China worden gestuurd er een van is;</al>
+            <al>verzoekt de regering tevens om in Europees verband aan te dringen op stevige handhaving van de privacywetgeving en uit te werken wanneer overgegaan wordt tot het ontzeggen van toegang van een apparaat of applicatie tot de Europese markt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

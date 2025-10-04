@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-B-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>B</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het gemeentefonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er financiële fouten zijn ontstaan bij de berekening van de taakmutaties, waardoor de hoogte van het accres in een jaar lager uitvalt dan de bedoeling van de berekeningswijze was;</al>
+            <al>constaterende dat zowel bij het berekenen van de opschalingskorting als bij het afschaffen van de extra korting jeugdhulp accresfouten zijn ontstaan;</al>
+            <al>van mening dat het foutief toepassen van een berekeningswijze dient te worden hersteld;</al>
+            <al>verzoekt de regering het gemiste accres over de ingetrokken opschalingskorting, over de extra korting jeugdhulp en de (negatieve) loon- en prijsbijstelling 2022–2023 van de extra korting jeugdhulp van in totaal circa 200 miljoen euro alsnog aan de betreffende jaren van het Gemeentefonds en Provinciefonds toe te voegen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Van Nispen</al>
+              <al>Koekkoe</al>
+              <al>Kostić</al>
+              <al>Inge van Dijk</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

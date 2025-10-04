@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36561-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 561</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Zorgverzekeringswet in verband met het bevorderen van zorgcontractering</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat contracten tussen zorgverzekeraar en zorgaanbieder een bewezen effectieve manier zijn om afspraken te maken en na te laten leven over onder meer toegankelijkheid en kosteneffectiviteit van zorg;</al>
+            <al>overwegende dat in sommige domeinen van de zorg, zoals wijkverpleging en geestelijke gezondheidszorg, heel veel zorgaanbieders actief zijn die lang niet allemaal contracten hebben met verzekeraars, maar wel vergoed dienen te worden zonder degelijke controles;</al>
+            <al>overwegende dat onvoldoende inzichtelijk is in welke mate ongecontracteerde zorg leidt tot minder kosteneffectiviteit, ondoelmatige inzet van arbeidsuren, en oneigenlijk gebruik en fraude;</al>
+            <al>verzoekt de regering om onderzoek te doen naar verschillen tussen gecontracteerde en ongecontracteerde zorg op het vlak van de genoemde onderwerpen, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tielen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31409-477/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 409</dossiernr>
+      </dossiernummer>
+      <titel>Zee- en binnenvaart</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">477</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Kamer heeft gevraagd om aanpassing van de CCR-eisen voor kleine schepen om deze in de vaart te houden (motie-Vedder c.s., <extref doc="kst-36410-XII-46" soort="document" status="actief">36 410-XII, nr. 46</extref>);</al>
+            <al>overwegende dat juist kleine schepen in de haarvaten van het vaarwegennet kunnen komen en derhalve een bijdrage leveren aan de Europese ambitie van 30% meer goederenvervoer over water, maar dat deze bijdrage door de CCR-eisen onder druk staat;</al>
+            <al>van mening dat de regering zich namens Nederland als binnenvaartland derhalve niet alleen moet inzetten voor een uitzonderingspositie voor kleine schepen tot 55 meter, maar ook voor de honderden schepen tot 80 meter;</al>
+            <al>verzoekt de regering zich ten aanzien van de CCR-eisen voor de binnenvaart op Europees niveau ook in te zetten voor een uitzonderingspositie voor kleine schepen tussen 55 en 80 meter,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Vedder</al>
+              <al>Soepboer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

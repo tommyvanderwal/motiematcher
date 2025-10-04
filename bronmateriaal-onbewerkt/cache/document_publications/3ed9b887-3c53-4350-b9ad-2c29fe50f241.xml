@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-961/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">961</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN UITERMARK EN FABER-VAN DE KLASHORST</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister het capaciteitsverlof, zoals opgenomen in de Rtvi, baseert op zijn bevoegdheid zoals neergelegd in artikel 26 van de Penitentiaire beginselenwet;</al>
+            <al>constaterende dat de Penitentiaire beginselenwet de Minister de bevoegdheid geeft om in de Rtvi nadere regels te stellen over het verlaten van de inrichting bij wijze van verlof om op die manier bij te dragen aan de voorbereiding van de terugkeer in de maatschappij;</al>
+            <al>constaterende dat capaciteitsverlof wordt verleend vanwege personeelsgebrek en dus niet een re-integratiedoeleinde dient;</al>
+            <al>constaterende dat in het RSJ-advies van 18 april wordt aangegeven dat capaciteitsverlof de facto de door de strafrechter opgelegde straf wijzigt en dat dit afbreuk doet aan het gezag van de rechter en het vertrouwen in de overheid kan aantasten;</al>
+            <al>overwegende dat op grond van de wet de beoogde aanpassing van de regeling niet geoorloofd is;</al>
+            <al>verzoekt de regering capaciteitsverlof daarom niet op te nemen in de Rtvi,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Uitermark</al>
+              <al>Faber-van de Klashorst</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

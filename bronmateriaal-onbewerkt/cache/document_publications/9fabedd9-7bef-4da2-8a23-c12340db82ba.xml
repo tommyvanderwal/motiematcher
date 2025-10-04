@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36452-10"/>
+      <meta name="OVERHEIDop.ondernummer" content="10"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36452"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Van Nispen over bij opkoop of herstructurering van een camping of vakantiepark zoveel mogelijk een Bibob-toets toepassen (t.v.v. 36452-5)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Beckerman: 'Red de camping'"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-03"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Beckerman: 'Red de camping'; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van Nispen over bij opkoop of herstructurering van een camping of vakantiepark zoveel mogelijk een Bibob-toets toepassen (t.v.v. 36452-5)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Toerisme"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Kopen en verkopen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 452</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Beckerman: «Red de camping»</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">10</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID VAN NISPEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 5</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-03">3 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende, dat de initiatiefnota-Beckerman getiteld «Red de Camping» voorstelt om criminaliteit op vakantieparken te voorkomen en aan te pakken;</al>
+                  <al>overwegende, dat het Regionale Informatie- en Expertise Centrum (RIEC) pleit voor een landelijke aanpak van criminaliteit op vakantieparken;</al>
+                  <al>verzoekt de regering er voor te zorgen dat bij de opkoop of herstructurering van een camping of vakantiepark zoveel mogelijk een Bibob-toets wordt toegepast, gemeentes hierin zo nodig te ondersteunen, en met andere betrokkenen te komen tot een landelijke aanpak om criminaliteit en ondermijning op vakantieparken aan te pakken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Nispen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

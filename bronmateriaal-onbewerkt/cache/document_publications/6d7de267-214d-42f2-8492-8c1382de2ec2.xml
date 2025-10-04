@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-333/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">333</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID IDSINGA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord het streven is opgenomen om te werken aan een samenleving die beter voorbereid is op verstoringen;</al>
+            <al-groep>
+              <al>voorts constaterende dat daarin is opgenomen dat veiligheid en weerbaarheid vereisen dat Nederland strategische voorraden aanhoudt van essentiële zaken zoals medicijnen, en in het bijzonder de voedselzekerheid en vitale infrastructuur, waaronder watervoorraad en energie, op orde heeft;</al>
+              <al>verder constaterende dat in het hoofdlijnenakkoord tevens staat dat daartoe de aanbevelingen van de Algemene Rekenkamer uit 2022 zullen worden opgevolgd;</al>
+            </al-groep>
+            <al>overwegende dat een heldere uitvoering van deze afspraken essentieel is voor de economische veiligheid en de strategische autonomie van Nederland;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>uiterlijk vóór het zomerreces 2025 de stand van zaken omtrent deze specifieke afspraken over strategische voorraden en vitale infrastructuur te presenteren, dan wel een uitvoeringsplan ten aanzien van deze punten te presenteren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>hierbij concreet aan te geven welke stappen zijn gezet en nog zullen worden gezet om de aanbevelingen van de Algemene Rekenkamer 2022 te implementeren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>vervolgens periodiek, ten minste iedere zes maanden, aan de Kamer te rapporteren over de voortgang en de resultaten,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Idsinga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

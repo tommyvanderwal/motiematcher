@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32849-260/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 849</dossiernr>
+      </dossiernummer>
+      <titel>Mijnbouw</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">260</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet bezig is met de herziening van de Mijnbouwwet;</al>
+            <al>constaterende dat SodM, TNO en de Mijnraad advies uitbrengen over de verschillende vergunningen;</al>
+            <al>constaterende dat een negatief advies van een van deze adviseurs niet voldoende grond biedt tot weigering van een vergunning;</al>
+            <al>constaterende dat het kabinet benadrukt dat veiligheid voor mens, natuur en milieu een absolute voorwaarde is voor mijnbouw;</al>
+            <al>verzoekt de regering nader te verkennen hoe de veiligheid voor mens, natuur en milieu sterker als weigeringsgrond in de wet kan worden verankerd, zodat het een weigeringsgrond kan zijn voor het verstrekken of verlengen van een winnings- en opsporingsvergunning, en hier de Kamer binnen enkele maanden over te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

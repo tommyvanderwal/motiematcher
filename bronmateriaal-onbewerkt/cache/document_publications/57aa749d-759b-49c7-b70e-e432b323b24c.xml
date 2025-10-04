@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1193/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1193</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RAJKOWSKI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in Nederland veel hightechbedrijven zijn die behoren tot onze kroonjuwelen en geavanceerde technologie maken;</al>
+            <al>constaterende dat de AIVD in het jaarverslag van 2023 waarschuwt voor het steeds acuter worden van de dreiging van onder andere cyberaanvallen en spionage, en dat er dus sneller gereageerd moet worden op dreiging en aanvallen;</al>
+            <al>overwegende dat informatie over cyberdreigingen vaak te laat wordt gedeeld met (niet-)vitale bedrijven;</al>
+            <al>overwegende dat deze hightechbedrijven onmisbaar zijn voor de Nederlandse economie en de strategische geopolitieke positie van Nederland;</al>
+            <al>constaterende dat er in het Verenigd Koninkrijk en de Verenigde Staten een nauwe samenwerking is tussen verschillende bedrijven en veiligheidsdiensten om te anticiperen op digitale dreigingen;</al>
+            <al>verzoekt het kabinet om mogelijk te maken dat noodzakelijke dreigingsinformatie vanuit de veiligheidsdiensten sneller en specifieker met hightechbedrijven gedeeld kan worden, bijvoorbeeld door werknemers bij deze bedrijven door de AIVD te laten screenen;</al>
+            <al>verzoekt het kabinet te onderzoeken welke juridische herbeoordeling plaats moet vinden om dit mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rajkowski</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

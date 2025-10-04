@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1054/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1054</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>gelezen de inzichten over de impact van woordkeuze en bejegening op kinderen en gezinnen binnen de jeugdbescherming;</al>
+            <al>constaterende dat de gebruikte terminologie in protocollen en het Toekomstscenario kind- en gezinsbescherming vaak als kil en onpersoonlijk wordt ervaren;</al>
+            <al>overwegende dat vriendelijk en empathisch taalgebruik de betrokkenheid en samenwerking kan bevorderen tussen gezinnen en hulpverleners;</al>
+            <al>overwegende dat het betrekken van ervaringsdeskundigen bij het herzien van deze protocollen waardevolle inzichten biedt;</al>
+            <al>verzoekt de regering om binnen het Toekomstscenario kind- en gezinsbescherming samen met ervaringsdeskundigen het handelingskader te ontwikkelen in kindvriendelijke taal, om ervoor te zorgen dat deze herziening leidt tot termen en zinnen die empathie en respect uitstralen, met als doel het verbeteren van de communicatie en relatie tussen hulpverleners en gezinnen en cliënttevredenheid onderdeel te laten zijn de voortgangsrapportages,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bruyning</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

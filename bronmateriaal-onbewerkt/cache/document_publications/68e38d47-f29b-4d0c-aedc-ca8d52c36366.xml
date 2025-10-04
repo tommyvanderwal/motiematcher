@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33529-1331"/>
+      <meta name="OVERHEIDop.ondernummer" content="1331"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33529"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Hartsuiker over succesverhalen van ondernemers en maatschappelijke initiatieven opnemen in de Staat van Groningen en Noord-Drenthe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.J.J. Hartsuiker"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gaswinning"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Gaswinning; Motie; Motie van het lid Hartsuiker over succesverhalen van ondernemers en maatschappelijke initiatieven opnemen in de Staat van Groningen en Noord-Drenthe"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 529</dossiernr>
+         </dossiernummer>
+         <titel>Gaswinning</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1331</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID HARTSUIKER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat vanuit Nij begun beoogd wordt de brede welvaart in Groningen en Noord-Drenthe binnen 30 jaar op het landelijk gemiddelde te brengen;</al>
+                  <al>overwegende dat het hierbij cruciaal is dat er naast het onverminderd doorzetten van de herstel- en versterkingsoperatie volop zichtbaar wordt geïnvesteerd in de leefbaarheid en regionale economie en in het bijzonder in het ondersteunen en versterken van het mkb;</al>
+                  <al>overwegende dat het van belang is om de successen en veerkracht van ondernemers en initiatieven in de regio structureel zichtbaar te maken als voorbeeld ter inspiratie voor anderen en het versterken van het imago binnen en buiten de regio;</al>
+                  <al>verzoekt het kabinet om in de jaarlijkse Staat van Groningen en Noord-Drenthe expliciet succesverhalen van ondernemers en maatschappelijke initiatieven op te nemen, zodat het positieve en inspirerende perspectief van de regio breed gedeeld wordt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Hartsuiker</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36532-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 532</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van het lid Kröger over «Energie met elkaar: Energiecoöperaties als hart van ons energiesysteem»</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID THIJSSEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 7</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het programma Opwek van Energie op Rijksvastgoed (OER) rijksoverheden hun gronden en vastgoed beschikbaar stellen voor de energietransitie;</al>
+            <al-groep>
+              <al>constaterende dat hier kansen liggen om bij deze energieprojecten te streven naar 100% lokaal eigendom;</al>
+              <al>overwegende dat de energieprojecten van het OER-programma een vliegwiel kunnen zijn voor energieopwek in coöperatief verband;</al>
+            </al-groep>
+            <al>verzoekt de regering bij deze OER-projecten ook het streven naar 100% lokaal eigendom mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

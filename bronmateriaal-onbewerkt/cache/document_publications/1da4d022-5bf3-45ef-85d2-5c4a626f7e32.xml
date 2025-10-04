@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-608/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">608</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TSEGGAI EN STULTIENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat slechts 41% van de mbo-studenten, 75% van de hbo-studenten en 65% van de wo-studenten een stagevergoeding ontvangt;</al>
+            <al>constaterende dat er al jarenlang wordt geprobeerd om werkgevers op hun welwillendheid aan te spreken en met een passende vergoeding te komen, maar dit in lang niet alle sectoren gebeurt;</al>
+            <al>overwegende dat niet alle studenten het zich kunnen permitteren om een onbetaalde stage te lopen en het daardoor een privilege wordt;</al>
+            <al>overwegende dat op dit moment een onderzoek loopt naar de invoering van een minimale stagevergoeding, maar geen enkele vergoeding sowieso onacceptabel is;</al>
+            <al>verzoekt de regering om onbetaalde stages te verbieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tseggai</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36531-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 531</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/2065 van het Europees parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG (Uitvoeringswet digitaledienstenverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN SIX DIJKSTRA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de motie-Ceder/Six Dijkstra over het wettelijk borgen van vereisten voor leeftijdsverificatie bij verkoop of gebruik van onlinediensten (<extref doc="kst-26643-1163" soort="document" status="actief">26 643, nr. 1163</extref>) met bijna Kamerbrede steun is aangenomen;</al>
+            <al>constaterende dat wetstrajecten voor leeftijdsverificatie voor online alcoholverkoop en «buy now, pay later»-diensten momenteel in voorbereiding zijn en het kabinet in Europa aandacht vraagt voor leeftijdsverificatie voor socialemediadiensten;</al>
+            <al>overwegende dat ondanks de schadelijkheid minderjarigen in Nederland nog makkelijk toegang hebben tot websites voor online gokken of met pornografische content, terwijl in landen als Spanje, Frankrijk en het Verenigd Koninkrijk dergelijke nationale wetgeving in ontwikkeling is of zelfs binnenkort al in werking treedt;</al>
+            <al>verzoekt de regering in lijn met de aangenomen motie ook privacyvriendelijke en betrouwbare leeftijdsverificatie voor online gokken en voor websites met pornografische content wettelijk te borgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder e</al>
+              <al>Six Dijkstra</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

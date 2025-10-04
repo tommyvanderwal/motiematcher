@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32645-148/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 645</dossiernr>
+      </dossiernummer>
+      <titel>Kernenergie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">148</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat opslag van kernafval in zoutkoepels zowel ondergronds als bovengronds een grote ruimtelijke impact heeft, waaronder de noodzaak van een terrein van minimaal 2,5 vierkante kilometer zonder bebouwing;</al>
+            <al>constaterende dat meerdere zoutkoepels in Nederland direct onder woonkernen en natuurgebieden liggen, waardoor omwonenden en lokale ecosystemen ernstig worden geraakt;</al>
+            <al>overwegende dat de versnelde besluitvorming over eindberging van kernafval onvoldoende ruimte laat voor zorgvuldige afweging en inspraak;</al>
+            <al>overwegende dat de opslagplannen haaks kunnen staan op regionale ontwikkelingsprogramma's en het behoud van cultureel en natuurlijk erfgoed;</al>
+            <al>verzoekt de regering om zoutkoepels onder of nabij bewoond gebied en natuurgebieden definitief te schrappen als mogelijke opslaglocaties voor kernafval,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Grinwis</al>
+              <al>Kröger</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

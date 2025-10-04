@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXIII-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Klimaat- en Energieverkenning laat zien dat Nederland niet op koers ligt om de klimaatdoelen te halen;</al>
+            <al>overwegende dat de Minister van Klimaat en Groene Groei voornemens is om bij voorjaarsbesluitvorming in 2025 aanvullend klimaatbeleid te presenteren, maar dat het onduidelijk is aan welke maatregelen het kabinet denkt en welk doel wordt beoogd;</al>
+            <al>van mening dat de Kamer betrokken dient te worden bij de besluitvorming over aanvullend klimaatbeleid;</al>
+            <al>verzoekt de regering om in het eerste kwartaal van 2025 de verschillende maatregelen die het kabinet meeneemt in de klimaatbesluitvorming met de Kamer te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rooderkerk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

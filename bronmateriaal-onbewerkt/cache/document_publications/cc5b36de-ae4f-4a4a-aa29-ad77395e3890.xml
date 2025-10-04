@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24515-777/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 515</dossiernr>
+      </dossiernummer>
+      <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">777</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de mogelijkheid om lokale belastingen kwijt te schelden kan helpen bij het voorkomen van problematische schulden;</al>
+            <al>overwegende dat er voor bijstandsgerechtigden momenteel ruimere vermogensnormen gelden dan voor werkende armen;</al>
+            <al>overwegende dat naar aanleiding van de aangenomen motie-Palmen/Mohandis een onderzoek wordt gestart naar de mogelijkheden en implicaties van het gelijktrekken van de vermogensgrenzen voor de kwijtschelding van lokale belastingen met die voor de algemene bijstand in de Participatiewet;</al>
+            <al>verzoekt de regering om gemeenten en waterschappen via pilots alvast de mogelijkheid te geven om de vermogensgrenzen bij de kwijtschelding van belastingen gelijk te trekken en de uitkomst van deze pilots te betrekken bij het onderzoek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Welzijn</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

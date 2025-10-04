@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25295-2175/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 295</dossiernr>
+      </dossiernummer>
+      <titel>Infectieziektenbestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2175</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KEIJZER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zowel de Internationale Gezondheidsregeling (WGIHR) als het internationaal onderhandelingsorgaan (INB) gemachtigd zijn om de definitieve juridische formulering van de beoogde wijzigingen van de Internationale Gezondheidsregeling (IHR) en het pandemieakkoord te leveren aan de 77ste Wereldgezondheidsvergadering (WHA), die eind mei 2024 zal plaatsvinden;</al>
+            <al>constaterende dat dit proces een ongekend tempo heeft terwijl voor dergelijke ingrijpende maatregelen meer tijd nodig is om deze te overwegen, te toetsen en goed te laten verlopen;</al>
+            <al>overwegende dat het negeren van procedurele verplichtingen in het kader van de IHR en het onduidelijk laten van het verband tussen de gewijzigde IHR en het nieuwe pandemieakkoord, de internationale rechtsorde en daarmee de democratische legitimiteit van deze regelgeving ondermijnt en in strijd is met artikel 55 van de IHR, dat vereist dat voorgestelde wijzigingen ten minste vier maanden voor de beraadslaging en stemming in de WHA aan de verdragsluitende staten zijn voorgelegd;</al>
+            <al>overwegende dat hierdoor onvoldoende gelegenheid is om de wijzigingen en hun belangrijke juridische, gezondheids-, economische, financiële en mensenrechtenimplicaties te onderzoeken;</al>
+            <al>overwegende dat het verzoek om de amendementen op de IHR of de tekst van het beoogde pandemieakkoord niet aan te nemen in overeenstemming is met de VN-beginselen en -richtsnoeren;</al>
+            <al>draagt de regering op om uitstel te vragen voor de stemming over de amendementen en daarmee over de IHR en het nieuwe pandemieakkoord tijdens de Wereldgezondheidsvergadering en indien dit uitstel niet verkregen wordt, tegen de voorgestelde amendementen op de IHR en het nieuwe pandemieakkoord in het geheel te stemmen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Keijzer</al>
+              <al>Daniëlle Jansen</al>
+              <al>Agema</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

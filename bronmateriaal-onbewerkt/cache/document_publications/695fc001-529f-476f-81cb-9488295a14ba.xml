@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CHAKOR EN SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in het regeerprogramma staat dat onder anderen ambtenaren «het gezicht van onze democratische rechtsstaat» vormen;</al>
+            <al>overwegende dat de regering zegt dat de overheid menselijk, toegankelijk en nabij moet zijn;</al>
+            <al>overwegende dat het hoofdlijnenakkoord stelt dat de taakstelling van 22% betekent dat de overheid duidelijke keuzes moet maken in de kerntaken van de rijksoverheid;</al>
+            <al>van mening dat onduidelijk is waar de kostenreductie van 22% moet plaatsvinden en wat dat betekent voor de dienstverlening en het uitvoeren van taken;</al>
+            <al>verzoekt de regering het behoud van de dienstverlening en uitvoering van taken als uitgangspunt te nemen;</al>
+            <al>verzoekt de regering tevens bij alle voorgenomen bezuinigingen op de apparaatsgelden in kaart te brengen wat de gevolgen voor de kwaliteit en beschikbaarheid van dienstverlening zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

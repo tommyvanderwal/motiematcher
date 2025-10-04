@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32793-841"/>
+      <meta name="OVERHEIDop.ondernummer" content="841"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32793"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Daniëlle Jansen over zo spoedig mogelijk de gedifferentieerde verbruiksbelasting implementeren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.E.M.C. (Daniëlle) Jansen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Preventief gezondheidsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Preventief gezondheidsbeleid; Motie; Motie van het lid Daniëlle Jansen over zo spoedig mogelijk de gedifferentieerde verbruiksbelasting implementeren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 793</dossiernr>
+         </dossiernummer>
+         <titel>Preventief gezondheidsbeleid </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">841</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat een gedifferentieerde verbruiksbelasting (de slimme suikertaks) aantoonbaar gezondheidswinst betekent en budgetneutraal kan worden gerealiseerd;</al>
+                  <al>constaterende dat al onder het vorige kabinet werd gewerkt aan de gedifferentieerde verbruiksbelasting, door middel van het schetsen van vijf scenario's;</al>
+                  <al>constaterende dat ook de internetconsultatie hierover inmiddels is afgerond, waaruit bleek dat vele gezondheidsexperts zich achter scenario 3 scharen;</al>
+                  <al>overwegende dat er geen houdbare redenen zijn om invoering nog langer uit te stellen;</al>
+                  <al>verzoekt de regering zo spoedig mogelijk over te gaan tot implementatie van de gedifferentieerde verbruiksbelasting, zoals beschreven in scenario 3,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Daniëlle Jansen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

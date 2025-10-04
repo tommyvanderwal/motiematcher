@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36537-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 537</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van het lid Bontenbal tot wijziging van het Reglement van Orde in verband met het beperken van de mogelijkheid om moties in te dienen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het initiatief van de heer Bontenbal voortkomt uit de analyse dat er te veel moties zouden worden ingediend door Kamerleden;</al>
+            <al-groep>
+              <al>van mening dat het onwenselijk en onjuist is om Kamerleden reglementair te maximeren op het aantal moties dat zij in mogen dienen;</al>
+              <al>voorts van mening dat een veel groter probleem is dat er Kamerleden zijn die nauwelijks of zelfs in het geheel geen moties indienen;</al>
+            </al-groep>
+            <al>constaterende dat er Kamerleden zijn, met name in de PVV-fractie, die al meer dan een jaar Kamerlid zijn en niet of nauwelijks aan debatten meedoen, geen Kamervragen of moties indienen, en daarmee hun parlementaire taken verzaken en verwaarlozen, terwijl zij vorstelijk betaald worden met belastinggeld;</al>
+            <al>spreekt uit dat Kamerleden hun taken serieus moeten nemen, dat zij behoren te werken voor het belastinggeld dat zij krijgen en dat dit soort «spook-Kamerleden» negatief afstralen op het gehele parlement;</al>
+            <al>verzoekt het presidium te laten onderzoeken, bijvoorbeeld door staatsrechtsdeskundigen, wat de mogelijkheden zijn om in de toekomst iets te kunnen ondernemen tegen Kamerleden die hun wetgevende en controlerende taken niet uitvoeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

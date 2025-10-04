@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het gezag wordt ondermijnd wanneer demonstranten consequent wegkomen met het overtreden van de wet en het Openbaar Ministerie zelden overgaat tot vervolging van demonstranten, wat bijdraagt aan een gebrek aan afschrikking;</al>
+            <al>overwegende dat het nu al mogelijk is om de kosten van schades en vernielingen als gevolg van demonstraties te verhalen op de daders, maar dit niet consequent gebeurt vanwege praktische en juridische belemmeringen;</al>
+            <al>van mening dat de kosten van vernielingen en schade als gevolg van ordeverstorende demonstraties zo veel als mogelijk verhaald moeten kunnen worden op de daders en niet op de maatschappij als geheel;</al>
+            <al>verzoekt de regering te onderzoeken en met het Openbaar Ministerie in gesprek te treden over welke praktische en juridische belemmeringen weggenomen moeten worden om zo veel als mogelijk de kosten te verhalen op de daders, evenals over hoe de schade eenvoudiger en sneller kan worden verhaald op de organisatie die het initiatief heeft genomen voor de betreffende actie;</al>
+            <al>verzoekt de regering de Kamer hier voor de zomer over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

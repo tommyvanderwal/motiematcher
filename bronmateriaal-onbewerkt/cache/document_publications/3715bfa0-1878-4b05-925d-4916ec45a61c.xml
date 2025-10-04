@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29282-593/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 282</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid en opleidingen zorgsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">593</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de onderhandelingen over de cao vvt zijn stukgelopen, omdat er onvoldoende budget beschikbaar is voor een fatsoenlijke loonsverhoging voor zorgverleners;</al>
+            <al>overwegende dat de Minister geen directe rol heeft bij de cao-onderhandelingen, maar wel eindverantwoordelijk is voor de hoeveelheid geld die daarvoor beschikbaar is;</al>
+            <al>verzoekt de regering om voldoende budget beschikbaar te stellen voor de cao-onderhandelingen in de vvt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

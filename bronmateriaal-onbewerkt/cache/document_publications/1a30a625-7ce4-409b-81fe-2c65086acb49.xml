@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-755/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">755</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-28">28 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er bij de afgelopen jaarwisseling 244 politieagenten en 44 brandweerlieden en ambulancepersoneel slachtoffer zijn geworden van fysiek geweld;</al>
+            <al>constaterende dat inzake een taakstrafverbod bij geweld tegen hulpverleners een motie is aangenomen tot invoering hiervan en om dit op de kortst mogelijke termijn in een wetsvoorstel aan de Tweede Kamer voor te leggen;</al>
+            <al>verzoekt de regering dit wetsvoorstel nu met spoed in procedure te brengen zodat het taakstrafverbod bij geweld tegen hulpverleners bij de volgende jaarwisseling van kracht kan zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

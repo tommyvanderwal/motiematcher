@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-IX-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>IX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat verschillende volkswijken langdurig zijn achtergesteld en de leefbaarheid onder druk staat;</al>
+            <al-groep>
+              <al>constaterende dat met het Nationaal Programma Leefbaarheid en Veiligheid (NPLV) onmisbare steun wordt gegeven aan verschillende van deze wijken;</al>
+              <al>voorts constaterende dat er bindende afspraken zijn gemaakt tussen gemeenten en het Rijk om deze wijken vijftien tot twintig jaar te steunen;</al>
+            </al-groep>
+            <al>overwegende dat het noodzakelijk is dat de langjarige financiering beschikbaar blijft op ten minste het huidige niveau;</al>
+            <al>verzoekt de regering om uiterlijk in 2025 met een plan te komen dat de NPLV-gebieden in staat stelt om tot ten minste 2028 hun generatielange opgaven voor wijken met achterstelling voort te zetten en waar mogelijk de bureaucratie te verminderen door financiële regelingen die er al zijn hiervoor te gebruiken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Grinwis</al>
+              <al>Bontenbal</al>
+              <al>Van der Lee</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

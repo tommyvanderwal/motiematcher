@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36180-105/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 180</dossiernr>
+      </dossiernummer>
+      <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">105</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DOBBE EN HIRSCH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-03">3 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vrouwen en meisjes in vele landen te kampen hebben met ongelijke toegang tot zorg, grote gezondheidsuitdagingen zoals onbedoelde zwangerschappen en seksueel overdraagbare aandoeningen, en geen zeggenschap hebben over hun eigen lichaam;</al>
+            <al>constaterende dat het kabinet zichzelf met de mondiale gezondheidsstrategie ten minste tot en met 2030 gecommitteerd heeft aan het wereldwijd verbeteren van de (seksuele) gezondheid en rechten van vrouwen en meisjes;</al>
+            <al>constaterende dat Nederland jarenlange kennis, ervaring en expertise heeft op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR), en de rechten van vrouwen, meisjes en kwetsbare groepen;</al>
+            <al>overwegende dat het regeerprogramma vraagt om juist internationaal in te zetten op thema's waar Nederland toegevoegde waarde heeft;</al>
+            <al>verzoekt de regering om de gezondheid en rechten van vrouwen en meisjes, in het bijzonder seksuele en reproductieve gezondheid en rechten (SRGR), een speerpunt van het internationale beleid te laten blijven en hier voldoende middelen voor vrij te blijven maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

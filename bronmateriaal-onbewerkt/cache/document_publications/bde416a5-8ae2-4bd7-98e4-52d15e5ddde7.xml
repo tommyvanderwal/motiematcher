@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-130/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">130</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er op dit moment wildgroei bestaat aan allerlei subsidieregelingen en -potjes binnen het onderwijs;</al>
+            <al>constaterende dat uit het recent verschenen rapport Staat van het Onderwijs opnieuw duidelijk blijkt hoe slecht het is gesteld met de beheersing van de basisvaardigheden binnen het Nederlandse onderwijs;</al>
+            <al>overwegende dat het tegelijk lopen van meerdere verbetertrajecten naast elkaar, voor zowel de scholen zelf als voor het meten van de verbeteringen, verwarring oplevert;</al>
+            <al>overwegende dat er noodzaak is tot het aanbrengen van focus op het versterken van de basisvaardigheden;</al>
+            <al>verzoekt de regering het bedrag van 332 miljoen euro dat de Minister vanuit het Groeifonds wil gebruiken voor het omzetten van de pilot Ontwikkelkracht in een subsidieregeling, te investeren in het direct versterken van de basisvaardigheden, bijvoorbeeld door een impuls te geven aan dBos,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

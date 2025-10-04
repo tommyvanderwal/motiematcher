@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1168/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1168</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ERGIN EN VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek van KBA Nijmegen en ResearchNed in opdracht van het College voor de Rechten van de Mens blijkt dat er een risico bestaat op discriminatie door het gebruik van algoritmen in onderwijsinstellingen;</al>
+            <al>overwegende dat digitale systemen, waaronder algoritmen, op steeds grotere schaal worden ingezet in het onderwijs en dat dit zowel kansen als risico's met zich meebrengt;</al>
+            <al>overwegende dat de kennis van algoritmen op scholen vaak ontoereikend is om deze technologie op een verantwoorde manier in te zetten, waardoor leerlingen onnodig veel risico lopen op discriminatie;</al>
+            <al>verzoekt de regering om onderzoeken naar de effecten van digitale systemen te stimuleren en hieraan bij te dragen,</al>
+            <al>verzoekt de regering tevens om voorlichting te geven over digitale systemen en de risico’s hiervan voor schoolbesturen, docenten, ouders en leerlingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ergin</al>
+              <al>Van Baarle</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

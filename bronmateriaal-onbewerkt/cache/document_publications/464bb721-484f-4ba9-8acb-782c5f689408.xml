@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31016-368/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 016</dossiernr>
+      </dossiernummer>
+      <titel>Ziekenhuiszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">368</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN BIKKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de langetermijneffecten van puberteitsremmers bij tieners niet bekend zijn;</al>
+            <al>constaterende dat de onduidelijkheid over de veiligheid en over het effect van deze behandeling in andere landen reden is om te pleiten voor grote terughoudendheid;</al>
+            <al>verzoekt de regering om bij de betrokken partijen erop aan te dringen dat bij de doorontwikkeling van het kwaliteitskader Transgenderzorg Somatisch nadrukkelijk rekenschap wordt gegeven van de terughoudende benadering ten aanzien van puberteitsremmers in landen zoals het Verenigd Koninkrijk, Finland en Zweden, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

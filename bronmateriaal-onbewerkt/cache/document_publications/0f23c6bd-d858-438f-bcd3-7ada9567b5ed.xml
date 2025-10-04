@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-716/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">716</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-29">29 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er elk jaar ongeveer 3.500 baby's en jonge kinderen met het RS-virus in het ziekenhuis belanden;</al>
+            <al>constaterende dat de Gezondheidsraad een positief advies heeft gegeven voor de RSV-vaccinatie, maar dat er op dit moment geen dekking is voor het volledig opvolgen van het advies;</al>
+            <al>overwegende dat de bespaarde behandelkosten (nog los van de gezondheidswinst) groter zijn dan de kosten voor vaccinatie bij seizoensimmunisatie, waardoor de kosten van seizoensimmunisatie gefinancierd kunnen worden uit de besparing op de Zvw-uitgaven;</al>
+            <al>verzoekt de regering het RSV-vaccin op te nemen in het Rijksvaccinatieprogramma op basis van seizoensgebonden immunisatie, dit te betrekken bij de Voorjaarsnota en te zoeken naar mogelijkheden om ook de catch-up te bewerkstelligen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Paulusma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

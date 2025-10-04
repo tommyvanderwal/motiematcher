@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1147/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1147</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de woningbouwopgave fors is en de vergunningverlening daalt;</al>
+            <al>constaterende dat problemen als de renteontwikkeling en bouwkostenontwikkeling niet stuurbaar zijn;</al>
+            <al>constaterende dat de stapeling van maatregelen, waaronder de fiscale maatregelen, volgens investeerders ongunstig uitpakken;</al>
+            <al>overwegende dat Nederland gebaat is bij een gezond investeringsklimaat in huurwoningen, waarbij naast de bescherming van huurders investeerders bereid blijven om tegen een redelijk rendement in de bouw van nieuwe huurwoningen te blijven investeren;</al>
+            <al>verzoekt de regering om samen met marktpartijen in beeld te brengen welke ontwikkelingen er zijn in de investeringsbereidheid van marktpartijen op de woningmarkt in de periode 2021 tot op heden en daarbij de genomen fiscale maatregelen mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Welzijn</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

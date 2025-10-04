@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36448-6/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 448</dossiernr>
+      </dossiernummer>
+      <titel>Benoeming van een Voorzitter</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">6</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-14">14 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>roept de aanstaande Voorzitter op om op te treden als er haat wordt gezaaid in dit parlement en derhalve:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>niet toe te staan dat de racistische omvolkingstheorie wordt bepleit;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>niet toe te staan dat Kamerleden met een hoofddoek worden geïntimideerd;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>niet toe te staan dat racisme of discriminatie wordt genormaliseerd;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>niet toe te staan dat geloven worden weggezet als ziektes, rampen of als kwaadaardige ideologieën,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

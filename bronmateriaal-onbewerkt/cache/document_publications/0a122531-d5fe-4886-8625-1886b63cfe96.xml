@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1169/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1169</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat buitenlandse studenten in bepaalde gevallen recht hebben op Nederlandse studiefinanciering, zolang zij geen studiefinanciering van elders ontvangen;</al>
+            <al>constaterende dat gegevens hierover niet uitgewisseld worden tussen Nederland en andere landen;</al>
+            <al>verzoekt de regering een plan te maken om uitwisseling van gegevens over studiefinanciering en andere ondersteuning met andere landen alsnog te realiseren, daarbij te beginnen met landen (deelstaten) waar veel studenten vandaan komen,</al>
+            <al>verzoekt de Kamer hierover binnen een halfjaar te informeren;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

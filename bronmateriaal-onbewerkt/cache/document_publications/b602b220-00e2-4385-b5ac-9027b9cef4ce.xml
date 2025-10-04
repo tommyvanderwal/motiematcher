@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28165-456"/>
+      <meta name="OVERHEIDop.ondernummer" content="456"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-17"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28165"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Teunissen over de dividenduitkering van Schiphol over 2024 gebruiken voor de huurtoeslag"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Teunissen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Deelnemingenbeleid Rijksoverheid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Deelnemingenbeleid Rijksoverheid; Motie; Motie van het lid Teunissen over de dividenduitkering van Schiphol over 2024 gebruiken voor de huurtoeslag"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 165</dossiernr>
+         </dossiernummer>
+         <titel>Deelnemingenbeleid rijksoverheid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">456</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de verhoging van de huurtoeslag is geschrapt bij gebrek aan financiële dekking, terwijl tienduizenden Nederlanders moeite hebben om rond te komen en hun huur te betalen;</al>
+                  <al>constaterende dat Schiphol over 2024 een historische winst heeft geboekt, bijna 50% meer dan in het vorige recordjaar, 2017, maar desondanks geen dividend uitkeert en deze publieke winst gebruikt voor verdere uitbreiding van de luchthaven;</al>
+                  <al-groep>
+                     <al>constaterende dat het wrang is dat miljarden aan publieke middelen via een staatsbedrijf worden ingezet voor groei van de luchtvaart, terwijl sociale</al>
+                     <al>regelingen als de huurtoeslag worden afgebroken;</al>
+                  </al-groep>
+                  <al>verzoekt de regering als meerderheidsaandeelhouder Schiphol op te dragen over 2024 dividend uit te keren en dit te gebruiken voor de huurtoeslag, zodat publiek geld eerst terechtkomt bij de mensen die het nu nodig hebben,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Teunissen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

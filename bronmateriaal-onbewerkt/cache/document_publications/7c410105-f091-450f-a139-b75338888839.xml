@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1122/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1122</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat overlast door fatbikerijders moet worden aangepakt;</al>
+            <al>constaterende dat onderzoek naar het gebruik van automatische snelheidsverlagingstechniek binnen bepaalde zones, waarbij je dus ergens in rijdt en de snelheid automatisch omlaaggaat, wat «geofencing» heet, bij het handhaven van snelheidsbeperkingen voor elektrisch aangedreven fatbikes, fietsen en steppen nog niet in Nederland is uitgevoerd;</al>
+            <al>constaterende dat er in het buitenland al wel gewerkt wordt met snelheidsbeperkingen in de openbare ruimte door middel van geofencing;</al>
+            <al>overwegende dat geofencing in Nederland mogelijk kan bijdragen aan het vergroten van de verkeersveiligheid in de openbare ruimte door middel van het instellen van maximale snelheden voor elektrisch aangedreven fatbikes, fietsen en steppen;</al>
+            <al>verzoekt de regering om te onderzoeken of en hoe geofencing in Nederland ingezet zou kunnen worden om de verkeersveiligheid in de openbare ruimte te bevorderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-31/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">31</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op veel plaatsen in het land onzekerheid leeft bij bewoners die worden aangesloten op een warmtenet over de ontwikkeling van de warmtetarieven, in het bijzonder onder sociale huurders;</al>
+            <al>constaterende dat een groot deel van de warmtenetten zal worden aangelegd in wijken waar huishoudens met een kleine portemonnee wonen;</al>
+            <al>overwegende dat sociale verhuurders een belangrijke rol spelen bij de uitrol van warmtenetten en in het Klimaatakkoord zijn aangewezen als startmotor;</al>
+            <al>overwegende dat destijds ook afspraken zijn gemaakt over dit Startmotorkader waarbij afspraken tussen Aedes, Energie-Nederland en VNG zijn gemaakt om huurders voor het verschil tussen de vaste kosten voor gas en warmte voor huurders te compenseren;</al>
+            <al>verzoekt de regering om met woningcorporaties, gemeenten en warmtebedrijven te evalueren of de afspraken vanuit het Startmotorkader in de praktijk werken, te verkennen welke mogelijkheden er zijn om te borgen dat sociale huurders die voor 2030 overstappen of overstapten op een warmtenet, niet meer betalen dan zij in een gassituatie zouden hebben betaald, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

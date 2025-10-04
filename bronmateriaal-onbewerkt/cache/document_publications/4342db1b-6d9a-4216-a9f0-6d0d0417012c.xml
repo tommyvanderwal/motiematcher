@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-162/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">162</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat om de ambitie van 15% biologisch landbouwareaal in 2030 te halen zowel het areaal als de vraag naar biologische producten moet worden gestimuleerd;</al>
+            <al>constaterende dat de consument bereid moet zijn om de meerkosten voor duurzamere productie te betalen, maar dat die betalingsbereidheid vooralsnog een belemmering lijkt te zijn;</al>
+            <al>overwegende dat er in het beleid meer aandacht nodig is voor de vraag- en prijsvorming en het verdienvermogen van de primaire sector;</al>
+            <al>verzoekt de regering zorg te dragen voor een goede balans tussen het toewerken naar de ambitie van 15% biologisch landbouwareaal en het verdienvermogen van de primaire sector;</al>
+            <al>verzoekt de regering op korte termijn samen met de sector nieuwe acties te ontwikkelen die naast het aanbod van biologisch landbouwareaal en producten ook de vraag naar biologische producten stimuleren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

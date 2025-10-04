@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29325-166/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 325</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijke Opvang </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">166</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat jongerendakloosheid een ernstig maatschappelijk probleem is en dat de preventie van jongerendakloosheid essentieel is om kwetsbare jongeren te ondersteunen;</al>
+            <al>constaterende dat een gecoördineerde aanpak vanuit de overheid, maatschappelijke organisaties en ervaringsdeskundigen die noodzakelijk is om jongerendakloosheid effectief aan te pakken momenteel ontbreekt;</al>
+            <al-groep>
+              <al>verzoekt de regering om een integraal en preventief beleid gericht op het voorkomen van jongerendakloosheid op te stellen met een inbegrip van de thema's:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>versterking samenwerking betrokken instanties;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>creatie van meer betaalbare en toegankelijke huisvestingsmogelijkheden voor kwetsbare jongeren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>stimulatie van maatschappelijke initiatieven en programma's die zijn gericht op het bieden van ondersteunen en begeleiden van jongeren in risicosituaties;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>bestaanszekerheid van jongeren,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Krul</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

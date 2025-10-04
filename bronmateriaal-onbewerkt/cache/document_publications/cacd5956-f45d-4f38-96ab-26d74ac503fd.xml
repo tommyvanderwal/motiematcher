@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25295-2161/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 295</dossiernr>
+      </dossiernummer>
+      <titel>Infectieziektenbestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2161</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het combineren van gegevens, waaronder medische, uit verschillende bronnen nodig is om inzichten te verkrijgen over onder andere de oorzaken van over- en ondersterfte;</al>
+            <al>overwegende dat wetenschappers nu steeds aanlopen tegen belemmeringen om bronnen te combineren;</al>
+            <al>constaterende dat de Wet elektronische gegevensuitwisseling in de zorg op niet alle databronnen van toepassing is;</al>
+            <al>verzoekt de regering om te komen tot protocollen die gegevensuitwisseling sneller en makkelijker mogelijk maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tielen</al>
+              <al>Paulusma</al>
+              <al>Joseph</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

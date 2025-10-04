@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-38/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">38</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-10">10 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de strafprocedure die leidt naar de strafrechter heel precies is uitgeschreven in het Wetboek van Strafvordering maar dat dit niet geldt voor de procedure die leidt tot een OM-strafbeschikking;</al>
+            <al>overwegende dat het wetboek gebaat is bij inzichtelijke en voorgeschreven procedures en dit ook de rechtszekerheid dient;</al>
+            <al>van mening, dat in het Wetboek van Strafvordering of in een daarop toegesneden AMvB een duidelijke procesbeschrijving zou moeten staan over het aankondigen en uitvaardigen van strafbeschikkingen en bijvoorbeeld over het kunnen beschikken over relevante stukken;</al>
+            <al>verzoekt de regering de voorgeschreven procedures rondom de OM-strafbeschikkingen nader uit te werken in het wetboek, via de aanvullingswet, dan wel via een algemene maatregel van bestuur,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Mutluer</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25424-716/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 424</dossiernr>
+      </dossiernummer>
+      <titel>Geestelijke gezondheidszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">716</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat problemen die binnen de context van een (gezins-)systeem plaatsvinden het beste daar opgelost kunnen worden, waarbij de inzet van relatie- en gezinstherapeuten, oftewel systeemtherapeuten, van grote toegevoegde waarde is;</al>
+            <al>constaterende dat systeemtherapeuten evidencebased ggz-zorg bieden maar niet zijn opgenomen op de beroepenlijst van het zorgprestatiemodel (zpm), waardoor zij alleen op een ander beroep mogen declareren en niet naar behoren worden ingezet;</al>
+            <al>overwegende dat voor de beroepen wo-psycholoog, wo-orthopedagoog en ervaringsdeskundige werker eenzelfde probleem gold, maar dat zij via de hardheidsclausule alsnog op de beroepenlijst zijn geplaatst omdat er anders grote capaciteitsproblemen in de ggz zouden ontstaan;</al>
+            <al>verzoekt de regering in overleg met de sector te bevorderen dat voor erkende systeemtherapeuten, opgenomen in het register van de Nederlandse Vereniging voor Relatie- en Gezinstherapie (NVRG), de hardheidsclausule van toepassing wordt verklaard, zodat ze alsnog op de zpm-beroepenlijst worden geplaatst, en de Kamer hierover in het voorjaar van 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Van den Hil</al>
+              <al>Joseph</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

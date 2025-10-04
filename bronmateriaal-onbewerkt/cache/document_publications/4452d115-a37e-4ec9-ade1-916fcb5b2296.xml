@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36518-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 518</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging Omgevingswet en enige andere wetten (Wet uitvoering verordening ontbossingsvrije grondstoffen en producten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HERTZBERGER EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-26">26 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de implementatie van de Verordening ontbossingsvrije grondstoffen en producten een aanzienlijke toename betekent in kosten en regeldruk voor importerende en exporterende bedrijven;</al>
+            <al>verzoekt de regering het eerste jaar na invoering van de wet experimenteerruimte te bieden en samen met bedrijven de implementatie inclusief informatiesystemen gereed te krijgen;</al>
+            <al>verzoekt de regering bij de implementatie zo veel mogelijk rekening te houden met rapportageverplichtingen van andere Europese verordeningen die worden geïmplementeerd;</al>
+            <al>verzoekt de regering na de invoer werkgeversorganisaties te vragen om voor het mkb per sector gestandaardiseerde formats voor zorgvuldigheidsverklaringen te ontwikkelen om de regeldruk significant te verminderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hertzberger</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

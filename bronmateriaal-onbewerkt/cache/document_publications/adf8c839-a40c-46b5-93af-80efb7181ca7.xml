@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31015-297/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 015</dossiernr>
+      </dossiernummer>
+      <titel>Kindermishandeling</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">297</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-05">5 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de overheid dient te zorgen voor duidelijke waarborgen dat kinderen op wie een maatregel van kinderbescherming van toepassing is daadwerkelijk frequent gezien worden;</al>
+            <al>constaterende dat het risico dat een kind niet gezien wordt met name groot is indien een kind uitvalt op school en dat het ontbreken van een actieve controle op de verantwoordelijkheid van organisaties een kwetsbaar punt is in het systeem;</al>
+            <al>verzoekt de regering te verkennen of een wettelijke regierol nodig is voor kinderen op wie een maatregel van kinderbescherming van toepassing is en die zijn uitgevallen op school, bijvoorbeeld door een controlerende rol voor de leerplichtambtenaar of het kind gezien wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Bruyning</al>
+              <al>Ceder</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

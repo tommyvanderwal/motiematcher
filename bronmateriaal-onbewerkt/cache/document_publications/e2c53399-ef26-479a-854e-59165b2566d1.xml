@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-55/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">55</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID MEULENKAMP C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 32</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-05">5 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de grote voorraad te plannen bouwzaken en de doorlooptijden bij de Afdeling bestuursrechtspraak van de Raad van State een van de oorzaken is van het woningtekort;</al>
+            <al>constaterende dat de Wet griffierechten burgerlijke zaken in 2020 is gemoderniseerd, waarmee nieuwe griffierechtcategorieën zijn geïntroduceerd in het civiele recht;</al>
+            <al>constaterende dat de griffierechten in hoger beroep bij de Afdeling bestuursrechtspraak relatief laag zijn in vergelijking met de griffierechten in civiele hogerberoepszaken;</al>
+            <al>overwegende dat natuurlijke personen momenteel een bedrag van € 279 aan griffierechten betalen voor een procedure in hoger beroep bij de Raad van State en niet-natuurlijke personen een bedrag van € 559 betalen;</al>
+            <al>van mening dat wanneer het bezwaar en beroep van belanghebbenden in bouwzaken zowel door het bestuursorgaan als door de bestuursrechter ongegrond zijn verklaard, belanghebbenden een gedegen afweging dienen te maken voor het instellen van hoger beroep bij de Afdeling;</al>
+            <al>van mening dat mensen met een laag inkomen altijd een beroep moeten kunnen doen op de vrijstelling van betaling van griffierechten, zodat de toegang tot het recht voor iedereen gewaarborgd blijft;</al>
+            <al>verzoekt de regering nieuwe griffierechtcategorieën, met hogere bedragen, te bewerkstelligen voor hogerberoepszaken in bouwzaken teneinde te bevorderen dat de instroom van hogerberoepszaken in bouwzaken bij de Afdeling kan worden teruggebracht, en het wetsvoorstel uiterlijk in het tweede kwartaal 2025 naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Meulenkamp</al>
+              <al>Wijen-Nass</al>
+              <al>Welzijn</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

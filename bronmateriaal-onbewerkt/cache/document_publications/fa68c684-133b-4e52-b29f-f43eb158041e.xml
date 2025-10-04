@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29826-226/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 826</dossiernr>
+      </dossiernummer>
+      <titel>Industriebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">226</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Tata Steel Nederland in de schulden zit en dat er bovendien een reëel risico is dat Tata Steel Nederland niet meer aan zijn betalingsverplichtingen kan voldoen;</al>
+            <al>overwegende dat in geval van een faillissement duizenden mensen op straat staan, Nederland blijft zitten met extreem verontreinigde grond én de overheid de miljarden aan subsidie kwijt zou zijn, terwijl het Indiase moederbedrijf hier niet aan meebetaalt;</al>
+            <al>overwegende dat financiële transparantie en verantwoordelijkheid van het moederbedrijf cruciaal zijn bij het aangaan van maatwerkafspraken;</al>
+            <al>verzoekt de regering om voor de maatwerkafspraken in kaart te brengen wat de saneringskosten van de grond onder Tata Steel zijn en hoe het risico c.q. de kostenverdeling is geregeld tussen het Indiase moederbedrijf en de Staat bij een faillissement van Tata Steel Nederland, en de Kamer hierover uiterlijk in Q1 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Teunissen</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

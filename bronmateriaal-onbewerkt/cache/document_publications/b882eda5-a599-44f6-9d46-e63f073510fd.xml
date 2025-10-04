@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29628-1204/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 628</dossiernr>
+      </dossiernummer>
+      <titel>Politie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1204</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN OMTZIGT EN MUTLUER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1201</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-30">30 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>verzoekt de Autoriteit Persoonsgegevens om in afstemming met de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten onderzoek te doen naar de activiteiten van TOOI en PLOOI inclusief het (mogelijk) delen van informatie, in de afgelopen vier jaar en daar zowel openbaar als vertrouwelijk verslag van uit te brengen;</al>
+            <al>verzoekt de regering ervoor te zorg dat er volledige medewerking verleen wordt aan zowel de Autoriteit Persoonsgegevens als de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten bij het verrichten van dit onderzoek,</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>Omtzigt</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

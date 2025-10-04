@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36272-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 272</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van de leden Ellian en Bikker over de aanpak van antisemitisme – de volgende stap</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKER EN CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-05-27">27 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Joodse gemeenschap in toenemende mate te maken heeft met antisemitisme;</al>
+            <al>van mening dat voor antisemitisme geen plek is in onze samenleving en dat de overheid alles op alles moet zetten om antisemitisme te voorkomen en te bestrijden;</al>
+            <al>overwegende dat de indieners van de initiatiefnota over de aanpak van antisemitisme in deze nota een aantal voorstellen doen en de Kamer vragen om in te stemmen met een aantal beslispunten om zo antisemitisme beter te bestrijden;</al>
+            <al>verzoekt de regering de voorstellen en beslispunten, voor zover dat nog niet gebeurd is, over te nemen en uit te voeren, en de Kamer met Prinsjesdag over de voortgang hiervan te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Becker</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-63/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">63</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-06-03">3 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de D-brief vervanging onderzeebootcapaciteit wil vergunnen aan Naval Group;</al>
+            <al>overwegende dat de Nederlandse (maritieme) maakindustrie gebaat is bij een economische impuls en een versterking van haar innovatiekracht op de korte termijn;</al>
+            <al>overwegende dat Defensie ervoor kiest om de vervanging van haar fregatten, amfibische transportschepen en andere vaartuigen single-source aan een Nederlandse werf te gunnen;</al>
+            <al>verzoekt de regering om het verwervingsproces van de maritieme projecten te versnellen en waar mogelijk naar voren te halen zodat de Nederlandse militaire maritieme maakindustrie zich constant kan blijven ontwikkelen;</al>
+            <al>verzoekt de regering hierin specifiek rekenschap te geven aan het economische belang van de maritieme maakindustrie voor Zeeland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tuinman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

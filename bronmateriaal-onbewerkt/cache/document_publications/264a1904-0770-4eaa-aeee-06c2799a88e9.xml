@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-724/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">724</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-29">29 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat gezonde voeding van groot belang is voor de gezondheid en het welzijn van leerlingen;</al>
+            <al>overwegende dat het aanbieden van lokaal en direct van het land afkomstig voedsel aan scholen bijdraagt aan een gezond voedingspatroon en bewustwording van de herkomst van voedsel;</al>
+            <al>overwegende dat het ondersteunen van scholen bij het verkrijgen van gezond voedsel bijdraagt aan de duurzaamheid van lokale landbouw en het versterken van de lokale economie;</al>
+            <al>overwegende dat er al diverse initiatieven zijn, zoals schooltuinen en lokale voedselcoöperaties, die scholen ondersteunen bij het aanbieden van gezond voedsel;</al>
+            <al>verzoekt de regering:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>scholen actiever te ondersteunen bij het aanbieden van gezond voedsel, waarbij de focus ligt op lokaal en direct van het land afkomstig voedsel;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>samenwerking te stimuleren tussen scholen, lokale landbouwbedrijven en voedselcoöperaties om de toegang tot gezond voedsel te vergroten,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

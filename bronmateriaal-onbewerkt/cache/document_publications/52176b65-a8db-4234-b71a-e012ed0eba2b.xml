@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-72/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">72</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat roken de grootste risicofactor is voor kanker en chronische ziekten met grote zorgkosten, maatschappelijke kosten en sociaaleconomische gezondheidsverschillen als gevolg;</al>
+            <al>overwegende dat preventieve maatregelen de instroom van patiënten kunnen verminderen en de druk op de zorg kunnen verlichten;</al>
+            <al>overwegende dat het huidige antirookbeleid en antivapebeleid onvoldoende is om de ernstige gevolgen van roken tegen te gaan en de doelstellingen van het Preventieakkoord te behalen;</al>
+            <al>verzoekt de regering om een overzicht te geven van maatregelen die de Staatssecretaris bereid is te nemen om de ambitie van een rookvrije generatie in 2040 te halen, waarbij de focus ligt op maatregelen die weinig tot geen additionele middelen vragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Krul</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

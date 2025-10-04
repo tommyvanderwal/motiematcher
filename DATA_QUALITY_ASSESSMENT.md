@@ -1,7 +1,7 @@
-# Data Quality Assessment Samenvatting
+# Data Quality Assessment Samenvatting _(bijgewerkt 4 oktober 2025)_
 
 ## 🎯 Hoofdconclusie
-**✅ SANITY CHECK GESLAAGD!** Onze data infrastructuur is **solide genoeg** voor het ontwikkelen van de motiematcher. We hebben **4 van 5 checks** succesvol gehaald.
+**✅ SANITY CHECK GESLAAGD!** Onze data infrastructuur is **solide genoeg** voor het ontwikkelen van de motiematcher. We hebben **4 van 5 checks** succesvol gehaald. De nieuwe document-download route is bevestigd; de transformatie naar een productie dataset staat nog open.
 
 ## 📊 Dataset Overview
 - **Total records**: 51,016 parlementaire documenten
@@ -22,12 +22,14 @@
 - **1,956 van 1,985 moties** (98.5%) hebben onderwerp tekst
 - **991 moties** hebben embedded documenten
 - **Korte + volledige teksten** beschikbaar via Onderwerp + Document velden
+- **Nieuw (4 okt 2025)**: Volledige XML-tekst is beschikbaar via `DocumentPublicatie(<id>)/Resource`
 
 ### 3. **Officiële Links** ✅
 - **Tweede Kamer links**: `https://www.tweedekamer.nl/kamerstukken/detail?id={nummer}`
 - **API Verificatie**: Direct naar source data
 - **Officiële Bekendmakingen**: Voor wetgeving
 - **Alle types werken**: Moties, Wetten, Amendementen
+ - **HTML entities gefixed**: `&amp;` → `&` conversie ingebouwd
 
 ### 4. **Wet-Amendement Relaties** ✅
 - **Beide types aanwezig** in dataset
@@ -48,6 +50,13 @@
 2. **Datum-correlatie** tussen motie indiening en stemming datum  
 3. **Document-nummer matching** via embedded documenten
 4. **Vollere data collectie** over langere periode
+5. **Nieuw**: `Besluit` ophalen met `$expand=Zaak($expand=Document)` en aparte DocumentPublicatie resource calls voor tekstverificatie
+
+### Resource Download Workflow ⏳
+- **Stap 1**: `Besluit` ophalen met `$filter=Id eq <guid>` (geen `guid'...'` literal gebruiken!)
+- **Stap 2**: Via `Zaak.Document.HuidigeDocumentVersie.DocumentPublicatie` het publicatie-ID verzamelen
+- **Stap 3**: `DocumentPublicatie(<id>)/Resource` downloaden en XML parsen
+- **Status**: Workflow succesvol getest voor motie `93c64c34-...`; bulkverwerking moet nog gebouwd worden
 
 ## 🚀 Productie Gereedheid
 
@@ -78,6 +87,7 @@ Begin motiematcher met:
 - **Stemmings resultaten** (per partij breakdown)  
 - **Party position analysis** op beschikbare data
 - **Indirect motie-stemming matching** waar mogelijk
+- **Nieuw**: Bouw eerst een pilot dataset (≥5 moties) die XML → tekst parsing gebruikt; daarna opschalen
 
 ## 🎉 Conclusie
 

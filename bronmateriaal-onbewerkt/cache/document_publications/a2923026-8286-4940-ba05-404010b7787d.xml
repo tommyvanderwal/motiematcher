@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36546-50/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 546</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Jeugdwet, de Wet marktordening gezondheidszorg en enige andere wetten teneinde te bevorderen dat jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering steeds voldoende beschikbaar zijn (Wet verbetering beschikbaarheid jeugdzorg)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">50</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jeugdhulp wordt gefinancierd uit publieke middelen en dat hier ook publieke verantwoording bij hoort;</al>
+            <al>constaterende dat uit onderzoek van Berenschot blijkt dat zo'n 30% van het budget voor jeugdhulp gaat naar «coördinatiekosten»;</al>
+            <al>overwegende dat bestuurders, managers en toezichthouders zich aan de Wet normering topinkomens moeten houden, maar dat de verschillen tussen de maximale normen uit deze wet en de salarissen van hulpverleners fors zijn;</al>
+            <al>verzoekt de regering om in kaart te brengen wat de verhouding is tussen de salarissen voor bestuurders en toezichthouders in de jeugdhulp, en salarissen voor jeugdhulpverleners;</al>
+            <al>verzoekt de regering tevens om er bij ieder nieuw wetsvoorstel specifiek op te letten dat het percentage dat naar coördinatiekosten gaat niet verder stijgt, en de Kamer hierover te informeren in de memorie van toelichting bij wetsvoorstellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

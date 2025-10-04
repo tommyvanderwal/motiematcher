@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-XIII-71"/>
+      <meta name="OVERHEIDop.ondernummer" content="71"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-XIII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Martens-America over wetgeving die de regering verplicht om maatregelen te nemen voor het ondernemersklimaat als Nederland buiten de top tien valt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Martens-America"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025; Motie; Motie van het lid Martens-America over wetgeving die de regering verplicht om maatregelen te nemen voor het ondernemersklimaat als Nederland buiten de top tien valt"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>XIII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">71</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er een grote opgave ligt om ons ondernemersklimaat hoog te houden, wat blijkt uit de daling van Nederland op de ranglijst voor meest concurrerende economieën wereldwijd van plaats vier naar plaats tien;</al>
+                  <al>constaterende dat recent PwC-onderzoek eens te meer bevestigt dat er werk aan de winkel is voor ons ondernemersklimaat;</al>
+                  <al-groep>
+                     <al>overwegende dat ondernemers snakken naar rust, duidelijkheid en stabiliteit;</al>
+                     <al>overwegende dat een wettelijke verankering van een goed ondernemersklimaat rust, zekerheid en vertrouwen kan bieden, wat private investeringen kan aanmoedigen;</al>
+                  </al-groep>
+                  <al>verzoekt de regering te verkennen of en hoe wetgeving kan werken die de regering verplicht maatregelen te nemen tot verbetering van het ondernemersklimaat als Nederland in een onafhankelijk samengesteld gewogen gemiddelde aan ranglijsten voor best presterende economieën wereldwijd, buiten de top tien dreigt te vallen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Martens-America</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

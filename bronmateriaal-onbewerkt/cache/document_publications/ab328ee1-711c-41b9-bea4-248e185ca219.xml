@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-III-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>III</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Algemene Zaken (IIIA), de begrotingsstaat van het Kabinet van de Koning (IIIB) en de begrotingsstaat van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (IIIC) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in Frankrijk Ministers en hun ambtenaren geen gebruik maken van chatapplicaties zoals WhatsApp, Telegram en Signal, maar van speciaal ontworpen chatapplicaties Olvid of Tchap;</al>
+            <al>overwegende dat een speciale chatapplicatie voor de regering en hun ambtenaren meer mogelijkheden voor digitale veiligheid geeft en vele opties geeft voor meer grip op archivering;</al>
+            <al>verzoekt de regering een verkenning uit te voeren naar de mogelijkheid om naar Frans model een chatapplicatie te ontwikkelen of een bestaande in gebruik te nemen, die Ministers en hun ambtenaren dienen te gebruiken voor zakelijk chatcontact,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Palmen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

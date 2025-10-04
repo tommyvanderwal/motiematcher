@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+      </dossiernummer>
+      <titel>Voorjaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een grote Kamermeerderheid van VVD, GroenLinks-PvdA, NSC, D66, BBB, CDA, Partij voor de Dieren, ChristenUnie, DENK, SGP, Volt en JA21 de regering bij de begrotingsbehandeling in 2023 verzocht heeft om aflopende incidentele middelen voor politieke partijen structureel te maken;</al>
+            <al>constaterende dat de regering in weerwil van deze wens deze middelen slechts één jaar heeft verlengd;</al>
+            <al>overwegende dat sterke, in de samenleving verankerde politieke partijen essentieel zijn voor het goed functioneren van de representatieve democratie;</al>
+            <al>verzoekt de regering de aflopende incidentele middelen voor politieke partijen alsnog structureel te continueren en dit te verwerken in de ontwerpbegroting van het Ministerie van Binnenlandse Zaken voor 2026,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Sneller</al>
+              <al>Flach</al>
+              <al>Van der Lee</al>
+              <al>Dassen</al>
+              <al>Eerdmans</al>
+              <al>Inge van Dijk</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

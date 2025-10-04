@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36574-13"/>
+      <meta name="OVERHEIDop.ondernummer" content="13"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36574"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bruyning en Thijssen over nadere eisen opnemen in het herziene rijksbrede cloudbeleid"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Thijssen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.H. Bruyning"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van de leden Six Dijkstra en Kathmann over “Wolken aan de horizon”"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-02"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van de leden Six Dijkstra en Kathmann over “Wolken aan de horizon”; Motie; Motie van de leden Bruyning en Thijssen over nadere eisen opnemen in het herziene rijksbrede cloudbeleid"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 574</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van de leden Six Dijkstra en Kathmann over «Wolken aan de horizon»</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">13</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BRUYNING EN THIJSSEN</titel>
+         <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-06-02">2 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het gebruik van niet-Europese cloudaanbieders door de Nederlandse overheid een nationaal veiligheidsrisico teweegbrengt wat betreft zowel continuïteit als vertrouwelijkheid;</al>
+                  <al>verzoekt de regering om in het herziene rijksbrede cloudbeleid expliciet op te nemen dat gevoelige overheidsdata, zoals gerubriceerde informatie, vertrouwelijke informatie en bijzondere persoonsgegevens, niet ondergebracht mogen worden op cloudinfrastructuur die valt onder verstrekkende buitenlandse inlichtingenwetgeving en/of lawful intercept-wetgeving, zoals die van de Verenigde Staten en China;</al>
+                  <al>verzoekt de regering tevens in het herziene rijksbrede cloudbeleid op te nemen dat essentiële overheidsdiensten, zoals het Diginetwerk, inning van belastingen en sociale zekerheid, en fysieke kritieke infrastructuur (stormkeringen, sluizen en kritieke transportinfrastructuur) niet afhankelijk mogen zijn van cloudinfrastructuur die onder controle staat van een niet-Europese mogendheid,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bruyning</al>
+                     <al>Thijssen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

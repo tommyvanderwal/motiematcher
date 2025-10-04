@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-437/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">437</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN GRAUS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-25">25 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het dieet van wolven voornamelijk bestaat uit wilde hoefdieren;</al>
+            <al>constaterende dat LTO stelt dat er gebieden zijn waar er te weinig beschikbare hoefdieren voor de wolf zouden zijn;</al>
+            <al>constaterende dat de Staatssecretaris stelt dat jacht en faunabeheer van invloed zijn op de omvang van populaties van soorten die als natuurlijke prooi voor de wolven dienen (Kamerstuk <extref doc="kst-21501-32-1668" soort="document" status="actief">21501–32, nr. 1668</extref>);</al>
+            <al>verzoekt de regering in wolvengebied een tijdelijke stop te laten instellen op beheer van en jacht op de belangrijkste prooien van de wolf, en te monitoren welke invloed dat heeft op het aantal incidenten met de wolf,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Graus</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XVI-135/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">135</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN VAN NISPEN EN MOHANDIS TER VERVANGING VAN DIE GEDRUKT ONDER NR. 127</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat kinderen uit gezinnen met een laag inkomen twaalf keer zo vaak geen zwemdiploma hebben als kinderen uit gezinnen met een hoog inkomen,</al>
+            <al>overwegende dat uit het SEO-onderzoek blijkt dat de zwemveiligheid door het herinvoeren van schoolzwemmen zou toenemen, terwijl de klassenverschillen op het gebied van zwemvaardigheid zouden afnemen,</al>
+            <al>overwegende dat uit dit onderzoek ook blijkt dat de kosten voor de overheid op zijn minst grotendeels worden gecompenseerd door besparingen voor ouders en dat er dus geen sprake zou zijn van hoge extra kosten, maar vooral van een verschuiving,</al>
+            <al>verzoekt de regering om in overleg met het onderwijs realistische scenario’s op te stellen om schoolzwemmen op termijn weer in te voeren en deze voor de begrotingsbehandeling aan de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Mohandis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

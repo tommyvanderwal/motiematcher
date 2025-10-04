@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1214/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1214</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aanwezigheid van grote aantallen ganzen rondom Schiphol een aanzienlijk risico vormt voor de vliegveiligheid;</al>
+            <al>overwegende dat de impact van een vogelaanvaring met een vliegtuig catastrofaal kan zijn en dat adequate populatiebeheersing noodzakelijk is om incidenten te voorkomen;</al>
+            <al>constaterende dat in het nieuwe ganzenbeheerplan 2025–2031 van de provincie Noord-Holland de ruimte voor effectief populatiebeheer rondom Schiphol wordt beperkt;</al>
+            <al>verzoekt de regering zich in te zetten voor effectief populatiebeheer van ganzen rondom Schiphol om de vliegveiligheid te waarborgen;</al>
+            <al>verzoekt de regering in overleg te treden met de provincie Noord-Holland om te waarborgen dat er voldoende ruimte blijft voor adequaat ganzenbeheer binnen een straal van 20 kilometer rondom Schiphol,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pierik</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

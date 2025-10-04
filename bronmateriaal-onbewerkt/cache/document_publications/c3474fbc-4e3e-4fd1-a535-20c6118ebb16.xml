@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-483/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">483</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID SOEPBOER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 472</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er sprake is van een ernstig tekort aan docenten;</al>
+            <al>overwegende dat niet geld, maar werkplezier en werkdruk belangrijke argumenten zijn om wel of niet in het onderwijs te blijven of te gaan werken;</al>
+            <al>overwegende dat in Nederland verhoudingsgewijs veel les wordt gegeven, maar de scores in Europees verband toch achterblijven;</al>
+            <al>overwegende dat er in de CAO’s van het voortgezet onderwijs wel een maximum lesurennorm in klokuren is vastgelegd, maar geen maximum lesurennorm op zich, waardoor scholen naar eigen inzicht een lesuur en daarmee het tal lesuren per week bij een voltijdbetrekking vorm kunnen geven;</al>
+            <al>overwegende dat bij een lesduur van 50 minuten, uitgaande van de reeds vastgestelde klokurennorm van 750 en uitgaande van het algemeen gehanteerde aantal lesweken per jaar van 37,8, een docent gemiddeld 23,8 lesuren per week les zou geven;</al>
+            <al>overwegend dat kortere lesuren binnen dezelfde klokurennorm onherroepelijk leiden tot meer contactmomenten en de daarmee gepaard gaande voorbereiding, nawerk, administratie en oudercontact;</al>
+            <al>verzoekt de Minister om een zo groot mogelijke inspanning te leveren om er voor te zorgen dat er naast de gehanteerde maximum klokuurnorm tevens een maximum lesurennorm wordt opgenomen in de CAO van het voortgezet onderwijs van 24 lesuren per week bij een voltijdbetrekking en dit te handhaven met ingang van het schooljaar 2025–2026,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

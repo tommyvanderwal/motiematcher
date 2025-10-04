@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36451-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 451</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering van verordening (EU) 2022/868 van het Europees parlement en de Raad van 30 mei 2022 betreffende Europese datagovernance en tot wijziging van Verordening (EU) 2018/1724 (Uitvoeringswet datagovernanceverordening)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Autoriteit Persoonsgegevens gebaat is bij een duidelijke uitspraak over hoe zij onduidelijkheden in datawetgeving moet afwegen;</al>
+            <al>overwegende dat er nu onduidelijkheid is over het wegen van doelbinding bij het ter hergebruik openstellen van overheidsinformatie vergaard van burgers;</al>
+            <al>verzoekt de regering om voor de Autoriteit Persoonsgegevens een kader op te stellen waarin doelbinding bij het hergebruiken van overheidsinformatie in het publieke belang minder zwaar weegt dan hergebruik met een winstoogmerk,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1151/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1151</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN PIERIK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een tekort is van 24.000 studentenwoningen en dat dit dreigt op te lopen tot 60.000 studentenwoningen;</al>
+            <al>constaterende dat er bij bouwlocatie Kronenburg, vlakbij Amsterdam, plannen liggen voor meer dan 2.500 studentenwoningen;</al>
+            <al>constaterende dat gemeenten, provincie, omwonenden, studenten, onderwijsinstellingen, bouwers en de woningcorporatie voorstander van deze woningen zijn én dat er snel met de bouw kan worden begonnen;</al>
+            <al>constaterende dat nu slechts 438 studentenwoningen gebouwd gaan worden vanwege geluidshinder, hoewel de Amsterdamse GGD al in 2018 concludeerde dat studenten nauwelijks effecten op de gezondheid ervaren vanwege vliegtuiggeluid;</al>
+            <al>constaterende dat er geen concrete alternatieve plannen nabij Amsterdam bestaan om de meer dan 2.000 geschrapte studentenwoningen bij Kronenburg te ondervangen;</al>
+            <al>constaterende dat hierdoor de aantallen uit de door de Minister, provincie en gemeenten ondertekende Woondeal Metropoolregio Amsterdam niet gehaald dreigen te worden;</al>
+            <al>constaterende dat we door de woningnood niet de luxe hebben om bestaande bouwplannen niet volledig te benutten;</al>
+            <al>verzoekt de regering ervoor te zorgen dat er zo snel als mogelijk gestart kan worden met de bouw bij Kronenburg;</al>
+            <al-groep>
+              <al>verzoekt de regering scenario's te ontwikkelen waarin de meer dan 2.000 studentenwoningen toch gebouwd kunnen worden, bij Kronenburg of op alternatieve plekken nabij Amsterdam,</al>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

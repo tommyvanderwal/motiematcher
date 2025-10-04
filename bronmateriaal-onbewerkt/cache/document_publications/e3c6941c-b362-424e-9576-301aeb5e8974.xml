@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-129/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">129</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister van OCW heeft besloten eenmalig 3,6 miljoen euro te investeren in sociale veiligheid bij NPO;</al>
+            <al>constaterende dat de NPO volgend jaar reeds 952 miljoen euro aan belastinggeld ontvangt en daarmee voldoende budget heeft voor het verbeteren van de sociale veiligheid;</al>
+            <al>overwegende dat sociale veiligheid een managementvraagstuk is, dit een taak en opdracht is van de NPO zelf en het zodoende ook aan de NPO is om te zorgen voor sociale veiligheid binnen de organisatie;</al>
+            <al>van mening dat slecht gedrag niet moet worden beloond en de belastingbetaler niet hoeft op te draaien voor misstanden op de werkvloer bij de NPO;</al>
+            <al>verzoekt de regering de eenmalige investering van 3,6 miljoen euro in te trekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

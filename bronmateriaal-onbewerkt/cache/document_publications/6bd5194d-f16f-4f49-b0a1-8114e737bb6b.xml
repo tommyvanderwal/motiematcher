@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1293/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1293</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er ten minste 12.000 leegstaande woningen in Nederland zijn en het aantal leegstaande kantoorpanden ook toeneemt;</al>
+            <al>constaterende dat een leegstandsbelasting in Vlaanderen voor gemeenten van toegevoegde waarde is gebleken om eigenaren al in een of twee jaar ertoe te bewegen een einde te maken aan leegstand;</al>
+            <al>constaterende dat de Vereniging van Nederlandse Gemeenten om die reden al sinds minstens 2023 expliciet pleit voor een leegstandsheffing naar Vlaams model;</al>
+            <al>van mening dat leegstand in tijden van grote woningnood volstrekt onacceptabel is;</al>
+            <al>verzoekt de regering om met gemeenten in overleg te gaan en het pakket aan maatregelen tegen leegstand uit te breiden met bijvoorbeeld een leegstandsheffing,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

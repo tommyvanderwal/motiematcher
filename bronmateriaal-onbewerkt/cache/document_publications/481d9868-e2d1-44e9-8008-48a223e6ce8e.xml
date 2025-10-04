@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1405/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1405</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-13">13 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de evaluatie van de pilot (Gelijk)waardig herstel aanbeveelt om deze pilot voort te zetten, totdat de aanbevelingen zijn geadresseerd en de pilot vervolgens om te zetten in een reguliere schadeherstelroute;</al>
+            <al>overwegende dat de regering desondanks heeft besloten de pilot voor schadeherstel via de Stichting (Gelijk)waardig Herstel af te ronden en eerst nadere afspraken te maken alvorens deze route definitief voort te zetten;</al>
+            <al>overwegende dat dit besluit tot grote onrust en onzekerheid bij gedupeerde gezinnen heeft geleid;</al>
+            <al>verzoekt de regering nog voor het aanstaande zomerreces de schadeherstelroute via de Stichting (Gelijk)waardig Herstel (SGH) op te schalen, waarbij in samenspraak met de SGH opvolging wordt gegeven aan de aanbevelingen van de evaluatie, daarbij de onafhankelijkheid van de SGH voldoende te waarborgen en vervolgens een dienstverleningsovereenkomst te sluiten;</al>
+            <al>verzoekt de regering tevens focus aan te brengen door de regeling primair, en dus niet uitsluitend, te richten op gedupeerden voor wie uit de integrale beoordeling blijkt dat de Catshuisregeling van € 30.000 onvoldoende is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Van der Werf</al>
+              <al>Stultiens</al>
+              <al>Dijk</al>
+              <al>Inge van Dijk</al>
+              <al>Flach</al>
+              <al>Van Baarle</al>
+              <al>Kamminga</al>
+              <al>Omtzigt</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25232-80/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 232</dossiernr>
+      </dossiernummer>
+      <titel>Voetbalvandalisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">80</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER WERF EN MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het overgrote deel van de voetbalwedstrijden in een goede sfeer plaatsvindt en veel voetbalsupporters op prettige wijze met elkaar omgaan, maar dat een kleine groep relschoppers regelmatig blijft zorgen voor grote onveiligheid en schade ten koste van politiecapaciteit en de maatschappij;</al>
+            <al>constaterende dat we vaak zien hoe een positieve houding ten opzichte van goedwillende supporters samen met het hard aanpakken van raddraaiers kan leiden tot minder politie-inzet, minder collectieve straffen en minder overlast voor gewone supporters;</al>
+            <al>overwegende dat het risico op overlast en geweld bij voetbalwedstrijden helaas nog steeds forse politie-inzet noodzakelijk maakt en dat de agenten die urenlang bij een stadion staan ingeroosterd niet bezig kunnen zijn met hun werk in de wijk, georganiseerde criminaliteit bestrijden of zedenzaken;</al>
+            <al>verzoekt de regering in samenwerking met de KNVB, clubs, politie en OM een voorstel uit te werken voor hoe voetbalclubs (bvo) verplicht kunnen worden een grotere rol op zich te nemen bij de veiligheid in het stadion, met daarbij in het bijzonder de vormgeving van een vergunningsplicht per wedstrijd, betere controle op stadionverboden, het naast stewards inzetten van gecertificeerde beveiligers en naar aanleiding van het risicoprofiel van een wedstrijd verplichte zitplaatsen of strengere sancties voor raddraaiers mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

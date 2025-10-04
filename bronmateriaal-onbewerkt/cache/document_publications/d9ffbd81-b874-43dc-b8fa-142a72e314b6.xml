@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-340/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">340</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet vasthoudt aan de ambitie om in 2050 een volledig circulaire economie te hebben;</al>
+            <al>constaterende dat de jongste Integrale Circulaire Economie Rapportage van het PBL (ICER 2025) stelt dat de ontwikkeling hiernaartoe te langzaam gaat en diverse versnellingsvoorwaarden meegeeft, zoals richtinggevende beleidsinstrumenten en beleid dat leidt tot marktvorming;</al>
+            <al>verzoekt de regering om in samenspraak met de producentenorganisaties voor een aantal prioritaire productgroepen, per productgroep een schets van de stand van de zaken te maken van de ontwikkeling binnen hun productgroep,</al>
+            <al>en tot een ontwikkelplan te komen hoe het doel van een circulaire economie in 2050 dichterbij kan worden gebracht,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

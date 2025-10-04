@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1116/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1116</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat opgevoerde fatbikes in het verkeer voor veel hinder, onveilige situaties en ongevallen zorgen;</al>
+            <al>van mening dat strenge handhaving van de opgevoerde fatbikes noodzakelijk is;</al>
+            <al>constaterende dat in het menu van de fatbike te zien is of een fiets opgevoerd is, maar dat de politie alleen bij een indicatie van de overtreding in het menu van de fatbike mag kijken;</al>
+            <al>constaterende dat bij algemene controles met de rollentestbanken dus niet in het menu van de fatbike kan worden gekeken en dat de berijder ondertussen in de gelegenheid is geweest de maximumsnelheid aan te passen en daarmee de dans ontspringt;</al>
+            <al>verzoekt het kabinet het voor de politie mogelijk te maken om in alle gevallen van controle van de fatbike in het menu te kijken, zodat de overtreding kan worden geconstateerd en direct tot sanctionering kan worden overgegaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

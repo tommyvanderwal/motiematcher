@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32849-249/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 849</dossiernr>
+      </dossiernummer>
+      <titel>Mijnbouw</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">249</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Staatstoezicht op de Mijnen (SodM) waarschuwt dat boren onder de Waddenzee bij Ternaard niet veilig kan;</al>
+            <al>constaterende dat SodM waarschuwt dat schade voor het gebied al na vijf tot tien jaar gaswinning kan optreden;</al>
+            <al>constaterende dat het hand-aan-de-kraanprincipe volgens SodM bij deze winning onvoldoende effect gaat sorteren om dit tegen te gaan;</al>
+            <al>constaterende dat de Minister bij de begrotingsbehandeling KGG heeft aangegeven dat adviezen van het SodM zwaarwegend worden meegenomen in de besluitvorming;</al>
+            <al>constaterende dat er grote weerstand is in de omgeving en de garantie niet kan worden gegeven dat winning veilig kan;</al>
+            <al>overwegende dat de mijnbouwopbrengsten tijdelijk zijn, maar de schade permanent;</al>
+            <al>verzoekt de regering geen vergunning te geven voor winning van gas in de Waddenzee bij Ternaard,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Postma</al>
+              <al>Rooderkerk</al>
+              <al>Vermeer</al>
+              <al>Kröger</al>
+              <al>Grinwis</al>
+              <al>Beckerman</al>
+              <al>Koekkoek</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1496/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1496</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN VIJLBRIEF EN PODT TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1494</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jonge boeren het financieel gezien het relatief vaak lastig hebben;</al>
+            <al>constaterende dat deze jonge boeren tegelijkertijd met grote opgaven geconfronteerd worden, bijvoorbeeld op het gebied van verduurzaming en het toekomstbestendig maken van hun boerderij;</al>
+            <al>van mening dat deze jonge boeren cruciaal zijn voor een sterke en toekomstbestendige landbouw in Nederland;</al>
+            <al>constaterende dat uit de evaluatie van de landbouwvrijstelling blijkt dat er zeer waarschijnlijk andere vormgevingen van een regeling voor boeren mogelijk is die hen beter helpt;</al>
+            <al>verzoekt de regering om budgetneutrale alternatieve regelingen voor landbouwvrijstelling uit te werken die jonge boeren op een doeltreffende en efficiënte manier ondersteunen bij het verduurzamen en toekomstbestendig maken van hun boerderij, en daarbij rekening te houden met de adviezen van de Algemene Rekenkamer en SEO ten aanzien van de wenselijkheid van een overgangsregeling;</al>
+            <al>verzoekt de regering om de Kamer hierover voor Belastingplan 2026 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vijlbrief</al>
+              <al>Podt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

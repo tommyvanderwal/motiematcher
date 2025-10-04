@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-930/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">930</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat cyclisch pakketbeheer in de zorg wordt toegepast om geneesmiddelen periodiek te herbeoordelen en mogelijk te schrappen uit het basispakket;</al>
+            <al>constaterende dat het voor het werkveld onvoldoende inzichtelijk is hoe dit proces verloopt, en op basis van welke criteria en data de herbeoordeling plaatsvindt;</al>
+            <al>overwegende dat transparantie essentieel is voor vertrouwen in het proces en voor een goed geïnformeerde besluitvorming binnen de zorgsector;</al>
+            <al-groep>
+              <al>verzoekt de regering het werkveld actief te informeren over de procedure van cyclisch pakketbeheer door:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>duidelijkheid te verschaffen over de specifieke criteria en data die worden gebruikt bij de herbeoordeling van geneesmiddelen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>inzicht te geven in wie voorafgaand aan de beoordeling bepaalt aan welke criteria een geneesmiddel moet voldoen en of deze afstemming vooraf gestructureerd plaatsvindt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te informeren of de gebruikte criteria voor herbeoordeling gebaseerd zijn op kosteneffectiviteit, gepast gebruik en budgetimpact, en zo ja, hoe deze criteria worden gewogen bij de beoordeling;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te verduidelijken of het Zorginstituut Nederland of de Vereniging van Zorgverzekeraars de criteria voor herbeoordeling al bij de toelating van geneesmiddelen tot het basispakket vastlegt, of dat dit pas later gebeurt,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

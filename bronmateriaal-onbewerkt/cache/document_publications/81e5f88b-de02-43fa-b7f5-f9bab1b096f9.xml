@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36159-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 159</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Opiumwet in verband met het toevoegen van een derde lijst met als doel het tegengaan van de productie van en de handel in nieuwe psychoactieve stoffen en enkele andere wijzigingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-20">20 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het afgelopen jaar 340.000 volwassenen cocaïne hebben gebruikt in Nederland en dit een duidelijke toename is ten opzichte van voorgaande jaren;</al>
+            <al>constaterende dat ook het gebruik van andere drugs, zoals MDMA, is toegenomen en in elk geval niet afneemt;</al>
+            <al>van mening dat de toename van drugsgebruik ondermijnend werkt voor de bestrijding van drugscriminaliteit;</al>
+            <al>overwegende dat de productie van drugs daarnaast gepaard gaat met grote belasting van het milieu in Nederland en andere landen;</al>
+            <al>overwegende dat Rotterdam een publiekscampagne is gestart waarin drugsgebruikers op scherpe wijze worden aangesproken op het verband tussen vermeend onschuldig drugsgebruik in het uitgaansleven en geweld in de onderwereld;</al>
+            <al>verzoekt de regering naar Rotterdams voorbeeld een landelijke campagne te starten waarin drugsgebruikers worden geconfronteerd met de gevolgen van drugsgebruik voor de samenleving,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Helder</al>
+              <al>Diederik van Dijk</al>
+              <al>Krul</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

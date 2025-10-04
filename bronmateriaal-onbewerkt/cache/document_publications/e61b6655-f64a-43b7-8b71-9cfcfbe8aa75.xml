@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29628-1249/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 628</dossiernr>
+      </dossiernummer>
+      <titel>Politie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1249</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de gezamenlijke spoorvervoerders in 2023 een stijging van 8% van de geweldsincidenten tegen het personeel registreerden;</al>
+            <al>constaterende dat Rover en ProRail met klem hebben gepleit voor een terugkeer van de spoorwegpolitie;</al>
+            <al>constaterende dat op het traject Zwolle-Emmen in het eerste kwartaal vorig jaar al 331 incidenten tegen het ov-personeel waren;</al>
+            <al>verzoekt het kabinet in overleg met Arriva en binnen de huidige politiecapaciteit een pilot uit te werken op het traject Zwolle-Emmen met een speciale politie-eenheid die zich richt op agressie en zwartrijders in de trein en rondom perrons,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Eerdmans</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

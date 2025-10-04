@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-186/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">186</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat sommige agrariërs de productie van voedsel combineren met het leveren van diensten aan de samenleving, zoals de exploitatie van een zorgboerderij of kinderopvang;</al>
+            <al>overwegende dat deze multifunctionele landbouw maatschappelijk gezien gewenst is, maar dat dergelijke bedrijven te maken krijgen met knellende wet- en regelgeving, die geen rekening houdt met het specifieke karakter van de andere vormen van landbouw, zoals de plicht tot het openbaar maken van de boekhouding of het instellen van een raad van advies;</al>
+            <al>verzoekt de regering in samenwerking met VWS in kaart te brengen hoe knellende wet- en regelgeving voor zorgboeren en andere, soortgelijke multifunctionele bedrijven weggenomen kan worden, bijvoorbeeld door middel van uitzonderingen of versoepelingen, waarbij het Ministerie van LVVN het voortouw dient te nemen;</al>
+            <al>verzoekt de regering de Kamer hierover voor het vierde kwartaal te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

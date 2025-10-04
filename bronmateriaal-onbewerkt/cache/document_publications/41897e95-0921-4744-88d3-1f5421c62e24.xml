@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34104-424/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 104</dossiernr>
+      </dossiernummer>
+      <titel>Langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">424</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ouders die zelf de zorg voor hun kind op zich nemen via een pgb regelmatig in financiële problemen komen wanneer de indicatie voor hun kind wordt verlaagd of in het ergste geval wegvalt door het overlijden van het kind;</al>
+            <al>van mening dat het onacceptabel is dat ouders die de zorg voor hun zieke kind op zich nemen daardoor in financiële problemen komen;</al>
+            <al-groep>
+              <al>overwegende dat de Staatssecretaris heeft aangegeven de optie te verkennen pgb-zorgverleners een maand extra vergoeding te geven na het wegvallen van de zorg, maar dat dit voor ouders die net hun kind hebben verloren absoluut</al>
+              <al>onvoldoende zou zijn;</al>
+            </al-groep>
+            <al>verzoekt de regering om ervoor te zorgen dat ouders die financieel afhankelijk zijn van het pgb van hun kind ruimhartig worden ondersteund indien het pgb verlaagd wordt of wegvalt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

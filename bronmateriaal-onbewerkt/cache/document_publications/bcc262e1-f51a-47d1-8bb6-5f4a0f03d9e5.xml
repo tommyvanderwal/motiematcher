@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29389-138/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 389</dossiernr>
+      </dossiernummer>
+      <titel>Vergrijzing en het integrale ouderenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">138</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister, de staatsecretaris van VWS en het veld bezig zijn met het sluiten van een hoofdlijnenakkoord ouderenzorg;</al>
+            <al>constaterende dat zowel het geclusterd, het zelfstandig wonen als de uitbreiding van plaatsen in een verpleeghuis achterloopt bij de ambities en de afspraken die er gemaakt zijn;</al>
+            <al>overwegende dat in het hoofdlijnenakkoord ouderenzorg wonen niet wordt meegenomen en arbeidsmarkt «slechts» beperkt;</al>
+            <al>van mening dat een hoofdlijnenakkoord ouderenzorg pas meerwaarde heeft als ook ouderenhuisvesting en de arbeidsmarktproblematiek worden meegenomen en hier concrete meetbare doelstellingen voor worden afgesproken;</al>
+            <al>verzoekt de regering zowel de arbeidsmarktproblematiek als de diverse woonvormen voor ouderen mee te nemen in dit hoofdlijnenakkoord ouderenzorg en hier concrete meetbare doelstellingen over af te spreken met de veldpartijen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

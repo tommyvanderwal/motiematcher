@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-399/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">399</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DIEDERIK VAN DIJK C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 388</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat het gelet op de explosieve stijging van antisemitische incidenten wenselijk is in de inburgering meer aandacht te besteden aan de Joodse gemeenschap en haar geschiedenis in Nederland;</al>
+            <al>overwegende dat naast theoretische aandacht voor antisemitisme een bezoek aan een locatie, zoals het Nationaal Holocaustmuseum, waarbij de gruwelijkheden van de Holocaust voor nieuwkomers tastbaar en voelbaar worden een onderdeel van de inburgering zou moeten zijn;</al>
+            <al>Verzoekt de regering bij de uitwerking van het hoofdlijnenakkoord en/of het Nationaal Plan Versterking Holocausteducatie te betrekken dat nieuwkomers een bezoek brengen aan een dergelijke locatie in het kader van hun inburgering en hiervoor een limitatieve lijst van geschikte locaties verdeeld over Nederland en goed bereikbaar voor de inburgeraars op te stellen in overleg met Joodse organisaties en de VNG;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Flach</al>
+              <al>Ellian</al>
+              <al>Boon</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

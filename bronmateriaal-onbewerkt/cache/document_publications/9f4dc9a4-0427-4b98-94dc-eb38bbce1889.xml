@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-57/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">57</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER HOEFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overgrote meerderheid van de leerlingen in het voortgezet onderwijs die als semi-analfabeet zijn geclassificeerd in het mbo terechtkomt;</al>
+            <al>van mening dat het een nationale schande is dat een eerstewereldland een kwart van zijn kinderen niet kan leren lezen;</al>
+            <al>verzoekt de regering eerstejaarsstudenten in het mbo direct bij de intakeprocedure te monitoren op leesvaardigheid om te voorkomen dat er nog een cohort mbo'ers uitstroomt als functioneel analfabeet en alle studenten die als zodanig gekwalificeerd worden een verplicht inhaalprogramma aan te bieden met als doel dat alle mbo'ers de opleiding verlaten met minimaal leesniveau 2F,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Hoeff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

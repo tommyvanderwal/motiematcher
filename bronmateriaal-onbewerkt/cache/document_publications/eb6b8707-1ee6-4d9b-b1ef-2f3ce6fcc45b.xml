@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36163-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 163</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van Boek 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek in verband met de aanpassing van de termijn van de omkering van de bewijslast voor consumentenkoop van levende dieren (Aanpassingswet bewijslasttermijn consumentenkoop levende dieren)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-20">20 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat paardenhandelaren standaard geen gezondheidskeuring doen voorafgaand aan de verkoop van een dier;</al>
+            <al>constaterende dat als de koper wel een gezondheidskeuring doet, diegene daar zelf voor moet betalen;</al>
+            <al>overwegende dat een gezondheidskeuring voorafgaand aan de verkoop van een dier belangrijk is om te garanderen dat een gezond dier wordt verhandeld;</al>
+            <al>overwegende dat een gezondheidskeuring voorafgaand aan de verkoop er tevens voor zorgt dat de fokker of handelaar aan de bewijslast kan voldoen indien een dier wel ziek wordt;</al>
+            <al>verzoekt de regering te onderzoeken hoe een gezondheidskeuring verplicht kan worden gesteld bij het verhandelen van een paard,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

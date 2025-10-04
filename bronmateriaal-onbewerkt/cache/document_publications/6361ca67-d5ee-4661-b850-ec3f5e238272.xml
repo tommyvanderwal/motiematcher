@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-V-4/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Wijziging van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2024 (wijziging samenhangende met de Voorjaarsnota)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">4</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIRI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-19">19 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er sprake is van toenemende geopolitieke competitie op een veelheid van gebieden, zoals veiligheid, energie, voedsel, technologie en gezondheid;</al>
+            <al>constaterende dat eerdere bezuinigingen op het postennet volgens de AIV een zeer forse aanslag hebben gepleegd op de slagkracht van de Nederlandse diplomatie;</al>
+            <al>overwegende dat in het laatste coalitieakkoord en in de begroting van 2023 gekozen is voor opschaling van het postennet;</al>
+            <al>verzoekt het (toekomstige) kabinet de diplomatieke slagkracht middels het postennetwerk in stand te houden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+              <al>Dobbe</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

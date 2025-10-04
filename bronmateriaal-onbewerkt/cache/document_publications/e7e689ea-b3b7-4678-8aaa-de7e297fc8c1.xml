@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28638-244/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 638</dossiernr>
+      </dossiernummer>
+      <titel>Mensenhandel </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">244</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat mensenhandel een grens- en regio-overstijgend probleem is;</al>
+            <al>overwegende dat criminele netwerken achter mensenhandel profiteren van de verschillen in regionale aanpak, bijvoorbeeld omdat zij hun activiteiten verplaatsen naar gemeenten waar minder aandacht voor deze problematiek is;</al>
+            <al>van mening dat eenduidige regie en landelijke aansturing ontbreekt in het actieplan Samen tegen Mensenhandel en de lokale versnippering daardoor niet wordt opgelost;</al>
+            <al>verzoekt de regering te onderzoeken hoe een landelijke aansturing en coördinatie van mensenhandel wel kan worden bewerkstelligd en welke meerwaarde een nationaal coördinator mensenhandel daarbij kan hebben,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mutluer</al>
+              <al>Van Nispen</al>
+              <al>Bikker</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

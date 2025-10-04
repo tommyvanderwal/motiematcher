@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30420-427"/>
+      <meta name="OVERHEIDop.ondernummer" content="427"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30420"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Dobbe en Van Campen over een gecontinueerde aanpak tegen desinformatie over vrouwen en lhbtqi-personen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Emancipatiebeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-01"/>
+      <meta name="DC.title" scheme="" content="Emancipatiebeleid; Motie; Motie van de leden Dobbe en Van Campen over een gecontinueerde aanpak tegen desinformatie over vrouwen en lhbtqi-personen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Cultuur"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 420</dossiernr>
+         </dossiernummer>
+         <titel>Emancipatiebeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">427</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DOBBE EN VAN CAMPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-01">1 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat buitenlandse invloeden van ultraconservatieve groeperingen de rechten van vrouwen en lhbtqi-personen in Nederland onder druk zetten;</al>
+                  <al>constaterende dat er door deze groepen ook mis- en desinformatie over vrouwen en lhbtqi-personen wordt verspreid;</al>
+                  <al>verzoekt de regering om een gecontinueerde aanpak tegen desinformatie over vrouwen en lhbtqi-personen;</al>
+                  <al>verzoekt de regering anti-emancipatoire beïnvloeding door personen of organisaties te onderzoeken;</al>
+                  <al>verzoekt de regering tevens organisaties die opkomen voor vrouwen- en lhbtqi-rechten te ondersteunen in het vergroten van hun weerbaarheid tegen deze vormen van intimidatie en tegenwerking,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Van Campen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

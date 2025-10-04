@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33836-117/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 836</dossiernr>
+      </dossiernummer>
+      <titel>Personen- en familierecht</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">117</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SNELLER EN TSEGGAI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een wettelijke regeling voor meerouderschap en meeroudergezag in het belang is van het kind;</al>
+            <al>constaterende dat een op de vijf meeroudergezinnen problemen ervaart met het ontbreken van zo'n regeling;</al>
+            <al>constaterende dat de Kamer al in 2022 vroeg om een concreet stappenplan en dat dat er nog steeds niet is;</al>
+            <al>constaterende dat er geen stelselwijzigingen nodig zijn wanneer zo veel mogelijk wordt aangesloten bij bestaande regelingen;</al>
+            <al>van mening dat er hiermee geen substantiële juridische of uitvoeringstechnische barrières meer zijn voor meerouderschap en meeroudergezag;</al>
+            <al>verzoekt de regering om nog dit jaar een voorstel tot aanpassing van het Burgerlijk Wetboek naar de Kamer te sturen om meerouderschap en meeroudergezag te erkennen;</al>
+            <al>verzoekt de regering om daarbij met een samenloopregeling eventuele onduidelijkheid naar andere nog niet aangepaste wetten en regels op te lossen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

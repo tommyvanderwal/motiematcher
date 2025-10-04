@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27924-94/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 924</dossiernr>
+      </dossiernummer>
+      <titel>Pachtbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">94</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het toekennen van pachtgrond aan boeren in de directe omgeving bijdraagt aan een sterke lokale landbouwsector, efficiënt grondgebruik en vermindering van onnodig transport;</al>
+            <al>constaterende dat uit de Didam-jurisprudentie volgt dat overheidsorganisaties verplicht zijn om in het geval dat er meerdere gegadigden voor grond zijn, hiervoor een openbare selectieprocedure te gebruiken en dat de selectieprocedure plaats moet vinden aan de hand van vooraf bekendgemaakte objectieve, toetsbare en redelijke criteria;</al>
+            <al>verzoekt de regering om bij de uitgifte van pachtgrond in eigen beheer prioriteit te geven aan boeren in de directe omgeving en boeren die de laatste pachter waren, dit standaard onderdeel te laten zijn van de vooraf bekengemaakte criteria, en dit ook te verzoeken aan de medeoverheden en TBO's,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

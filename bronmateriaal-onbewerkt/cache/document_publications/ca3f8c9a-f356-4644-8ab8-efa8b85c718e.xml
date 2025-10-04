@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-121/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">121</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de in het Belastingplan 2025 voorgestelde wijzigingen elektrisch rijden in de motorrijtuigenbelasting (mrb) zwaarder belast gaat worden dan rijden op benzine;</al>
+            <al>overwegende dat volgens de KEV 2024 het huidige vastgestelde, voorgenomen en geagendeerde beleid tekortschiet om de eigen klimaatdoelstellingen van het kabinet te behalen en er derhalve in het voorjaar aanvullend beleid dient te worden vastgesteld;</al>
+            <al>overwegende dat het kabinet tevens in het voorjaar van 2025 met een plan komt voor de hervorming van de autobelastingen en het mobiliteitsbeleid, waarbij gestreefd wordt naar betaalbaarheid, het behalen van klimaatdoelen en het op orde houden van de overheidsfinanciën op lange termijn;</al>
+            <al>verzoekt de regering om in het aangekondigde plan voor hervorming van de autobelastingen aan burgers en ondernemers duidelijk te maken dat, vergeleken met rijden op benzine, elektrisch rijden vanaf 2026 aantrekkelijk blijft, ook in de motorrijtuigenbelasting,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vijlbrief</al>
+              <al>Inge van Dijk</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

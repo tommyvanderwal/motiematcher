@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1267/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1267</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat private investeringen in intercontinentale zeekabels uitblijven, zowel vanuit en naar Europees Nederland als Caribisch Nederland, waardoor er sprake is van marktfalen;</al>
+            <al>overwegende dat de regering daarom een publieke taak heeft om onze autonomie, (cyber)veiligheid en economie te versterken met de juiste digitale infrastructuur en hier maximale zeggenschap over te hebben;</al>
+            <al>verzoekt de regering om bij de realisatie van nieuwe intercontinentale zeekabels het kunnen sturen op beschikbaarheid en betaalbaarheid voorop te zetten;</al>
+            <al>verzoekt de regering om nog vóór het zomerreces 2025 hier instrumenten voor te inventariseren, bijvoorbeeld garantieregelingen voor de afname van capaciteit, volledige publieke financiering en publiek-private financiering, inclusief EU-gelden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kathmann</al>
+              <al>Vermeer</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

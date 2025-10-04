@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33835-239/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 835</dossiernr>
+      </dossiernummer>
+      <titel>Nederlandse Voedsel- en Warenautoriteit (NVWA)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">239</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER PLAS EN HOLMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de NVWA stelt dat aangevraagde keuringen in 98% tot 99% van de gevallen worden toegewezen, maar geen inzicht geeft in hoe dat cijfer tot stand is gekomen;</al>
+            <al>overwegende dat zonder deze cijfers geen volledig beeld ontstaat;</al>
+            <al>overwegende dat onduidelijk is hoeveel slachterijen op dit moment wachten op uitbreiding van hun keuringsuren;</al>
+            <al>verzoekt de regering de Kamer per maand uitgesplitste cijfers te verstrekken over het aantal aangevraagde, toegewezen, afgezegde en afgewezen keuringen in de afgelopen vijf jaar, alsmede inzicht te geven in het aantal slachterijen dat wacht op uitbreiding van keuringsuren, de duur van deze wachttijd, de reden van deze wachttijd en de verwachte termijn voor toewijzing,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36243-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 243</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet op de rechterlijke organisatie, de Wet rechtspositie rechterlijke ambtenaren, de Wet op de Raad van State en enige andere wetten in verband met enkele wijzigingen in het belang van integere, onafhankelijke en onpartijdige rechtspraak, alsmede de regeling van enige andere onderwerpen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN VROONHOVEN EN OMTZIGT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat de Venetië-Commissie waardevolle aanbevelingen gedaan heeft;</al>
+            <al>van mening dat het goed is dat de regering de aanbeveling over incompatibiliteit heeft uitgevoerd met dit wetsvoorstel;</al>
+            <al>verzoekt de regering alle aanbevelingen in paragraaf 85 van het advies om te zetten in beleid en wetgeving, en die binnen acht maanden voor te leggen aan de Kamer, als pakket of losse maatregelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Vroonhoven</al>
+              <al>Omtzigt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

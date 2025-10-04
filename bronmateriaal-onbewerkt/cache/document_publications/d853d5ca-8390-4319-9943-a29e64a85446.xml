@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOOMSMA EN CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van  <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het actief en het passief stemrecht tot een van de belangrijkste burgerlijke rechten behoren en tot het fundament van onze democratie;</al>
+            <al>overwegende dat de vrije, democratische samenleving alleen kan voortbestaan als de waarden die eraan ten grondslag liggen steeds opnieuw worden onderwezen, benadrukt, verinnerlijkt, verdedigd en overgedragen;</al>
+            <al-groep>
+              <al>constaterende dat jongeren relatief weinig stemmen;</al>
+              <al>van oordeel dat het kan bijdragen aan de cohesie, participatie en betrokkenheid, en het besef dat de overheid van ons allemaal is, om het verkrijgen van de burgerrechten te markeren en het besef van de betekenis ervan te verdiepen;</al>
+            </al-groep>
+            <al>verzoekt de regering om in overleg met gemeenten te bevorderen dat het behalen van de kiesgerechtigde leeftijd waarmee jongeren volwaardig staatsburger worden, wordt gemarkeerd door ze een brief te sturen over de waarde en betekenis ervan, waarbij ook kan worden gedacht aan het geven van een (klein) boekje over de rechten en plichten, vrijheden en verantwoordelijkheden van het Nederlands staatsburgerschap en de totstandkoming daarvan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

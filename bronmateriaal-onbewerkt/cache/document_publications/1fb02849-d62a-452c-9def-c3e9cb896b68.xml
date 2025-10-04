@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36800-73"/>
+      <meta name="OVERHEIDop.ondernummer" content="73"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36800"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Dassen over overstappen op Europese, op open standaarden gebaseerde digitale alternatieven voor de digitale infrastructuur t.v.v. 36800-61"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nota over de toestand van ’s Rijks Financiën"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-18"/>
+      <meta name="DC.title" scheme="" content="Nota over de toestand van ’s Rijks Financiën; Motie (gewijzigd/nader); Gewijzigde motie van het lid Dassen over overstappen op Europese, op open standaarden gebaseerde digitale alternatieven voor de digitale infrastructuur t.v.v. 36800-61"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 800</dossiernr>
+         </dossiernummer>
+         <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">73</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID DASSEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 61</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-18">18 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Nederlandse overheid voor haar digitale infrastructuur in hoge mate afhankelijk is van niet-Europese leveranciers en dit gelet op de geopolitieke verhoudingen niet wenselijk is;</al>
+                  <al>constaterende dat in Frankrijk en Duitsland inmiddels volwaardige, op open standaarden gebaseerde alternatieven worden ontwikkeld en ingezet binnen de overheid;</al>
+                  <al>van mening dat de Nederlandse overheid een voortrekkersrol moet spelen in het stimuleren van Europese digitale alternatieven en het verminderen van afhankelijkheid van niet-Europese leveranciers;</al>
+                  <al>verzoekt de regering om over te stappen op Europese, op open standaarden gebaseerde digitale alternatieven en daarbij uiterlijk in 2026 een routekaart aan de Kamer voor te leggen waarin concrete stappen, investeringen en samenwerkingen met andere Europese lidstaten worden beschreven,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Dassen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

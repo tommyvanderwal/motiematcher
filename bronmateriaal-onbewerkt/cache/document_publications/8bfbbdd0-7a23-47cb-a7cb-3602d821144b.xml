@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-33-1138"/>
+      <meta name="OVERHEIDop.ondernummer" content="1138"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-33"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Postma c.s. over de VS en The Metals Company aanspreken op diepzeemijnbouw en elke mogelijke (juridische) actie ondersteunen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.C. Kröger"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raad voor Vervoer, Telecommunicatie en Energie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Raad voor Vervoer, Telecommunicatie en Energie; Motie; Motie van het lid Postma c.s. over de VS en The Metals Company aanspreken op diepzeemijnbouw en elke mogelijke (juridische) actie ondersteunen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>33</raadnr>
+         </dossiernummer>
+         <titel>Raad voor Vervoer, Telecommunicatie en Energie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1138</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID POSTMA C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Verenigde Staten voornemens zijn om The Metals Company, partner van het Zwitsers-Nederlandse Allseas, opdracht te geven voor diepzeemijnen in internationale wateren;</al>
+                  <al>overwegende dat diepzeemijnbouw de biodiversiteit ernstig schaadt en dat diepzeemijnbouw in internationale wateren niet onder internationaal recht is toegestaan zonder toestemming van ISA, de International Seabed Authority;</al>
+                  <al>verzoekt de regering om in gesprek te gaan met het deels Nederlandse Allseas;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om, in overleg met de Verenigde Naties, de</al>
+                     <al>Internationale Zeebodemautoriteit en de Europese Unie, de Verenigde Staten en The Metals Company hierop aan te spreken, en elke mogelijke (juridische) actie tegen de VS en The Metals Company te ondernemen en te ondersteunen als bovengenoemde partijen dit in gang zetten,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Postma</al>
+                     <al>Kröger</al>
+                     <al>Rooderkerk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

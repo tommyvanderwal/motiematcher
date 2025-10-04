@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29325-185/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 325</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijke Opvang </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">185</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DEN HIL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er knelpunten zijn in de financiering van jeugdzorg voor kinderen die vanwege huiselijk geweld of dakloosheid met hun ouder in een opvanghuis verblijven;</al>
+            <al>constaterende dat het een beperkte, af te bakenen groep kinderen betreft en dat het daardoor disproportioneel is om het volledige systeem te veranderen;</al>
+            <al>overwegende dat juist deze groep kwetsbare jeugdigen gebaat is bij toegankelijke jeugdzorg en daarin niet gehinderd mag worden door gebrekkige afspraken in het kader van het woonplaatsbeginsel;</al>
+            <al>verzoekt de regering om samen met gemeenten en Valente te verkennen welke knelpunten en oplossingen te formuleren zijn voor deze doelgroep, en de Kamer voor het wetgevingsoverleg Jeugd van 2025 hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van den Hil</al>
+              <al>Diederik van Dijk</al>
+              <al>Wijen-Nass</al>
+              <al>Rikkers-Oosterkamp</al>
+              <al>Ceder</al>
+              <al>Bruyning</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

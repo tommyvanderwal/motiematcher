@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-753/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">753</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-28">28 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat politieagenten, brandweer, ambulancepersoneel en andere hulpverleners tijdens de jaarwisseling op grote schaal te maken krijgen met geweld, intimidatie en bedreiging;</al>
+            <al>constaterende dat hulpverleners door dit geweld soms kampen met blijvende lichamelijke problemen;</al>
+            <al>overwegende dat onze hulpverleners, die zich keihard inzetten om anderen te helpen, in ieder geval voldoende materiaal moeten krijgen om zich te kunnen beschermen tegen het geweld tijdens de jaarwisseling;</al>
+            <al>verzoekt de regering op korte termijn, in ieder geval voor de volgende jaarwisseling, voldoende gehoorbescherming en veiligheidshelmen aan te bieden aan politieagenten en hulpverleners,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Werf</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

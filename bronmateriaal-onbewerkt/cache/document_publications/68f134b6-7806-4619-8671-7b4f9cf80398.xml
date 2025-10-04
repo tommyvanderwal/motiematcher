@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-158/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">158</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er door de afbouw van de mestderogatie een tekort aan mestplaatsingsruimte is ontstaan;</al>
+            <al>overwegende dat een generieke korting op dierfosfaatrechten onwenselijk is en de angst daarvoor gedurende de tijd begrijpelijk groter wordt;</al>
+            <al>overwegende dat het mestplafond eerder bereikt wordt doordat boeren hun stal voor de zekerheid en uit wantrouwen voor mogelijk nog meer komend beleid zo vol mogelijk houden;</al>
+            <al>verzoekt de regering om de sector een zekerheid te bieden door toe te zeggen, mocht er een telling komen bedoeld voor de vaststelling van een eventuele generieke dier- of fosfaatrechtenkorting, dat de referentieperiode van de diertelling zal liggen vóór 1 januari 2024, zodat er voor boeren die er vrijwillig voor kiezen hun koppel nu al te laten inkrimpen geen nadelige consequenties zijn voor hun productierechten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pierik</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

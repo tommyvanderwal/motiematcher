@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van  <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat werken van cruciaal belang is voor een succesvolle integratie;</al>
+            <al>constaterende dat we hier een positieve trend zien en dat nieuwkomers en latere generaties steeds vaker werken, maar dat we er nog niet zijn en de arbeidsparticipatie nog omhoog kan en moet;</al>
+            <al>constaterende dat uit onderzoek blijkt dat arbeidsdiscriminatie nog veel te vaak voorkomt in Nederland, waardoor mensen die wel willen werken niet altijd kunnen werken;</al>
+            <al>constaterende dat de wet die hier iets aan had moeten doen, de Wet toezicht gelijke kansen bij werving en selectie, is weggestemd zonder dat er een alternatief voor is;</al>
+            <al>constaterende dat het probleem niet is opgelost en dat de aanpak van arbeidsmarktdiscriminatie onverminderd urgent is;</al>
+            <al>verzoekt de regering uit te werken hoe zij arbeidsmarktdiscriminatie wil bestrijden en hier heldere doelen aan te koppelen en dit uiterlijk in het tweede kwartaal 2025 naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Tseggai</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

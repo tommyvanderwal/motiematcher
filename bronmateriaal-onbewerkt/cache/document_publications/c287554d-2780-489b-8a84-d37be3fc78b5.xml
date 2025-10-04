@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23645-846/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 645</dossiernr>
+      </dossiernummer>
+      <titel>Openbaar vervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">846</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEUTINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vervoerders de noodklok hebben doen luiden vanwege het gebrek aan handhavingsmiddelen om de veiligheid in het openbaar vervoer te waarborgen;</al>
+            <al>van mening dat het openbaar vervoer steeds onveiliger wordt en dus gebaat is bij stevige maatregelen tegen overlastplegers in het openbaar vervoer;</al>
+            <al>van mening dat een landelijk ov-verbod een passende consequentie is bij aantoonbaar wangedrag in het openbaar vervoer;</al>
+            <al>verzoekt de regering om werk te maken van landelijke en permanente reisverboden en die zodanig te implementeren dat die ook worden gezien als een invulling van het vereiste van een locatie en tijdsduur,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Heutink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

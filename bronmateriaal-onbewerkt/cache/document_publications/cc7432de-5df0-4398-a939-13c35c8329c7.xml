@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-903/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">903</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de doorlooptijden binnen de strafrechtketen nog steeds lang zijn;</al>
+            <al>overwegende dat het Bestuurlijk Ketenberaad verschillende zaakstromen heeft gekozen waarin het verbetering wil bereiken;</al>
+            <al>overwegende dat bij de zaakstromen jeugd en zeden reeds wordt gewerkt met een programmatische ketenaanpak, maar dit nog niet gebeurt bij ernstige verkeersmisdrijven;</al>
+            <al>verzoekt de regering om gezamenlijk met de strafrechtketen te zorgen voor een programmatische ketenaanpak wat betreft de zaakstroom ernstige verkeersmisdrijven teneinde de doorlooptijden te verkorten;</al>
+            <al>verzoekt de regering hierbij ook de lichtere verkeerszaken dan wel overtredingen, conform artikel 5 Wvw, mee te nemen, inclusief de mogelijkheden van herstelbemiddeling en schadevergoeding,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

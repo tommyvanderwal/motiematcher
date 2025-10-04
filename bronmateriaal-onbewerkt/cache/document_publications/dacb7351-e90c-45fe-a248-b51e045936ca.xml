@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29628-1244/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 628</dossiernr>
+      </dossiernummer>
+      <titel>Politie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1244</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in de praktijk grote behoefte is aan meer recherchecapaciteit voor opsporing;</al>
+            <al>constaterende dat het aantal opleidingsplaatsen bij de Politieacademie voor nieuwe, zijinstromende recherchemedewerkers beperkt is;</al>
+            <al>constaterende dat er op de lange termijn behoefte is aan modulair rechercheonderwijs, waarbij zowel de mogelijkheid bestaat om volledig opgeleid te worden alsook de mogelijkheid voor geüniformeerde medewerkers om over te stappen;</al>
+            <al>verzoekt de regering samen met de politietop te verkennen hoe een afzonderlijke, meer gerichte modulaire rechercheopleiding kan worden gerealiseerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

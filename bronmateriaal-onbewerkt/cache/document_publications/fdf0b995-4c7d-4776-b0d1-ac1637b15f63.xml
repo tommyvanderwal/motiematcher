@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36541-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 541</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tabaks- en rookwarenwet in verband met de invoering van een registratieplicht voor verkooppunten van tabaksproducten en aanverwante producten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de winkelmonitor Aanbod van tabak in verkooppunten in Nederland een cruciale rol speelt om in de gaten te kunnen houden wat er daadwerkelijk op de Nederlandse markt aangeboden wordt aan tabaks- en nicotineproducten;</al>
+            <al-groep>
+              <al>overwegende dat de winkelmonitor veel meer inzicht geeft dan enkel de</al>
+              <al>registratieplicht en die de monitor dus niet kan vervangen;</al>
+            </al-groep>
+            <al>verzoekt de regering de winkelmonitor niet op te heffen en hier de aankomende jaren ook niet op te bezuinigen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

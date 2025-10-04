@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29282-590/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 282</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid en opleidingen zorgsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">590</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat door de plannen van het kabinet om het eigen risico te halveren voor alle verzekerden, de zorgpremie explosief zal stijgen bovenop de al verwachte stijging;</al>
+            <al>overwegende dat het de toegankelijkheid van de zorg voor alle Nederlanders ten goede komt door de groep chronisch zieken en gehandicapten met een lager inkomen gericht te helpen;</al>
+            <al>verzoekt de regering om het eigen risico alleen voor chronisch zieken en gehandicapten met € 220 te verlagen door voor deze groep een regeling te treffen;</al>
+            <al>verzoekt de regering de opbrengsten hiervan te gebruiken om te investeren in onderwijs, zoals opleidingen voor verpleegkundigen, en te zoeken naar manieren voor een lastenverlichting voor werkenden, waaronder zorgpersoneel, om zo de wachtlijsten terug te dringen in plaats van op te drijven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Koekkoek</al>
+              <al>Eerdmans</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

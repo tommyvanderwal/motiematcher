@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-20-2257"/>
+      <meta name="OVERHEIDop.ondernummer" content="2257"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-20"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Campen en Eerdmans over aansluiting zoeken bij de lijn van bondskanselier Merz inzake Israël"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.J. Eerdmans"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Europese Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.title" scheme="" content="Europese Raad; Motie; Motie van de leden Van Campen en Eerdmans over aansluiting zoeken bij de lijn van bondskanselier Merz inzake Israël"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr>
+         </dossiernummer>
+         <titel>Europese Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">2257</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN EERDMANS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-18">18 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat in Europa verschillend is gereageerd op de escalatie in het conflict tussen Israël en Iran;</al>
+                  <al>overwegende dat Israël te maken heeft met een existentiële dreiging vanuit het Iraanse regime, zeker als dat een kernwapen bemachtigt;</al>
+                  <al>overwegende dat de Duitse bondskanselier Merz heeft gesteld dat Israël het vuile werk voor het Westen opknapt en dat Israël recht heeft op zelfverdediging;</al>
+                  <al-groep>
+                     <al>verzoekt de regering aansluiting te zoeken bij de lijn van bondskanselier</al>
+                     <al>Merz,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Campen</al>
+                     <al>Eerdmans</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

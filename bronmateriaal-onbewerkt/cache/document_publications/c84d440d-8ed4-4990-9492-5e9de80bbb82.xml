@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36503-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 503</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Warenwet en de Tabaks- en rookwarenwet in verband met aanpassingen overwegend ter verbetering van toezicht en handhaving en aanpassingen van technische aard</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in de Wijziging van de Warenwet en de Tabaks- en rookwarenwet rauwe melk wordt geassocieerd met direct gevaar voor de gezondheid en veiligheid van de mens waarop strafrechtelijk gehandhaafd kan worden;</al>
+            <al>overwegende dat er al strenge regels zijn op het gebied van voedselveiligheid en dat in artikel 8 van het Warenwetbesluit hygiëne van levensmiddelen al staat dat salmonellabacteriën afwezig moeten zijn;</al>
+            <al>overwegende dat rauwe melk an sich niet gevaarlijk is, maar zelfs kan helpen tegen hoge bloeddruk en andere gezondheidseffecten kan hebben;</al>
+            <al>overwegende dat verkeerd gebruik, bijvoorbeeld het niet goed verhitten van een product, wel gevaarlijk kan zijn;</al>
+            <al>verzoekt de regering de wettekst van de Wijziging van de Warenwet en de Tabaks- en rookwarenwet zodanig aan te passen dat rauwe melk als product niet meer geassocieerd wordt met een direct gevaar voor de gezondheid en veiligheid van de mens,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

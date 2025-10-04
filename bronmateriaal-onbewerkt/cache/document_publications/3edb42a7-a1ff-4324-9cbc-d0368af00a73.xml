@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1192/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1192</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland zijn positie als het digitale knooppunt van Europa alleen kan behouden door zorg te dragen voor de infrastructuur die dit mogelijk maakt;</al>
+            <al>overwegende dat huidige onderzeese internetkabels zoals de AC-1 en TAT-14 toe zijn aan vervanging of al uit werking zijn genomen;</al>
+            <al>overwegende dat er door geopolitieke instabiliteit reële dreigingen bestaan voor bestaande onderzeese kabelinfrastructuur en Nederland actief moet bijdragen aan het versterken van de internationale connectiviteit;</al>
+            <al-groep>
+              <al>constaterende dat de aanleg van de Far North Fiber de mogelijkheid biedt om een nieuwe onderzeese internetkabel aan te landen in Nederland;</al>
+              <al>spreekt uit dat aansluiting op de Far North Fiber wenselijk is en bijdraagt aan de economie, autonomie en internationale positie van Nederland;</al>
+            </al-groep>
+            <al>verzoekt de regering zich ten volste in te zetten voor een Nederlandse aanlanding van de Far North Fiber in Nederland, op korte termijn verschillende mogelijkheden van financiering samen met partijen uit de sector in kaart te brengen en de Kamer hierover direct na het zomerreces te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

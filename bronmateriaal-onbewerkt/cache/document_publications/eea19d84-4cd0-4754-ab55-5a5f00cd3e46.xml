@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29826-237/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 826</dossiernr>
+      </dossiernummer>
+      <titel>Industriebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">237</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de verduurzaming industrie stagneert, onder meer doordat er te weinig vraag is naar groene en circulaire producten;</al>
+            <al>overwegende dat bedrijven vandaag de dag niet meer kunnen profiteren van goedkoop Gronings of Russisch gas;</al>
+            <al>constaterende dat de geopolitieke situatie ertoe leidt dat het extra belangrijk is om toe te werken naar Europese grondstoffenonafhankelijkheid en de circulaire economie;</al>
+            <al>overwegende dat het kabinet werkt aan een versterkte aanpak nieuwe industrie, waarbij ook marktcreatie van groene eindmarkten een programmalijn is;</al>
+            <al>verzoekt de regering om een actieplan op te stellen voor het creëren van groene eindmarkten, daarbij met concrete doelstellingen en tijdspaden te werken, en dit voor de zomer met de Kamer te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

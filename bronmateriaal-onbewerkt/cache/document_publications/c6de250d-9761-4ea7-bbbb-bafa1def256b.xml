@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36740-VII-20"/>
+      <meta name="OVERHEIDop.ondernummer" content="20"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36740-VII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Kathmann en Six Dijkstra over het mailverkeer van alle overheidsorganisaties in eigen beheer houden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-30"/>
+      <meta name="DC.title" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024; Motie; Motie van de leden Kathmann en Six Dijkstra over het mailverkeer van alle overheidsorganisaties in eigen beheer houden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 740</dossiernr>
+            <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">20</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KATHMANN EN SIX DIJKSTRA</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-30">30 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de rijksoverheid in grote mate afhankelijk is van Microsoft Exchange voor haar mailverkeer, maar technische ondersteuning voor deze dienst op 14 oktober 2025 afloopt;</al>
+                  <al>overwegende dat dit tot gevolg kan hebben dat de rijksoverheid straks haar mailverkeer niet meer in eigen beheer heeft als er geen keuze wordt gemaakt over het vervangen van deze dienst;</al>
+                  <al>verzoekt de regering om het mailverkeer van alle overheidsorganisaties in eigen beheer te houden, met als uitgangspunt dat de afhankelijkheid van Amerikaanse techleveranciers niet groeit,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kathmann</al>
+                     <al>Six Dijkstra</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

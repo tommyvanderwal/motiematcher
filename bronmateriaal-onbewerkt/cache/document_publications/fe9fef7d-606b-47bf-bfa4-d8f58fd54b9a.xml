@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-654/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">654</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID TSEGGAI C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 641</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat stagiairs soms als goedkope arbeidskrachten worden ingezet en er op dit moment geen wettelijke kaders zijn voor een evenwichtige verhouding tussen stagiairs en werknemers,</al>
+            <al>overwegende dat stages bedoeld zijn om te leren onder goede begeleiding,</al>
+            <al>verzoekt de regering in haar verkenning naar een verplichte minimum stagevergoeding ook onderzoek te doen naar een wettelijke norm voor een evenwichtige verhouding tussen stagiairs en werknemers, handhaafbaar door de Arbeidsinspectie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tseggai</al>
+              <al>Paternotte</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

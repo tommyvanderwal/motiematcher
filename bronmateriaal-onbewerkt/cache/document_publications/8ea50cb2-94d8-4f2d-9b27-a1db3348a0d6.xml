@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-24446-96"/>
+      <meta name="OVERHEIDop.ondernummer" content="96"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="24446"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Postma en Thijssen over een uitvoeringsprgramma voor de acceleratie van de NL Space Campus"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Thijssen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.L. Postma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Ruimtevaartbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Ruimtevaartbeleid; Motie; Motie van de leden Postma en Thijssen over een uitvoeringsprgramma voor de acceleratie van de NL Space Campus"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Luchtvaart"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Onderzoek en wetenschap"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>24 446</dossiernr>
+         </dossiernummer>
+         <titel>Ruimtevaartbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">96</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN POSTMA EN THIJSSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de kabinetsreactie op de lange-termijn ruimtevaartagenda de ontwikkeling en versterking van de NL Space Campus onderschrijft;</al>
+                  <al>overwegende dat de NL Space Campus klaarstaat om met steun van de provincie Zuid-Holland en de gemeente Noordwijk door te groeien tot toonaangevende internationale ruimtevaarthub;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om samen met de provincie Zuid-Holland en de gemeente Noordwijk te werken aan een concreet uitvoeringsprogramma gericht op acceleratie van de NL Space Campus, waarin onder meer is opgenomen:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>een nadere uitwerking van de concrete initiatieven in de kabinetsreactie, zoals uitbreiding en rol GRC, optisch grondstation Eagle 1, en het Space for Talent-programma;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe inhoudelijk en financieel bijgedragen kan worden aan een faciliteit voor onderwijs, onderzoek en gezamenlijke innovatie in samenwerking met ESA/ESTEC, EUSPA en de kennisinstellingen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>een «Europastrategie» voor het aantrekken van financiering uit EU-programma's;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>positionering van NL Space Campus om als één Europese Space Campus de positie van Nederland binnen de Europese ruimtevaartsector te versterken;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het voornemen tot een pledging conference vanuit EZ voor bedrijven, PPP's en (publieke) investeerders;</al>
+                        </li>
+                     </lijst>
+                     <al>en de Kamer hierover te informeren per brief en vervolgens in de periodieke lange-termijn ruimtevaartagenda-voortgangsbrief,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Postma</al>
+                     <al>Thijssen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

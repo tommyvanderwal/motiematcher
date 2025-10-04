@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van  <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet werkt aan een evaluatie van het Meerjarenplan Zelfbeschikking en aan een versterkte agenda schadelijke praktijken;</al>
+            <al>overwegende dat in dit land 41.000 genitaal verminkte vrouwen leven en honderden vrouwen verborgen achter de voordeur leven, en dat eveneens honderden meisjes en vrouwen te maken hebben met eergerelateerd geweld;</al>
+            <al>van mening dat vrouwen en meisjes een maximale inzet verdienen van de overheid om hun vrijheid en veiligheid te beschermen;</al>
+            <al-groep>
+              <al>verzoekt de regering een nieuw meerjarenplan zelfbeschikking en een versterkte aanpak schadelijke praktijken voor te bereiden waarin in ieder geval:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>voorkomen wordt dat uitvoerende organisaties onder de noemer cultuursensitiviteit alsnog onvrije normen overdragen;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>meer nadruk wordt gelegd op financiële zelfredzaamheid van vrouwen in gesloten gemeenschappen;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>verkend wordt of in Nederland kan worden geleerd van de Franse aanpak van genitale verminking,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Becker</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

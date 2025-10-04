@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-725/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">725</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MICHON-DERKZEN EN EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de NCTV aangeeft dat vanaf 2025 veroordeelde terroristen vrijkomen die een risico kunnen vormen voor de veiligheid van Nederland;</al>
+            <al>overwegende dat uit cijfers blijkt dat de Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding (Twbmt) de laatste jaren beperkt is gebruikt en dat het bewustzijn van de mogelijkheden om deze maatregelen in te zetten daarmee mogelijk van het netvlies verdwijnt;</al>
+            <al>van mening dat het van groot belang is om na detentie zicht te houden op veroordeelde terroristen en dat inzet van deze Twbmt, zoals een meldplicht, daar een belangrijke bijdrage aan kan leveren als er risico is voor de nationale veiligheid;</al>
+            <al>verzoekt het kabinet het bewustzijn van de mogelijkheden uit de Twbmt nadrukkelijk bij organisaties betrokken bij radicalisering- en terrorismebestrijding onder de aandacht te brengen, zodat deze wet optimaal wordt benut,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3381/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3381</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE VOS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland gebonden is aan internationale afspraken op het gebied van asiel en migratie, waaronder het VN-Vluchtelingenverdrag;</al>
+            <al-groep>
+              <al>constaterende dat deze afspraken:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>iedereen het recht geven in Nederland asiel aan te vragen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>Nederland verplichten deze aanvragen in behandeling te nemen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>Nederland verplichten om een verblijfsvergunning te verlenen aan degenen die aan de internationale eisen voldoen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>en Nederland verplichten hen van onderwijs, zorg, huisvesting en sociale voorzieningen te voorzien;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering uit het VN-Vluchtelingenverdrag te stappen,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Vos</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-L-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>L</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Nationaal Groeifonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat wereldwijd de investeringen in technologieën als Al en microchips fors toenemen, ook in Europa;</al>
+            <al>constaterende dat het kabinet pas in het najaar besluiten wil nemen over de uitwerking en bekostiging van de Nationale Technologiestrategie;</al>
+            <al>overwegende dat het voor het verdienvermogen en de economische weerbaarheid van Nederland essentieel is een sterke positie te behouden en te versterken in deze internationale waardeketens;</al>
+            <al>overwegende dat snelheid geboden is gelet op geopolitieke ontwikkelingen en de Europese en wereldwijde grote investeringen;</al>
+            <al>overwegende dat de Minister recent een publiek-privaat Semicon Board NL heeft opgezet en Nederland onderdeel uitmaakt van de Europese Semiconductor Coalition;</al>
+            <al>overwegende dat een onderbouwd investeringsplan, het semiconinnovatieprogramma ChipNL, dat aansluit bij deze ambities van de regering, klaarligt met toezegging op private financiering vanuit de sector, die tevens als hefboom kan dienen voor Europese additionele middelen;</al>
+            <al>verzoekt de regering, gelet op de urgentie en snelheid die geboden zijn, niet te wachten tot het najaar met besluitvorming, maar over cofinanciering van het semiconinnovatieprogramma ChipNL eerder te besluiten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>I. van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

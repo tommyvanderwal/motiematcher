@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-21/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">21</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BROMET</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Verenigde Naties in 2023 na ruim vijftien jaar onderhandelen een akkoord hebben bereikt over het verdrag voor de bescherming en het duurzaam gebruik van de zeegebieden buiten de nationale rechtsmacht van staten (het BBNJ-verdrag);</al>
+            <al>overwegende dat de Europese Unie nu wacht op het ratificatieproces van haar lidstaten met een deadline van juni 2025, maar Nederland wegens vertraging de boot dreigt te missen;</al>
+            <al>verzoekt de regering om zich te committeren aan het nationale ratificatieproces van het BBNJ-verdrag, zodat dit tijdig voor de deadline in juni 2025 afgerond is;</al>
+            <al>verzoekt de regering om nauw betrokken te blijven bij de verdere uitvoering van het VN-verdrag, om de doelen voor het beschermen van 30% van het aardoppervlak en de oceanen in 2030 te halen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bromet</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

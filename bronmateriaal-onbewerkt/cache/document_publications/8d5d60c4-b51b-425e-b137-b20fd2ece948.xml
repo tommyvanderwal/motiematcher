@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29509-86/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 509</dossiernr>
+      </dossiernummer>
+      <titel>Palliatieve zorg </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">86</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er een stijgende zorgvraag is voor hospicezorg en er steeds vaker een beroep moet worden gedaan op vrijwilligers;</al>
+            <al>constaterende dat het plafond op de subsidie vanuit de Regeling palliatieve terminale zorg en geestelijke verzorging thuis niet meegroeit met de stijgende zorgvraag, waardoor de toegankelijkheid van hospicezorg in de knel komt;</al>
+            <al>verzoekt de regering met een duurzame oplossing te komen om hospicezorg toegankelijk te houden, en de Kamer hierover voorafgaand aan de Voorjaarsnota te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Dobbe</al>
+              <al>Slagt-Tichelman</al>
+              <al>Krul</al>
+              <al>Diederik van Dijk</al>
+              <al>Koekkoek</al>
+              <al>Kostić</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

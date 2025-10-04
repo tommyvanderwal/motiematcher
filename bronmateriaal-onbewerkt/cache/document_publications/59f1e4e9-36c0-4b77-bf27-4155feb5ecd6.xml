@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29911-484"/>
+      <meta name="OVERHEIDop.ondernummer" content="484"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29911"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Michon-Derkzen over een jaarlijkse doelstelling voor het aantal kilo in beslag genomen illegaal vuurwerk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I.J.M. Michon-Derkzen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Bestrijding georganiseerde criminaliteit"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Bestrijding georganiseerde criminaliteit; Motie; Motie van het lid Michon-Derkzen over een jaarlijkse doelstelling voor het aantal kilo in beslag genomen illegaal vuurwerk"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 911</dossiernr>
+         </dossiernummer>
+         <titel>Bestrijding georganiseerde criminaliteit </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">484</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat ondermijnende criminaliteit vanuit de onderwereld de bovenwereld binnentreedt;</al>
+                  <al>constaterende dat er een toename is van het gebruik van illegaal vuurwerk zoals cobra's, die worden ingezet als explosieven voor woningen of winkelpanden in woonwijken;</al>
+                  <al>constaterende dat het kabinet eerder heeft aangegeven dat de aanpak van illegaal vuurwerk onderdeel is van de bestrijding van ondermijnende criminaliteit (13 november 2020 en 19 december 2024);</al>
+                  <al>van mening dat het goed is om transparant te zijn over het in beslag genomen illegale vuurwerk;</al>
+                  <al>verzoekt de regering om voor de aankomende vijf jaar een jaarlijkse doelstelling te formuleren voor het aantal kilo in beslag genomen illegaal vuurwerk,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Michon-Derkzen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

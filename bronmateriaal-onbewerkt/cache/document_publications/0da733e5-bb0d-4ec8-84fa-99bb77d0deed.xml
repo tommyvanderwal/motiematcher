@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28676-468/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 676</dossiernr>
+      </dossiernummer>
+      <titel>NAVO</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">468</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Oekraïne al tweeënhalf jaar een gevecht voert om als vrij land te kunnen blijven bestaan tegen een enorm numeriek overwicht van Rusland;</al>
+            <al>constaterende dat Oekraïne deze strijd voert met voornamelijk door NAVO-landen geproduceerde en geleverde middelen en dat de NAVO heeft aangegeven dat Oekraïne thuishoort binnen de NAVO;</al>
+            <al>constaterende dat artikel 5 van het Noord-Atlantisch Verdrag toetreding zonder bijzondere regeling enkel mogelijk zou maken na het ontzetten van alle sinds 2014 door Rusland bezette gebieden;</al>
+            <al>overwegende dat deze situatie een enorme stimulans vormt voor president Poetin om de oorlog zo lang als mogelijk te rekken en zo de toetreding van Oekraïne tot de NAVO permanent onmogelijk te maken;</al>
+            <al>van mening dat Oekraïne uiteraard moet voldoen aan de voorwaarden van het NAVO-lidmaatschap, maar niet het slachtoffer mag worden van een perverse impuls om Rusland de oorlog te laten verlengen;</al>
+            <al-groep>
+              <al>verzoekt het kabinet om het standpunt te onderschrijven dat Oekraïne thuishoort binnen de NAVO;</al>
+              <al>verzoekt de regering zich coöperatief op te stellen bij de eventuele totstandkoming van een geclausuleerde Oekraïense toetreding,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+              <al>Nordkamp</al>
+              <al>Dassen</al>
+              <al>Van der Burg</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

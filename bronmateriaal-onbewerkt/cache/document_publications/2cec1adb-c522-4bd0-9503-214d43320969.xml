@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-100/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">100</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 75.347 ondertekenaars van de petitie «ledere Nederlander gelijkwaardig: maak motie-Becker ongedaan» hebben verzocht om de motie ongedaan te maken;</al>
+            <al>constaterende dat er meer dan 1.500 meldingen zijn gedaan bij discriminatie.nl;</al>
+            <al>constaterende dat de Nationaal Coördinator tegen Discriminatie en Racisme heeft opgeroepen de motie niet uit te voeren;</al>
+            <al>van mening dat de motie (<extref doc="kst-36600-XV-18" soort="document" status="actief">36 600-XV, nr. 18</extref>) een nieuw dieptepunt markeert in de normalisatie van discriminatie en uitsluiting van Nederlanders met een migratieachtergrond;</al>
+            <al>verzoekt de regering om de motie van het lid Becker waarin wordt gevraagd om gegevens bij te houden over de culturele en religieuze normen en waarden van Nederlanders met een migratieachtergrond, niet uit te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36512-102"/>
+      <meta name="OVERHEIDop.ondernummer" content="102"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36512"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Peter de Groot en Welzijn over minimaal 25% aan koopwoningen van €250.000 tot €405.000 als onderdeel van twee derde betaalbare woningen (t.v.v. 36512-85)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.M. Welzijn"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.C. (Peter) de Groot"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Algemene wet bestuursrecht, de Huisvestingswet 2014, de Omgevingswet, de Wet maatschappelijke ondersteuning 2015 en de Woningwet in verband met de versterking van de regie op de volkshuisvesting en met het oog op enkele andere met de volkshuisvesting samenhangende maatregelen (Wet versterking regie volkshuisvesting)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-01"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Algemene wet bestuursrecht, de Huisvestingswet 2014, de Omgevingswet, de Wet maatschappelijke ondersteuning 2015 en de Woningwet in verband met de versterking van de regie op de volkshuisvesting en met het oog op enkele andere met de volkshuisvesting samenhangende maatregelen (Wet versterking regie volkshuisvesting); Motie (gewijzigd/nader); Gewijzigde motie van de leden Peter de Groot en Welzijn over minimaal 25% aan koopwoningen van €250.000 tot €405.000 als onderdeel van twee derde betaalbare woningen (t.v.v. 36512-85)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 512</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Algemene wet bestuursrecht, de Huisvestingswet 2014, de Omgevingswet, de Wet maatschappelijke ondersteuning 2015 en de Woningwet in verband met de versterking van de regie op de volkshuisvesting en met het oog op enkele andere met de volkshuisvesting samenhangende maatregelen (Wet versterking regie volkshuisvesting)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">102</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN PETER DE GROOT EN WELZIJN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 85</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-01">1 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>overwegende dat er een structureel tekort is aan betaalbare koopwoningen in Nederland;</al>
+                     <al>overwegende dat huishoudens met een (gezamenlijk) middeninkomen van circa € 50.000 tot € 80.000 vaak tussen wal en schip vallen op de woningmarkt;</al>
+                     <al>constaterende dat koopwoningen in de prijsklasse van € 250.000 tot € 405.000 voor deze doelgroep als betaalbaar kunnen worden beschouwd;</al>
+                     <al>van mening dat het woningaanbod beter moet aansluiten op de behoeften van middeninkomens;</al>
+                     <al>verzoekt de regering om in de instructieregels op regionaal niveau voor nieuwbouw op te nemen dat minimaal 25% uit betaalbare koopwoningen, als onderdeel van 2/3e betaalbare woningen, in bovengenoemde prijsklasse wordt gebouwd;</al>
+                     <al>en gaat over tot de orde van de dag.</al>
+                     <al>Peter de Groot</al>
+                     <al>Welzijn</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31753-301/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 753</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsbijstand</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">301</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jonge advocaten nauwelijks kiezen voor de sociale advocatuur vanwege het gebrek aan stageplaatsen, begeleiding en financieel perspectief;</al>
+            <al>overwegende dat de commissie-Van der Meer II heldere aanbevelingen doet voor een regeling om het starten van een sociaal advocatenkantoor financieel mogelijk te maken;</al>
+            <al>verzoekt de regering om een specifiek fonds of specifieke subsidieregeling op te richten om starters in de sociale advocatuur te ondersteunen bij de opbouw van een praktijk,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Van Nispen</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

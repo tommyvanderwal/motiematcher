@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-34104-438"/>
+      <meta name="OVERHEIDop.ondernummer" content="438"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="34104"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Slagt-Tichelman over digitale langdurige zorg niet inzetten als middel om te bezuinigen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. Slagt-Tichelman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Langdurige zorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-24"/>
+      <meta name="DC.title" scheme="" content="Langdurige zorg; Motie; Motie van het lid Slagt-Tichelman over digitale langdurige zorg niet inzetten als middel om te bezuinigen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>34 104</dossiernr>
+         </dossiernummer>
+         <titel>Langdurige zorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">438</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-24">24 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er enerzijds geïnvesteerd wordt in digitale langdurige zorg en dat anderzijds deze investering in digitale langdurige zorg ook direct als besparing ingeboekt staat;</al>
+                  <al>overwegende dat er zorgen zijn over de impact van deze besparingen op de kwaliteit en toegankelijkheid van de zorg;</al>
+                  <al>overwegende dat het onzeker is wat de gevolgen zijn voor de zorgvragers – dat zijn over het algemeen kwetsbare mensen – als de besparingen door digitale zorg achterblijven ten opzichte van de verwachtingen;</al>
+                  <al>verzoekt de regering ervoor te zorgen dat digitale langdurige zorg bij toekomstige plannen niet wordt ingezet als middel om te bezuinigen, maar alleen als meevaller wordt ingeboekt als het daadwerkelijk effectief blijkt te zijn,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Slagt-Tichelman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

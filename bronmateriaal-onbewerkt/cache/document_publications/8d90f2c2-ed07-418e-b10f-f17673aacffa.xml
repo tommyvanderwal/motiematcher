@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36614-6"/>
+      <meta name="OVERHEIDop.ondernummer" content="6"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36614"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Dobbe en De Hoop over het realiseren van ten minste 10.000 extra woonplekken voor daklozen in leegstaande panden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.E. de Hoop"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van de leden Beckerman en Westerveld over dakloosheid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van de leden Beckerman en Westerveld over dakloosheid; Motie; Motie van de leden Dobbe en De Hoop over het realiseren van ten minste 10.000 extra woonplekken voor daklozen in leegstaande panden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Sociale zekerheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 614</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van de leden Beckerman en Westerveld over dakloosheid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">6</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DOBBE EN DE HOOP</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg <datum isodatum="2025-09-22">22 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat bijna 190.000 woningen leegstaan terwijl de woningnood groot is en steeds meer mensen dakloos raken;</al>
+                  <al>constaterende dat er maar liefst 16 miljoen vierkante meter aan leegstaande kantoren en andere gebouwen verspreid over 226.000 panden beschikbaar gemaakt kan worden als woonruimte;</al>
+                  <al>overwegende dat langdurige leegstand onfatsoenlijk is in tijden van woningnood;</al>
+                  <al>overwegende dat de snelste manier om het aantal woningen uit te breiden de inzet van bestaande leegstaande gebouwen is;</al>
+                  <al>verzoekt de regering samen met gemeenten een plan uit te werken om ten minste 10.000 extra woonplekken te realiseren in leegstaande panden voor de huisvesting van daklozen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>De Hoop</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

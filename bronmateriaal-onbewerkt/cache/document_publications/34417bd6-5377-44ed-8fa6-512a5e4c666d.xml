@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-25/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">25</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 15</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Algemene Rekenkamer aangeeft dat bij de WMO en WLZ bijna 1 op de 3 mensen die eigen bijdragen betalen wordt geconfronteerd met stapelfacturen;</al>
+            <al>constaterende dat de Nationale ombudsman ook in meerdere rapporten heeft aangegeven hier veel klachten over te ontvangen;</al>
+            <al>overwegende dat deze mensen vaak juist extra hulp kunnen gebruiken in plaats van verdere administratieve lasten en financiële druk vanuit instituten;</al>
+            <al>verzoekt de regering mogelijke aanpakken in kaart te brengen waardoor dit probleem zo snel mogelijk kan worden opgelost en de kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

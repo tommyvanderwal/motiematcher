@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-111/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">111</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat demografische ontwikkelingen ook de leefbaarheid op het platteland raken;</al>
+            <al>constaterende dat allerlei voorzieningen zich steeds meer verplaatsen naar steden;</al>
+            <al>overwegende dat het platteland een enorm grote rol speelt bij de economische, maatschappelijke en sociale leefbaarheid in Nederland;</al>
+            <al>overwegende dat sterke steden en een sterk platteland elkaar nodig hebben;</al>
+            <al>overwegende dat verdere uitholling van het platteland, onder meer door de grote aantallen boeren die zijn gestopt, zullen stoppen of erover nadenken, grote gevolgen gaat hebben voor de economie en voor de maatschappelijke en sociale activiteiten op het platteland;</al>
+            <al>verzoekt de regering om overheidsbeleid, wetgeving en regelgeving met een zogenoemde plattelandstoets te toetsen aan de economische, maatschappelijke en sociale gevolgen voor het platteland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

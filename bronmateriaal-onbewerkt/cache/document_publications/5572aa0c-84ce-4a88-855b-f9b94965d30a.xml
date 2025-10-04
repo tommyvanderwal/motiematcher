@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2852/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2852</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de humanitaire situatie in Gaza snel verslechtert en de hongersnood snel toeneemt;</al>
+            <al>constaterende dat de Verenigde Staten een humanitaire corridor willen opzetten via zee, mede door middel van een tijdelijke haven;</al>
+            <al>overwegende dat de humanitaire corridor via de zee nooit een vervanging kan zijn voor een humanitaire corridor via land en Israël niet mag ontslaan van zijn internationaalrechtelijke verplichtingen;</al>
+            <al>constaterende dat de regering reeds politieke steun uitgesproken heeft voor de humanitaire corridor via de zee;</al>
+            <al>verzoekt de regering naast deze politieke steun te bezien op welke wijze Nederland kan bijdragen aan de humanitaire corridor via de zee, bijvoorbeeld financieel of operationeel, en deze vervolgens te leveren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Paternotte</al>
+              <al>Veldkamp</al>
+              <al>Dassen</al>
+              <al>Piri</al>
+              <al>Brekelmans</al>
+              <al>Tuinman</al>
+              <al>Dobbe</al>
+              <al>Van Baarle</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

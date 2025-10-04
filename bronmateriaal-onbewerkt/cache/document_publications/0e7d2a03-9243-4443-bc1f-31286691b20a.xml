@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-23235-255"/>
+      <meta name="OVERHEIDop.ondernummer" content="255"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="23235"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Richardson over niet-gecontracteerde zorg zo snel mogelijk afbouwen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.M. Richardson"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Thuiszorg en wijkverpleging"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Thuiszorg en wijkverpleging; Motie; Motie van het lid Richardson over niet-gecontracteerde zorg zo snel mogelijk afbouwen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>23 235</dossiernr>
+         </dossiernummer>
+         <titel>Thuiszorg en wijkverpleging</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">255</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID RICHARDSON</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat zorgverzekeraars bij niet-gecontracteerde zorg niet kunnen sturen op gedeclareerde uren zorg, waardoor niet-gecontracteerde aanbieders van wijkverpleging gemiddeld 60% meer ontvangen per cliënt dan gecontracteerde aanbieders;</al>
+                  <al>overwegende dat niet-gecontracteerde zorg zorgkosten opdrijft en zorgfraude in de hand werkt vanwege niet geleverde zorg;</al>
+                  <al>verzoekt de regering om niet-gecontracteerde zorg zo snel mogelijk af te bouwen, zodat de zorgkosten betaalbaar blijven en zorgfraude bestreden kan worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Richardson</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

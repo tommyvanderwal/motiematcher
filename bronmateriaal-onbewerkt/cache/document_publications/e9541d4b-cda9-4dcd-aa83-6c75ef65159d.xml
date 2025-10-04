@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36706-14"/>
+      <meta name="OVERHEIDop.ondernummer" content="14"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-06"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36706"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Eijk en Stoffer over de effecten op bepaalde groepen belastingplichtigen in beeld brengen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Stoffer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.P.J. van Eijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-05"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3); Motie; Motie van de leden Van Eijk en Stoffer over de effecten op bepaalde groepen belastingplichtigen in beeld brengen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Belasting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 706</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">14</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN EIJK EN STOFFER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-05">5 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de regering voornemens is het forfaitaire rendement voor overige bezittingen in box 3 verder te verhogen;</al>
+                  <al>overwegende dat bepaalde groepen belastingplichtigen, zoals particuliere verhuurders, bezitters van tweede of vakantiewoningen, eigenaren van rijksmonumenten en Natuurschoonwet-goederen – in samenhang met de huidige vormgeving van de Wet tegenbewijsregeling box 3 – onevenredig hard geraakt dreigen te worden;</al>
+                  <al>overwegende dat deze groepen te maken kunnen hebben met beperkte liquiditeit, langdurige investeringshorizons of specifieke maatschappelijke functies zoals voldoende huurwoningen in het middensegment, een toegankelijke recreatieve sector, behoud van cultureel erfgoed en natuurbeheer;</al>
+                  <al>verzoekt de regering om in overleg te treden met deze groepen belastingplichtigen om de effecten van het voorgenomen beleid in beeld te brengen en mogelijke uitvoerbare alternatieven te onderzoeken die bijdragen aan een evenwichtige belastingheffing,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Eijk</al>
+                     <al>Stoffer</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

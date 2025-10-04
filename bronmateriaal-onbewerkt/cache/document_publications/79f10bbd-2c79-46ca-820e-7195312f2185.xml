@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22343-423"/>
+      <meta name="OVERHEIDop.ondernummer" content="423"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-16"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22343"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Ceder c.s. over een extern en onafhankelijk onderzoek laten uitvoeren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.J. White"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.H. Bruyning"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Handhaving milieuwetgeving"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-15"/>
+      <meta name="DC.title" scheme="" content="Handhaving milieuwetgeving; Motie; Motie van het lid Ceder c.s. over een extern en onafhankelijk onderzoek laten uitvoeren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 343</dossiernr>
+         </dossiernummer>
+         <titel>Handhaving milieuwetgeving </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">423</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-15">15 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de situatie op en rondom de afvalstort Selibon op Bonaire ernstig is en dat omwonenden al geruime tijd kampen met overlast, onzekerheid en mogelijke gezondheidsrisico's;</al>
+                  <al>overwegende dat er nog veel vragen zijn op Bonaire ten aanzien van het ontstaan, verloop en bescherming volksgezondheid ten aanzien van Selibon en transparantie en bestuurlijke verantwoordelijkheid essentieel is om vertrouwen van bewoners te herstellen en herhaling te voorkomen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>een extern, onafhankelijk onderzoek te laten uitvoeren naar het ontstaan en verloop van de situatie rondom Selibon, waarin in elk geval de juridische, bestuurlijke en volksgezondheidsaspecten worden meegenomen;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>daarbij nadrukkelijk te onderzoeken of en waar bestuurlijke of institutionele tekorten zijn ontstaan in onder andere de samenwerking tussen ministeries en het OLB, en of bewoners voldoende zijn geïnformeerd en beschermd;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de Kamer over de uitkomsten te informeren,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Ceder</al>
+                     <al>Bruyning</al>
+                     <al>White</al>
+                     <al>Bamenga</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

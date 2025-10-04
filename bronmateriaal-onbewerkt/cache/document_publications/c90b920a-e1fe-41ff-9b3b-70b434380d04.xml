@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2135/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2135</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat NAVO-konvooien uit de VS, Canada of het VK bij aankomst in Europa geconfronteerd worden met verschillende nationale regels, beperkingen en vergunningensystemen onderweg van de grote havens naar de NAVO-oostgrens;</al>
+            <al>overwegende dat de Permanent Structured Cooperation (PESCO) is opgericht met het doel om de militaire mobiliteit te verbeteren, maar dat deelnemende landen hieraan tot nu toe geen topprioriteit geven;</al>
+            <al>overwegende dat het van cruciaal belang is voor de NAVO en de EU dat, bij tekenen van Russische mobilisatie richting de grens, militairen snel beschikbaar zijn om de oostgrens te verdedigen;</al>
+            <al>verzoekt de regering om in EU- en NAVO-verband actief te pleiten voor het maken van militaire mobiliteit tot topprioriteit, en om toe te werken naar een militair Schengengebied, zonder papieren en fysieke grenzen voor NAVO-militairen en materieel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

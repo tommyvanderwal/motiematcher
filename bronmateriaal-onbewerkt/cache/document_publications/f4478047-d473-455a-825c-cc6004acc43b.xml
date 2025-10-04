@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23432-553/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 432</dossiernr>
+      </dossiernummer>
+      <titel>De situatie in het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">553</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het subsidieportal van Buitenlandse Zaken voor organisaties die in de Palestijnse gebieden subsidie ontvangen, onvoldoende transparant is;</al>
+            <al>constaterende dat Nederland eerder subsidies heeft stopgezet aan de UAWC, na een bomaanslag door medewerkers en vanwege banden met het PFLP;</al>
+            <al>overwegende dat het wenselijk is dat alle ngo's die subsidie ontvangen ons buitenlandbeleid niet doorkruisen of tegenwerken;</al>
+            <al>verzoekt de regering het subsidieportal te verbeteren, met aanmerkelijk meer informatie over subsidieontvangers, inclusief informatie over bestuurders, hun verantwoording van de projecten en hun feitelijke werkzaamheden;</al>
+            <al>verzoekt de regering de beleidsuitgangspunten rondom Israël en de Palestijnse gebieden mee te laten wegen bij subsidiebesluiten over Palestijnse organisaties, te weten minstens de erkenning van de staat Israël,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Stoffer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

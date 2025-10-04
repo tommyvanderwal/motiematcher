@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1613/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1613</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-30">30 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de voorzitter van de Europese Commissie een strategische dialoog wil voeren met boeren over de toekomst van de landbouw met onder meer de vraag hoe we beter gebruik kunnen maken van de enorme kansen die kennis en technologische innovatie bieden;</al>
+            <al>overwegende dat aan Brusselse tafels mooie doelen en mooie voorstellen kunnen worden besproken, maar dat agrarisch ondernemers ook de kans moeten krijgen om die doelen te halen;</al>
+            <al-groep>
+              <al>van mening dat de Europese Commissie ruimte moet geven voor nieuwe innovaties die bijdragen aan een efficiënte en duurzame voedselproductie;</al>
+              <al>verzoekt de regering om bij de dialoog expliciet het belang te benadrukken van:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>spoedige toelating van noodzakelijke innovaties zoals kunstmestvervangers/RENURE;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een snellere en goedkopere toelatingsprocedure van groene gewasbeschermingsmiddelen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>nieuwe veredelingstechnieken te faciliteren en stimuleren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>hulp bieden aan nieuwe bedrijven die toelating verzoeken voor «novel foods»;</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>verzoekt de regering zich ervoor in te spannen dat een routekaart met besluitvormingsmomenten voor toelating van die innovaties uitkomst is van de strategische dialoog, mede in het belang van voedselzekerheid binnen de Europese Unie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Campen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

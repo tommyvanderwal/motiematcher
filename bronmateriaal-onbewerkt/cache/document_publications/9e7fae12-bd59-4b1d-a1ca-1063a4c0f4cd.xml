@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1115/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1115</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN OLGER VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-11">11 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in het verkeer veel hinder, onveilige situaties en ongevallen met fatbikes zijn, waarbij de helft van de slachtoffers tussen 10 en 14 jaar is;</al>
+            <al>overwegende dat de legitimatieplicht vanaf 14 jaar geldt en effectieve handhaving mogelijk maakt;</al>
+            <al>van mening dat daarom voor de fatbike de minimumleeftijd van 14 jaar en de helmplicht moeten gelden;</al>
+            <al>overwegende dat daarvoor een aparte wettelijke categorie voor de fatbike nodig is en dat de bijzondere bromfiets, het LEV-kader of de Europese typegoedkeuring aanknopingspunten zouden kunnen bieden voor die aparte categorie;</al>
+            <al>overwegende dat de fatbike naast dikkere banden ook wordt gekenmerkt door het hogere gewicht en vaak een niet in hoogte verstelbaar zadel én dat het onderscheid tussen de fatbike en de elektrische fiets door een combinatie van bijvoorbeeld deze kenmerken gebruikt zou kunnen worden als basis voor deze aparte categorie;</al>
+            <al>verzoekt de regering voor alleen de fatbikes een minimumleeftijd van 14 jaar en een helmplicht in te voeren, en de Kamer hierover te informeren voor het kerstreces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Olger van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

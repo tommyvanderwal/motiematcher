@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35207-98/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 207</dossiernr>
+      </dossiernummer>
+      <titel>China</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">98</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN DER LEE C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 88</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland 401 jaar bilaterale contacten kent met Taiwan, het eiland een bloeiende democratie is bovendien de tweede handelspartner van Nederland in Azië;</al>
+            <al>constaterende dat onder andere Duitsland op regeringsniveau een delegatie naar Taiwan heeft afgevaardigd onder leiding van de federale Minister van Onderwijs en Wetenschappen;</al>
+            <al>overwegende dat het belangrijk is duidelijk te maken dat Nederland hecht aan het zelfbestuur van de Taiwanezen en aan de handelsbetrekkingen;</al>
+            <al>verzoekt de regering naar Duits voorbeeld een delegatiebezoek aan Taiwan op regeringsniveau te overwegen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Lee</al>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

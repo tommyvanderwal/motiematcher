@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27625-677/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 625</dossiernr>
+      </dossiernummer>
+      <titel>Waterbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">677</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN STOFFER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-08">8 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de veilige toepassing van circulair water, met name grijs- en regenwater, in nieuwbouwwoningen een belangrijke rol kan spelen bij het terugdringen van het drinkwaterverbruik van huishoudens;</al>
+            <al>overwegende dat in Vlaanderen al jarenlange ervaring is met het veilige gebruik van circulair water, in de vorm van de Gewestelijke Stedenbouwkundige Verordening Hemelwater, met als resultaat een 30% lager drinkwaterverbruik dan in Nederland;</al>
+            <al>overwegende dat het huidige Drinkwaterbesluit toepassing van circulair water beperkt, doordat slechts de term «huishoudwater» beschreven wordt als alternatief voor drinkwater voor niet-hoogwaardige toepassingen;</al>
+            <al>verzoekt de regering het Drinkwaterbesluit aan te passen zodat productie en toepassing van circulair water conform de Europese normen (EN16941–1 en EN16941–2) en naar voorbeeld van België en Duitsland mogelijk wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

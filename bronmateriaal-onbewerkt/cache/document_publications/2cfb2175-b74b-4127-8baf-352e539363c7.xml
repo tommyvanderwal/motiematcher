@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33578-134/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 578</dossiernr>
+      </dossiernummer>
+      <titel>Eerstelijnszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">134</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TIELEN EN PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister van VWS geen partij is in cao-onderhandelingen;</al>
+            <al>constaterende dat de Minister van VWS wel partij is in het Integraal Zorgakkoord;</al>
+            <al>overwegende dat het van belang is dat apothekersassistenten en hun werkgevers tot een afspraak komen over de arbeidsvoorwaarden in de cao;</al>
+            <al>constaterende dat in het Integraal Zorgakkoord afgesproken is dat «zorgverzekeraars en zorgaanbieders als startpunt van de onderhandeling de «overheidsbijdrage in de arbeidskostenontwikkeling» (ova) als index hanteren voor loonstijgingen»;</al>
+            <al>verzoekt de Minister om zorgverzekeraars en zorgaanbieders te wijzen op deze IZA-afspraken en de Kamer te informeren als van afspraakschendingen bij de NZa melding wordt gedaan en wat de vervolgstappen zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tielen</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

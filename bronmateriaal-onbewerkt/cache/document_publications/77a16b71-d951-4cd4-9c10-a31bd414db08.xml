@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-112/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">112</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN VAN DER WERF EN SIX DIJKSTRA TER VERVANGING VAN DIE GEDRUKT ONDER NR. 73</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de hoeveelheid opruiiende, haatzaaiende, racistische, antisemitische en democratie-ondermijnende content op online platforms de spuigaten uitloopt;</al>
+            <al>constaterende dat een veelgebruikt platform als X maar één Nederlandssprekende contentmoderator heeft die toeziet op het verwijderen van inhoud die onder Nederlandse en Europese wetgeving verboden is;</al>
+            <al>constaterende dat de (relatieve) capaciteit voor Nederlandstalige contentmoderatie erg wisselt per platform;</al>
+            <al-groep>
+              <al>overwegende dat steeds meer jongeren sociale media gebruiken voor hun nieuwsgaring;</al>
+              <al>overwegende dat het voor het publieke debat en onze democratie noodzakelijk is om paal en perk te stellen aan de productie en verspreiding van illegale content en ontwrichtende desinformatie, en grote online platforms bovendien wettelijk de verantwoordelijkheid hebben hierop te acteren;</al>
+            </al-groep>
+            <al>verzoekt de regering om te verkennen of kan worden gekomen tot een richtgetal voor de (relatieve) minimum moderatiecapaciteit op Nederlands niveau van grote online platforms, en in aanvulling daarop kennis en kunde bij de overheid, datacentra en andere spelers binnen de nationale digitale economie bij elkaar te brengen teneinde platforms te bewegen tot accurate en snelle contentmoderatie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Six Dijkstra</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

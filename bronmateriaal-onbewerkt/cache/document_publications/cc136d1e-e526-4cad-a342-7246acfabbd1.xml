@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36446-75/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 446</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten (Wet toelating terbeschikkingstelling van arbeidskrachten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">75</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het rapport Onderzoek toezicht en handhaving arbeidsmarktdiscriminatie aantoont dat mysterycalls effectief zijn om de bereidheid van uitzendbureaus tot medewerking aan discriminerende verzoeken in kaart te brengen;</al>
+            <al>constaterende dat uitzendbrancheorganisaties ABU en NBBU deze methode al inzetten als vorm van zelfregulering, maar dat veel uitzendbureaus buiten dit toezicht vallen;</al>
+            <al>verzoekt de regering om, parallel aan de invoering van de Wet toelating terbeschikkingstelling van arbeidskrachten, een structureel programma op te zetten voor het uitvoeren van mysterycalls bij uitzendbureaus, met name bij niet-aangesloten bureaus;</al>
+            <al>verzoekt de regering tevens om te verkennen of resultaten van mysterycalls kunnen worden meegenomen in het toezichtkader van de toelating dan wel gebruikt kunnen worden als instrument om de naleving van antidiscriminatienormen door uitzendbureaus te monitoren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

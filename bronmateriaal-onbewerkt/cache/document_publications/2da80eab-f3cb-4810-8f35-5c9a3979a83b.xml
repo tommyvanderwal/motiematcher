@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-786/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">786</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID SARIS TER VERVANGING VAN DIE GEDRUKT ONDER NR. 776</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-08">8 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het UWV een onduidelijk en onvolledig beeld heeft en schetst van de omvang van de fouten gemaakt bij het UWV;</al>
+            <al>constaterende dat deze problemen zeer complex zijn en dat de les van het toeslagenschandaal en van Groningen is dat het wenselijk is om eerst een volledig beeld te hebben van de fouten voordat er overhaast besluiten genomen worden;</al>
+            <al>constaterende dat het herstel van fouten ook zijn doorwerking heeft bij Toeslagen, bij verzekeraars, bij pensioenen en bij werkgevers;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>uiterlijk in het voorjaar van 2025 opheldering te verschaffen middels een onafhankelijk, extern onderzoek naar alle problemen bij het UWV en de gevolgen die daaruit komen voor allereerst uitkeringsgerechtigden, maar ook voor werkgevers, pensioenfondsen en verzekeraars, en daarover open te rapporteren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>er zorg voor te dragen dat mensen die recht hebben op een (hogere) uitkering dat recht ook zo spoedig mogelijk krijgen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zeer terughoudend te zijn met terugvorderingen conform de uitspraak van de Centrale Raad van Beroep;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>verlagingen van uitkering zorgvuldig, stapsgewijs en met aandacht voor schrijnende gevallen te laten verlopen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>niet zomaar (grote) nabetalingen te doen, voordat duidelijk is welke gevolgen dit heeft in individuele situaties op bijvoorbeeld toeslagen of schuldhulpverlening;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ruiterlijk te erkennen richting mensen (uitkeringsgerechtigden en klokkenluiders binnen de organisatie) dat mensen onrecht is aangedaan;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering met een herstelplan te komen, en de Tweede Kamer daarover in het voorjaar van 2025 te rapporteren.</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Saris</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

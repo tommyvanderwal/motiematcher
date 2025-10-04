@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30950-489"/>
+      <meta name="OVERHEIDop.ondernummer" content="489"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30950"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kostic over uitgaan van een werkdefinitie van &quot;antisemitisme&quot; die in lijn is met internationaal recht en mensenrechten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kostic"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Racisme en Discriminatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Racisme en Discriminatie; Motie; Motie van het lid Kostic over uitgaan van een werkdefinitie van &quot;antisemitisme&quot; die in lijn is met internationaal recht en mensenrechten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 950</dossiernr>
+         </dossiernummer>
+         <titel>Racisme en Discriminatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">489</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat antisemitisme een schadelijke vorm van discriminatie is die wereldwijd schade aanricht aan Joodse gemeenschappen en effectief bestreden moet worden;</al>
+                  <al>overwegende dat kritiek op de Israëlische staat geen antisemitisme is;</al>
+                  <al>overwegende dat het kabinet in de Strategie Bestrijding Antisemitisme expliciet de IHRA-definitie ondersteunt als een juridisch niet-bindende werkdefinitie en stelt: «bij het beoordelen van antisemitisme is onder andere deze definitie behulpzaam»;</al>
+                  <al>overwegende dat de huidige IHRA-definitie ruimte biedt om kritiek op het beleid van de Israëlische regering in te perken en te bestempelen als antisemitisme en die daarmee de vrijheid van meningsuiting beperkt;</al>
+                  <al>voorts overwegende dat de Jerusalem Declaration on Antisemitism, opgesteld door de Israëlische historicus Alon Confino samen met honderden andere onderzoekers, een duidelijke en politiek neutrale leidraad biedt voor het onderscheid tussen antisemitisme en kritiek op Israël;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in de uitvoering van de Strategie Bestrijding Antisemitisme uit te gaan van een werkdefinitie van «antisemitisme» die in lijn is met internationaal recht en mensenrechten en duidelijk onderscheid maakt tussen antisemitisme en kritiek op Israël,</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>daarbij als juridisch niet-bindende werkdefinitie de Jerusalem Declaration on Antisemitism te verkennen, hierover in gesprek te gaan met wetenschappers op het gebied van antisemitisme en diverse Joodse groepen, zoals Een Ander Joods Geluid, en zo snel mogelijk hierover terug te koppelen aan de Kamer,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                     <al>Kostić</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

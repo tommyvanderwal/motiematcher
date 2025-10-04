@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-323/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">323</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bedrijven nu vaak een last onder dwangsom krijgen na geconstateerde illegale lozingen van zeer zorgwekkende stoffen;</al>
+            <al>constaterende dat de Omgevingswet op dit moment geen wettelijke grondslag kent om een bestuurlijke boete op te leggen bij dergelijke gevaarlijke lozingen;</al>
+            <al>verzoekt de regering om te onderzoeken of het opnemen van de mogelijkheid om een bestuurlijke boete op te leggen bij illegale lozingen een effectief middel is voor omgevingsdiensten om strenger op te treden tegen deze lozingen;</al>
+            <al>verzoekt de regering om de resultaten van het onderzoek en mogelijkheid tot de invoering van een bestuursboete voor het kerstreces van 2024 aan de Kamer te doen toekomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Gabriëls</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

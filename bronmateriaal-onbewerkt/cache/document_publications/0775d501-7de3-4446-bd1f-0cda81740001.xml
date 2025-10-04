@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-476/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">476</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN STOFFER EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat met het onderwijsveld is afgesproken dat een evaluatie plaatsvindt van de structuur, de interventies en de effecten van de onderwijsregio's, om op basis daarvan te besluiten over de implicaties voor het vervolgproces;</al>
+            <al>constaterende dat in het onderwijs zorgen bestaan over de vraag of de nieuwe bestuurlijke structuur van de onderwijsregio's daadwerkelijk de beoogde bijdrage gaat leveren aan het bestrijden van het lerarentekort en dat daarom een onafhankelijke evaluatie op basis van een degelijke beleidstheorie van groot belang is;</al>
+            <al>verzoekt de regering in samenspraak met het onderwijsveld zo snel mogelijk duidelijkheid te bieden over de kaders en de tijdlijn van een onafhankelijke evaluatie van de effectiviteit en doelmatigheid van de onderwijsregio's,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36197-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 197</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet verbod op kolen bij elektriciteitsproductie en de Wet van 7 juli 2021 tot wijziging van de Wet verbod op kolen bij elektriciteitsproductie in verband met beperking van de CO<inf>2</inf>-emissie (vroegtijdige intrekking productiebeperking, wijziging delegatiegrondslag kolenfonds en drie verbeteringen uitvoering productiebeperking)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat de meeste banen zullen verdwijnen of veranderen in bedrijven die sterk leunen op fossiele energiebronnen;</al>
+              <al>van mening dat werknemers die hun baan verliezen door klimaatbeleid ondersteuning verdienen;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering onderzoek te doen naar het oprichten van een fonds dat voortbouwt op het al bestaande Kolenfonds dat:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>budget biedt voor om-, bij- en herscholing voor elke individuele werknemer die zijn of haar baan verliest als gevolg van de energietransitie;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voldoende tijd en budget voorziet voor professionele begeleiding naar ander werk;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ingezet kan worden om de overstap te maken van de ene sector naar de andere;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ruimte biedt voor een langdurige extra financiële aanvulling bij het aanvaarden van een lager betaalde baan;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ruimte biedt voor omgang met pensioenopbouw of maatwerkregelingen voor oudere werknemers;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>rekening houdt met de sectorale en regionale voorkeur van de werknemer;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>bestuurd en uitgevoerd wordt door sociale partners;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>aangevuld wordt door twee partijen: het Rijk en bedrijven,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

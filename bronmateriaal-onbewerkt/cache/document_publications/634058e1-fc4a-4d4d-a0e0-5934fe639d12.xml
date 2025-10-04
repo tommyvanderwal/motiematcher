@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31765-894/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 765</dossiernr>
+      </dossiernummer>
+      <titel>Kwaliteit van zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">894</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er grote verschillen bestaan tussen ziekenhuizen als het gaat om de uitkomsten van medische behandelingen;</al>
+            <al-groep>
+              <al>overwegende dat het voor patiënten en verwijzers van belang is om inzicht te hebben in die verschillen;</al>
+              <al>overwegende dat het proces om dit inzicht mogelijk te maken al vele jaren stuit op weerstand en belemmeringen;</al>
+            </al-groep>
+            <al>verzoekt de regering om met een plan concreet te maken hoe en op welke termijn transparantie van kwaliteit stap voor stap inzichtelijk wordt, en hiermee aan de slag te gaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tielen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

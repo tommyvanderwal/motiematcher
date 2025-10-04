@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33009-152/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 009</dossiernr>
+      </dossiernummer>
+      <titel>Innovatiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">152</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet vasthoudt aan de doelstelling om 3% van het bbp uit te geven aan research and development, aan onderzoek en innovatie;</al>
+            <al>constaterende dat Nederland deze doelstelling met 2,08% aan R&amp;D-investeringen van het bbp in 2023 nog steeds niet haalt;</al>
+            <al>constaterende dat de Adviesraad voor wetenschap, technologie en innovatie aangeeft dat het voorgenomen beleid niet voldoende is om de norm van 3% te halen;</al>
+            <al>verzoekt de regering om in de Voorjaarsnota met een plan en zo nodig aanvullende middelen te komen om de 3%-norm wél te gaan halen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

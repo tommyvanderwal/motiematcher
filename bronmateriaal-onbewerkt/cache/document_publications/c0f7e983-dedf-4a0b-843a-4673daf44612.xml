@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35207-90/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 207</dossiernr>
+      </dossiernummer>
+      <titel>China</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">90</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Oeigoeren momenteel op grote schaal gedwongen worden tot het verrichten van arbeid onder het regime van China;</al>
+            <al>overwegende dat het van belang is om de schaal van de producten die voortkomen uit deze dwangarbeid in kaart te brengen;</al>
+            <al>verzoekt de regering bij de Europese Commissie te bepleiten om in EU-verband monitoring en rapportage in te stellen voor beter zicht op de import van producten die voortkomen uit de dwangarbeid door Oeigoeren in China;</al>
+            <al-groep>
+              <al>verzoekt de regering om bij de Europese Commissie te pleiten voor maatregelen voor het weren van producten die tot stand zijn gekomen met Oeigoerse dwangarbeid binnen de implementatie van de Anti-dwangarbeidverordening, en hierbij de Europese Commissie te wijzen op de</al>
+              <al>lijst van organisaties op de Uyghur Forced Labor Prevention Act Entity List,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

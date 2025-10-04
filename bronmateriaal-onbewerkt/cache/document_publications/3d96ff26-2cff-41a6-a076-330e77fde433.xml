@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33047-36"/>
+      <meta name="OVERHEIDop.ondernummer" content="36"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33047"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Nispen over sluiproutes voor financiering van politieke partijen zo goed mogelijk dichten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Bestuur en bestuurlijke inrichting"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.title" scheme="" content="Bestuur en bestuurlijke inrichting; Motie; Motie van het lid Van Nispen over sluiproutes voor financiering van politieke partijen zo goed mogelijk dichten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 047</dossiernr>
+         </dossiernummer>
+         <titel>Bestuur en bestuurlijke inrichting</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">36</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LIDVAN NISPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-21">21 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat de Wet financiering politieke partijen (Wfpp) veel mazen en geitenpaadjes bevat die het mogelijk maken om aanzienlijke geldbedragen te doneren aan politieke partijen;</al>
+                  <al>overwegende dat dit indruist tegen het doel van de wet, namelijk het voorkomen van oneerlijke beïnvloeding door grote geldschieters;</al>
+                  <al>overwegende dat de in de Wfpp gestelde regels over de financiering van politieke partijen vrijwel integraal zouden worden overgenomen in de nieuwe nog te behandelen Wet politieke partijen (Wpp);</al>
+                  <al>verzoekt de regering met aanvullende voorstellen te komen om de sluiproutes voor de financiering van politieke partijen zo veel en zo goed mogelijk te dichten en dit (bij nota van wijziging) nog op te nemen in het wetsvoorstel,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Nispen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

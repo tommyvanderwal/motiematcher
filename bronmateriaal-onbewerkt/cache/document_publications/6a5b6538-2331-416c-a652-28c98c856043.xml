@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36502-5/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 502</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van het lid Inge van Dijk over bescherming van de rechten van belastingbetalers en toeslagontvangers</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">5</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-03-17">17 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er belangrijke stappen worden gezet in de verbetering van de fiscale rechtsbescherming van inwoners en ondernemers, maar dat die voor veel mensen nog onvoldoende laagdrempelig beschikbaar is;</al>
+            <al>overwegende dat juist voor mensen die in juridische procedures met de Belastingdienst of Dienst Toeslagen terecht kunnen komen, voldoende laagdrempelige gespecialiseerde fiscale rechtsbijstand beschikbaar moet zijn;</al>
+            <al-groep>
+              <al>verzoekt de regering te onderzoeken of en hoe een toevoeging voor</al>
+              <al>rechtsbijstand kan worden uitgebreid naar fiscaal adviseurs, mits aangesloten bij een beroepsvereniging, om het aanbod van rechtsbijstand in fiscale procedures te vergroten en verbeteren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

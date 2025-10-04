@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29517-268/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 517</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheidsregio’s</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">268</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Kamer de wens heeft uitgesproken om PTSS bij de brandweer als landelijk erkende beroepsziekte aan te merken;</al>
+            <al>overwegende dat men over de praktische invulling hiervan nog in overleg is met de veiligheidsregio's;</al>
+            <al>constaterende dat brandweerlieden met PTSS momenteel geconfronteerd worden met kortingen op inkomen, medische kosten en bijvoorbeeld de kosten voor een nieuw rijbewijs, zolang er geen regeling is;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te waarborgen dat in de uitkomst van de onderhandelingen over PTSS bij de brandweer, inclusief de erkenning als beroepsziekte, ook de gevolgen voor het inkomen en de kosten (zoals medische kosten en de kosten van een rijbewijs) worden meegenomen, en dat er een passende regeling wordt getroffen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zolang er geen definitieve regeling is, in overleg met de veiligheidsregio's ervoor te zorgen dat de genoemde kortingen en kosten niet ten laste komen van brandweerlieden met PTSS, en hen rechtvaardig en zorgzaam te behandelen,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Mutluer</al>
+              <al>Boswijk</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

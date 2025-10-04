@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36708-23"/>
+      <meta name="OVERHEIDop.ondernummer" content="23"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36708"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kouwenhoven c.s. over fundamentele beleidskeuzes voor de hervormingsagenda van het belasting- en toeslagenstelsel"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Kouwenhoven"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toeslagen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Toeslagen; Motie; Motie van het lid Kouwenhoven c.s. over fundamentele beleidskeuzes voor de hervormingsagenda van het belasting- en toeslagenstelsel"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Sociale zekerheid | Gezin en kinderen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 708</dossiernr>
+         </dossiernummer>
+         <titel>Toeslagen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">23</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOUWENHOVEN C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het huidige toeslagenstelsel nog altijd leidt tot grote onzekerheid, hoge terugvorderingen en problematische schulden, waardoor veel mensen ernstig in de knel komen;</al>
+                  <al>constaterende dat het stelsel op korte termijn niet kan worden afgeschaft en we voorlopig nog zijn aangewezen op het gebruik van toeslagen;</al>
+                  <al>overwegende dat er brede politieke en maatschappelijke steun is voor een fundamentele hervorming van het stelsel, maar dat de voortgang van deze hervorming ernstig achterblijft bij de urgentie van de situatie;</al>
+                  <al>verzoekt de regering om ondanks de demissionaire status van het kabinet uiterlijk voor het zomerreces zowel de toegezegde brief over de hervormingsagenda van het belasting- en toeslagenstelsel als de brief over proactieve dienstverlening vanuit het Ministerie van SZW aan de Kamer te sturen, en daarin concrete en fundamentele beleidskeuzes en uitgewerkte scenario's op te nemen die aantoonbaar bijdragen aan het structureel terugdringen van de noodzaak tot het gebruik van toeslagen, het verminderen van de complexiteit voor burgers, en het vergroten van inkomenszekerheid en daarmee de bestaanszekerheid,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kouwenhoven</al>
+                     <al>Vijlbrief</al>
+                     <al>Inge van Dijk</al>
+                     <al>Grinwis</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

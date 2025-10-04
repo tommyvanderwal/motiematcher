@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29509-80/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 509</dossiernr>
+      </dossiernummer>
+      <titel>Palliatieve zorg </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">80</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN JOSEPH EN AGEMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er door veel partijen cliëntprofielen zijn ontwikkeld voor de wijkverpleging en dat dit in een experimenteerfase zit;</al>
+            <al>constaterende dat cliëntprofielen bedoeld zijn als een stap richting populatiebekostiging;</al>
+            <al>overwegende dat niet alle zorgorganisaties die wijkverpleging leveren positief zijn over de cliëntprofielen;</al>
+            <al>overwegende dat niet duidelijk is of de cliëntprofielen leiden tot een vermindering van registratielast, betere passende zorg opleveren, goedkoper zijn en het afschalen van zorg stimuleren;</al>
+            <al>verzoekt de Minister om cliëntprofielen niet verplicht te stellen zolang er geen bewijsvoering is voor verbetering van zorg op bovenstaande punten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Agema</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

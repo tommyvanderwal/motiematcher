@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KAMMINGA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet de afhankelijkheid van maatschappelijke organisaties van BHO-financiering wil verminderen, via verhoging van het drempelcriterium van 25% naar 50%;</al>
+            <al>overwegende dat Nederland veel maatschappelijke organisaties heeft met relevante kennis en expertise op onderwerpen zoals SRGR, vrouwenrechten en lhbtiq+-rechten en lokale ngo's erg afhankelijk zijn van deze kennis en expertise;</al>
+            <al>constaterende dat het voor maatschappelijke organisaties die hun meerwaarde primair hebben in het delen van kennis en expertise minder voor de hand ligt om private middelen aan te trekken;</al>
+            <al>verzoekt de regering om bij organisaties die vanuit kennis en expertise hun meerwaarde kunnen leveren maar niet voldoen aan de 50%-norm, maatwerk toe te passen zodat ze wel aanspraak kunnen blijven maken op de middelen uit het subsidiekader;</al>
+            <al>verzoekt de regering voorts om de insteek om vooral met lokale organisaties te werken niet als hard criterium te hanteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kamminga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

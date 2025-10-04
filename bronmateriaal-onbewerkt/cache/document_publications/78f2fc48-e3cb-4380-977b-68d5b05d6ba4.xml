@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-187/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">187</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er naar aanleiding van de motie Boswijk c.s. over de agrarische praktijktoets inmiddels negen praktijktoetsen zijn gedaan;</al>
+            <al>overwegende dat de agrarische praktijktoets voor belangrijke regelgeving standaard ingezet zou moeten worden, maar dat dit nog niet geheel vanzelfsprekend is;</al>
+            <al>constaterende dat onder andere het proactief werven van deelnemers een punt is waarop de praktijktoets kan worden verbeterd;</al>
+            <al>verzoekt de regering samen met de betrokken sectoren een evaluatie van het uitvoeren van de agrarische praktijktoets uit te voeren, en de Kamer voor het einde van 2025 te informeren over de uitkomsten van de evaluatie en over concrete voorstellen om het toepassen van de agrarische praktijktoets te verbeteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Flach</al>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29861-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 861</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmigratie en sociale zekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatscommissie Demografische Ontwikkelingen 2050 terecht zorgen uit over de druk die de komst van arbeidsmigranten legt op sociale voorzieningen;</al>
+            <al>constaterende dat deze lasten nu niet in beeld worden gebracht bij de mogelijke vestiging van een groot bedrijf;</al>
+            <al>constaterende dat hoewel Nederland niet zonder de inzet van arbeidsmigranten kan, het onwenselijk is dat de baten hiervan vaak voor de werkgever zijn, maar de lasten voor de samenleving;</al>
+            <al>constaterende dat de bedrijfseffectrapportage een instrument is dat de druk op sociale voorzieningen in beeld brengt, maar dat dit instrument nu vrijwel nooit wordt ingezet en de uitkomsten ervan veel te vrijblijvend zijn;</al>
+            <al>verzoekt de regering om bij het onderzoek naar de doorontwikkeling van de effectrapportage ook te kijken naar het verplicht stellen van de rapportage bij de vestiging van elk bedrijf met een omvang van ten minste 2.000 vierkante meter,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Podt</al>
+              <al>Inge van Dijk</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

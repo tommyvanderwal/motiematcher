@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31293-814"/>
+      <meta name="OVERHEIDop.ondernummer" content="814"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31293"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Haage over de bezuinigingen op de onderwijskansenregeling en het Masterplan basisvaardigheden schrappen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.W. Haage"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Primair Onderwijs"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Primair Onderwijs; Motie; Motie van het lid Haage over de bezuinigingen op de onderwijskansenregeling en het Masterplan basisvaardigheden schrappen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Basisonderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Overige vormen van onderwijs"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 293</dossiernr>
+         </dossiernummer>
+         <titel>Primair Onderwijs</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">814</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID HAAGE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat dit kabinet in één donkere nacht naast de geplande 1,1 miljard aan bezuinigingen op onderwijs, ook op de volledige onderwijskansenregeling van 177 miljoen heeft bezuinigd en 50 miljoen op het Masterplan basisvaardigheden heeft bezuinigd;</al>
+                  <al>overwegende dat dit leidt tot grotere klassen, het wegvallen van huiswerkbegeleiding, het ontslag van docenten en ondersteuners, het wegvallen van schoolspullen voor kinderen van wie de ouders die niet kunnen betalen, meer thuiszitters en een grotere druk op de jeugdzorg;</al>
+                  <al>overwegende dat deze harde bezuinigingen vooral kinderen treffen in het praktijkonderwijs en het vmbo, en dat de kosten door individuele en maatschappelijke schade op lange termijn vele malen hoger zijn;</al>
+                  <al-groep>
+                     <al>spreekt uit dat dit kabinet scholen en kwetsbare leerlingen aan hun lot</al>
+                     <al>overlaat, en dat het immoreel en onacceptabel is om zonder inhoudelijke onderbouwing te bezuinigen op de onderwijskansenregeling en het Masterplan basisvaardigheden;</al>
+                  </al-groep>
+                  <al>verzoekt de regering om de bezuinigingen vanaf 2027 op de onderwijskansenregeling en het Masterplan basisvaardigheden te schrappen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Haage</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

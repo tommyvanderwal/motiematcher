@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30950-499"/>
+      <meta name="OVERHEIDop.ondernummer" content="499"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30950"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Nispen en Tseggai over overheidsinstanties stimuleren om CBS-data te gebruiken bij onderzoek naar discriminatie"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Tseggai"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Racisme en Discriminatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Racisme en Discriminatie; Motie; Motie van de leden Van Nispen en Tseggai over overheidsinstanties stimuleren om CBS-data te gebruiken bij onderzoek naar discriminatie"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 950</dossiernr>
+         </dossiernummer>
+         <titel>Racisme en Discriminatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">499</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN NISPEN EN TSEGGAI</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de overheidsinstellingen doorgaans geen zicht hebben op het effect van besluitvormingsprocessen op wettelijk beschermde groepen en dat compensatieprogramma's voor discriminerende overheidsprocessen de staat reeds meerdere honderden miljoenen hebben gekost;</al>
+                  <al>overwegende dat de overheidsinstellingen via het Centraal Bureau voor de Statistiek reeds toegang hebben tot gegevens om datastudies te verrichten naar non-discriminatie;</al>
+                  <al>overwegende dat de overheidsinstellingen zelden data over bijvoorbeeld herkomst- en geboorteland opvragen, waardoor methodologische kennis, kunde en data van het CBS onbenut blijven, terwijl aan de hand van data-analyses ten aanzien van deze gronden ongelijke behandeling in gelijke gevallen gedetecteerd kan worden, hetgeen nuttig is om van te leren en om discriminatie te voorkomen;</al>
+                  <al>verzoekt de regering overheidsinstanties te stimuleren om voor de ontwikkeling en evaluatie van besluitvormingsprocessen gebruik te maken van data van het CBS of soortgelijke interne data om te onderzoeken en te signaleren of er sprake is van discriminatie en om dit te voorkomen, waarbij gemaakt indirect onderscheid aan de hand van deze statistieken objectief gerechtvaardigd dient te worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Nispen</al>
+                     <al>Tseggai</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

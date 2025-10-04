@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-128/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">128</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER </titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat een (extern) pluriform medialandschap essentieel is voor het functioneren van onze democratische rechtsstaat;</al>
+            <al>overwegende dat, daar 70% van de journalisten er werkzaam is, private en commerciële aanbieders aan die pluriformiteit een onmisbare bijdrage leveren;</al>
+            <al>constaterende dat de voorgenomen uitbreiding bij de NPO van de online advertentiemogelijkheden de NPO tot een concurrent kan maken van de private en commerciële nieuwsaanbieders en het voortbestaan van deze aanbieders onder druk kan zetten;</al>
+            <al>constaterende dat deze uitbreiding daarmee ook de voor onze rechtsstaat essentiële pluriformiteit van het medialandschap onder druk zet;</al>
+            <al>verzoekt de regering zo op te treden dat de Nederlandse Publieke Omroep een reclameluw bestel blijft en dat de online advertentieruimte ervan niet open wordt gesteld voor commerciële adverteerders,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

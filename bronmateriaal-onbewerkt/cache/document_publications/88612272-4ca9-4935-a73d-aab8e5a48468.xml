@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-159/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">159</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TJEERD DE GROOT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het van belang is om de uitdagingen in de landbouw zoals verdienvermogen, natuurherstel en klimaatverandering gezamenlijk aan te gaan;</al>
+            <al>overwegende dat er nog weinig bekend is van de voordelen van kringlooplandbouw voor de uitstoot van CO<inf>2</inf> en methaan;</al>
+            <al>overwegende dat kringloopwaardig veevoer voornamelijk uit voor mensen niet-eetbare reststromen bestaat;</al>
+            <al>overwegende dat er potentieel veel klimaatwinst te behalen valt bij het circulair inrichten van de Nederlandse landbouw;</al>
+            <al>verzoekt de regering een onderzoek te doen naar de potentiële klimaatwinst van kringlooplandbouw op nationaal niveau voor wat betreft varkens en kippen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tjeerd de Groot</al>
+              <al>Van Campen</al>
+              <al>Bromet</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

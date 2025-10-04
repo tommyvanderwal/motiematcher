@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-697/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">697</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID NIJHOF TER VERVANGING VAN DIE GEDRUKT ONDER NR. 693</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat het gebruik van gewasbeschermingsmiddel glyfosaat onder druk</al>
+              <al>staat door mogelijke schade voor de volksgezondheid;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat cijfers van CBS aantonen dat 93% van het glyfosaat afkomstig is uit</al>
+              <al>riool- en waterzuivering en 7% vanuit de landbouwsector;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat onderzoek laat zien dat afbraakproducten van glyfosaat mogelijk ook</al>
+              <al>via wasmiddelen e.d. in het water komen;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat het belangrijk is bij gezondheidsrisico’s de oorzaak en bron te</al>
+              <al>achterhalen en erop te anticiperen;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering te onderzoeken wat de bron is van 93% glyfosaat in de</al>
+              <al>Nederlandse riool- en waterzuivering,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Nijhof</al>
+              <al>Claassen</al>
+              <al>Boutkan</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

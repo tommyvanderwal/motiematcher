@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-26643-1420"/>
+      <meta name="OVERHEIDop.ondernummer" content="1420"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="26643"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Six Dijkstra c.s. over in de begrotingscyclus terugkerend rapporteren over de gestegen IT-licentiekosten binnen de verschillende departementen (t.v.v. 26643-1407)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Koekkoek"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Informatie- en communicatietechnologie (ICT)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Informatie- en communicatietechnologie (ICT); Motie (gewijzigd/nader); Gewijzigde motie van het lid Six Dijkstra c.s. over in de begrotingscyclus terugkerend rapporteren over de gestegen IT-licentiekosten binnen de verschillende departementen (t.v.v. 26643-1407)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>26 643</dossiernr>
+         </dossiernummer>
+         <titel>Informatie- en communicatietechnologie (ICT)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1420</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID SIX DIJKSTRA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1407</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat techreuzen monopoliewerking en vendor lock-ins gebruiken om de Nederlandse overheid aan zich binden, waarna ze na verloop van tijd de licentiekosten van hun software buitenproportioneel laten stijgen,</al>
+                  <al>overwegende dat de jaarlijkse stijging van IT-licentiekosten binnen de overheid de belastingbetaler bakken met geld kost,</al>
+                  <al>verzoekt de regering om in samenspraak met Financiën te onderzoeken hoe in de begrotingscyclus terugkerend gerapporteerd kan worden over de gestegen IT-licentiekosten binnen de verschillende departementen, en daarbij inzichtelijk te maken wat de grootste IT-afhankelijkheden binnen het Rijk zijn, zodat de Kamer dit effectief kan controleren</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Six Dijkstra</al>
+                     <al>Kathmann</al>
+                     <al>Koekkoek</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-08-948/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>08</raadnr></dossiernummer>
+      <titel>Milieuraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">948</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN OLGER VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het verbeteren van bodemgezondheid van belang is, maar dat bodems niet grensoverschrijdend zijn en maatregelen om de bodemkwaliteit te verbeteren alleen effectief zijn als ze rekening houden met de lokale omstandigheden;</al>
+            <al>van mening dat de competentie om invulling te geven aan bodemgezondheid daarom zo veel mogelijk op lidstaatniveau moet liggen en dat de Bodemrichtlijn lidstaten zo veel mogelijk flexibiliteit moet bieden en geen bindende doelstellingen dient te bevatten, aangezien dat ons land verder op slot zou kunnen zetten;</al>
+            <al>overwegende dat in belangrijke mate aan de Nederlandse wensen tegemoet is gekomen, maar dat het eindvoorstel dat in de Milieuraad wordt voorgesteld een delicaat compromis is;</al>
+            <al>verzoekt de regering zich tijdens de triloogfase in te blijven zetten om de Bodemmonitoringsrichtlijn zo veel als mogelijk in te richten met nationale flexibiliteiten en te voorkomen dat er nu of in de toekomst bindende doelstellingen aan de richtlijn worden toegevoegd en om ervoor te zorgen dat de compensatie niet als verplichting terugkomt, en het «no net land take»-principe en het «one out, all out»-principe geschrapt blijven;</al>
+            <al>verzoekt de regering zo nodig na de triloog tegen de richtlijn te stemmen indien het voorstel bindende doelstellingen bevat of onvoldoende flexibel is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Olger van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-43/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">43</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris Openbaar Vervoer en Milieu herhaaldelijk heeft geweigerd afstand te nemen van de racistische uitspraak «minder, minder Marokkanen» en zelfs in zijn functie als Staatssecretaris aangaf hier privé achter te staan;</al>
+            <al>constaterende dat de Staatssecretaris slechts na druk van de premier zijn eerdere uitspraken publiekelijk heeft ingetrokken, maar dat dit op geen enkele manier getuigt van oprechte spijt of verandering van inzicht;</al>
+            <al>overwegende dat een Staatssecretaris die zich niet openlijk distantieert van racistische uitspraken en geen blijk geeft van respect voor alle burgers, niet het vertrouwen verdient van de samenleving;</al>
+            <al>constaterende dat de Minister van Infrastructuur en Waterstaat eveneens discriminerende en xenofobe uitspraken heeft gedaan, waaronder het beledigende en ongefundeerde beweren dat immigranten honden en katten zouden eten, en dat hij suggereerde dat vrouwen met een hoofddoek niet aan het verkeer kunnen deelnemen, omdat die hun zicht zou belemmeren;</al>
+            <al>van mening dat dergelijke uitspraken niet alleen kwetsend en polariserend zijn, maar ook in strijd met de beginselen van de democratische rechtsstaat, die iedereen gelijkwaardig behandelt, ongeacht afkomst en religie;</al>
+            <al-groep>
+              <al>overwegende dat het normaliseren van racistische, islamofobe en uitsluitende retoriek binnen het kabinet een direct gevaar vormt voor de sociale cohesie in ons land en dat het niet kan worden getolereerd dat bewindspersonen zich schuldig maken aan het aanwakkeren van haat en verdeeldheid;</al>
+              <al>zegt het vertrouwen in de Staatssecretaris Openbaar Vervoer en Milieu en de Minister van Infrastructuur en Waterstaat op,</al>
+            </al-groep>
+            <al-groep>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

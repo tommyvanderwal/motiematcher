@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36636-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 636</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van Boek 1, Hoofdstuk 10, en de Boeken 7 en 8 van het nieuwe Wetboek van Strafvordering (Tweede vaststellingswet Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN </titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-17">17 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het CJIB in de Staat van de Uitvoering de beperkte mogelijkheden voor gegevensuitwisseling als knelpunt benoemt om betalingsachterstanden bij andere overheden of bijvoorbeeld zorgpartijen te signaleren en het CJIB voorstelt te verkennen wat er nodig is om onderlinge gegevensuitwisseling mogelijk te maken;</al>
+            <al>overwegende dat meer maatwerk en betere dienstverlening ervoor kunnen zorgen dat mensen minder in problematische schulden komen en de menselijke maat in het boetebeleid een grotere rol krijgt;</al>
+            <al>verzoekt de regering te inventariseren welke wetten en andere belemmeringen in de weg staan aan effectieve gegevensuitwisseling tussen het CJIB en andere partijen, om te voorkomen dat mensen die wel willen maar niet kunnen betalen onnodig hard worden aangepakt in het tenuitvoerleggingstraject, hierover in gesprek te gaan met het CJIB en met voorstellen naar de Kamer te komen welke aanpassingen noodzakelijk zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

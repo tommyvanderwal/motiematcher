@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-VII-139"/>
+      <meta name="OVERHEIDop.ondernummer" content="139"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-VII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Six Dijkstra over uitspreken dat de eerste lezing van het wetsvoorstel over het toetsingsverbod in artikel 120 van de Grondwet vóór het verkiezingsreces wordt afgerond"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025; Motie; Motie van het lid Six Dijkstra over uitspreken dat de eerste lezing van het wetsvoorstel over het toetsingsverbod in artikel 120 van de Grondwet vóór het verkiezingsreces wordt afgerond"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">139</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SIX DIJKSTRA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Nederland het enige land in de Europese Unie is waar de Grondwet burgers geen enkele vorm van rechtsbescherming biedt tegen spijkerharde wetten;</al>
+                  <al-groep>
+                     <al>constaterende dat er binnen én buiten de politiek al jarenlang brede consensus bestaat over de noodzaak om de Grondwet toetsbaar te maken, zie daarvoor de talloze voorbeelden:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2000 – de commissie-Franken;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2006 – de Nationale Conventie;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2010 – de staatscommissie-Thomassen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2018 – de staatscommissie-Remkes;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2021 – de Venetië-Commissie;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2024 – de Staatscommissie rechtsstaat;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in 2024 – de parlementaire enquêtecommissie «Blind voor mens en recht», mede naar aanleiding van het toeslagenschandaal;</al>
+                        </li>
+                     </lijst>
+                     <al>constaterende dat het kabinet al een contourennota heeft opgesteld, waarover brede afstemming heeft plaatsgevonden met de gerechtelijke colleges, en dat deze colleges het kabinet hebben aangespoord om vaart te maken;</al>
+                  </al-groep>
+                  <al>overwegende dat bij een grondwetswijziging op een later moment een tweede lezing zal plaatsvinden, waarin het wijzigingsvoorstel verder wordt behandeld en in stemming wordt gebracht;</al>
+                  <al>spreekt uit om de eerste lezing van het wetsvoorstel tot gedeeltelijke opheffing van het toetsingsverbod in artikel 120 Grondwet ten aanzien van de klassieke grondrechten uiterlijk vóór het verkiezingsreces af te ronden, zodat na de verkiezingen de tweede lezing kan plaatsvinden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Six Dijkstra</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

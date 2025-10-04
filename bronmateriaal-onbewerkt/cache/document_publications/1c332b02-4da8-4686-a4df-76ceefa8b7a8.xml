@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-66/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">66</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE KORTE </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet heeft gekozen voor een grotere nadruk op lokaal eigenaarschap en het verhogen van de eigen bijdrage van maatschappelijke organisaties;</al>
+            <al>constaterende dat hierdoor een grote transitie plaatsvindt wat betreft de rol van Nederlandse maatschappelijke organisaties voor ontwikkelingshulp;</al>
+            <al>overwegende dat deze organisaties vaak langdurige, unieke expertise en netwerken hebben opgebouwd die bijdragen aan strategische samenwerkingen en de internationale positie van Nederland;</al>
+            <al>verzoekt de regering in de uitwerking van het nieuwe beleidskader te borgen dat de strategische kennis, stem en langdurige expertise van Nederlandse maatschappelijke organisaties ook in het nieuwe kader worden aangewend, onder andere door samenwerking en kennisuitwisseling met lokale partners te stimuleren, en na twee jaar te evalueren wat de voortgang is van het nieuwe beleidskader, inclusief de veranderende rol van de Nederlandse maatschappelijke organisaties voor ontwikkelingshulp,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Korte</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

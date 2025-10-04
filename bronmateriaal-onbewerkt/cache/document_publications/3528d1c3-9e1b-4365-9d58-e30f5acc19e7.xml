@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29826-241/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 826</dossiernr>
+      </dossiernummer>
+      <titel>Industriebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">241</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nu geen strategisch plan ligt om het gelijke speelveld voor de Nederlandse industrie binnen de Europese markt te herstellen;</al>
+            <al>overwegende dat Nederlandse industrie omvalt of vertrekt wanneer het gelijke speelveld niet op zeer korte termijn wordt hersteld;</al>
+            <al>verzoekt de regering om in overleg met onze buurlanden en Frankrijk een plan van aanpak vast te stellen om het gelijke speelveld voor de Nederlandse industrie te herstellen, met daarin in ieder geval een deltaplan om de aansluitkosten en nettarieven voor elektriciteit voor de Nederlandse industrie dichter bij die van onze buurlanden en Frankrijk te krijgen, aan te geven welke voorwaarden nog meer nodig zijn voor een gelijker speelveld op het gebied van duurzame energie en deze zo veel mogelijk in gang te zetten, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

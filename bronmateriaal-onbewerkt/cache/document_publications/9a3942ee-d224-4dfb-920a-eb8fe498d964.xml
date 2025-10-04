@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-766/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">766</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-26">26 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er behoefte is aan een evenwichtig curriculum met een beheersbare hoeveelheid concrete doelen waarin overladenheid zo veel als mogelijk wordt teruggedrongen;</al>
+            <al>overwegende dat ervoor is gekozen de leergebieden Nederlands en wiskunde/rekenen eerst te ontwikkelen en te beproeven, waardoor een integrale afweging van voldoende geladenheid dan wel overladenheid op dit moment lastig is te maken terwijl dat wel wenselijk is;</al>
+            <al>overwegende dat we zo weinig mogelijk vertraging op willen lopen, omdat het veld echt toe is aan een nieuw curriculum en dat ook duidelijk heeft aangegeven;</al>
+            <al>constaterende dat het aantal kerndoelen op dit moment al flink lijkt te zijn gestegen en nog veel groter dreigt te worden als alle leergebieden straks zijn ontwikkeld, waardoor de samenhang en focus op lezen, schrijven en rekenen uit het oog verloren raken;</al>
+            <al>verzoekt de regering een spoedopdracht terugdringen overladenheid curriculum aan SLO te geven om binnen vier maanden te komen tot een aangescherpt curriculum met een reductie van het aantal kerndoelen bij Nederlands en rekenen/wiskunde, en de andere leergebieden nadat ze beproefd zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Soepboer</al>
+              <al>Kisteman</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-44/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">44</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VEDDER EN HOLMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het regeerprogramma onderzoek is aangekondigd naar het bieden van meer mogelijkheden aan producenten- of brancheorganisaties voor het algemeen verbindend verklaren van collectieve afspraken, en naar de wenselijkheid van productschappen 2.0;</al>
+            <al>constaterende dat de taken van producenten- en brancheorganisaties momenteel in de praktijk smaller zijn ingevuld dan volgens de Europese verordening mogelijk is;</al>
+            <al>overwegende dat er daardoor momenteel eerder sprake is van een «nationale kuil» dan van een «nationale kop» als het gaat om instrumenten voor collectiviteit in de agrarische sector;</al>
+            <al>overwegende dat de uitvoeringskracht van de landbouw zou worden vergroot door de mogelijkheden voor erkende producenten- en brancheorganisaties te versterken door deze in lijn te brengen met de opties die de Europese verordening en de Nederlandse Regeling producenten- en brancheorganisaties biedt;</al>
+            <al>verzoekt de regering zo snel mogelijk met maatregelen te komen voor het versterken van de uitvoeringskracht van de landbouw door de huidige PO's en BO's te versterken door de toepassing in de praktijk beter aan te laten sluiten op de mogelijkheden die de Europese regelgeving biedt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3078/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3078</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER BURG C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-13">13 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de door Rwanda gesteunde M23-rebellengroep oprukt in Oost-Congo en de ambitie uitspreekt om ook andere delen van het land te bezetten;</al>
+            <al>constaterende dat het offensief al duizenden doden en honderdduizenden ontheemden heeft veroorzaakt, met een verdere escalatie in het vooruitzicht;</al>
+            <al>overwegende dat een aanzienlijk deel van de verhandelde grondstoffen met Rwanda uit Congo afkomstig is, terwijl directe handel met Congo wordt belemmerd door gebrekkige infrastructuur en een ongunstig zakelijk klimaat;</al>
+            <al>verzoekt de regering tijdens de Raad Buitenlandse Zaken te pleiten voor gerichte sancties tegen Rwandese betrokkenen bij M23;</al>
+            <al>verzoekt de regering in EU-verband te onderzoeken hoe Congo gesteund kan worden tegen M23 en te verkennen of investeringen in Congo wenselijk zijn om directe grondstoffenhandel op termijn mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Burg</al>
+              <al>Boswijk</al>
+              <al>Dobbe</al>
+              <al>Paternotte</al>
+              <al>Ceder</al>
+              <al>Piri</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

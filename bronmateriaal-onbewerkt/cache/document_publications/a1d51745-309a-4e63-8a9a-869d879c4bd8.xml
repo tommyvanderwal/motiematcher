@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34324-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 324</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Wet openbare manifestaties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland op 4 mei twee minuten stil is bij de nationale dodenherdenking;</al>
+            <al>constaterende dat gedurende de nationale herdenking 15 augustus 1945, en de Nationale Holocaustherdenking op de laatste zondag van januari op verschillende locaties een minuut stilte in acht wordt genomen;</al>
+            <al>overwegende dat deze herdenkingen door het hele land gehouden worden en overal waardig en respectvol moeten verlopen;</al>
+            <al>verzoekt de regering de drie nationale herdenkingen beter te beschermen tegen ordeverstoringen, bijvoorbeeld door de twee minuten stilte in heel Nederland tijdens nationale dodenherdenking op 4 mei als beschermd moment in de tijd aan te merken, zodat herdenken op dat moment boven demonstreren gaat en de Wet openbare manifestaties met oog hierop te verbeteren, zodat burgemeesters en de politie meer duidelijkheid en handelingsruimte krijgen om verstoring door demonstranten te voorkomen en indien nodig snel in te grijpen;</al>
+            <al>verzoekt de regering voorts om te onderzoeken welke andere (lokale) herdenkingen of plechtigheden ook als beschermd moment aangemerkt zouden moeten worden en welke regelgeving daarbij past,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Boswijk</al>
+              <al>Flach</al>
+              <al>Eerdmans</al>
+              <al>Michon-Derkzen</al>
+              <al>Six Dijkstra</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1441/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1441</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN THIJSSEN EN KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het subsidiebedrag van de SDE++ momenteel wordt bepaald door alleen te corrigeren voor de Europese ETS-prijs en niet voor de nationale CO2-heffing;</al>
+            <al>overwegende dat de industrie onder de nationale CO2-heffing valt, die oploopt tot € 150 per ton CO<inf>2</inf>;</al>
+            <al>constaterende dat het PBL de ETS-prijs in 2030 raamt op € 116 per ton CO<inf>2</inf> dus dat er een oversubsidie ontstaat die kan oplopen tot € 34 per ton CO<inf>2</inf>;</al>
+            <al>overwegende dat oversubsidiëring moet worden voorkomen omdat dit leidt tot verspilling van belastinggeld en een ongewenste fossiele lock-in;</al>
+            <al>verzoekt de regering bij het berekenen van de onrendabele top voor subsidieverstrekking als correctiefactor uitte gaan van de nationale CO2-heffing, wanneer deze hoger is dan de ETS-prijs,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Thijssen</al>
+              <al>Kröger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

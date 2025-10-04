@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25424-691/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 424</dossiernr>
+      </dossiernummer>
+      <titel>Geestelijke gezondheidszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">691</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in mei 2023 de motie-Mohandis c.s. is aangenomen om tot een concrete aanpak te komen voor een landelijk dekkend netwerk van laagdrempelige steunpunten zoals zelfregie- en herstelorganisaties en dat het Integraal Zorgakkoord (IZA) deze ambitie in 2025 wil realiseren;</al>
+            <al>constaterende dat het sinds het aannemen van de motie lang geduurd heeft voordat er duidelijkheid kwam voor gemeenten;</al>
+            <al>constaterende dat de SPUK-transformatiemiddelen uit het IZA, waaruit deze laagdrempelige steunpunten gefinancierd kunnen worden, alleen zijn bedoeld voor frictiekosten en niet voor structurele uitvoeringskosten, en er hierdoor onzekerheid blijft bestaan;</al>
+            <al>verzoekt de regering om er niet alleen voor te zorgen dat de ambitie voor een landelijk dekkend netwerk van laagdrempelige steunpunten gehaald wordt, maar er ook voor te zorgen dat deze steunpunten kunnen blijven bestaan door structurele financiering mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Westerveld</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

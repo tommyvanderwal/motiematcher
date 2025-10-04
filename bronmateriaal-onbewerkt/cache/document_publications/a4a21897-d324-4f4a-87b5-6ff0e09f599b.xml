@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1362/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1362</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-09">9 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet vaak heeft aangegeven dat de compensatie van de gedupeerden prioriteit heeft;</al>
+            <al>constaterende dat de regering ruim drie jaar geleden is begonnen met het herstellen van de schade in het toeslagenschandaal;</al>
+            <al>constaterende dat tot nu toe ruim 67.000 gedupeerden zich hebben gemeld en hiervan een grote groep nog niet of nog niet volledig geholpen is;</al>
+            <al>constaterende dat de voorspelde kosten van de hersteloperatie zijn opgelopen van 300 miljoen naar 7,2 miljard en verder zullen oplopen;</al>
+            <al>constaterende dat dossiers nog steeds niet goed geleverd worden, zwartgelakt zijn en dat de regering stelselmatig alle wettelijke termijnen overschrijdt;</al>
+            <al>constaterende dat het leven van een groot aantal gedupeerden nog steeds stilstaat;</al>
+            <al>spreekt uit dat de hersteloperatie op een aantal punten is vastgelopen en op een aantal punten dreigt vast te lopen;</al>
+            <al>roept het kabinet op zijn eerder gemaakte beloftes richting gedupeerden na te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Vroonhoven</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1045/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1045</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat kinderen en jongeren vaak afhankelijk zijn van diensten en voorzieningen die onder de verantwoordelijkheid van meerdere ministeries vallen, met name het Ministerie van Volksgezondheid, Welzijn en Sport en het Ministerie van Justitie en Veiligheid;</al>
+            <al>constaterende dat gebrek aan samenwerking en afstemming tussen deze ministeries kan leiden tot versnippering van beleid, waardoor de integrale ondersteuning en ontwikkeling van het kind in het gedrang komt;</al>
+            <al>van mening dat een gezamenlijke, breedgedragen visie op het kind en zijn ontwikkeling essentieel is voor het waarborgen van samenhangende en effectieve dienstverlening;</al>
+            <al>roept de regering op om te bevorderen dat het Ministerie van VWS en het Ministerie van JenV de samenwerking en samenhang tussen de programma's Hervormingsagenda Jeugd en Toekomstscenario kind- en gezinsbescherming nader intensiveert en binnen de kaders van de activiteiten regelmatig evalueert waarbij ook andere relevante ministeries betrokken worden;</al>
+            <al>verzoekt de regering in samenspraak met betrokken maatschappelijke organisaties, zorgprofessionals en vertegenwoordigers van kinderen en jongeren ervoor te zorgen dat de visie uit de programma's aansluit bij de actuele behoeften en uitdagingen van de doelgroep,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bruyning</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

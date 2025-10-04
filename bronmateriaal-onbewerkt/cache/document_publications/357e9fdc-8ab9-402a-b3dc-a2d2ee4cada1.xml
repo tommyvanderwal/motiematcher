@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1016/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1016</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet het aantal bedden in Veldzicht voor asielzoekers met ernstige psychische problemen wil afbouwen, waardoor asielzoekers met een lagere beveiligingsbehoefte sneller terechtkomen bij de reguliere ggz;</al>
+            <al>overwegende dat Veldzicht specifieke transculturele expertise heeft over deze doelgroep, maar de reguliere ggz hier nog onvoldoende op is toegerust;</al>
+            <al>overwegende dat de overgangsperiode van drie maanden te kort is voor de reguliere ggz om deze expertise op te bouwen, waardoor mogelijk gevaarlijke situaties ontstaan voor medewerkers en patiënten;</al>
+            <al>verzoekt de regering een overgangsperiode van een jaar te hanteren waarin de ggz-sector, gemeenten en financiers in samenspraak met de ministeries van JenV en VWS een plan kunnen opstellen om de nodige kennis en expertise over deze doelgroep voldoende over te kunnen dragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Lahlah</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31753-307/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 753</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsbijstand</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">307</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemiddeld 26% van de zaken binnen de gesubsidieerde rechtsbijstand een bestuursrechtelijk geschil tussen overheid en burger betreft;</al>
+            <al>van mening dat de overheid terughoudend moet zijn in het voeren van procedures tegen haar eigen burgers en de overheid ook op andere manieren geschillen met burgers kan oplossen dan wel voorkomen;</al>
+            <al>overwegende dat de Kamer al eerder dẹ wens heeft uitgesproken het aantal procedures tegen burgers terug te dringen;</al>
+            <al>overwegende dat een concreet doel voor de afname van het aantal toevoegingen als gevolg van het procedeergedrag van de overheid een verlaging van de druk op de gesubsidieerde rechtsbijstand kan bevorderen;</al>
+            <al>verzoekt de regering het aantal bestuursrechtelijke rechtszaken dat de overheid tegen burgers voert en waarin een toevoeging wordt afgegeven per 2027 met 15% te verminderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Sneller</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

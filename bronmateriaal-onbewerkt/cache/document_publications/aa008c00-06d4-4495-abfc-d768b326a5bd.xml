@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-309/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">309</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet in lijn met de aangenomen motie-Grinwis c.s. (<extref doc="kst-35334-274" soort="document" status="actief">35 334, nr. 274</extref>) en de afspraken in het hoofdlijnenakkoord overstapt naar een stikstofaanpak gebaseerd op emissie in plaats van depositie;</al>
+            <al>overwegende dat middels de aangenomen motie-Van Campen/Boswijk (<extref doc="kst-34682-135" soort="document" status="actief">34 682, nr. 135</extref>) de regering is opgeroepen om voor het verlagen van de stikstofuitstoot de kaders voor een systeem van normeren en beprijzen uit te werken langs de lijn van een emissiehandelssysteem (ETS);</al>
+            <al>overwegende dat de opgave om emissies te verminderen zeer urgent is, niet alleen vanwege de staat van de natuur en de dikke stikstofdeken, maar ook gelet op het recent afgeschafte NPLG en op het feit dat vanaf 1 maart 2025 handhaving bij PAS-melders dreigt;</al>
+            <al>verzoekt de regering in de aangekondigde stikstofbrief, die later dit jaar naar de Kamer wordt gestuurd, het emissiebeleid langs de lijnen van de aangenomen moties en de gemaakte afspraken concreet in te vullen, inclusief een tijdlijn, met name voor wat betreft de introductie van emissierechten in de agrarische sector en de vertaling naar bedrijfsspecifieke normen inzake de toelaatbare emissie van ammoniak (stikstof), methaan en lachgas (klimaat) en stikstofbodemoverschot (waterkwaliteit),</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Van Campen</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

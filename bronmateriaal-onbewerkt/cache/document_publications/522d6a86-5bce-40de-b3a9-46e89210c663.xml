@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36546-74/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 546</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Jeugdwet, de Wet marktordening gezondheidszorg en enige andere wetten teneinde te bevorderen dat jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering steeds voldoende beschikbaar zijn (Wet verbetering beschikbaarheid jeugdzorg)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">74</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN CEDER EN STOFFER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 61</titel>
+      <datumtekst>Voorgesteld 1april 2025</datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat gemeenten aangeven dat de formuleringen bij sub g en h bij artikel 2.2.3 en artikel 2.2.3a uit het ontwerpbesluit in de praktijk onvoldoende helderheid bieden over de kwaliteit, omvang en organisatie van deze jeugdhulpvormen;</al>
+            <al>overwegende dat het uitsplitsen van verschillende typen geestelijke gezondheidszorg ertoe kan leiden dat kinderen apart worden geclassificeerd en individueel behandeld, terwijl dit haaks staat op het benaderen van kinderen vanuit het sociale- en gezinssysteem;</al>
+            <al>verzoekt de regering twee jaar na inwerkingtreding in samenhang met de regio-indeling te evalueren of de geformuleerde zorgvormen in het ontwerpbesluit passend zijn;</al>
+            <al>verzoekt de regering tevens samen met gemeenten en aanbieders meer helderheid te krijgen over de definities van de gekozen zorgvormen en gemeenten te ondersteunen om bij de toegang tot specialistische jeugdhulp vast te houden aan het gezins- en contextgericht werken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

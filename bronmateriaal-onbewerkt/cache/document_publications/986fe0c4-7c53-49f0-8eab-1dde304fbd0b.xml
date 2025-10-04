@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30950-481"/>
+      <meta name="OVERHEIDop.ondernummer" content="481"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30950"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid El Abassi over maatregelen tegen vertoning van de prinsenvlag binnen en bij de vergaderzalen van de Tweede Kamer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. el Abassi"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Racisme en Discriminatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Racisme en Discriminatie; Motie; Motie van het lid El Abassi over maatregelen tegen vertoning van de prinsenvlag binnen en bij de vergaderzalen van de Tweede Kamer"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 950</dossiernr>
+         </dossiernummer>
+         <titel>Racisme en Discriminatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">481</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID EL ABASSI</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de zogeheten prinsenvlag (oranje-wit-blauw) historisch werd gebruikt door de NSB, de nationaalsocialistische beweging die collaboreerde met de nazibezetter tijdens de Tweede Wereldoorlog;</al>
+                  <al>overwegende dat deze vlag sindsdien is omarmd door extreemrechtse groepen en wordt gebruikt als symbool van nationalistische en antidemocratische stromingen;</al>
+                  <al>constaterende dat bij recente demonstraties op het Malieveld deze vlag zichtbaar werd meegedragen door personen die zich tegelijkertijd schuldig maakten aan antisemitische en racistische uitlatingen;</al>
+                  <al>constaterende dat meerdere politieke partijen in de Kamer in het verleden deze vlag hebben meegedragen of afgebeeld, ondanks de beladen historische en ideologische lading ervan;</al>
+                  <al>spreekt uit dat symbolen die verbonden zijn met fascistische en nationaalsocialistische bewegingen, zoals de zogeheten prinsenvlag, geen plaats hebben in of rond het parlement;</al>
+                  <al>verzoekt het presidium maatregelen te nemen om het gebruik en vertoon van deze vlag binnen en in de directe omgeving van de vergaderzalen van de Tweede Kamer te weren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>El Abassi</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

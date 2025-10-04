@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30950-500"/>
+      <meta name="OVERHEIDop.ondernummer" content="500"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30950"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Koops over uitspreken dat politici hun verantwoordelijkheid om uitlatingen te vermijden die voeding kunnen geven aan intolerantie serieus moeten blijven nemen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.J. Koops"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Racisme en Discriminatie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Racisme en Discriminatie; Motie; Motie van het lid Koops over uitspreken dat politici hun verantwoordelijkheid om uitlatingen te vermijden die voeding kunnen geven aan intolerantie serieus moeten blijven nemen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 950</dossiernr>
+         </dossiernummer>
+         <titel>Racisme en Discriminatie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">500</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KOOPS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het aantal meldingen van discriminatie en racisme binnen een jaar meer dan verdubbeld is;</al>
+                  <al>constaterende dat de regering mede naar aanleiding daarvan in 2025 een pakket aan maatregelen heeft getroffen ter bestrijding van discriminatie en racisme en ter bescherming van grondrechten en mensenrechten, en dat deze maatregelen nog onvoldoende effect hebben gesorteerd;</al>
+                  <al>constaterende dat tijdens de extreemrechtse Haagse rellen van 20 september dit jaar politieke leuzen werden gescandeerd;</al>
+                  <al>overwegende dat sprake is van een verharding van de bewoordingen in het maatschappelijk en politiek debat;</al>
+                  <al>overwegende dat politici een bijzondere verantwoordelijkheid hebben om uitlatingen te vermijden die voeding kunnen geven aan intolerantie en die het respect voor de gelijkwaardigheid van anderen als het fundament van een democratische en pluralistische samenleving ondergraven;</al>
+                  <al>spreekt uit deze bijzondere verantwoordelijkheid serieus te blijven nemen in daad en in woord,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Koops</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

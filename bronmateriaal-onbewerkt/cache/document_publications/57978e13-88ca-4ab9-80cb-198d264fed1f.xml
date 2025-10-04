@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28089-328/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 089</dossiernr>
+      </dossiernummer>
+      <titel>Gezondheid en milieu</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">328</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit een onderzoek van RTL blijkt dat omwonenden van dertien zware industriegebieden tot € 315 méér aan zorgkosten kwijt zijn dan de rest van het land;</al>
+            <al>constaterende dat sinds 2016 bedrijven minder ziekmakende stoffen moeten uitstoten, maar uit onderzoek blijkt dat de uitstoot van de helft van de bedrijven juist gestegen is en dat de uitstootrapportages van bedrijven niet altijd even zorgvuldig zijn;</al>
+            <al-groep>
+              <al>constaterende dat zelfs de kleinste hoeveelheden van deze stoffen schadelijk kunnen zijn voor bijvoorbeeld de hersenen van kinderen;</al>
+              <al>overwegende dat provincies aangeven dat ze extra hulpmiddelen nodig hebben voor betere toetsing;</al>
+            </al-groep>
+            <al>verzoekt de regering bij de provincies op te halen welke hulpmiddelen ze van het Rijk nodig hebben en aan de Kamer voor het einde van het eerste kwartaal van 2025 te laten weten hoe het Rijk de provincies tegemoet kan komen;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Bamenga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

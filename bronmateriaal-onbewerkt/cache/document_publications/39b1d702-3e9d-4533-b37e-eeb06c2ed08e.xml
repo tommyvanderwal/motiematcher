@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1443/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1443</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat kernenergie-exploitanten wettelijk verplicht zijn om geld in een extern fonds te parkeren wat gebruikt moet worden voor het afbreken van de activiteiten indien de kerncentrale buiten gebruik komt te staan of de exploitant failliet gaat;</al>
+            <al>overwegende dat eenzelfde situatie zich kan voordoen bij het afbreken van locaties voor Carbon Capture Storage-locaties, oftewel CO2-afvang en -opslag;</al>
+            <al>constaterende dat deze wettelijke verplichting voor een fonds niet het geval is voor Carbon Capture Storage, windmolenparken en zonneweiden;</al>
+            <al>constaterende dat zich in de nabije toekomst situaties kunnen voordoen waarin onduidelijk is wie de verantwoordelijkheid draagt voor het afbreken van CCS-locaties, windmolenparken en zonneweiden;</al>
+            <al>verzoekt de regering om in desbetreffende wetgevingen een verplichting op te nemen naar voorbeeld van de Kernenergiewet waarbij de exploitanten van CCS-locaties, windmolenparken en zonneweiden verplicht worden om geld in een extern fonds te parkeren wat alleen gebruikt kan worden voor het afbreken van locaties indien de bedrijvigheid stopt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

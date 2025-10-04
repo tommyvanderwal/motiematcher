@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22054-431/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 054</dossiernr>
+      </dossiernummer>
+      <titel>Wapenexportbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">431</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN KAMMINGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het gerechtshof in Den Haag heeft geoordeeld dat er volgens het EU Gemeenschappelijk Standpunt een dwingende weigeringsgrond was ten aanzien van de vergunning om F-35-onderdelen aan Israël te leveren;</al>
+            <al>constaterende dat het gerechtshof om deze reden de Staat heeft verboden F-35-onderdelen te leveren aan Israël, terwijl dit land vanuit buurlanden wordt aangevallen;</al>
+            <al>overwegende dat de Staat bij de vergunningverlening voor de export van militaire goederen aan bredere buitenlandpolitieke overwegingen, zoals die bijvoorbeeld kunnen spelen door oorlogssituaties, een doorslaggevend gewicht moet kunnen toekennen;</al>
+            <al>verzoekt de regering te onderzoeken op welke manier de bevoegdheid om in dergelijke bijzondere omstandigheden een eigen afweging te maken, opgenomen kan worden in het bestaande juridisch kader voor wapenexportvergunningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Kamminga.</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

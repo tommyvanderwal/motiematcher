@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-162/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">162</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WINGELAAR EN SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in het regeerprogramma goede plannen zijn opgenomen om de binding met regiogebieden in Nederland te versterken, waaronder de start van het Nationaal Programma Vitale Regio's;</al>
+            <al>overwegende dat er naast de procesgelden voor de komende drie jaar voor het Nationaal Programma Vitale Regio's nog geen structurele middelen zijn vastgesteld voor het vervolg van dit programma;</al>
+            <al>overwegende dat de Minister van BZK terecht oproept om het debat over regiogebieden niet alleen binnen de commissie Binnenlandse Zaken te voeren, maar breder te trekken naar andere commissies om er gezamenlijk voor te zorgen dat signalen uit de regionale praktijk hun weg vinden naar beleid dat in Den Haag bedacht wordt;</al>
+            <al>verzoekt de regering bewindspersonen te koppelen aan verschillende regiogebieden in Nederland, zodat bewindspersonen in de ministerraad kunnen fungeren als belangrijke schakel en ambassadeur van het desbetreffende regiogebied,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Wingelaar</al>
+              <al>Soepboer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

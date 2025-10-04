@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29325-174/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 325</dossiernr>
+      </dossiernummer>
+      <titel>Maatschappelijke Opvang </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">174</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BRUYNING EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat niet alle gemeenten een permanent geopende winteropvang hebben;</al>
+            <al>constaterende dat de criteria voor het openen van een winteropvang in gemeenten kunnen verschillen en dat gemeenten de winteropvang alleen openen bij extreme weersomstandigheden, zoals temperaturen onder het vriespunt en/of weeralarmen;</al>
+            <al>van mening dat idealiter iedere dak- en thuisloze het recht zou moeten hebben om in de winterperiode gebruik te maken van een winteropvang, ongeacht in welke gemeente zij verblijven;</al>
+            <al>verzoekt de regering in gesprek te gaan met de VNG en aan te dringen op verruimde en uniforme criteria voor het openen van de winteropvang en de koudweerregeling, en de Kamer hier bij een volgende voortgangsrapportage over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

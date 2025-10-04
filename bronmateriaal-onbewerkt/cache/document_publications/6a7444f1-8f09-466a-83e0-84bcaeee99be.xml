@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36532-6/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 532</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van het lid Kröger over «Energie met elkaar: Energiecoöperaties als hart van ons energiesysteem»</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">6</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN </titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-06-24">24 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij de tender voor IJmuiden Ver Beta energiecoöperaties achter het net hebben gevist;</al>
+            <al>overwegende dat wanneer windparken op zee in coöperatief verband worden opgezet alle Nederlanders kunnen meeprofiteren van windenergie op zee en zo ook worden betrokken bij de energietransitie;</al>
+            <al>verzoekt de regering energiecoöperaties bij deze tenders beter te ondersteunen en ervoor zorg te dragen dat er óf meer punten kunnen worden toebedeeld aan een bod met een coöperatief karakter, óf dat er ruimte wordt gereserveerd bij de uitrol van wind op zee voor coöperatieve initiatieven;</al>
+            <al>verzoekt de regering tevens de mogelijkheid te onderzoeken voor het door de overheid realiseren van een nationaal windpark op zee waarbij energiecoöperaties kunnen participeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

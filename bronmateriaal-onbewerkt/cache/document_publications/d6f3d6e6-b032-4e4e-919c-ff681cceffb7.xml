@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34682-204/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 682</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Omgevingsvisie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">204</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WIJEN-NASS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aanbod van woningen op de vrije huur- en koopmarkt vergeleken met tien jaar geleden flink is afgenomen;</al>
+            <al>constaterende dat de 50% toewijzing van woningen bij lokale woningbouwprojecten alleen mogelijk is voor burgers die wonen in dorpen en steden die zijn aangemerkt als kernbinding;</al>
+            <al>constaterende dat inwoners van dorpen en steden die geen kernverbinding zijn daardoor niet in aanmerking komen voor deze voorrangsmogelijkheden, en door het huidige tekort aan koop- en huurwoningen moeite hebben met het vinden van een woning;</al>
+            <al>overwegende dat het beleid van kernbindingen gebaseerd is op gedateerde marktomstandigheden en daardoor ondoelmatig is geworden;</al>
+            <al>verzoekt de regering om in gesprek te gaan met gemeenten en daarbij aandacht te vragen voor de toewijzing van de betreffende nieuwbouwwoningen, concreet op het punt dat gemeenten ook rekening houden met lokale woningzoekenden die geen voorrang hebben op basis van een kernbinding,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Wijen-Nass</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-226/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">226</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat buitenlandse onlinecasino's zonder vergunning in Nederland gokkers met aantrekkelijke voorwaarden lokken, zoals gunstige bonussen voor jongeren, minder restricties bij verslavingen en geen verplichte goklimieten;</al>
+            <al>constaterende dat Nederlandse gokkers die spelen bij illegale buitenlandse gokbedrijven weinig tot niet beschermd worden tegen de risico's, zoals zware schulden en gokverslavingen;</al>
+            <al>constaterende dat op Malta in 2023 een wet is aangenomen waardoor vonnissen uit andere Europese lidstaten waarin Maltese gokbedrijven worden veroordeeld om geldbedragen terug te betalen aan consumenten, niet ten uitvoer worden gelegd;</al>
+            <al>overwegende dat het onacceptabel is dat een EU-lidstaat het andere lidstaten onmogelijk maakt om te handhaven wanneer het gaat om het terugbetalen van schulden die zijn veroorzaakt door illegaal aanbod van Maltese gokbedrijven;</al>
+            <al>verzoekt de regering om direct zware maatregelen te nemen tegen buitenlandse casino's die zonder vergunning in Nederland hun diensten aanbieden aan Nederlandse spelers;</al>
+            <al>verzoekt de regering om samen met andere Europese lidstaten op te trekken om Malta aan te spreken op de recent aangenomen wet en om tekst en uitleg te vragen, en de Kamer hierover spoedig te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

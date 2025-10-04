@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-811/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">811</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN KENT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-12">12 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in onder andere Horst aan de Maas, Boxtel, Bergen op Zoom, Zandstraat, Riel en andere plekken zeer grootschalige projecten in voorbereiding zijn waar arbeidsmigranten op basis van logies op elkaar gepropt worden gehuisvest;</al>
+            <al>overwegende dat meer huisvestingslocaties leiden tot meer arbeidsmigranten;</al>
+            <al>spreekt uit dat deze ontwikkeling zeer onwenselijk is en gestopt moet worden;</al>
+            <al>verzoekt de regering om met een plan van aanpak te komen teneinde de bouw van grootschalige locaties tegen te gaan, en deze voor de SZW-begroting aan de Kamer te zenden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Kent</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33561-95"/>
+      <meta name="OVERHEIDop.ondernummer" content="95"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33561"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Peter de Groot over inzetten op zodanig strenge normen dat ten minste 80% van de huidige zoekgebieden voor windturbines op land afvalt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.C. (Peter) de Groot"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Structuurvisie Windenergie op Zee (SV WoZ)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Structuurvisie Windenergie op Zee (SV WoZ); Motie; Motie van het lid Peter de Groot over inzetten op zodanig strenge normen dat ten minste 80% van de huidige zoekgebieden voor windturbines op land afvalt"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 561</dossiernr>
+         </dossiernummer>
+         <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">95</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PETER DE GROOT</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat strenge milieu, geluids- en afstandsnormen voor windturbines op land noodzakelijk zijn om overlast en gezondheidsschade bij omwonenden te voorkomen;</al>
+                  <al>overwegende dat omwonenden al lang wachten op duidelijkheid over nieuwe normen;</al>
+                  <al>verzoekt de regering in te zetten op zodanig strenge milieu, geluids- en afstandsnormen dat ten minste 80% van de huidige zoekgebieden voor windturbines op land afvalt en turbines in de nabijheid van woonwijken worden uitgesloten, met uitzondering van turbines voor eigen opwek door (boeren)bedrijven;</al>
+                  <al>verzoekt de regering voorts dit kader voor milieu, geluids- en afstandsnormen uiterlijk in het eerste kwartaal van 2026 te publiceren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Peter de Groot</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

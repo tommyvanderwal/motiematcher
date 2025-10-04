@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1157/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1157</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KATHMANN EN SIX DIJKSTRA</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-04-22">22 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat overheden nog altijd algoritmes gebruiken om mensen te selecteren voor fraudecontroles op basis van risico-indicatoren;</al>
+            <al>constaterende dat uit artikelen 3.45 en 6.23 van de Algemene wet bestuursrecht reeds volgt dat mensen actief gewezen moeten worden op de mogelijkheid om bezwaar te maken tegen een overheidsbesluit, maar dit niet geldt voor de selectieprocedures op basis waarvan brieven en beschikkingen verstuurd worden;</al>
+            <al>overwegende dat het beschermen van grondrechten een proactieve houding vereist van overheidsorganen om zo het risico op onterechte verdachtmakingen te mitigeren en mensen zo goed mogelijk in staat te stellen zich te beroepen op hun rechten;</al>
+            <al>verzoekt de regering om de verplichting te onderzoeken dat onder elke brief en beschikking met een nadelige werking voor burgers wordt vermeld of er een selectie heeft plaatsgevonden, daarbij duidelijk te maken welke selectiecriteria zijn gebruikt, rechters te verzoeken de rechtmatigheid van de selectie ambtshalve te toetsen;</al>
+            <al>verzoekt de regering hierbij ook te onderzoeken hoe de vermelding van bezwaar- en klachtenprocedures in brieven en communicatie versterkt kan worden;</al>
+            <al>verzoekt de regering bovendien dit onderzoek gezamenlijk met de Autoriteit Persoonsgegevens uit te voeren en te betrekken bij de consultatie van de wijziging van de Algemene wet bestuursrecht, en de Kamer vóór het zomerreces te informeren over de uitkomst,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kathmann</al>
+              <al>Six Dijkstra</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

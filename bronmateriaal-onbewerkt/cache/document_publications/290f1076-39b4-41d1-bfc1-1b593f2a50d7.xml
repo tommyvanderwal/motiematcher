@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-767/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">767</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-26">26 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering in de ontwerpruimte meer plaats geeft aan het gemeenschappelijk deel, ten koste van zowel de kernprofielvakken als natuurkunde en biologie als de talen Frans en Duits, vanwege het belang van basisvaardigheden;</al>
+            <al>overwegende dat het wenselijk is dat de basisvaardigheden als burgerschap en digitale geletterdheid in álle vakken terugkomen, juist ook in de kernprofielvakken, in lijn met het advies van de wetenschappelijke Curriculumcommissie;</al>
+            <al>van mening dat het niet wenselijk is als de uren voor de profielvakken sterk afnemen ten opzichte van de huidige situatie, bijvoorbeeld vanwege de grote noodzaak voor meer technische vakmensen in onze samenleving;</al>
+            <al>verzoekt de regering de ontwerpruimte voor de kernprofielvakken in de bovenbouw te handhaven op het niveau waarbij de ontwerpruimte blijft overeenkomen met de bestaande studielast voor deze vakken, door deze gereserveerde ontwerpruimte voor burgerschap en digitale geletterdheid hier deels aan toe te wijzen en de verdeling van de studielast voor deze vakken hier logisch uit te laten volgen;</al>
+            <al>verzoekt de regering bovendien in het bijzonder aandacht te besteden aan de positie van de vakken Frans en Duits,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Pijpelink</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

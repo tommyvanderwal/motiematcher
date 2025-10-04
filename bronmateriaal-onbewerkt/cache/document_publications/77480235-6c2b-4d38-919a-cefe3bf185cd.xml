@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36755-45"/>
+      <meta name="OVERHEIDop.ondernummer" content="45"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36755"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Holman en Vedder over het ontwikkelde doelsturingsmodel opschalen (t.v.v. 36755-25)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.C. Vedder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten); Motie (gewijzigd/nader); Gewijzigde motie van de leden Holman en Vedder over het ontwikkelde doelsturingsmodel opschalen (t.v.v. 36755-25)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Bestuursrecht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 755</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">45</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN HOLMAN EN VEDDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 25</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>constaterende dat</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de reductie van de emissies van stikstof essentieel en urgent is voor het realiseren van biodiversiteits- en waterkwaliteitsdoelen.</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de noodzaak om hiertoe binnen de landbouw meer met doelsturing te gaan werken breed wordt gedragen.</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het thans ontbreekt aan een uitvoerboor, betrouwbaar, geborgd en breed gedragen doelsturingsmodel.</al>
+                        </li>
+                     </lijst>
+                     <al>overwegende dat</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in De Achterhoek honderden agrariërs, georganiseerd in agrarische verenigingen, in nauwe samenwerkring met ketenpartijen, overheden en kennisinstellingen, reeds meer dan 10 jaar doelgericht werken aan een ecologisch verantwoorde, maatschappelijk gewaardeerde en economische houdbare kringlooplandbouw,</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>deze partijen gezamenlijk in de Achterhoek al 5 jaar succesvol experimenteren met de ontwikkeling en implementatie van een regionaal doelsturingsmodel, genaamd Het Markemodel.</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>daarbij gezamenlijk geformuleerde doelen op de thema’s stikstof, waterkwaliteit, klimaat en natuur op de deelnemende bedrijven worden behaald.</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>bij een recent werkbezoek door Minister en brede landbouwafvaardiging uit deze kamer geconstateerd is dat dit model bredere steun en uitwerking verdient</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>partijen in de regio de ambitie hebben om door uitbreiding van het aantal deelnemers de vereiste milieukwaliteitsdoelen op regioniveau te realiseren</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de Achterhoek is aangewezen als een van de experimenteerregio’s van het Ministerie van LVVN</al>
+                        </li>
+                     </lijst>
+                     <al>verzoekt de regering</al>
+                     <al>– om de genoemde partijen de komende vijf jaar in de gelegenheid te stellen om het ontwikkelde doelsturingsmodel op te schalen, de effecten op regioniveau ervan aan te tonen en een eventuele landelijke implementatie voor te bereiden.</al>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Holman</al>
+                     <al>Vedder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

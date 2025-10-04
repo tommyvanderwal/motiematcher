@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-24/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">24</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ROODERKERK EN MOHANDIS</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Rijk verantwoordelijk is voor het functioneren van het hele cultuurbestel en de aanwezigheid van een adequate en complete infrastructuur in heel het land;</al>
+            <al>overwegende dat het noodzakelijk is voor een sterke regionale culturele infrastructuur dat de rijksoverheid, provincies en gemeenten zich gezamenlijk inzetten voor cultuur en hun keuzes goed op elkaar afstemmen;</al>
+            <al>overwegende dat het daarom wenselijk is om heldere afspraken te maken over wanneer het Rijk, gemeenten en provincies verantwoordelijk zijn;</al>
+            <al>overwegende dat elke regio recht heeft op een bloeiende culturele sector en toegang tot cultuur in heel Nederland geborgd dient te zijn;</al>
+            <al>verzoekt de regering in gesprek te gaan met de medeoverheden, de Raad voor Cultuur, maatschappelijke organisaties en belangenbehartigers en te onderzoeken hoe een bloeiende culturele sector in heel Nederland geborgd kan worden via een zorgplicht voor cultuur,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rooderkerk</al>
+              <al>Mohandis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

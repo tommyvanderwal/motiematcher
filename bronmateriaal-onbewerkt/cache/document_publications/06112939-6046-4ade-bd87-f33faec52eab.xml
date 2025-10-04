@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36740-VII-24"/>
+      <meta name="OVERHEIDop.ondernummer" content="24"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36740-VII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Six Dijkstra c.s. over de principes van een mensgerichte digitale overheid wettelijk verankeren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.J. van der Werf"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-30"/>
+      <meta name="DC.title" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024; Motie; Motie van het lid Six Dijkstra c.s. over de principes van een mensgerichte digitale overheid wettelijk verankeren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 740</dossiernr>
+            <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">24</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SIX DIJKSTRA C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-30">30 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>verzoekt de regering om de principes van een mensgerichte digitale overheid wettelijk te verankeren, daarbij aan te sluiten bij de aanbevelingen uit de petitie van de Hogeschool van Amsterdam, en:</al>
+                     <lijst type="expliciet" nummerbreedte="2-cijferig" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>1.</li.nr>
+                           <al>te zorgen voor uniforme regels voor briefadressen, zodat dak- en thuislozen niet op voorhand worden uitgesloten van sociale voorzieningen;</al>
+                        </li>
+                        <li>
+                           <li.nr>2.</li.nr>
+                           <al>te zorgen voor bemenste overheidsloketten, waarmee de éénloketbelofte niet alleen digitaal maar ook fysiek kan worden gerealiseerd;</al>
+                        </li>
+                        <li>
+                           <li.nr>3.</li.nr>
+                           <al>te zorgen dat taalniveau en -beheersing geen drempel zijn;</al>
+                        </li>
+                        <li>
+                           <li.nr>4.</li.nr>
+                           <al>te zorgen dat digitale loketten eenvoudig te benaderen zijn,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Six Dijkstra</al>
+                     <al>Van Nispen</al>
+                     <al>Van der Werf</al>
+                     <al>Ceder</al>
+                     <al>Kathmann</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

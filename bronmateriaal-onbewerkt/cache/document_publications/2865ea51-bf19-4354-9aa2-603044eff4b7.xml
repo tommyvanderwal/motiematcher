@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1234/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1234</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID DE HOOP C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1219</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat als er op rijksniveau geen gestandaardiseerde regelgeving rond nestvoorzieningen komt, de bouwsector te maken krijgt met 342 gemeenten die elk hun eigen regels, aantallen en afmetingen rond nestgelegenheden voorschrijven;</al>
+            <al>overwegende dat de sector zelf aangeeft dat, onderbouwd door vogeltellingen en vleermuistellingen van de afgelopen 40 jaar, het realiseren van nestgelegenheden in nieuwbouw een noodzakelijke maatregel is om de grote afname van biodiversiteit in onze steden en dorpen te keren;</al>
+            <al>overwegende dat de meerkosten voor nestvoorzieningen beperkt zijn, en niet opwegen tegen de proceskosten om per gemeente te moeten doorgronden wat de gemeentelijke regelgeving hierover schrijft en om dit per woningproject te moeten ontwikkelen, te detailleren en per gemeente in te moeten bouwen, en landelijke standaardisering middels het BBL de sleutel naar kostenbesparing is;</al>
+            <al>overwegende dat door diezelfde standaardisering nestvoorzieningen snel en efficiënt in industrieel vervaardigde coneptwoningen kunnen worden opgenomen;</al>
+            <al>verzoekt de regering om nestgelegenheden niet uit het Besluit Bouwwerken Leefomgeving te halen en zo spoedig mogelijk de opname van specifieke voorschriften voor nestgelegenheden voor vleermuizen, gierzwaluwen en huismussen in nieuwbouw in het Besluit Bouwwerken Leefomgeving bekend te maken en in werking te laten treden.</al>
+            <al>verzoekt de regering om met marktpartijen aan tafel te gaan en een lijst op te stellen met andere mogelijk te schrappen regels en eisen die wél zorgen voor versnelling van de woningbouw en de Kamer hierover te informeren;</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>De Hoop</al>
+              <al>Kostić</al>
+              <al>Vijlbrief</al>
+              <al>Beckerman</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

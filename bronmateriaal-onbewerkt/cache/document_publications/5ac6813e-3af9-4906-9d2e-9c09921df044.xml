@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1361/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1361</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN INGE VAN DIJK EN STULTIENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-09">9 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat 26 oktober 2023 de motie op stuk nr. <extref doc="kst-31066-1312" soort="document" status="actief">1312 (31 066)</extref> is ingediend en aangenomen met betrekking tot de trage werkwijze bij CWS;</al>
+            <al>overwegende dat hierin wordt verzocht de capaciteit van CWS binnen zes maanden opgeschaald te hebben naar vijftien dossiers per week en wanneer dit niet lukt, de capaciteit voor de ontwikkeling van de maatwerkroute in te zetten;</al>
+            <al>overwegende dat je ongekend onrecht niet oplost met bureaucratische processen, maar met mensen die in contact met mensen bereid zijn tot het komen tot oplossingen;</al>
+            <al>verzoekt de regering bij de aanstaande herinrichting van CWS deze motie als uitgangspunt te nemen, waarbij de ouders regie hebben over hun eigen proces en aannemelijkheid van het verhaal van de ouder het uitgangspunt wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31311-266/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 311</dossiernr>
+      </dossiernummer>
+      <titel>Zelfstandig ondernemerschap</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">266</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN FLACH EN AARTSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de opheffing van het handhavingsmoratorium niet meer eerst hoeft worden overgegaan tot een aanwijzing;</al>
+            <al>overwegende dat de Belastingdienst ruimte moet krijgen om de menselijke maat toe te blijven passen in het toezicht als er evident sprake is van onbewuste of onopzettelijke overtreding van de arbeidswetgeving bij opdrachtgevers of zelfstandigen;</al>
+            <al>verzoekt de regering in de handhaving coulant om te gaan met onbewust onbekwame zelfstandigen en niet direct over te gaan tot het opleggen van boetes bij deze categorie opdrachtgevers en opdrachtnemers, de toepassing hiervan te monitoren en de Kamer halfjaarlijks over de resultaten hiervan te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Aartsen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

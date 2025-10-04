@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-956/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">956</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ELLIAN EN WILDERS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer zowel het amendement op stuk nr. <extref doc="kst-36410-VI-37" soort="document" status="actief">37 (36 410 VI)</extref> als de motie op stuk nr. <extref doc="kst-36410-VI-41" soort="document" status="actief">41 (36 410 VI)</extref> over de uitbreiding van de hoogbeveiligde cellencapaciteit in Vught heeft aangenomen en de regering deze in de Voorjaarsnota 2024 verwerkt heeft;</al>
+            <al>constaterende dat het in gebruik nemen van de oude tijdelijke extra beveiligde inrichting (unit 1) tot historische en emotionele bezwaren heeft geleid;</al>
+            <al>overwegende dat vanwege diverse aanhoudingen zo spoedig mogelijk gestart moet worden met de realisatie in Vught van extra hoogbeveiligde cellen die voldoen aan het hoogste beveiligingsniveau;</al>
+            <al>overwegende dat de extra beveiligde inrichting uitgebreid kan worden door een aanbouw te realiseren waarmee ook vergaande compartimentering mogelijk is, zodat criminele kopstukken gespreid en van elkaar gescheiden kunnen worden;</al>
+            <al-groep>
+              <al>verzoekt de regering om in plaats van de oude tijdelijke extra beveiligde inrichting (unit 1) te verbouwen en in gebruik te nemen, het amendement op stuk nr. <extref doc="kst-36410-VI-37" soort="document" status="actief">37 (36 410 VI)</extref> en de motie op stuk nr. <extref doc="kst-36410-VI-41" soort="document" status="actief">41 (36 410 VI)</extref> als volgt uit te voeren:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de extra beveiligde inrichting in Vught uit te breiden met twaalf cellen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>deze uitbreiding zodanig vorm te geven dat vergaande compartimentering van vier keer drie cellen mogelijk is;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>uiterlijk het vierde kwartaal van 2026 deze uitbreiding in gebruik te nemen,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ellian</al>
+              <al>Wilders</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

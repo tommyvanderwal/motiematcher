@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36740-VII-29"/>
+      <meta name="OVERHEIDop.ondernummer" content="29"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36740-VII"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Buijsse en Kathmann over komen tot een stelsel van financiële administratie bij departementen waarin digitalisering is meegenomen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.C. Kathmann"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.R.G. Buijsse"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-30"/>
+      <meta name="DC.title" scheme="" content="Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024; Motie; Motie van de leden Buijsse en Kathmann over komen tot een stelsel van financiële administratie bij departementen waarin digitalisering is meegenomen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 740</dossiernr>
+            <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Jaarverslag en slotwet Ministerie van Binnenlandse Zaken en Koninkrijksrelaties 2024</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">29</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET DE LEDEN BUIJSSE EN KATHMANN</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-30">30 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er voor de vaste Kamercommissie voor Digitale Zaken geen begroting beschikbaar is voor de uitgaven voor digitalisering bij de hele rijksoverheid;</al>
+                  <al>overwegende dat departementen niet gestandaardiseerd bijhouden wat zij uitgeven aan digitalisering, waardoor een overzicht ook onmogelijk te creëren is;</al>
+                  <al-groep>
+                     <al>overwegende dat de Kamer hierdoor haar controlerende taak voor de rijksuitgaven op het gebied van digitalisering niet goed kan uitvoeren;</al>
+                     <al>overwegende dat er momenteel geen stelsel van afspraken is voor de financiële administratie van digitalisering bij departementen en dat het Ministerie van Financiën momenteel een programma Toekomst financiële administratie ontwikkelt;</al>
+                  </al-groep>
+                  <al>overwegende dat de Kamer de regering verzocht heeft de Kamer te informeren over de Nederlandse Digitaliseringsstrategie en dat deze kaders zou kunnen bieden voor een stelsel van regels voor financiële administratie bij departementen;</al>
+                  <al>verzoekt het kabinet vóór Prinsjesdag te onderzoeken en de Kamer te informeren of er, gebruikmakende van de NDS, tot een stelsel van regels voor de financiële administratie bij departementen gekomen kan worden waarbij digitalisering wél is meegenomen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Buijsse</al>
+                     <al>Kathmann</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

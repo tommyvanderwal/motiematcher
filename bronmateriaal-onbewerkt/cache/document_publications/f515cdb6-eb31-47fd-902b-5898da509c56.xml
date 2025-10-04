@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1648/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1648</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het gebruik van glyfosaat in verband wordt gebracht met de ziekte van Parkinson en het risico op kanker;</al>
+            <al>constaterende dat glyfosaat zeer schadelijk is voor wilde bijen en hommels, terwijl er een tekort dreigt aan bestuivers om voedselzekerheid veilig te stellen;</al>
+            <al>constaterende dat de Kamer de Minister tweemaal heeft verzocht om tegen de nieuwe Europese toelating van glyfosaat te stemmen (aangenomen moties <extref doc="kst-21501-32-1570" soort="document" status="actief">21 501-32, nr. 1570</extref> en <extref doc="kst-27858-621" soort="document" status="actief">27 858, nr. 621</extref>);</al>
+            <al>constaterende dat de Minister van LNV bij de ministerraad heeft gepleit voor een verbod op glyfosaat vanwege zorgen over het verband met parkinson;</al>
+            <al>overwegende dat de Kamer recent heeft uitgesproken dat de gezondheid van mensen en dieren en hun leefomgeving centraal moet staan in het bestrijdingsmiddelenbeleid (aangenomen motie <extref doc="kst-36476-5" soort="document" status="actief">36 476, nr. 5</extref>);</al>
+            <al>verzoekt de regering middelen met de werkzame stof glyfosaat zo veel mogelijk van de markt te halen totdat onomstotelijk bewezen is dat ze geen risico vormen voor de gezondheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

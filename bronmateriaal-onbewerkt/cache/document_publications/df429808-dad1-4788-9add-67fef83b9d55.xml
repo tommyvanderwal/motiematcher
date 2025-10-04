@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-63/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">63</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PAULUSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat door de plannen van het kabinet om het eigen risico te halveren voor alle verzekerden, de zorgpremie explosief zal stijgen boven op de al verwachte stijging;</al>
+            <al>overwegende dat veel chronisch zieken en gehandicapten niets hebben aan deze maatregel, omdat tegelijk de tegemoetkoming voor arbeidsgehandicapten wordt geschrapt en de premiestijging voor de verlaging van het eigen risico grotendeels ongedaan wordt gemaakt;</al>
+            <al>van mening dat het de toegankelijkheid van de zorg voor alle Nederlanders ten goede komt door de groep chronisch zieken en gehandicapten met een lager inkomen gericht te helpen;</al>
+            <al>verzoekt de regering om het eigen risico alleen voor chronisch zieken en gehandicapten met € 220 te verlagen door voor deze groep een regeling te treffen;</al>
+            <al>verzoekt de regering de opbrengsten hiervan te gebruiken voor een lastenverlichting die zorgt dat onder anderen zorgmedewerkers meer overhouden als zij drie dagen of meer werken, om zo de wachtlijsten terug te dringen in plaats van op te drijven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paulusma</al>
+              <al>Bikker</al>
+              <al>Koekkoek</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

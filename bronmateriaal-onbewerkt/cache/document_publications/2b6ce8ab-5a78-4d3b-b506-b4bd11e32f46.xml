@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-I-10/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>I</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van de Koning (I) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">10</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN BOOMSMA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat paleis Soestdijk in 2017 voor een symbolisch bedrag van € 1,7 miljoen is verkocht aan een particuliere partij;</al>
+            <al>constaterende dat inmiddels is gebleken dat de plannen van deze particuliere partij geen doorgang kunnen vinden, aangezien begin 2024 het bestemmingsplan door de Raad van State is vernietigd;</al>
+            <al>van mening dat het historisch erfgoed betreft met een eeuwenoude geschiedenis, dat zich goed zou lenen om een museum voor nationale geschiedenis in te vestigen;</al>
+            <al>verzoekt de regering in gesprek te gaan met de koper van paleis Soestdijk om na te gaan of het mogelijk is het paleis voor een symbolisch bedrag terug te kopen en dit indien nodig te betrekken bij de besluitvorming voor de Voorjaarsnota;</al>
+            <al>verzoekt de regering om te onderzoeken of er in dat geval een museum voor nationale geschiedenis kan worden gevestigd in paleis Soestdijk,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Boomsma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

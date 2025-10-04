@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-111/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">111</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij invoering van de vermogenstoets voor toeslagen in 2014 een overgangstermijn van tien jaar is gaan lopen voor letselschadevergoedingen van vóór 2014, die per 1 januari 2024 is verlopen;</al>
+            <al>overwegende dat mensen met zo'n letselschadevergoeding, waar zij de rest van hun leven mee moeten doen, per dit jaar ineens niet meer in aanmerking kunnen komen voor toeslagen, omdat hun vermogen te hoog zou zijn, en daarmee sterk in inkomenspositie achteruitgaan;</al>
+            <al>overwegende dat de vraag is in hoeverre zij hierop hebben kunnen anticiperen, aangezien de letselschadevergoeding op dat moment al vastlag, en de opties voor iemand met onherstelbaar letsel om aanvullend inkomen te verkrijgen beperkt zijn;</al>
+            <al>verzoekt de regering te onderzoeken wat de impact is van het aflopen van de tienjaarstermijn op de betreffende groep mensen per 1 januari 2024, en indien de uitkomsten niet proportioneel zijn, daarvoor maatregelen voor te stellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Vermeer</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

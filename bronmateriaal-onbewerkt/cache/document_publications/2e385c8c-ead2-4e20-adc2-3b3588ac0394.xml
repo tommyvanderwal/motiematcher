@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-03">3 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de opsporing door digitalisering en technologische ontwikkelingen steeds meer hoeveelheden gegevens vergaart, waar ook gegevens bij kunnen zitten van burgers die niets met criminaliteit te maken hebben;</al>
+            <al>overwegende dat het Wetboek van Strafvordering toekomstbestendig moet worden;</al>
+            <al>overwegende dat het vergaren van gegevens en het verwerken daarvan niet los van elkaar kunnen worden gezien;</al>
+            <al>overwegende dat er toekomstbestendige wet- en regelgeving moet komen voor het verwerken van uit opsporing verkregen gegevens;</al>
+            <al>overwegende dat de regering daartoe een commissie gaat instellen die met adviezen over die toekomstbestendige wet- en regelgeving moet gaan komen;</al>
+            <al>verzoekt de regering er zorg voor te dragen dat de aangepaste wet- en regelgeving voor het verwerken van opsporingsgegevens uiterlijk gelijktijdig met het nieuwe Wetboek van Strafvordering in werking treedt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

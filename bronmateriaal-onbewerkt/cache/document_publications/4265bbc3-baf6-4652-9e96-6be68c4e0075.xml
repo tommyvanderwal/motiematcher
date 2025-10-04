@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29509-89/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 509</dossiernr>
+      </dossiernummer>
+      <titel>Palliatieve zorg </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">89</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JOSEPH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog steeds zorgaanbieders zijn die in de knel komen door het contracteerbeleid, waaronder budgetplafonds en doelmatigheidseisen, vanuit de zorgverzekeraars, met zeer onwenselijke gevolgen voor mensen in de meest kwetsbare fase van hun leven die palliatieve zorg nodig hebben;</al>
+            <al>verzoekt de regering om via de NZa zorgverzekeraars te verplichten om structureel de knelpunten in de beschikbaarheid en kwaliteit van palliatieve zorg en nazorg in beeld te brengen, hierop gerichte acties te formuleren, deze acties periodiek te evalueren en waar nodig bij te stellen, en hierover jaarlijks transparant te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Joseph</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-71/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">71</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-01">1 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>constaterende dat onder meer de Ecologische Autoriteit erop wijst dat bij het monitoren en beoordelen van de ontwikkeling van de kwaliteit van Natura 2000-natuur:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een uniform monitoringssysteem ontbreekt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de aanwezigheid van typische soorten op verschillende manieren beoordeeld wordt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>beschikbare gegevens, zoals in de Nationale Databank Flora en Fauna, onvoldoende worden gebruikt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>onvoldoende inzicht gegeven wordt in de lokale, regionale bronnen van stikstofbelasting, de natuurkwaliteit op het moment van aanwijzing van een gebied en de abiotiek;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>goede landschapsecologische systeemanalyses vaak ontbreken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>onvoldoende rekenschap gegeven wordt van recente herstelmaatregelen;</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>van mening dat volledige en adequate monitoring en beoordeling van cruciaal belang is voor effectief beheer en beleid, en houdbare vergunningverlening;</al>
+            <al>verzoekt de regering op korte termijn afspraken te maken met provincies en terreinbeherende organisaties over volledige, adequate en eenduidige monitoring en beoordeling van de ontwikkeling van de natuurkwaliteit en het onderliggende ecosysteem ten opzichte van de referentiedatum, en de Kamer hierover te informeren voor het commissiedebat Stikstof, NPLG en natuur,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

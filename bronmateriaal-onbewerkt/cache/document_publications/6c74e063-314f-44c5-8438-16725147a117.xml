@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2961/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2961</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIRI EN VAN DER BURG</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Georgische verkiezingen niet vrij, noch eerlijk zijn verlopen;</al>
+            <al>overwegende dat de Georgische bevolking niet het slachtoffer mag zijn van collectieve bestraffing door de opschorting van visumliberalisering;</al>
+            <al>verzoekt het kabinet om in Europa te pleiten voor persoonsgerichte sancties tegen leden van Georgian Dream en de Georgische regering die verantwoordelijk zijn voor het verloop van de verkiezingen;</al>
+            <al>verzoekt het kabinet om extra ondersteuning te verlenen aan het Georgische maatschappelijk middenveld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Van der Burg</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

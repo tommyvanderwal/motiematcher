@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29544-1258/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 544</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1258</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN AARTSEN EN RIKKERS-OOSTERKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering zich in het regeerprogramma heeft voorgenomen om de regeldruk voor ondernemers te verminderen;</al>
+            <al>overwegende dat de re-integratieverplichting en de loondoorbetaling bij ziekte het nummer één knelpunt is voor mkb-ondernemers;</al>
+            <al-groep>
+              <al>overwegende dat het niet proportioneel is dat mkb-ondernemers gedurende de twee jaar ziekte moeten investeren in de re-integratie;</al>
+              <al>verzoekt de regering te onderzoeken hoe de regeldruk bij de re-integratieverplichting en loondoorbetaling bij ziekte voor mkb-ondernemers verlaagd kan worden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Aartsen</al>
+              <al>Rikkers-Oosterkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

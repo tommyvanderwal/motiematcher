@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29517-265/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 517</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheidsregio’s</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">265</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de regering voornemens is 10% te korten op de Brede Doeluitkering Rampenbestrijding (BDuR);</al>
+            <al>overwegende dat deze korting leidt tot een direct probleem voor de uitvoering van de brandweerzorg, crisisbeheersing en rampenbestrijding door de veiligheidsregio's;</al>
+            <al>overwegende dat de korting van 10% op de Brede Doeluitkering Rampenbestrijding (BDuR) in contrast staat met de prioriteiten van het kabinet en met de Landelijke Agenda Crisisbeheersing en deze bezuiniging een onbedoeld effect is van het regeerprogramma;</al>
+            <al>overwegende dat de slagkracht van de brandweer al geruime tijd sterk onder druk staat en deze bezuinigingen zullen leiden tot nog minder kazernes, specialistische brandweertaken en vrijwilligers en daarmee ernstige gevolgen zullen hebben voor de brandweerzorg en de veiligheid in Nederland, met name in dunbevolkte gebieden;</al>
+            <al>overwegende dat de ratio achter deze korting was dat er efficiencywinst zou zijn door de overheveling van de BDuR naar het Gemeentefonds, maar dat dit is weggevallen omdat de overheveling geen doorgang vindt;</al>
+            <al-groep>
+              <al>van mening dat deze bezuiniging onverantwoord is gezien het belang van</al>
+              <al>adequate rampenbestrijding en crisisbeheersing, mede in het licht van actuele veranderingen in de veiligheidssituatie;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering alle inspanningen te plegen om de bezuiniging van 10% op de Brede Doeluitkering Rampenbestrijding per 2026 in te trekken vanwege de grote gevolgen die dit zal hebben voor de veiligheid, ten minste de huidige financiering voor brandweer en rampenbestrijding te waarborgen, en de Kamer voor de behandeling van de Voorjaarsnota 2025 hierover te informeren,</al>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-78/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">78</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat preventie in deze kabinetsperiode wederom een speerpunt is om criminele aanwas van jongeren tegen te gaan;</al>
+            <al>constaterende dat het kabinet het programma Preventie met Gezag en het Nationaal Programma Leefbaarheid en Veiligheid doorzet;</al>
+            <al>constaterende dat dit zich vertaalt in een aanpak per wijk waarbij bijvoorbeeld in wijkteams de politie en handhavers samenwerken met (jeugd-)boa's, straatcoaches, jongerenwerkers, schoolleiding, ouders en actief betrokken buurtbewoners;</al>
+            <al>overwegende dat interventies sneller en effectiever kunnen worden ingezet als relevante informatie tijdig kan worden gedeeld tussen de betrokken partners in deze wijken;</al>
+            <al>overwegende dat de Taskforce gegevensdeling van het Ministerie van JenV vroegsignalering binnen de aanpak Preventie met Gezag als prioriteit heeft aangemerkt;</al>
+            <al>verzoekt de regering om in de halfjaarraportage ondermijning in 2025 te rapporteren over de tot dan toe behaalde resultaten van de Taskforce gegevensdeling, zodat duidelijk wordt op welke wijze partners in de wijk kunnen samenwerken en welke barrières er bestaan, om de effectieve preventieve aanpak van criminele aanwas te verbeteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Dral</al>
+              <al>Van Nispen</al>
+              <al>Diederik van Dijk</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

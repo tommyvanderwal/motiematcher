@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32849-254/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 849</dossiernr>
+      </dossiernummer>
+      <titel>Mijnbouw</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">254</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BECKERMAN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 250</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Limburgers met mijnbouwschade nog altijd wachten,</al>
+            <al>constaterende dat het kabinet in oktober 2023 heeft beloofd dat vanaf medio 2024 de zware schadegevallen behandeld zouden worden en in het najaar 2024 de complete regeling zou worden opengesteld,</al>
+            <al>voorts constaterende dat er nu opnieuw vertraging is ontstaan en er geen duidelijkheid is wanneer de schadeafhandeling start,</al>
+            <al>verzoekt de regering, niet langer te treuzelen en de Kamer in januari 2025 te informeren over de gekozen rechtsvorm zodat de schadeafhandeling opgestart kan worden,</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Teunissen</al>
+              <al>Kröger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

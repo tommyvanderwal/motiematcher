@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-607/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">607</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in het studiejaar 2022–2023 30.246 jongeren zonder startkwalificatie het onderwijs voortijdig hebben verlaten;</al>
+            <al>constaterende dat dit aantal ver afstaat van de in de werkagenda mbo afgesproken doelstellingen, namelijk minder dan 18.000 voortijdige schoolverlaters;</al>
+            <al>overwegende dat dit een van de grootste prioriteiten in de mbo-agenda zou moeten zijn;</al>
+            <al>verzoekt de regering om in samenwerking met gemeenten (minderjarige) uitvallers in kaart te brengen;</al>
+            <al>verzoekt de regering de Kamer te informeren over de verschillende aanpakken tussen gemeenten in relatie tot het probleem van voortijdige schoolverlaters,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Martens-America</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

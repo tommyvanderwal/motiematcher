@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36594-6/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 594</dossiernr>
+      </dossiernummer>
+      <titel>Burgerinitiatief «Nicotinee'</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">6</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-12">12 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat stoppen-met-rokentrajecten zijn ingericht op volwassenen die intrinsiek gemotiveerd zijn om te stoppen met roken;</al>
+            <al>constaterende dat er steeds meer ouders zijn die willen dat hun kind stopt met vapen of roken, maar dat stoppen-met-rokenprofessionals hier vaak niet goed op zijn toegerust;</al>
+            <al>verzoekt de regering in overleg met stoppen-met-rokenprofessionals en andere experts te bezien wat er nodig is om stoptrajecten beter toe te spitsen op jongeren en minderjarigen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>Krul</al>
+              <al>Dobbe</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

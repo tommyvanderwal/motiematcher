@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1347/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1347</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat stalbranden afschuwelijk zijn en dat er een morele plicht is om te voorkomen dat gebouwen waarin weerloze dieren zijn gehuisvest vlam vatten en afbranden;</al>
+            <al>constaterende dat de Onderzoeksraad voor Veiligheid in maart 2021 heeft geconcludeerd dat het kabinet onvoldoende heeft gedaan om stalbranden tegen te gaan, waarop de toenmalige Minister zei «de volle verantwoordelijkheid» te nemen;</al>
+            <al>constaterende dat de OVV eind 2023 desondanks concludeerde dat de aanpak van stalbranden stagneerde en dat de eerdere aanbevelingen grotendeels niet waren opgevolgd;</al>
+            <al>constaterende dat de aanpak van het vorige kabinet niet verder kwam dan het voorbereiden van slechts één concrete maatregel, namelijk een brandveiligheids- en elektrakeuring;</al>
+            <al>verzoekt de regering spoedig effectieve actie te ondernemen tegen stalbranden;</al>
+            <al>verzoekt de regering de aanpak van stalbranden – zoals geformuleerd door de voormalige Landbouwminister – niet verder af te zwakken maar juist met aanvullende maatregelen te komen om dieren te beschermen tegen stalbranden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

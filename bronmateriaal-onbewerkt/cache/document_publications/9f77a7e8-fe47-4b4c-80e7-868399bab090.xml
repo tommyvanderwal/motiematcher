@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-39/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">39</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Openbaar Ministerie de afgelopen jaren noodgedwongen een aantal keren heeft moeten besluiten om een groot aantal zaken te seponeren wegens een gebrek aan zittingscapaciteit, wat fnuikend is voor het vertrouwen van burgers in de rechtsstaat;</al>
+            <al>overwegende dat de motivatie en het werkplezier van politieagenten tanende zijn, nu zij doorgaans vele uren besteden aan zaken die vervolgens zonder inhoudelijke behandeling worden geseponeerd;</al>
+            <al>constaterende dat de Wet administratiefrechtelijke handhaving verkeersvoorschriften (de wet-Mulder) van toepassing is op een aantal veelvoorkomende lichte strafbare feiten;</al>
+            <al>van mening dat de politie meer mogelijkheden moet krijgen om veelvoorkomende lichte strafbare feiten via een Mulderprocedure af te doen, zodat kleine criminaliteit niet straffeloos blijft;</al>
+            <al>verzoekt de regering in overleg te treden met de politie en het Openbaar Ministerie om te bezien welke maatregelen kunnen worden getroffen om de politie mogelijkheden te geven om meer lik-op-stukbeleid vorm te geven door uitbreiding van de wet-Mulder,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

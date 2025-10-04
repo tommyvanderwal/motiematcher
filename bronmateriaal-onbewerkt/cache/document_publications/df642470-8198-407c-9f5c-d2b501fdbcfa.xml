@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36470-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 470</dossiernr>
+      </dossiernummer>
+      <titel>Najaarsnota 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-19">19 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de hectaretoeslag en de eco-regeling uit het GLB-NSP belangrijke instrumenten zijn voor het verdienvermogen van de boer, in het bijzonder voor het belonen van het vergroenen van de bedrijfsvoering;</al>
+            <al>constaterende dat in 2023 agrariërs meer duurzame prestaties hebben geleverd dan verwacht, waardoor een groter beroep is gedaan op deze regelingen dan verwacht, waardoor het hiervoor gereserveerde budget tekortschiet en boeren een lager tarief dreigen te ontvangen;</al>
+            <al>overwegende dat het slecht is voor het vertrouwen in de overheid als de uitbetaling aan boeren lager uitpakt dan aanvankelijk gecommuniceerd;</al>
+            <al>overwegende dat de motie-Van der Plas (<extref doc="kst-21501-32-1607" soort="document" status="actief">21 501-32, nr. 1607</extref>) is aangenomen om te verkennen hoe de verlaging van de tarieven kan worden teruggedraaid, en dat inmiddels duidelijk is dat dit ongeveer 50 miljoen euro vergt, wat niet zonder consequenties is in te passen in de voorliggende LNV-begroting;</al>
+            <al>verzoekt de regering de begin deze maand aangekondigde tariefsverlaging voor zowel de hectaretoeslag als de eco-regeling ongedaan te maken door voorafgaand aan de begrotingsbehandeling van de ontwerp-LNV-begroting 2024 per nota van wijziging 50 miljoen euro toe te voegen vanuit de op de aanvullende post gereserveerde middelen Transitiefonds, en zo woord te houden voor wat betreft het uitkeren van de aanvankelijk gecommuniceerde tarieven voor de hectaretoeslag en de eco-regeling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

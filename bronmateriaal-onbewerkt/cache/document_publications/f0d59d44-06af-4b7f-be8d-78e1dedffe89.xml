@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29247-443/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 247</dossiernr>
+      </dossiernummer>
+      <titel>Acute zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">443</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een spreidingsnorm, de 45 minutennorm, is voor de aanrijtijd van ambulances naar SEH-posten, maar zo'n norm niet bestaat voor de bereikbaarheid van zorg met eigen vervoer en ov;</al>
+            <al>overwegende dat oudere mensen, mensen die beperkt zijn in hun mobiliteit en mensen met een krappe beurs grote gevolgen ondervinden van de verplaatsing van zorg als zij daardoor verder moeten reizen;</al>
+            <al>verzoekt de regering te komen tot een bereikbaarheidsnorm, zodat bij verplaatsing van zorg met eigen vervoer en ov een ziekenhuis binnen 45 minuten bereikbaar blijft of, waar de reistijd met eigen vervoer en ov naar een ziekenhuis al meer dan 45 minuten bedraagt, de reistijd niet toeneemt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

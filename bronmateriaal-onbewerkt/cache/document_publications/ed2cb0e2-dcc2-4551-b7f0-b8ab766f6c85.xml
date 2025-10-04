@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29911-464/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 911</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding georganiseerde criminaliteit</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">464</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN MUTLUER EN VAN NISPEN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 457 </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-04">4 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het van belang is om criminele bedrijven te frustreren in hun activiteiten;</al>
+            <al>van mening dat de Kamer van Koophandel daar een stevigere rol in kan vervullen;</al>
+            <al>verzoekt de regering in overleg met de Kamer van Koophandel te onderzoeken welke juridische, wettelijke en uitvoeringstechnische mogelijkheden en onmogelijkheden er zijn om:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>de bevoegdheden van de Kamer van Koophandel uit te breiden bij het weigeren van inschrijvingen van dubieuze bedrijven, waarbij zeer zorgvuldig wordt afgewogen hoe artikel 5, lid 2, van het Handelsregisterbesluit kan worden versterkt en waarbij rekening wordt gehouden met de rol van notarissen bij het voorkomen van inschrijvingen van dubieuze rechtspersonen;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>de regels rondom het deponeren van jaarrekeningen aan te scherpen en aanvullende handhavingsinstrumenten in te zetten,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mutluer</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28165-434/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 165</dossiernr>
+      </dossiernummer>
+      <titel>Deelnemingenbeleid rijksoverheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">434</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Volksbank als staatsbank een belangrijke maatschappelijke rol vervult door bancaire diensten toegankelijk te houden voor burgers en mkb-ondernemers;</al>
+            <al>constaterende dat de bank met haar regionale aanwezigheid bijdraagt aan bereikbaarheid en persoonlijk klantcontact in de regio's;</al>
+            <al>constaterende dat de naam Volksbank symbool staat voor een bank met een maatschappelijke missie die banken weer dichter bij de burger brengt;</al>
+            <al>overwegende dat het behoud van regiokantoren essentieel is om lokale dienstverlening en werkgelegenheid te garanderen;</al>
+            <al>overwegende dat de naam Volksbank vertrouwen uitstraalt en aansluit bij de oorspronkelijke doelstellingen van een publieke bank;</al>
+            <al>verzoekt de regering de regiokantoren van de Volksbank in stand te houden, zodat de dienstverlening voor burgers en ondernemers in de regio gewaarborgd blijft, en de naam Volksbank te behouden als uiting van de maatschappelijke missie van de bank,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

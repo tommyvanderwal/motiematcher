@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1379/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1379</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat CCS een tijdelijke oplossing is die grote vervuilers in staat stelt om langer te wachten met het overschakelen naar duurzame energie;</al>
+            <al>overwegende dat om deze reden een zeefmethodiek is ontwikkeld, waarbij wordt gekeken of er aantoonbare kosteneffectieve alternatieven bestaan voor CCS;</al>
+            <al>constaterende dat er in 2023 ruim 7 miljard SDE++ voor CCS en CCU is aangevraagd op een totaal subsidiebedrag van 8 miljard, waarmee de kans groot is dat CCS toch de net iets duurdere maar echt duurzame projecten weg gaat drukken;</al>
+            <al>overwegende dat in de Energienota de Minister een afbouwpad voor fossiele energie gaat publiceren;</al>
+            <al>verzoekt de regering om de SDE++-methodiek te herzien, zodanig dat technieken waarbij fossiele energie nog steeds de bron is pas in laatste instantie gehonoreerd worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kröger</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

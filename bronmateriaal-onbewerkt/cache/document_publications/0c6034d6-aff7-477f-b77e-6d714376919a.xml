@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1360/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1360</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet een regeling voor bio-energie met koolstofafvang en -opslag (BECCS) aan het uitwerken is, waarbij het (mede) verbranden van hout voor elektriciteitsproductie wordt gestimuleerd als de uitstoot wordt afgevangen en opgeslagen;</al>
+            <al>constaterende dat voor deze vorm van elektriciteitsproductie uit biomassa hout op grote schaal wordt geïmporteerd uit bossen in andere landen en dat het hier niet gaat om zogenaamde rest- of afvalstromen maar dat bomen specifiek worden gekapt om te verbranden;</al>
+            <al>overwegende dat het grootschalig importeren en verbranden van bomen niet duurzaam of wenselijk is;</al>
+            <al>verzoekt de regering BECCS op geen enkele wijze te stimuleren of te faciliteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36672-6/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 672</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van de leden Omtzigt en Idsinga over «Realistisch ramen»</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">6</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER LEE EN INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van  <datum isodatum="2025-03-31">31 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet een meevallerformule hanteert wanneer het feitelijke EMU-saldo langjarig beter is dan een saldo van -1,5% bbp;</al>
+            <al>constaterende dat het feitelijke EMU-saldo de afgelopen drie begrotingsjaren beter was dan -1,5% bbp;</al>
+            <al>verzoekt de regering om de meevallerformule voor komend begrotingsjaar te hanteren wanneer aannemelijk wordt dat het EMU-saldo voor het lopende jaar beter is dan -1,5% bbp;</al>
+            <al>verzoekt de regering voorts de meevallerformule dusdanig in te zetten dat 50% naar lastenverlichting voor burgers gaat en 50% naar investeringen die productiviteitsverhogend zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Lee</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

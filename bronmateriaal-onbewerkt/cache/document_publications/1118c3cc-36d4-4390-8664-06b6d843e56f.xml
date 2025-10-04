@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31289-581/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 289</dossiernr>
+      </dossiernummer>
+      <titel>Voortgezet Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">581</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE KORT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er bij de onderwijsinspectie een pilot loopt voor het afleggen van onaangekondigde inspectiebezoeken;</al>
+            <al>overwegende dat vooraf aangekondigde inspectiebezoeken een vertekend beeld van de werkelijkheid zouden kunnen geven;</al>
+            <al>overwegende dat naast reguliere bezoeken, onaangekondigde bezoeken een aanvulling en/of alternatief zijn voor het vaststellen van de onderwijskwaliteit;</al>
+            <al>overwegende dat een significant aantal van de inspectiebezoeken – denk hierbij aan 25% – onaangekondigd zouden moeten plaatsvinden;</al>
+            <al>verzoekt de regering om de onderwijsinspectie als richtinggevend kader mee te geven dat ten minste 25% van haar inspectiebezoeken onaangekondigd dient plaats te vinden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Kort</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

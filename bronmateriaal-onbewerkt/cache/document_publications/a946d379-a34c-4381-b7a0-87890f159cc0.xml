@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-702/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">702</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het handelingsperspectief voor burgemeesters is opgenomen dat een vlag van een terroristische organisatie een uiting is van de terroristische ideologie van die organisatie;</al>
+            <al>overwegende dat indien een dergelijke vlag wordt getoond tijdens een demonstratie, die terroristische ideologie in het openbaar wordt uitgedragen;</al>
+            <al>constaterende dat het Wetboek van Strafrecht in de artikelen 131 en 137d de mogelijkheid biedt om hiertegen op te treden;</al>
+            <al>overwegende dat dit in de praktijk niet altijd gebeurt, omdat er onduidelijkheid over het optreden bestaat;</al>
+            <al>verzoekt de regering in overleg te treden met lokale driehoeken om kennis te delen over het niet toestaan van vlaggen van terreurorganisaties in navolging van de gemeente Amsterdam en dit in het handelingsperspectief op te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

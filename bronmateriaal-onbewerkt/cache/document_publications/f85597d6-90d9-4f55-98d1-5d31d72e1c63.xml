@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-32-1716"/>
+      <meta name="OVERHEIDop.ondernummer" content="1716"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-20"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-32"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Ouwehand c.s. over de beleidsregel voor het verlagen van de maximumtemperatuur voor diertransporten op zeer korte termijn in werking laten treden (t.v.v. 21501-32-1715)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.G. Graus"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Podt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L. Bromet"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E. Ouwehand"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Landbouw- en Visserijraad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.title" scheme="" content="Landbouw- en Visserijraad; Motie (gewijzigd/nader); Gewijzigde motie van het lid Ouwehand c.s. over de beleidsregel voor het verlagen van de maximumtemperatuur voor diertransporten op zeer korte termijn in werking laten treden (t.v.v. 21501-32-1715)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr>
+         </dossiernummer>
+         <titel>Landbouw- en Visserijraad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1716</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID OUWEHAND C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1715</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-19">19 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het nog altijd is toegestaan om dieren op snikhete dagen op transport te zetten naar het slachthuis, met ernstig dierenleed als gevolg;</al>
+                  <al>constaterende dat de Tweede Kamer de regering al vier jaar lang oproept om over te gaan tot het verlagen van de maximumtemperatuur en dat de beleidsregel in augustus of september 2024 definitief in werking had moeten treden;</al>
+                  <al>constaterende dat de beleidsregel helemaal klaarligt en is genotificeerd bij de Europese Commissie en niets een snelle inwerkingtreding in de wegstaat;</al>
+                  <al>overwegende dat we moeten voorkomen dat dieren ook deze zomer weer in snikhete transportwagens worden gestopt;</al>
+                  <al>verzoekt de regering om de beleidsregel voor het verlagen van de maximumtemperatuur voor diertransporten op zeer korte termijn in werking te laten treden;</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Ouwehand</al>
+                     <al>Bromet</al>
+                     <al>Podt</al>
+                     <al>Graus</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

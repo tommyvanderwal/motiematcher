@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24170-337/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 170</dossiernr>
+      </dossiernummer>
+      <titel>Gehandicaptenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">337</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WESTERVELD EN PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat ieder kind recht heeft op onderwijs zoals beschreven in de Grondwet en het VN-verdrag;</al>
+            <al>constaterende dat deze rechten worden geschonden door de aanhoudende problemen in het leerlingenvervoer;</al>
+            <al>overwegende dat het beleid is versnipperd, de bureaucratie groot is en vervoersbedrijven soms kleine contracten hebben;</al>
+            <al>constaterende dat in de Verbeteragenda Doelgroepenvervoer wordt ingezet op het bevorderen van het integraal en regionaal aanbesteden in plaats van kleine contracten;</al>
+            <al>verzoekt de regering om verder te gaan dan bevorderen en in de wetgeving als uitgangspunt op te nemen dat al het doelgroepenvervoer integraal en regionaal aanbesteed wordt om hiermee zowel de dienstverlening voor gebruikers als de arbeidsomstandigheden van chauffeurs te verbeteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

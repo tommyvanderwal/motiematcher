@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36382-14/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 382</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet hergebruik van overheidsinformatie en enkele andere wetten in verband met de implementatie van richtlijn nr. 2019/1024/EU van het Europees Parlement en de Raad van 20 juni 2019 inzake open data en het hergebruik van overheidsinformatie (Wet implementatie Open data richtlijn)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">14</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het beoordelen van aanvragen door derden om toegang te krijgen tot gegevens uit openbare registers en andere bronnen die onder de Who vallen ingewikkeld en arbeidsintensief blijkt voor alle partijen;</al>
+            <al>overwegende dat de toegang voor brancheverenigingen, vakbonden, journalistieke instanties en andere belangrijke aanvragers van overheidsinformatie voor iedereen duidelijk moet zijn om willekeur te voorkomen;</al>
+            <al>verzoekt de regering om samen met betrokken bewindspersonen, de Autoriteit Persoonsgegevens, uitvoerders en betrokkenen tot een gedragen standaard afwegingskader te komen over hoe open data worden aangevraagd, gedeeld en verwerkt;</al>
+            <al>verzoekt de regering bovendien om de Kamer te betrekken indien er op specifieke afwegingen geen overeenstemming wordt bereikt, zodat het parlement hierover een knoop kan doorhakken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

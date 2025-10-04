@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-87/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">87</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RIKKERS-OOSTERKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de bereikbaarheid van levensreddende zorg van essentieel belang is voor alle Nederlanders, ongeacht de regio waarin zij wonen;</al>
+            <al>overwegende dat de toegankelijkheid van zorg in landelijke gebieden behouden en waar nodig verbeterd dient te worden om de gezondheid en het welzijn van de bevolking te waarborgen;</al>
+            <al-groep>
+              <al>constaterende dat recente ontwikkelingen laten zien dat ziekenhuiszorg in de regio's onder druk blijft staan, ondanks de genomen maatregelen;</al>
+              <al>van mening dat de politieke invloed op ziekenhuizen niet zodanig beperkt dient te zijn dat het de kwaliteit en beschikbaarheid van zorg in de regio negatief kan beïnvloeden;</al>
+            </al-groep>
+            <al>verzoekt de regering om in haar toegezegde visie op de marktwerking expliciet de beperkte politieke invloed op ziekenhuizen en de gevolgen daarvan voor de zorg in de regio's te adresseren;</al>
+            <al>verzoekt de regering tevens om te reflecteren op de vraag wat zij ervan vindt dat de politiek uiteindelijk machteloos kan staan als medische bedrijven stappen nemen die de zorg in een regio diep raken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rikkers-Oosterkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

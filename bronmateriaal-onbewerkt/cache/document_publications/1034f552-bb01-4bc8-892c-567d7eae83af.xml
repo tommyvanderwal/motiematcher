@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1659/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1659</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID NIJHOF-LEEUW TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1653</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat aanpassing van de drempelwaarde voor verschillende PAS-melders een uitkomst kan bieden, maar dit mogelijk niet op zeer korte termijn ingevoerd kan worden;</al>
+            <al>overwegende dat er zo snel mogelijk een oplossing moet komen voor de PAS-melders;</al>
+            <al>overwegende dat er een legalisatieprogramma is vastgesteld en er afspraken zijn gemaakt tussen Rijk en de provincies over het verificatieproces;</al>
+            <al>overwegende dat PAS-melders buiten hun schuld om in de problemen zijn beland;</al>
+            <al>overwegende dat er berichten zijn dat het verificatieproces tot grote kosten leidt, bijvoorbeeld omdat ze worden gedwongen tot aanschaf van nieuwe systemen om weidegang aan te tonen, terwijl er ook een controle plaatsvindt met betrekking tot het Qlip-systeem;</al>
+            <al>verzoekt de regering om met de provincies te overleggen over het verificatieproces, waarbij het doel moet zijn dat er een snelle en juridisch houdbare verificatie moet komen en dat die kostenefficiënt wordt ingericht;</al>
+            <al>verzoekt de regering om afspraken te maken om tot een snelle afronding van het verificatieproces te komen, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Nijhof-Leeuw</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-290/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">290</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID GRINWIS C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 285</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-11">11 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er met betrekking tot de nieuwe concessie Waddenveren Oost veel onduidelijkheden spelen, zoals de uitkomst van de MIRT-verkenning Ameland en de vaargeul, elektrificatie en de netcongestie en inzake het autobeleid op Ameland;</al>
+            <al>overwegende dat er met betrekking tot de concessie Waddenveren West minder maar deels vergelijkbare onzekerheden spelen en daarnaast het feit dat de gemeente Terschelling aan de vooravond staat van een grootschalige havenrenovatie;</al>
+            <al>verzoekt de regering voor de concessie Waddenveren Oost in te zetten op een tussenconcessie met een zodanige looptijd dat gedurende die concessie de relevante beïnvloedbare onzekerheden fors worden gereduceerd, in plaats van op een nieuwe reguliere concessie met een looptijd van vijftien jaar;</al>
+            <al>verzoekt de regering daarnaast te bezien of een dergelijke tussenconcessie met een kortere looptijd ook nodig is voor de concessie Waddenveren West,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Soepboer</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1290/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1290</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ondanks de conclusie van de ACM dat er voldoende concurrentie is op de telecommunicatiemarkt, internet voor de armste huishoudens alsnog te duur is;</al>
+            <al>overwegende dat het aanbieden van betaalbaar internet aan deze huishoudens de vaste lasten verlaagt en de toegang tot de digitale overheid, zorg en onderwijs vergroot;</al>
+            <al-groep>
+              <al>verzoekt de regering om in overleg te gaan over het aanbieden van betaalbaar internet aan de armste huishoudens, met in ieder geval de volgende partijen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de grote telecombedrijven, zoals KPN, VodafoneZiggo en Odido;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de branchevereniging NLconnect;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Autoriteit Consument &amp; Markt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de ministeries van Economische Zaken en Sociale Zaken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Alliantie Digitaal Samenleven en ervaringsdeskundigen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de gemeenten die deelnamen aan de pilot Digitaal Meedoen;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in dit overleg vast te stellen welke bijdrage de telecombedrijven kunnen leveren om voor een aanzienlijk lager bedrag internet aan te bieden en aan welke huishoudens dit redelijkerwijs aangeboden kan worden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>hierin zo veel mogelijk de aansluiting te zoeken met bestaande voorzieningen zoals de voedselbank;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te verkennen welke opties juridisch en uitvoeringstechnisch kansrijk zijn met minimale administratieve lasten voor zowel de telecombedrijven als overheden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de telecombedrijven het aanbod bij voorkeur zelf vorm te laten geven, maar in het uiterste geval een wettelijke plicht zoals in België en New York niet uit te sluiten;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het overleg te laten leiden door een onafhankelijke gespreksleider met gezag, kennis van de sector, en enige ondersteuning;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>alle opties die ter tafel komen voor een betaalbaar internetaanbod voor een selecte groep huishoudens in het derde kwartaal van 2025 aan de Kamer te doen toekomen,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

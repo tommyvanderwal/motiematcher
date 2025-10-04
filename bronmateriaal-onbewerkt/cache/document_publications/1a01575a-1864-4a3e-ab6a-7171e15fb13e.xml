@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-26643-1411"/>
+      <meta name="OVERHEIDop.ondernummer" content="1411"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="26643"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Six Dijkstra c.s. over de samenwerking bevorderen tussen Informatiepunten Digitale Overheid en Huizen van het Recht"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.J. Koops"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P.S. Six Dijkstra"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Informatie- en communicatietechnologie (ICT)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-29"/>
+      <meta name="DC.title" scheme="" content="Informatie- en communicatietechnologie (ICT); Motie; Motie van het lid Six Dijkstra c.s. over de samenwerking bevorderen tussen Informatiepunten Digitale Overheid en Huizen van het Recht"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | ICT"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>26 643</dossiernr>
+         </dossiernummer>
+         <titel>Informatie- en communicatietechnologie (ICT)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1411</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID SIX DIJKSTRA C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-29">29 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Informatiepunten Digitale Overheid (IDO's) in bibliotheken en wijkgebouwen goed werk leveren en behulpzaam zijn bij vragen van mensen over de digitale overheid;</al>
+                  <al>overwegende dat de Kamer in de aangenomen motie-Van Nispen/Palmen (<extref doc="kst-36600-VI-91" soort="document" status="actief">36 600-VI, nr. 91</extref>) heeft uitgesproken dat er een landelijk dekkend netwerk van laagdrempelige voorzieningen voor rechtshulp, zoals het Huis van het Recht, moet komen, en dat hiertoe inmiddels een kwartiermaker is aangesteld;</al>
+                  <al>van mening dat het voor de mens met een probleem vooral van belang is dát er een bereikbaar loket is voor de hulpvraag, of dat nu hulp bij digitale zaken is of bij een probleem van sociaal-juridische aard, en dat een zoektocht naar het juiste loket zo veel mogelijk voorkomen moet worden;</al>
+                  <al>constaterende dat het voor de overheid ook efficiënter is om beide voorzieningen of loketten, die vanuit bibliotheken en buurthuizen zouden gaan functioneren, te integreren;</al>
+                  <al>verzoekt de regering de samenwerking te bevorderen tussen de Informatiepunten Digitale Overheid en het landelijk dekkend netwerk voor mensen met sociaal-juridische problematiek (Huizen van het Recht) en hiertoe met concrete voorstellen te komen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Six Dijkstra</al>
+                     <al>Koops</al>
+                     <al>Van Nispen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29684-283/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 684</dossiernr>
+      </dossiernummer>
+      <titel>Waddenzeebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">283</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat een stabiele en betrouwbare veerdienstverbinding essentieel is voor de bereikbaarheid van de Waddeneilanden, en dat eilander ondernemers sterk afhankelijk zijn van deze verbindingen voor hun bedrijfsvoering, onder andere voor het overbrengen van toeristen, personeel en goederen;</al>
+            <al>overwegende dat ondernemers een cruciale rol spelen in het waarborgen van de leefbaarheid en het bevorderen van een gezonde lokale economie op de Waddeneilanden;</al>
+            <al>constaterende dat in de nota van uitgangspunten voor de nieuwe veerconcessies wel een adviesrecht is opgenomen voor bewoners, maar dat eilander ondernemers hierin nog niet zijn vertegenwoordigd;</al>
+            <al>verzoekt de regering om in de programma's van eisen en in de uiteindelijke concessies voor de Waddenveren een zwaarwegend adviesrecht voor de eilander ondernemersorganisaties op te nemen, waarvan alleen gemotiveerd afgeweken kan worden, en over de uitwerking hiervan op korte termijn in overleg te treden met de betreffende ondernemersorganisaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pierik</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

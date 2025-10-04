@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-264/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">264</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de regering-Trump en de techlobby er alles aan doen om Europese techregelgeving af te zwakken ten behoeve van het Amerikaanse bedrijfsleven en daarmee de politieke invloed van de regering te vergroten;</al>
+            <al>overwegende dat onze techregelgeving juist de Europese waarden van keuzevrijheid, vrijheid van meningsuiting en een eerlijke toegang tot informatie voor alle gebruikers beschermt, en dit niet moet worden afgezwakt;</al>
+            <al>verzoekt de regering om bij de Europese Commissie blijvend en ondubbelzinnig aan te dringen op maximale naleving, handhaving en waar nodig versteviging van regelgeving ten aanzien van grote onlineplatforms, ongeacht druk van buitenaf;</al>
+            <al>verzoekt de regering om te verkennen wat EU-lidstaten kunnen doen om deze regelgeving zelf steviger te handhaven in het geval dat de Commissie niet of niet snel genoeg optreedt, en de uitkomsten vóór het zomerreces met de Kamer te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

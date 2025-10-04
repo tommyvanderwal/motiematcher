@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-631/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">631</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JOSEPH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-17">17 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat niet alle pensioenfondsen willen of kunnen invaren;</al>
+            <al>constaterende dat in de door de Minister openbaar gemaakte stukken rondom interne adviezen aan bewindspersonen rond invaren de «ingroeivariant», waarbij pensioenfondsen ook eerder kunnen indexeren, als sierlijk alternatief voor invaren wordt genoemd;</al>
+            <al>verzoekt de regering binnen een maand opties voor ingroeivarianten in kaart te brengen, de Kamer daarover te informeren en de voorbereiding ervan ter hand te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Joseph</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

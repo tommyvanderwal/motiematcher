@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29683-297/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 683</dossiernr>
+      </dossiernummer>
+      <titel>Dierziektebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">297</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek van RIVM, GGD, Universiteit Utrecht en Wageningen Universiteit blijkt dat er honderden extra coronadoden zijn gevallen door de slechte luchtkwaliteit, wat voor een groot deel is veroorzaakt door de veehouderij;</al>
+            <al>constaterende dat al meer dan tien jaar uit opeenvolgende onderzoeken blijkt dat omwonenden van geitenhouderijen een sterk verhoogd risico lopen om een longontsteking te krijgen;</al>
+            <al>overwegende dat veel mensen in de buurt wonen van veehouderijen, maar zich onvoldoende bewust zijn van de risico’s voor hun gezondheid;</al>
+            <al>verzoekt de regering zich in te spannen voor meer bewustzijn bij omwonenden over de gezondheidsrisico’s van veehouderijen door bijvoorbeeld een voorlichtingscampagne te starten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

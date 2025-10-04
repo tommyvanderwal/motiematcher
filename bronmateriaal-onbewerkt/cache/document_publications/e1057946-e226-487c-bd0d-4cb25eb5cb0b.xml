@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-776/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">776</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de twee Kooks- en Gasfabrieken van Tata Steel zeer verouderd en vervuilend zijn, met overschrijding van emissienormen tot twintig keer de toegestane waarden, wat leidt tot dwangsommen en mogelijk intrekking van vergunningen;</al>
+            <al>constaterende dat de Kooks- en Gasfabriek 1 al 43 jaar oud is;</al>
+            <al>overwegende dat het transitieplan van Tata Steel, waarover nu wordt onderhandeld in de maatwerkafspraken, erop rekent dat de Kooks- en Gasfabriek 1 nog bijna vijftien jaar in bedrijf blijft, terwijl er een serieus risico bestaat dat de Kooks- en Gasfabriek 1 door ouderdom en handhaving eerder moet sluiten, en daarmee het plan van Tata Steel in de huidige vorm onhaalbaar lijkt;</al>
+            <al>verzoekt de regering te verkennen hoe groot het risico is dat de Kooks- en Gasfabriek 1 eerder dan Tata Steel nu heeft gepland moet sluiten, wat dat betekent voor de toekomstbestendigheid en haalbaarheid van de huidige invulling van het transitieplan van Tata Steel waarover wordt onderhandeld in de maatwerkafspraken en wat de risico's zijn voor de belastingbetaler;</al>
+            <al>verzoekt de regering hierover zo snel mogelijk, maar in ieder geval voordat de maatwerkafspraken worden gesloten, aan de Kamer te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

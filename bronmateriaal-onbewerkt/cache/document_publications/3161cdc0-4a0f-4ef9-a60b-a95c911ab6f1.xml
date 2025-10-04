@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29861-145/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 861</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmigratie en sociale zekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">145</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN INGE VAN DIJK EN VAN OOSTENBRUGGEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatscommissie Demografische Ontwikkeling terecht concludeert dat er keuzes gemaakt moeten worden over welke economie we in Nederland willen zijn, zodat ook noodzakelijke keuzes rondom arbeidsmigratie gemaakt kunnen worden;</al>
+            <al>overwegende dat hiervoor drie vraagstukken op tafel liggen, te weten: innovatie van bedrijfsprocessen, hogere participatie vanuit werknemers die meer willen werken en als sluitstuk fatsoenlijke arbeidsmigratie;</al>
+            <al>overwegende dat Nederland geen lageloneneconomie wil zijn en dat het ongewenst is dat sectoren die in de toekomst alleen kunnen bestaan op basis van lage lonen, ongelimiteerd arbeidsmigranten inzetten;</al>
+            <al>constaterende dat dit vraagt om scherpe keuzes waardoor een langetermijnplan voor de Nederlandse economie ontstaat en hierin werkgevers, vakbonden en het kabinet een gedeelde verantwoordelijkheid hebben;</al>
+            <al>verzoekt het kabinet een arbeidsmigratietop te beleggen waarin bovenstaande vraagstukken en keuzes gezamenlijk gemaakt worden, waarmee de arbeidsmigratie naar de toekomst toe geremd gaat worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Van Oostenbruggen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32802-87/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 802</dossiernr>
+      </dossiernummer>
+      <titel>Toepassing van de Wet open overheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">87</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CHAKOR EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat voor een structureel betere uitvoering van de Woo het nodig is dat er een meerjarenplan voor versterking van de openbaarheid en de informatiehuishouding bij de hele overheid komt;</al>
+            <al>van mening dat daarvoor een nationaal coördinator nodig is die de regie over de inhoud en de uitvoering van dat meerjarenplan krijgt;</al>
+            <al>verzoekt de regering een nationaal coördinator aan te stellen die het genoemde meerjarenplan gaat opstellen en die de taken en bevoegdheden krijgt die nodig zijn om tot een versterking van de openbaarheid en de informatiehuishouding van de overheid te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

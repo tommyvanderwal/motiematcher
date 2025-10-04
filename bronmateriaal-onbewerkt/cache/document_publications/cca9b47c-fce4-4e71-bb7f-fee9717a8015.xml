@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29502-194/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 502</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">194</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VERMEER EN KISTEMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat PostNL de uitvoerder is van de Universele Postdienst (UPD) en dat bij wet is vastgelegd;</al>
+            <al>overwegende dat de ACM toezicht houdt op de tarieven en kwaliteit van de dienstverlening voor de UPD;</al>
+            <al>overwegende dat PostNL claimt bij de huidige spelregels niet te kunnen voldoen aan de kwaliteitseisen voor de UPD en af te koersen op een fors exploitatieverlies bij deze dienstverlening;</al>
+            <al>overwegende dat de Tweede Kamer besluiten moet nemen over toekomstige wetgeving, maar de claims van PostNL niet kan beoordelen;</al>
+            <al>verzoekt de regering om onderzoek te doen naar de financiële situatie bij PostNL als uitvoerder van de UPD, en de Kamer daarover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vermeer</al>
+              <al>Kisteman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

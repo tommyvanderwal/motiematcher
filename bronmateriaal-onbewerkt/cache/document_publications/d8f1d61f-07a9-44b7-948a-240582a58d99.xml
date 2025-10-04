@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-143/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">143</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de eco-regeling een belangrijk instrument is om toekomstbestendig boeren te belonen en doelen te bereiken op het gebied van biodiversiteit, bodem en lucht, klimaat, landschap en water;</al>
+            <al>overwegende dat het voor een goed inzicht in de effecten van de eco-regeling noodzakelijk is te weten hoe het geld voor de in 2023 geleverde prestaties precies verdeeld is, hoe deze verdeling bijdraagt aan doelbereik en hoe met behulp daarvan de eco-regeling de komende jaren goed en voorspelbaar kan worden vormgegeven;</al>
+            <al>verzoekt de regering, ruim voor de deadline van de gecombineerde opgave, een analyse te maken van de bedragen die in het kader van de eco-regeling over in 2023 geleverde prestaties uitgekeerd worden in de categorieën brons, zilver en goud, en daarbij onder andere in te gaan op de verdeling per deelsector, bedrijfsgrootte en de bijdrage aan het doelbereik, en op basis daarvan verbeteringen door te voeren in de eco-regeling met als doel een goede en voor boeren hanteerbare en voorspelbare regeling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Flach</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

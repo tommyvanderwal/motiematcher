@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32317-893/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 317</dossiernr>
+      </dossiernummer>
+      <titel>JBZ-Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">893</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-09">9 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat seksueel kindermisbruik online een verschrikkelijke bedreiging is voor de veiligheid van onze kinderen;</al>
+            <al>overwegende dat een groot deel van het onlinemateriaal van seksueel kindermisbruik van de hele EU in Nederland wordt gehost en de verordening diverse maatregelen voorstelt die de bestrijding van materiaal van seksueel kindermisbruik beter mogelijk maken;</al>
+            <al>constaterende dat de CSAM-verordening meerdere maatregelen bevat voor de aanpak van online seksueel misbruik, waarvan het detectiebevel als «last resort» wordt bestempeld;</al>
+            <al>constaterende dat het voorzitterschap met het compromisvoorstel van 9 september tegemoet is gekomen aan de Nederlandse zorgen door het beperken van de reikwijdte van het detectiebevel, maar dat zorgen over de veiligheid en proportionaliteit van het detectiebevel onvoldoende zijn weggenomen;</al>
+            <al>verzoekt het kabinet er bij de Europese Commissie en het voorzitterschap op aan te dringen om in een nieuw voorstel ook het detectiebevel voor bekend materiaal op dit moment nog niet op te nemen en het voornemen daartoe te clausuleren zolang de technische kant nog onvoldoende zekerheid biedt;</al>
+            <al>verzoekt het kabinet om daarmee in te zetten op gefaseerde invoering van de verordening, zodat de andere maatregelen uit de verordening wel alvast in regelgeving worden vervat,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

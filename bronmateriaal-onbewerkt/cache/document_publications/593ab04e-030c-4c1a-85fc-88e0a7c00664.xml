@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1046/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1046</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID SNELLER C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1042</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-25">25 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat sprake is van «code zwart» in het gevangeniswezen en dat daardoor op korte termijn onwenselijke maatregelen onvermijdelijk zijn;</al>
+            <al>overwegende dat het kabinet tot nu toe echter onvoldoende perspectief heeft geboden op een structurele oplossing voor de problematiek in het gevangeniswezen en het «wegwerken» van de grote voorraad zelfmelders;</al>
+            <al-groep>
+              <al>verzoekt de regering om de Regeling tijdelijk verlaten van de inrichting (Rtvi) alleen aan te passen om gedetineerden langer dan drie dagen voor het einde van hun detentie te kunnen «heenzenden» als het kabinet zich duidelijk gecommitteerd heeft aan:</al>
+              <al>• het creëren van de randvoorwaarden om voldoende, gekwalificeerd personeel te</al>
+              <al>werven en het voorzien in structureel voldoende fysieke detentiecapaciteit;</al>
+              <al>• het maximaal faciliteren van slimmere straffen alsmede het waar mogelijk en nodig</al>
+              <al>inzetten op intensivering van advisering door de reclassering van de rechter-</al>
+              <al>commissaris bij de beslissing over (het schorsen van) de voorlopige hechtenis,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Van Nispen</al>
+              <al>Boswijk</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

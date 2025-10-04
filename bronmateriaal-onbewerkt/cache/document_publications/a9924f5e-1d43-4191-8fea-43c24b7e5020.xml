@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-330/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">330</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het blok aan BRICS-landen intensievere toenadering tot elkaar zoekt en groeiende is;</al>
+            <al>constaterende dat deze landen een antiwesters sentiment delen;</al>
+            <al-groep>
+              <al>constaterende dat Nederland en de EU intensieve contacten hebben met veel BRICS-landen en Nederlandse maatregelen landenneutraal zijn;</al>
+              <al>overwegende dat de economische groei in de BRICS-landen voortzet en in de nabije toekomst onze economie en stabiliteit kan schaden;</al>
+            </al-groep>
+            <al>overwegende dat dit ook gevolgen kan hebben voor de Nationale Grondstoffenstrategie en de Critical Raw Materials Act;</al>
+            <al>verzoekt de regering om een duidelijke strategie te ontwikkelen op nationaal en Europees niveau over hoe we als land en Unie onze strategische belangen en economie kunnen beschermen tegen het opkomende BRICS-blok,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

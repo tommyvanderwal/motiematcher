@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31015-301/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 015</dossiernr>
+      </dossiernummer>
+      <titel>Kindermishandeling</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">301</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DOBBE EN BRUYNING TER VERVANGING VAN DIE GEDRUKT ONDER NR. 292</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-11">11 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog steeds niet altijd wordt ingezet op omgang met de juridische ouders na een uithuisplaatsing, ook als dat wel mogelijk is;</al>
+            <al>overwegende dat het WODC de aanbeveling heeft gedaan om het recht op omgang tijdens een uithuisplaatsing in de wet vast te leggen;</al>
+            <al>overwegende dat het WODC daarnaast stelt dat meer standaardisering en uniformiteit wenselijk zijn bij de beslisdiagnostiek over de omgang tijdens een uithuisplaatsing en een perspectiefbesluit;</al>
+            <al>verzoekt de regering om met voorstellen te komen om het recht op omgang van kinderen met hun juridische ouders na uithuisplaatsing te versterken en daarbij in ieder geval te kijken naar de aanbevelingen van het WODC,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Bruyning</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

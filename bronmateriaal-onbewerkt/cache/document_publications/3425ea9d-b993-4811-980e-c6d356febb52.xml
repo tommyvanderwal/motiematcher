@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-106/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">106</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN EIJK EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de motie-Grinwis (gedifferentieerde verbruiksbelasting op basis van toegevoegde suikers) en de motie-Erkens (differentiatie tussen vruchtensappen en andere dranken) met de contourenbrief wel gedeeltelijk maar niet volledig zijn uitgevoerd;</al>
+            <al>constaterende dat de regering vijf varianten heeft geschetst voor de invulling van een gedifferentieerde verbruiksbelasting;</al>
+            <al>constaterende dat in onder meer het Verenigd Koninkrijk en Frankrijk dranken worden belast op basis van toegevoegde suikers aan de hand van oplopende staffels;</al>
+            <al>overwegende dat in het Verenigd Koninkrijk binnen twee jaar 50% van de frisdranken geherformuleerd is door de invoering van de verbruiksbelasting op basis van onderscheid in toegevoegde en niet-toegevoegde suikers;</al>
+            <al>overwegende dat commerciële laboratoria in Nederland kunnen testen op toegevoegde en niet-toegevoegde suikers;</al>
+            <al>overwegende dat een variant op basis van toegevoegde suikers eenvoudiger is omdat daarin voor mineraalwater, pure zuivel- en sojadranken en pure vruchten- en groentesappen geen uitzondering hoeft te worden gemaakt;</al>
+            <al>verzoekt de regering om een zesde variant uit te werken waarin een gedifferentieerde verbruiksbelasting op niet-alcoholische dranken wordt ingericht op basis van toegevoegde suikers, de methode uit het Verenigd Koninkrijk daarbij als voorbeeld te nemen en deze variant mee te nemen in de aangekondigde voortgangsbrief, en deze voor het kerstreces aan de Kamer aan te bieden,</al>
+            <al-groep>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Van Eijk</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

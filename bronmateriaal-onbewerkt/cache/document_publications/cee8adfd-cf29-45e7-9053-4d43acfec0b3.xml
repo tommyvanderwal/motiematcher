@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-40/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">40</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OLGER VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is afgesproken dat het luchtvaartbeleid de komende jaren gericht moet zijn op het op orde brengen van de rechtsbescherming van omwonenden, zodat op langere termijn doorgroei mogelijk is met stillere en schonere vliegtuigen;</al>
+            <al-groep>
+              <al>constaterende dat in het regeerprogramma staat dat het kabinet de geluidsbelasting van omwonenden van Schiphol met 20% terug wil dringen;</al>
+              <al>overwegende dat het nieuwe Schipholbeleid de geluidsbelasting slechts met 17% terugdringt;</al>
+            </al-groep>
+            <al>overwegende dat de beoogde bandbreedte van 475.000 tot 485.000 vluchten hoger is dan het verwachte aantal vluchten over 2024;</al>
+            <al>verzoekt de regering spoedig, uiterlijk in 2026, maatregelen te nemen, zodat de geluidsbelasting van Schiphol met 20% wordt teruggedrongen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

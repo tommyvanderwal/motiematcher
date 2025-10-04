@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36511-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 511</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten, van Boek 7 van het Burgerlijk Wetboek, van de Uitvoeringswet huurprijzen woonruimte en van de Wet goed verhuurderschap (verlenging, wijziging en handhaving van de maximering en verkorting van de verjaringstermijn voor huurverhogingen)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-03">3 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering concludeert dat de Wet maximering huurprijsverhogingen geliberaliseerde huurovereenkomsten onvoldoende wordt nageleefd;</al>
+            <al>constaterende dat in geschillen bij de Huurcommissie tussen huurders en private verhuurders, de huurder veel vaker in het gelijk wordt gesteld;</al>
+            <al>overwegende dat vrije en laagdrempelige toegang voor huurders bij de Huurcommissie leidt tot betere naleving van de wet en een betere woonsituatie voor huurders;</al>
+            <al>overwegende dat huurders voor een collectieve procedure bij de Huurcommissie nu nog 50% van de bewoners nodig hebben bij een aanvraag, waardoor zij vaak aangewezen zijn op lange en dure individuele procedures;</al>
+            <al>verzoekt de regering nieuwe mogelijkheden uit te werken voor kleinere collectieve procedures bij de Huurcommissie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

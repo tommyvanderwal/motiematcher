@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIV-49/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">49</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet, indien de meerderheid van de Kamer hierom vraagt, een onderzoek gaat doen naar de haalbaarheid en effectiviteit van het onvruchtbaar maken van wolven;</al>
+            <al>overwegende dat je een wolvin twee keer moet raken met een pauze van drie weken en binnen zes weken tijd en je dus veel geduld én geluk moet hebben een wolvin te treffen;</al>
+            <al>overwegende dat er 80% kans is dat een wolvin onvruchtbaar wordt;</al>
+            <al>overwegende dat een onvruchtbaarheidsvaccin elk jaar moet worden toegediend en de onvruchtbaar makende hormonen terecht kunnen komen in de bossen, via de uitwerpselen van de wolf;</al>
+            <al>overwegende dat het verboden is om de rust van wolven in het wild opzettelijk te verstoren;</al>
+            <al>overwegende dat een wolf een roofdier is en blijft en behalve koeien, schapen en paarden ook mensen heeft belaagd en een kind zelfs heeft gebeten;</al>
+            <al>verzoekt de regering in het onderzoek nadrukkelijk de te vragen kosten, de uitvoerbaarheid, de milieueffecten van hormonen die terechtkomen in de natuur, het gedrag bij de populatie wolven en de veiligheid van mensen die in de bossen recreëren mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-201/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">201</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID GRINWIS C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 196</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voedsel van akkerbouwers die weinig tot geen gebruik maken van kunstmest en chemische bestrijdingsmiddelen vaker uiterlijke oneffenheden vertonen, en dat dit probleem zich naar verwachting door een steeds kleiner middelenpakket ook steeds vaker zal voordoen in de vollegrondsgroenteteelt;</al>
+            <al>overwegende dat afhankelijk van de marktomstandigheden niet perfecte partijen voedsel c.q. producten die niet voldoen aan het vigerende schoonheidsideaal afgekeurd worden;</al>
+            <al>overwegende dat voedselverspilling afbreuk doet aan voedselzekerheid;</al>
+            <al>verzoekt de regering zich op Europees niveau in te spannen het systeem van kwaliteitsklassen voor groenten en fruit waar mogelijk te versoepelen;</al>
+            <al>verzoekt de regering middels onderzoek verliezen in de sector, zowel de gangbare als de biologische, kwantitatief in beeld te krijgen, en vervolgens ketenafspraken te maken om deze voedselverspilling en economische verliezen voor de boer structureel te verminderen; bijvoorbeeld door B-kwaliteitsproducten te gebruiken in verwerkt voedsel;</al>
+            <al>verzoekt de regering gelijktijdig te stimuleren dat onverhoopt afgekeurde producten alsnog een goede bestemming krijgen, zoals donaties aan voedselbanken,</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Bromet</al>
+              <al>Podt</al>
+              <al>Vedder</al>
+              <al>Holman</al>
+              <al>Flach</al>
+              <al>Van Campen</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

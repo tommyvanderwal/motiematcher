@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-A-55/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">55</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE HOOP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat uit het recente TNO-onderzoek blijkt dat sturen op brandstofprijzen om vervoersarmoede te voorkomen extreem inefficiënt is;</al>
+            <al>overwegende dat deze doelgroep met gerichtere initiatieven of alternatieve oplossingen mogelijk veel beter is geholpen;</al>
+            <al>overwegende dat vervoersarmoede naast de beschikbaarheid en kosten voor mobiliteit, ook een veel bredere armoedekwestie is en een sterke ruimtelijke-ordeningcomponent heeft;</al>
+            <al>verzoekt de regering om voorafgaande aan het debat over vervoersarmoede te inventariseren welke factoren het meest relevant zijn bij het ontstaan van vervoersarmoede en met welke beleidsmiddelen en op welke beleidsdomeinen stappen genomen kunnen worden die vervoersarmoede en autoafhankelijkheid voorkomen of bestrijden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Hoop</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

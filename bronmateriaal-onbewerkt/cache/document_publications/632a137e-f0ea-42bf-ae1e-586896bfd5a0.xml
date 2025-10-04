@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1264/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1264</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat woningcorporaties een belangrijke rol spelen in het aanbieden van betaalbare huisvesting;</al>
+            <al-groep>
+              <al>overwegende dat de vennootschapsbelasting die zij moeten afdragen, middelen onttrekt aan investeringen in nieuwbouw en verduurzaming van woningen;</al>
+              <al>gelet op de aangenomen motie Beckerman c.s. over uitspreken dat de belastingdruk van woningcorporaties de aanpak van de wooncrisis bemoeilijkt en dat woningcorporaties hiervoor gecompenseerd dienen te worden (<extref doc="kst-35286-15" soort="document" status="actief">35 286, nr. 15</extref>);</al>
+            </al-groep>
+            <al>verzoekt de regering om de winstbelasting voor woningcorporaties af te schaffen, zodat meer financiële ruimte ontstaat voor de bouw en renovatie van sociale huurwoningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>De Hoop</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

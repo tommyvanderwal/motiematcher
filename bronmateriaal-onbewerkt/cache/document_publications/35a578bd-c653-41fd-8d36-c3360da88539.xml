@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-752/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">752</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-14">14 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het belangrijk is om overgewicht aan te pakken met een brede aanpak, inclusief beperking van kindermarketing;</al>
+            <al>overwegende dat de naleving van de reclamecode nog verder verbeterd moet worden;</al>
+            <al>overwegende dat zelfregulering zich sneller aanpast dan wetgeving, die complex en moeilijk aan te passen is;</al>
+            <al>verzoekt de regering in gesprek te gaan met voedingsmiddelenproducenten en de Stichting Reclame Code om tot een voorstel te komen om naleving van de code actief te controleren, ook op social media, door online-influencers en digitale bloggers, overtredingen te melden bij de Reclame Code Commissie en een boeteclausule te introduceren voor niet-naleving, met een leeftijdsgrens van 18 jaar, en welk aanvullend beleid van de overheid daarbij nodig is;</al>
+            <al>verzoekt de regering bij de uitwerking van het wetsvoorstel kindermarketing te onderzoeken of de bepalingen uit de reclamecode kunnen worden overgenomen;</al>
+            <al>verzoekt de regerering dit najaar de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HIJUM C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-29">29 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de rol van de Kamer bij het voorbereiden en evalueren van de rijksbegroting in vergelijking met andere landen beperkt is;</al>
+            <al>overwegende dat er voor de (mede)wetgevende taak van de Kamer een Bureau Wetgeving is, maar dat de Kamer niet beschikt over een specifiek bureau begroting en verantwoording ter ondersteuning van het budgetrecht;</al>
+            <al>overwegende dat een bureau begroting en verantwoording naar voorbeeld van het Congressional Budget Office in de VS het budgetrecht van de Kamer kan versterken met een onafhankelijke analyse van de doeltreffendheid en doelmatigheid van uitgaven en inkomsten;</al>
+            <al>overwegende dat tevens moet worden bezien hoe de beschikbare capaciteit binnen de Auditdienst Rijk en de Algemene Rekenkamer kan worden ingezet ter versterking van het budgetrecht;</al>
+            <al>verzoekt het presidium om te onderzoeken of en hoe de ondersteuning van het budgetrecht van de Tweede Kamer versterkt kan worden met een bureau begroting en verantwoording,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Hijum</al>
+              <al>Heinen</al>
+              <al>De Vree</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

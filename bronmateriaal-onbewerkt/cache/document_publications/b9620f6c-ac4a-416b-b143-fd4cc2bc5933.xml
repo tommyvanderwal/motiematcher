@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-168/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">168</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat momenteel elf regio's deelnemen aan het Nationaal Programma Vitale Regio's (NPVR);</al>
+            <al>overwegende dat andere gemeenten en regio's eveneens behoefte hebben aan ondersteuning en samenwerking binnen het kader van het NPVR;</al>
+            <al>overwegende dat het behoud van voorzieningen in alle regio's van groot belang is;</al>
+            <al>verzoekt de regering om te onderzoeken op welke wijze en onder welke voorwaarden aanvullende gemeenten of regio's kunnen aansluiten bij het NPVR,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Chakor</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

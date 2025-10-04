@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-482/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">482</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het huidige systeem voor nettarieven niet differentieert naar de belasting van het net;</al>
+            <al>overwegende dat het differentiëren tussen nettarieven leidt tot een rechtvaardigere beprijzing van het gebruik en uiteindelijk ook zal leiden tot een betere benutting van de netcapaciteit;</al>
+            <al>verzoekt de regering te onderzoeken hoe tariefdifferentiatie op basis van de belasting van het net door het gebruik (in verbruik, tijd en plaats) mogelijk vormgegeven kan worden, en hierover te rapporteren aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kröger</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

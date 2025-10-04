@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-A-56/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">56</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN OLGER VAN DIJK EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor het zomerreces van dit jaar een nieuwe Werkwijzer MKBA bij MIRT-verkenningen wordt opgeleverd met daarin een betere verankering van aspecten van brede welvaart in navolging van aanbevelingen van het CPB en PBL;</al>
+            <al>constaterende dat het advies van het Planbureau voor de Leefomgeving uit 2022 over hoe brede welvaartsaspecten meegenomen kunnen worden in de MKBA's voor het MIRT aanbeveelt om ook grensoverschrijdende effecten altijd mee te nemen in MKBA's;</al>
+            <al>overwegende dat wanneer grensoverschrijdende effecten niet in MKBA's meegewogen worden, projecten in grensregio's minder kans maken op financiering in het kader van MIRT-investeringen;</al>
+            <al>verzoekt de regering om de drie aanbevelingen van het PBL over het meenemen van grensoverschrijdende effecten integraal over te nemen in de Werkwijzer MKBA bij MIRT-verkenningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

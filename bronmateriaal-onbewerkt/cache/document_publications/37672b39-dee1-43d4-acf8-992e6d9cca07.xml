@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op dit moment «te duur» de meest voorkomende reden is om een sportlidmaatschap van een vereniging op te zeggen;</al>
+            <al>overwegende dat sport geen wettelijke taak is voor gemeenten en er daarom sneller op bezuinigd kan worden;</al>
+            <al>overwegende dat uit onderzoek van het RVVB blijkt dat de overgrote meerderheid van de ondervraagde sportverenigingen stelt dat er in hun gemeentes al bezuinigd is of dat de kosten zijn verhoogd voor sport;</al>
+            <al>overwegende dat sportaccommodaties een steeds grotere kostenpost zijn voor sportverenigingen;</al>
+            <al-groep>
+              <al>verzoekt de regering om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>voor de zomer van 2025 met vijf concrete maatregelen te komen hoe regeldruk bij verenigingen te verminderen, zodat bij bestuurders meer tijd overblijft voor fondsenververing, ledenwerving en investeren in de sport zelf;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>in samenspraak met gemeentes sportverenigingen zo veel mogelijk te ontlasten bij het onderhoud en verduurzaming van hun sportaccommodaties en op deze manier bij te dragen aan het betaalbaar houden van sport;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>voor de aankomende Voorjaarsnota duidelijkheid te bieden over lokale budgetten voor sport, zodat gemeentes hier op tijd rekening mee kunnen houden in hun begroting;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering deze zaken te betrekken bij de verdere uitwerking strategie sportverenigingen,</al>
+            </al-groep>
+            <al-groep>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Inge van Dijk</al>
+              <al>Mohandis</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

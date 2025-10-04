@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36471-46/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 471</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsformatie 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">46</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN JETTEN EN EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-22">22 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat onze politiemensen behoren tot de beste ter wereld, maar dat er investeringen nodig zijn om dat zo te houden;</al>
+            <al>constaterende dat het hoofdlijnenakkoord nieuwe taken belegt bij de politie zonder daar adequate financiering voor uit te trekken;</al>
+            <al>constaterende dat de politie heeft aangegeven minimaal 400 miljoen structureel nodig te hebben om de basis en capaciteit op orde te brengen, te investeren in professionalisering van mensen en vernieuwing van systemen en werkprocessen;</al>
+            <al>verzoekt de aanstaande coalitie om ervoor te zorgen dat de politie na financiering voor de nieuwe taken zoals omschreven in het hoofdlijnenakkoord ook nog minimaal 400 miljoen structureel extra ten opzichte van het basispad toebedeeld krijgt (we dekken dit door de verplichtstelling van pensioenopbouw te verlagen voor de hoogste inkomens; burgers die alsnog vrijwillig meer willen opbouwen, blijven daarin fiscaal gefaciliteerd tot de aftoppingsgrens),</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Jetten</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

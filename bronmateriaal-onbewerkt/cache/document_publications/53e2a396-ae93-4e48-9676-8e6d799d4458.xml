@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-606/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">606</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit de cijfers van VSE blijkt dat 30.246 jongeren zonder startkwalificatie het onderwijs vroegtijdig hebben verlaten;</al>
+            <al>constaterende dat de bewindspersoon in het debat van 16 april 2024 heeft aangegeven de ambitie te hebben dit met een derde terug te brengen in 2026;</al>
+            <al>constaterende dat er situaties bestaan van mbo-studenten die in het laatste jaar van hun opleiding uitvallen wegens psychische klachten, ziekten of andere persoonlijke omstandigheden;</al>
+            <al>overwegende dat uit praktijksignalen blijkt dat herinstroom van deze studenten moeizaam verloopt en de mbo-verklaring in de praktijk niet goed functioneert;</al>
+            <al>overwegende dat er in de praktijk grote tekorten zijn in cruciale beroepen en wij als politiek en maatschappij de rode loper uit moeten rollen voor eenieder die bereid is zijn opleiding af te maken;</al>
+            <al>verzoekt de regering duidelijk in kaart te brengen wat de aard is van het probleem en concrete maatregelen uit te werken om de herinstroom te bevorderen zodat studenten terug kunnen keren zonder de hele opleiding opnieuw te hoeven doen, bijvoorbeeld met een mbo-verklaring;</al>
+            <al>verzoekt de regering de werking van de mbo-verklaring te evalueren, in kaart te brengen hoe de mbo-verklaring – ingevoerd in 2021 – serieuzer kan worden overgenomen in de praktijk en met mbo scholen in gesprek te gaan om zich er actief voor in te spannen uitgevallen studenten met een mbo-verklaring op of net onder het uitstroomniveau weer te laten instromen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Soepboer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

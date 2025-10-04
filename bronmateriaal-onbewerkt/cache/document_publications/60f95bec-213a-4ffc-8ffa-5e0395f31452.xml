@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-08-942/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>08</raadnr></dossiernummer>
+      <titel>Milieuraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">942</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-28">28 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een ernstige afname is van onder andere bestuivers, zoals wilde bijen, wat onze voedselzekerheid en welvaart bedreigt;</al>
+            <al>constaterende dat de meeste politieke partijen in de Kamer in verkiezingsprogramma's deze situatie erkennen en daarin beloven zich in te zetten om de biodiversiteit in Nederland te behouden en te herstellen, natuurgebieden te verbinden, meer natuur in de gebouwde omgeving te brengen en om de bestaande afspraken zoals rond het Natuurnetwerk Nederland uit te voeren;</al>
+            <al>constaterende dat dit tot nu toe tot weinig resultaat heeft geleid;</al>
+            <al>overwegende dat het een kwestie van goed bestuur is om op z'n minst bestaande afspraken op tijd na te komen;</al>
+            <al>verzoekt de regering om zo snel mogelijk dit jaar in beeld te brengen welke bestaande afspraken rondom de bescherming van de natuur dreigen niet te worden gehaald;</al>
+            <al>verzoekt de regering daar waar nodig is in te grijpen om ervoor te zorgen dat de afspraken alsnog op tijd worden nagekomen;</al>
+            <al>verzoekt de regering tevens om met maatregelen te komen om ervoor te zorgen dat de negatieve trend voor verschillende dierpopulaties, zoals wilde bijen en vlinders, zo snel mogelijk wordt gekeerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Bromet</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

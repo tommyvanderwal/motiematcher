@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28676-475/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 676</dossiernr>
+      </dossiernummer>
+      <titel>NAVO</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">475</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Oekraïne op verschillende momenten, waaronder in het Victory Plan, heeft aangegeven dat het land meer wapens nodig heeft, welke de huidige defensie-industrie niet in voldoende mate kan leveren;</al>
+            <al>overwegende dat meerdere Europese landen, waaronder Noorwegen en Denemarken, al zijn begonnen met het direct financieren en ondersteunen van de Oekraïense defensie-industrie;</al>
+            <al>verzoekt de regering om, met de middelen die zijn gereserveerd voor militaire steun aan Oekraïne, de Oekraïense wapenindustrie te ondersteunen door directe investeringen in de lokale productiecapaciteit, en in navolging van Denemarken en Noorwegen zo snel mogelijk over te gaan tot het sluiten van contracten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

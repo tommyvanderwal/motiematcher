@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1053/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1053</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BRUYNING EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat meer dan vijftien partijen een brandbrief hebben gestuurd naar Minister-President Schoof, omdat zij de zorgen onderschrijven van kinderrechter en docent aan de universiteit Groningen, Tromp, en de Kinderombudsvrouw, Kalverboer, geuit in het artikel «De kinderrechter heeft tien minuten om het kind van ouders in een scheidingszaak aan te horen» van 16 juli jongstleden in het NRC met betrekking tot het kindverhoor;</al>
+            <al>constaterende dat binnen de rechtspraak wordt gesteld dat deze veiligheid van kinderen wordt gewaarborgd door het kindgesprek te houden in een daarvoor geschikte werk- en/of spreekkamer of een zittingszaal, indien een kindvriendelijke ruimte om bouwtechnische of logistieke redenen niet beschikbaar is;</al>
+            <al>constaterende dat dit niet in alle gevallen gebeurt en kinderen nog steeds vlak voor zitting worden gehoord in een niet-pedagogische omgeving;</al>
+            <al>verzoekt de regering in gesprek te gaan met de rechtspraak om er gezamenlijk zorg voor te dragen dat kinderen in kindvriendelijke ruimtes worden gehoord en in een pedagogische omgeving waar voldoende tijd wordt genomen voor een kind, en de Kamer te informeren over de wijze waarop dit in alle rechtbanken geregeld kan worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

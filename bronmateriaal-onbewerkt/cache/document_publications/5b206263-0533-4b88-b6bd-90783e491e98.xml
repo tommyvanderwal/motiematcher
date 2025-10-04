@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-345/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">345</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GABRIËLS EN STOFFER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de impact en kostprijs van nieuw en gerecycled glas enorm is, vanwege de grote hoeveelheid energie die nodig is in het productie- en recycleproces;</al>
+            <al>overwegende dat de transitie van wegwerpglas naar herbruikbaar glas veel CO2-winst oplevert en de grondstoffenafhankelijkheid van het buitenland reduceert;</al>
+            <al>constaterende dat Nederland met de Bruine Nederlandse Retourfles al een goed werkend en succesvol hergebruiksysteem voor glazen flessen heeft en ook andere glazen verpakkingen, zoals wijnflessen, goed herbruikbaar zijn;</al>
+            <al>verzoekt de regering om te onderzoeken wat de mogelijkheden zijn om, naast de Bruine Nederlandse Retourfles, herbruikbaar glas te stimuleren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Gabriëls</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

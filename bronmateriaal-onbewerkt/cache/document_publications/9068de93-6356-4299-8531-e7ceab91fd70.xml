@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2084/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2084</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID CEDER C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 2070</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de aangenomen motie-Ceder de regering heeft verzocht op geëigende manieren onderzoek te doen naar de precieze rol van de Iraanse Revolutionaire Garde in de terreuraanval van 7 oktober en op basis van verzameld bewijs uitsluitsel te verkrijgen over deze betrokkenheid bij deze aanslagen,</al>
+            <al>constaterende dat de Iraanse organisatie <nadruk type="cur">Coalition Council of Islamic Revolution Forces</nadruk>, SHANA in de Farsi-afkorting, de rol van de omgekomen commandant van de Iraanse Revolutionaire Garde Mohammad Reza Zahedi bij de planning en uitvoering van de terreuraanval op 7 oktober heeft geprezen,</al>
+            <al>overwegende dat dit de betrokkenheid van de Iraanse Revolutionaire Garde bij de terreuraanval op 7 oktober verder onderbouwt,</al>
+            <al>verzoekt de regering zich in te zetten in de Raad om de Iraanse Revolutionaire Garde op de terreurlijst geplaatst te krijgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van Campen</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

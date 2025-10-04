@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-X-42/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>X</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">42</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-04">4 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Oekraïne (wederom) kampt met munitietekorten, terrein verliest en dat Noord-Korea en Houthihuurlingen zich aan de zijde van Rusland hebben aangesloten bij de oorlog en troepen hebben gestuurd;</al>
+            <al>overwegende dat de begrote Nederlandse militaire steun aan Oekraïne in 2025 vooralsnog lager is dan in 2024, terwijl andere landen massaal nieuwe steun hebben aangekondigd;</al>
+            <al>verzoekt de regering met Europese bondgenoten in overleg te treden over duurzame meerjarige invulling van de militaire steun voor Oekraïne, ook in het geval dat de Amerikaanse betrokkenheid afneemt, en om bij de Voorjaarsnota met een voorstel te komen voor een financiële invulling hiervan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Boswijk</al>
+              <al>Nordkamp</al>
+              <al>Van der Wal</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

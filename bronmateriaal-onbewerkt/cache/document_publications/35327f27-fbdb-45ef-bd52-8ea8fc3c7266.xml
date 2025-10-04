@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER HOEFF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>overwegende dat:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>passend onderwijs gericht is op het creëren van een veilige en stimulerende omgeving voor alle leerlingen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>internaliserende problematiek, zoals autisme, teruggetrokken en/of angstig gedrag, een belangrijke oorzaak is dat leerlingen thuiszitten;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>externaliserende problematiek, zoals verstorend of agressief gedrag, andere behoeften stelt aan onderwijs en begeleiding;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het (voortgezet) speciaal onderwijs een cruciale rol vervult in het bieden van een veilige plek voor leerlingen met complexe ondersteuningsbehoeften;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>scholen in cluster 4 van het speciaal onderwijs leerlingen met uiteenlopende ondersteuningsbehoeften vaak in dezelfde klas plaatsen, wat kan leiden tot onveiligheid en uitval;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>er momenteel geen wettelijk kader of wettelijke richtlijn is voor het clusteren van leerlingen op basis van hun ondersteuningsbehoeften;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de inspectie geen specifiek onderscheid maakt tussen verschillende problematieken in het toezicht;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering te onderzoeken wat er qua ondersteuning voor de leraar en de leerling nodig is wanneer leerlingen met internaliserende problematiek en leerlingen met externaliserende problematiek in het (voortgezet) speciaal onderwijs worden gemengd in de klas, en de Kamer hierover te informeren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Hoeff</al>
+              <al>Uppelschoten</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

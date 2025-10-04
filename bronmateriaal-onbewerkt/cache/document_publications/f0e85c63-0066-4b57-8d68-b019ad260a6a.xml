@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35746-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 746</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-03-11">11 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de convenanttafel dierwaardige veehouderij als randvoorwaarde stelt dat bij producten met een hoger dierenwelzijn de meerprijs door afnemers en consumenten betaald wordt;</al>
+            <al>constaterende dat het door nieuwe Europese wetgeving mogelijk is voor boeren, supermarkten en andere ketenpartijen afspraken te maken om prijzen te verhogen die direct ten goede komen aan het verdienvermogen van de boer;</al>
+            <al>verzoekt de regering om in het pakket maatregelen voor dierenwelzijn de ketenpartijen zoals de supermarkten en voedselindustrie nieuwe bindende afspraken te laten maken met de boer, waarbij zij hun producten voor een hogere prijs kunnen afzetten;</al>
+            <al>verzoekt de regering om te bezien of wettelijke minimumprijzen voor de boer wettelijk vast te leggen zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

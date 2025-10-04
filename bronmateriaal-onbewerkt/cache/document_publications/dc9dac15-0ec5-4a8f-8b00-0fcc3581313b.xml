@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-54/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">54</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat beleidskeuzes in Nederland mogelijk negatieve effecten kunnen hebben in andere delen van de wereld;</al>
+            <al>overwegende dat het in het kader van de bredewelvaartssystematiek van belang is om deze mogelijke negatieve effecten in kaart te brengen en mee te kunnen wegen in beleidsvorming;</al>
+            <al>overwegende dat planbureaus worstelen met het vinden van goede indicatoren;</al>
+            <al>overwegende dat de SDG-toets is opgenomen als standaard onderdeel van het beleidsproces, maar vaak onvoldoende wordt uitgevoerd of meegenomen;</al>
+            <al>verzoekt de regering te rapporteren over veronderstelde effecten van beleidskeuzes met oog voor de effecten elders;</al>
+            <al>verzoekt de regering tevens om met planbureaus te komen tot een goede set indicatoren om deze effecten vooraf beter meetbaar te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koekkoek</al>
+              <al>Gabriëls</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

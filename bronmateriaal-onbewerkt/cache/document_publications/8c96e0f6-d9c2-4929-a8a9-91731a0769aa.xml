@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-119/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">119</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN NISPEN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 27</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-10">10 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voor een betere bescherming van klokkenluiders het Huis voor Klokkenluiders de centrale verantwoordelijkheid binnen het stelsel krijgt en hierbij een sanctionerende en handhavende bevoegdheid moet hebben;</al>
+            <al>verzoekt de regering in gesprek met de andere autoriteiten tot een stelsel te komen waarin het Huis voor Klokkenluiders de centrale verantwoordelijkheid krijgt binnen het stelsel van externe meldkanalen en de bevoegdheid krijgt om bij de externe meldkanalen informatie op te vragen;</al>
+            <al>verzoekt de regering voorts de onderdelen van de wetswijziging die strekt tot een sanctionerende en handhavende bevoegdheid (aangenomen amendement-Leijten, <extref doc="kst-35851-51" soort="document" status="actief">35 851, nr. 51</extref>) die nu al mogelijk zijn in werking te laten treden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Inge van Dijk</al>
+              <al>Chakor</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24724-231/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 724</dossiernr>
+      </dossiernummer>
+      <titel>Studiefinanciering </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">231</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat DUO bij het opsporen van fraude met de uitwonendenbeurs gebruikmaakte van een algoritme waar mbo-niveau en familierelaties als risico-indicatoren zijn gebruikt, zonder dat er enige onderbouwing is tussen deze indicatoren en fraude;</al>
+            <al>constaterende dat handhavers aan de hand van deze informatie zelf keuzes hebben moeten maken over selectie, waardoor er ruimte is ontstaan voor selectie op basis van vooringenomenheid;</al>
+            <al>overwegende dat hierdoor een situatie is ontstaan waarbij sprake kon zijn van een discriminerende feedbackloop, waarin vrijwel alleen studenten met een migratieachtergrond zijn beschuldigd van fraude;</al>
+            <al>verzoekt de regering ervoor te zorgen dat DUO in het vervolg gaat werken met wetenschappelijk onderbouwde algoritmes, zodat wordt voorkomen dat er één groep wordt uitgepikt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Ergin</al>
+              <al>Stultiens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

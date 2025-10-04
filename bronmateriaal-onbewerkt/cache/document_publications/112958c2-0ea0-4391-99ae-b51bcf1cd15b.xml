@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35386-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 386</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris van IenW heeft laten weten 100 tot 150 miljoen euro ter beschikking te stellen voor ondernemers wanneer een totaalvuurwerkverbod in werking treedt;</al>
+            <al>constaterende dat Pyrotechniek Nederland zegt dat de sector een compensatie nodig heeft van 895 miljoen euro bij onmiddellijke inwerkingtreding;</al>
+            <al>overwegende dat een langere overgangstermijn deze kosten drastisch doet verlagen;</al>
+            <al>overwegende dat alle ondernemers in de vuurwerkbranche volledig gecompenseerd dienen te worden;</al>
+            <al>verzoekt de regering, indien het wetsvoorstel door een meerderheid van de Kamer wordt aangenomen, een minimale overgangstermijn van vijf jaar in te stellen en na deze vijf jaar vuurwerkondernemers volledig te compenseren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

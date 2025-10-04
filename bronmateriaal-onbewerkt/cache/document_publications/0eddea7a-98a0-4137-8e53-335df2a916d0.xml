@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-98/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">98</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat onderwijsinstellingen in de zogenoemde euregio's (mbo, hbo, universiteiten) veel studenten aantrekken uit buurlanden wegens hun geografische ligging;</al>
+            <al>overwegende dat onderwijsvoorzieningen vanuit het gedachtegoed van het rapport Elke regio telt! vooral beschikbaar moeten blijven in krimp- en grensregio's;</al>
+            <al>overwegende dat krimp- en grensregio's te maken hebben met een stapeling van achterstanden op diverse gebieden;</al>
+            <al>overwegende dat het kabinetsvoornemen om de instroom van internationale studenten te beperken van groot belang is voor de leefbaarheid van grote delen van het land in positieve zin, maar mogelijk een negatieve impact zal hebben op de leefbaarheid, de brede welvaart en het innovatie- en verdienvermogen van krimp- en grensregio's als Groningen, Drenthe, Overijssel, Limburg en Zeeland;</al>
+            <al>verzoekt de regering om samen met de krimp- en grensregio's passende maatregelen te treffen voor deze gebieden bij verdere invulling van het beleid rond instroom van internationale studenten, zodat de regionale arbeidsmarktsituatie, de grensoverschrijdende concurrentiekracht en het gewenste economische profiel in bovengenoemde regio's kunnen worden behouden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVII-34/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">34</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-20">20 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Palestijnen op de Westelijke Jordaanoever het slachtoffer zijn van gewelddadige kolonisten en onteigening;</al>
+            <al>overwegende dat de regering onderschrijft dat de voortdurende Israëlische bezetting van de Westelijke Jordaanoever onrechtmatig is;</al>
+            <al>van mening dat het vanuit internationaalrechtelijk perspectief van belang is dat schendingen door gewelddadige kolonisten en illegale onteigeningen worden gedocumenteerd en de schade wordt bijgehouden;</al>
+            <al>verzoekt de regering te bezien op welke wijze het komende jaar middels een bijdrage aan ngo's op de Westelijke Jordaanoever een bijdrage geleverd kan worden aan de documentatie van schendingen gepleegd door gewelddadige kolonisten en documentatie van illegale onteigeningen, alsmede ondersteuning van de slachtoffers hiervan, om hiermee naleving van het internationaal recht te ondersteunen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Baarle</al>
+              <al>Dobbe</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

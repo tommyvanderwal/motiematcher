@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3378/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3378</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RAJKOWSKI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat procesbeschikbaarheidslocaties (pbl's) een effectief middel zijn gebleken om kansarme overlastgevende asielzoekers van straat te halen, maar dat de rechter oordeelde dat de juiste grondslag hiervoor ontbrak;</al>
+            <al>overwegende dat artikel 56 van de Vreemdelingenwet een juiste grondslag zou kunnen zijn om vrijheidsbeperkende maatregelen op te leggen aan overlastgevende asielzoekers;</al>
+            <al>constaterende dat overlastgevende asielzoekers de gastvrijheid van Nederland misbruiken door onveiligheid te veroorzaken in en rondom azc's, in het ov, bij winkeliers en andere Nederlanders en hiermee ook het draagvlak en de draagkracht om asielzoekers op te vangen onder druk zetten;</al>
+            <al>constaterende dat de Minister voor overlastgevende asielzoekers slechts een meldplicht wil invoeren;</al>
+            <al>verzoekt het kabinet om zo snel mogelijk, maar uiterlijk voor 1 maart 2025, overlastgevende asielzoekers van straat te halen en vrijheidsbeperkende maatregelen op te leggen middels een pbl,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rajkowski</al>
+              <al>Van Zanten</al>
+              <al>Boomsma</al>
+              <al>Bontenbal</al>
+              <al>Diederik van Dijk</al>
+              <al>Eerdmans</al>
+              <al>Vondeling</al>
+              <al>Podt</al>
+              <al>Ceder</al>
+              <al>Piri</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36136-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 136</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek houdende de verankering van eenheden van leeruitkomsten in die wet (Wet leeruitkomsten hoger onderwijs)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat voor topsporters afspraken zijn gemaakt over flexibiliteit ten behoeve van een haalbare combinatie van sport en studie in het onderwijs in het Actieplan Flexibel Onderwijs en Topsport, het FLOT;</al>
+            <al>constaterende dat volgens het Sociaal en Cultureel Planbureau een op de vier jongeren van 16 tot en met 24 jaar zorgt voor een naaste met gezondheidsproblemen;</al>
+            <al>overwegende dat voor jonge mantelzorgers de combinatie van een opleiding volgen en zorg verlenen zwaar kan zijn;</al>
+            <al>overwegende dat jonge mantelzorgers baat kunnen hebben bij meer flexibiliteit tussen het zorgen voor een naaste met gezondheidsproblemen en het volgen van een opleiding;</al>
+            <al>van mening dat flexibiliteit in het aanbod van hoger onderwijs voor deze doelgroep daar een bijdrage aan kan leveren;</al>
+            <al>verzoekt de regering in overleg met de Vereniging Hogescholen en MantelzorgNL afspraken te maken waarmee voor jonge mantelzorgers een haalbare combinatie tussen mantelzorg en studie mogelijk wordt gemaakt, bijvoorbeeld analoog aan de afspraken die gemaakt zijn in het Actieplan Flexibel Onderwijs en Topsport;</al>
+            <al>verzoekt de regering voor de begrotingsbehandeling OCW 2025 de bevindingen hiervan naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

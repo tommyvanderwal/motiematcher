@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28345-289"/>
+      <meta name="OVERHEIDop.ondernummer" content="289"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28345"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Krul over in overleg met Veilig Thuis alvast maatregelen nemen om ouderenmishandeling bespreekbaarder te maken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Aanpak huiselijk geweld"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Aanpak huiselijk geweld; Motie; Motie van het lid Krul over in overleg met Veilig Thuis alvast maatregelen nemen om ouderenmishandeling bespreekbaarder te maken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 345</dossiernr>
+         </dossiernummer>
+         <titel>Aanpak huiselijk geweld </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">289</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KRUL</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>constaterende dat uit de evaluatie van de campagne ouderenmishandeling blijkt dat die niet leidde tot een gewenste gedragsverandering;</al>
+                     <al>constaterende dat Veilig Thuis landelijk verantwoordelijk is voor het coördineren van de aanpak;</al>
+                  </al-groep>
+                  <al>constaterende dat er een nieuw onderzoek vanuit de Universiteit van Maastricht is gestart naar de aard en omvang van ouderenmishandeling in Nederland en de Staatssecretaris op basis van meer actuele inzichten wil evalueren of de bestaande aanpak voldoende is om ouderen effectief te beschermen;</al>
+                  <al-groep>
+                     <al>overwegende dat vroegsignalering begint met bewustwording en er momenteel een taboe rust op ouderenmishandeling bespreekbaar maken;</al>
+                     <al>verzoekt de regering om het onderzoek van de Universiteit van Maastricht niet af te wachten, maar in overleg met Veilig Thuis alvast maatregelen te nemen om ouderenmishandeling meer bespreekbaar te maken,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Krul</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

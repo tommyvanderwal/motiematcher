@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1013/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1013</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PODT EN LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het kabinet COA-bewoners met psychische problemen en een beveiligingsniveau onder 3 vanaf 1 januari wil plaatsen bij «reguliere zorgaanbieders»;</al>
+            <al>overwegende dat de Nederlandse ggz hierover aangeeft dat deze bewoners door de ingewikkeldheid van hun problematiek niet zomaar plaatsbaar zijn in het huidige aanbod van de reguliere specialistische en forensische zorg;</al>
+            <al>overwegende dat ggz, gemeenten en politie in hun brief wijzen op de potentieel verregaande consequenties voor de openbare orde en veiligheid van het gebrek aan alternatieve opvang voor deze groep;</al>
+            <al-groep>
+              <al>overwegende dat er eind januari pas een eerste inzicht komt in passende alternatieven aan de hand van het Significant-onderzoek;</al>
+              <al>concluderende dat het logisch is om te zoeken naar passende plekken voor tbs'ers én voor mensen met een laag beveiligingsniveau, maar dat het een niet ten koste kan gaan van het ander;</al>
+            </al-groep>
+            <al>verzoekt het kabinet de overgangsperiode pas te beëindigen en de noodbedden in CTP Veldzicht pas af te bouwen nadat er met de sector een volwaardig alternatief is gerealiseerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

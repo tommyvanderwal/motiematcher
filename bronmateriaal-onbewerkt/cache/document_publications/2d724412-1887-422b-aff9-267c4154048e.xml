@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29924-268/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 924</dossiernr>
+      </dossiernummer>
+      <titel>Toezichtsverslagen AIVD en MIVD</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">268</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit recente onthullingen blijkt dat de voorloper van de AIVD, de Binnenlandse Veiligheidsdienst (BVD), onder anderen politici, (Joodse) verzetshelden, academici, journalisten, advocaten enkel in de gaten heeft gehouden vanwege hun politieke overtuiging en ook informatie over Indonesische activisten heeft doorgegeven aan buitenlandse inlichtingendiensten in een tijd dat in Indonesië mensen werden vermoord;</al>
+            <al>van mening dat het belangrijk is om precies te weten wat er in die tijd is gebeurd en waarom, dat volledige openbaarheid wordt verschaft en hierover verantwoording wordt afgelegd;</al>
+            <al>verzoekt de regering een extern, aanvullend, onafhankelijk, historisch onderzoek in te stellen naar het handelen van de BVD,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

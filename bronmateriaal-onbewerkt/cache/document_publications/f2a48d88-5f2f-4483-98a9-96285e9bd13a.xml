@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-27858-728"/>
+      <meta name="OVERHEIDop.ondernummer" content="728"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="27858"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Podt over het opzetten van een centraal register voor professioneel middelengebruik (t.v.v. 27858-722)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Podt"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gewasbeschermingsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Gewasbeschermingsbeleid; Motie (gewijzigd/nader); Gewijzigde motie van het lid Podt over het opzetten van een centraal register voor professioneel middelengebruik (t.v.v. 27858-722)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Planten"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>27 858</dossiernr>
+         </dossiernummer>
+         <titel>Gewasbeschermingsbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">728</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID PODT TER VERVANGING VAN DIE GEDRUKT ONDER NR. 722</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat omwonenden van lelietelers en andere akkerbouwers bezorgd zijn over hun gezondheid in relatie tot het gebruik van bestrijdingsmiddelen;</al>
+                  <al>overwegende dat onderzoekers aangeven dat meer transparantie over het gebruik van bestrijdingsmiddelen bijdraagt aan meer inzicht in de effecten ervan;</al>
+                  <al>overwegende dat meer kennis over de effecten van bestrijdingsmiddelen op die wijze kunnen bijdragen aan het vertrouwen tussen telers en omwonenden;</al>
+                  <al>overwegende dat telers hun middelengebruik al registreren;</al>
+                  <al>overwegende dat het Ministerie van LVVN co-financier wordt aan het nieuwe systeem voor benchmarking voor bestrijdingsmiddelengebruik;</al>
+                  <al>verzoekt de regering om in overleg met relevante kennisinstellingen en sector, een centraal register op te zetten op basis van de benchmarkingsystematiek waarbij het professioneel middelengebruik op percelen na toepassing binnen een afzienbare tijd wordt geregistreerd;</al>
+                  <al>verzoekt de regering om de toegang tot eventuele privacygevoelige informatie op voorwaarden beschikbaar te maken voor kennisinstellingen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Podt</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

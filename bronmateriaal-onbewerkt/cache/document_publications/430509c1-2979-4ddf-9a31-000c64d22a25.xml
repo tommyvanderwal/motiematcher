@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1059/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1059</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het merendeel van Veilig Thuis-organisaties er niet in slaagt om meldingen van huiselijk geweld binnen de vastgestelde termijn van vijf dagen op te pakken;</al>
+            <al>constaterende dat Veilig Thuis momenteel alleen meldingen van acute onveiligheid zonder vertraging kan behandelen en steeds meer meldingen van maanden geleden waarbij onder andere sprake is van structurele mishandeling of verwaarlozing nu op een lange wachtlijst komen te staan;</al>
+            <al>overwegende dat het niet tijdig verwerken van meldingen van huiselijk geweld verschillende complexe oorzaken en knelpunten kent;</al>
+            <al>overwegende dat de Inspectie Gezondheidszorg en Jeugd zich ernstige zorgen maakt over de veiligheid van kinderen, gezinnen en huishoudens waarvoor niet tijdig een veiligheidsbeoordeling wordt uitgevoerd;</al>
+            <al>overwegende dat vanuit internationale verplichtingen aangaande het bestrijden van geweld tegen vrouwen en huiselijk geweld meer centrale coördinatie in de aanpak van huiselijk geweld en kindermishandeling noodzakelijk is;</al>
+            <al>verzoekt de regering een vorm van nationale coördinatie huiselijk geweld en kindermishandeling op te zetten om ervoor te zorgen dat alle organisaties die te maken krijgen met meldingen van huiselijk geweld weer adequaat en tijdig actie kunnen ondernemen bij alle meldingen van huiselijk geweld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Bruyning</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

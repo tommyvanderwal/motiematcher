@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1075/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1075</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland zich heeft gecommitteerd aan het Internationaal Verdrag inzake de rechten van het kind (IVRK);</al>
+            <al>van mening dat kinderen een actieve stem moeten krijgen in beleid en besluitvorming die hen aangaan;</al>
+            <al>overwegende dat in het rapport Een Jonge Blik op Kinderrechten waardevolle aanbevelingen zijn gedaan ter verbetering van de naleving en borging van kinderrechten;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te onderzoeken of er maatregelen kunnen worden genomen om de actieve participatie van kinderen bij beleid en besluitvorming te stimuleren en structureel te borgen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te onderzoeken op welke wijze de aanbevelingen uit Een Jonge Blik op Kinderrechten geïmplementeerd kunnen worden en de Kamer hierover te informeren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te rapporteren over de voortgang van deze maatregelen binnen zes maanden,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Bruyning</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

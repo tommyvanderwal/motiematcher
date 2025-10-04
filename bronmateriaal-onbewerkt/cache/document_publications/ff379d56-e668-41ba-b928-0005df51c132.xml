@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1467/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1467</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Belastingdienst jarenlang het Risico Analyse Model (RAM) heeft gebruikt bij burgers en bedrijven, en daarbij niet voldeed aan de wettelijke eisen op het gebied van privacy, beveiliging en de Archiefwet;</al>
+            <al>constaterende dat bij het onderzoek van KPMG veertien spreadsheets zijn aangetroffen gebaseerd op zeventien nationaliteiten en de Belastingdienst op dit moment aan het uitzoeken is of er sprake is geweest van ongelijke behandeling;</al>
+            <al>constaterende dat in hetzelfde onderzoek 35 andere spreadsheets zijn aangetroffen gebaseerd op postcode en in mindere mate op achternaam, IP-adres en fiscaal-strafrechtelijke gegevens;</al>
+            <al>van mening dat gelet op de mogelijke schending van grondrechten en ongelijke behandeling de onderste steen boven moet komen;</al>
+            <al>verzoekt de regering de 35 aangetroffen spreadsheets op postcode, achternaam, IP-adres en fiscaal-strafrechtelijke gegevens mee te nemen in het voorgenomen onderzoek;</al>
+            <al>verzoekt de regering tevens het onderzoek extern te laten toetsen op volledigheid en betrouwbaarheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

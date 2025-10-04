@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-630/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">630</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HOUWELINGEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-12">12 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de elektriciteitsprijs in Nederland het hoogst is van heel Europa;</al>
+            <al>constaterende dat vanwege deze hoge elektriciteitsprijzen bedrijven Nederland inmiddels al hebben verlaten;</al>
+            <al>overwegende dat hiermee het verdienvermogen van Nederland wordt aangetast;</al>
+            <al>verzoekt de regering te onderzoeken in hoeverre de hoge elektriciteitsprijzen in Nederland ervoor zorgen dat bedrijven uit Nederland zijn verdwenen of</al>
+            <al>overwegen uit Nederland te vertrekken en welke maatregelen genomen zouden kunnen worden om te voorkomen dat bedrijven Nederland verlaten vanwege de hoge elektriciteitsprijs in ons land,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Houwelingen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

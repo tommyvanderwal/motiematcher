@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1442/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1442</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voor het voldoen aan de verplichtingen van het klimaatverdrag van Parijs de transitie van fossiel naar duurzame energie cruciaal is;</al>
+            <al>overwegende dat onze havens op dit moment nog belangrijke spelers zijn in het importeren, verwerken en verhandelen van fossiele grondstoffen;</al>
+            <al>constaterende dat uit recent onderzoek blijkt dat de Rotterdamse haven hierdoor (direct en indirect) verantwoordelijk is voor een CO2-uitstoot van 604 megaton CO2-equivalenten;</al>
+            <al>overwegende dat ruim de helft van het maritiem vervoerde volume fossiele brandstoffen betreft en dat het verdwijnen van deze markt grote gevolgen zal hebben voor de toekomst van onze havens;</al>
+            <al>verzoekt de regering om met de havens en haar publieke aandeelhouders in gesprek te gaan over een concreet afbouwpad van fossiele grondstoffen, en hierover na de Voorjaarsbesluitvorming terug te rapporteren aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Thijssen</al>
+              <al>Kröger</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

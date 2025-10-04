@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29665-509/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 665</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Schipholbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">509</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Schiphol Group in april van dit jaar «voor de zekerheid» de stikstofrechten van twee Zuid-Hollandse boeren heeft gekocht, zodat Rotterdam The Hague Airport een natuurvergunning kon krijgen;</al>
+            <al>constaterende dat een woordvoerder van de Schiphol Group destijds meldde dat de stikstofrechten bij de overheid aangeboden zouden worden als deze toch overbodig bleken;</al>
+            <al>constaterende dat de Minister met de Schiphol Group in gesprek gaat over hoe deze vrijgekomen stikstofruimte een bijdrage kan leveren aan de oplossing voor andere knelpunten;</al>
+            <al>overwegende dat het legaliseren van PAS-melders nog steeds zeer traag verloopt en dit de hoogste prioriteit zou moeten hebben;</al>
+            <al>verzoekt de regering om de Schiphol Group direct bij de transactie van de stikstofrechten te verzoeken de verworven stikstofdepositieruimte voor Rotterdam The Hague Airport bij de overheid aan te bieden om in te kunnen zetten voor het legaliseren van PAS-melders,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Hertzberger</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

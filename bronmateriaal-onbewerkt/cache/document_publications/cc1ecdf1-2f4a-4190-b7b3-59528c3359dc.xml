@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35646-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 646</dossiernr>
+      </dossiernummer>
+      <titel>Regels voor het inzichtelijk maken van donaties ontvangen door maatschappelijke organisaties en tot het tegengaan van ondermijning door maatschappelijke organisaties, alsmede tot wijziging van het Burgerlijk Wetboek, de Handelsregisterwet 2007 en de Wet op de economische delicten in verband met het deponeren van de balans en de staat van baten en lasten door stichtingen (Wet transparantie en tegengaan ondermijning door maatschappelijke organisaties)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering invoering van de Wtmo overweegt per 1 juli 2026;</al>
+            <al>overwegende dat de problematiek die dit wetsvoorstel adresseert, zeer urgent is en het politieke debat hierover al meer dan tien jaar gevoerd wordt;</al>
+            <al>overwegende dat de Kamer al jaren wacht op behandeling van deze wet;</al>
+            <al>spreekt uit dat de Wtmo indien deze wordt aangenomen zo snel mogelijk in werking moet treden;</al>
+            <al>verzoekt de regering alles in het werk te zetten om de Wtmo per 1 januari 2026 in te kunnen voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Becker</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

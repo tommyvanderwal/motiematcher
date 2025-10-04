@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-359/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">359</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER VELDE </titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-04-14">14 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Commissariaat voor de Media een wettelijke taak heeft in het waarborgen van een pluriform en onafhankelijk media-aanbod;</al>
+            <al>constaterende dat in het kader van een mogelijke hervorming van het publieke omroepbestel ook het functioneren van het toezichthoudende orgaan tegen het licht gehouden moet worden;</al>
+            <al>van mening dat het Commissariaat voor de Media een cruciale positie bekleedt in de beoordeling van de pluriformiteit van het media-aanbod en dat deze taak uitsluitend goed kan worden uitgevoerd wanneer het Commissariaat zelf op volstrekt neutrale en onafhankelijke wijze opereert;</al>
+            <al>verzoekt de regering om in het licht van de aankomende hervorming ook te komen met voorstellen voor een herziening van het functioneren, de samenstelling en de werkwijze van het Commissariaat voor de Media, met als uitgangspunt dat het Commissariaat institutioneel, ideologisch en politiek onpartijdig moet zijn en ook zichtbaar als zodanig moet functioneren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Velde</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

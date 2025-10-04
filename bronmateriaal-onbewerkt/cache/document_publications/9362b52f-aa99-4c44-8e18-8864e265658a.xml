@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36546-56/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 546</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Jeugdwet, de Wet marktordening gezondheidszorg en enige andere wetten teneinde te bevorderen dat jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering steeds voldoende beschikbaar zijn (Wet verbetering beschikbaarheid jeugdzorg)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">56</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DEN HIL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de beëindiging van jeugdzorgtrajecten voor jongeren ingrijpende en onzekere gevolgen kan hebben;</al>
+            <al>constaterende dat jeugdhulpverleners hierdoor soms, omdat er geen terugvalmogelijkheid is, behandelingen onnodig lang laten duren;</al>
+            <al>overwegende dat het goed is om een jongere te laten ervaren hoe zonder hulp zijn of haar leven weer opgepakt kan worden, maar dat deze jongeren vaak hoge drempels ervaren om weer hulp te vragen en te ontvangen;</al>
+            <al>overwegende dat het een jongere en professionals zekerheid geeft als er nog een terugvalmogelijkheid is om binnen het bestaande zorgtraject hulp te kunnen ontvangen, waardoor er een pauzeknop ontstaat;</al>
+            <al>verzoekt de regering om mogelijk te maken dat jongeren binnen twee jaar nadat hun jeugdhulprelatie eindigt, zonder indicatie weer een consult jeugdhulp kunnen ontvangen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van den Hil</al>
+              <al>Bruyning</al>
+              <al>Krul</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

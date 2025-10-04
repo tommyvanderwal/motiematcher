@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-431/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">431</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PODT EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-25">25 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat boeren en specifiek schapenhouders hun vee willen en moeten beschermen tegen de wolf, maar dat het plaatsen en verplaatsen van wolfwerende maatregelen veel moeite en geld kost;</al>
+            <al>overwegende dat er veel Europese subsidiepotten beschikbaar zijn om deze maatregelen, inclusief de implementatie, te financieren, zoals het EAGF, het GLB, de ecoregelingen, het ELFPO en het LIFE-programma;</al>
+            <al>overwegende dat de Landelijke Aanpak Wolven tot juni en verder de tijd neemt om deze fondsen te inventariseren en vervolgstappen te bepalen, terwijl de fondsen reeds beschikbaar en makkelijk te vinden zijn;</al>
+            <al>van mening dat we niet onnodig lang moeten wachten om boeren tegemoet te komen bij het plaatsen van wolfwerende maatregelen;</al>
+            <al>verzoekt de regering om in samenwerking met de provincies en de RVO te zorgen voor laagdrempelige toegang voor boeren tot de relevante Europese fondsen, en hierover voor de zomer aan de Kamer te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-425/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">425</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOOMSMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-25">25 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat wolven schrandere dieren zijn, die zich snel kunnen aanpassen aan nieuwe omstandigheden, waardoor ze zich nu steeds meer verspreiden naar gebieden met veel mensen;</al>
+            <al>constaterende dat wolven hun schuwheid kunnen verliezen wanneer zij langdurig in contact komen met mensen en hun vee en huisdieren zonder dat dit gepaard gaat met negatieve prikkels;</al>
+            <al>constaterende dat in de Landelijke Aanpak Wolven is vastgesteld dat als er sprake is van probleemsituaties en/of probleemwolven er wordt gekeken naar de inzet van aversieve conditionering: het actief afleren van gewenning aan mensen door wolven af te schrikken of weg te jagen;</al>
+            <al>overwegende dat het belangrijk is om in te zetten op preventie, dus het voorkomen dat de wolven wennen aan mensen, en het dus zinnig is om ze te verjagen en af te schrikken voordat ze zich ontwikkelen tot probleemwolven;</al>
+            <al>constaterende dat een rechter onlangs heeft geoordeeld dat, mits goed onderbouwd, het gebruik van paintballgeweren als aversieve maatregel toegestaan kan zijn;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>om bij het uitwerken van de inzet van aversieve conditionering ook de mogelijkheden mee te nemen voor een preventieve inzet van die methodes, om probleemsituaties en probleemwolven juist te voorkomen, en de wolvenescalatieladder zo veel mogelijk conform dat streven vorm te geven;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>daarbij, naast andere methoden, ook de inzet van paintballgeweren te betrekken om wolven te verjagen en bang te maken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>beleid voor het verlenen van toestemming voor dergelijke maatregelen zo eenvoudig en laagdrempelig mogelijk vorm te geven,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Van Campen</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1056/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1056</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet heeft aangekondigd de regionale veiligheidsteams in de jeugdbescherming in 25 regio's onder gemeentelijke verantwoordelijkheid te willen organiseren;</al>
+            <al>overwegende dat het kabinet daarmee in de huidige plannen de jeugdzorg, jeugdbescherming en jeugdreclassering op vier verschillende niveaus wil organiseren, namelijk de specialistische jeugdzorg in 42 jeugdregio's, de niet-specialistische jeugdzorg bij 342 gemeenten, en de jeugdreclassering op rijksniveau;</al>
+            <al>overwegende dat samenwerking tussen deze domeinen essentieel is, maar door deze regio-indelingen zeer onoverzichtelijk zou worden;</al>
+            <al>verzoekt de regering om een alternatief plan uit te werken, waarin de jeugdbescherming onder verantwoordelijkheid van de rijksoverheid wordt georganiseerd, en geen onomkeerbare stappen te nemen bij de invoering van de rvt's voordat dit plan met de Kamer besproken is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-694/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">694</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID NIJHOF-LEEUW</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de cijfers met betrekking tot de hoeveelheid gebruikte gewasbeschermingsmiddelen bij het CBS periodiek gebaseerd worden op basis van een enquête;</al>
+            <al>overwegende dat de diverse sectoren in transitie zijn en het wenselijk is om het feitelijk gebruik van gewasbeschermingsmiddelen in beeld te hebben om te kunnen sturen in beleid;</al>
+            <al>overwegende dat het wenselijk is terughoudendheid te betrachten bij het nemen van onomkeerbare besluiten totdat er op basis van feitelijk gebruik keuzes gemaakt kunnen worden;</al>
+            <al>verzoekt de regering te komen met een degelijke monitoring voor gewasbeschermingsmiddelen zodat beleid op basis van feiten en keuzes tot stand komt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Nijhof-Leeuw</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27625-676/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 625</dossiernr>
+      </dossiernummer>
+      <titel>Waterbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">676</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-08">8 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland, een laaggelegen delta, kwetsbaar is voor een veranderend klimaat en voor weersextremen;</al>
+            <al>overwegende dat het voor onze toekomstige welvaart en veiligheid van groot belang is om water en bodem sturend te laten zijn bij ruimtelijke keuzes;</al>
+            <al>overwegende dat er heel goede stappen zijn gezet in het borgen van de structurerende keuzes uit water en bodem sturend, maar dat het onduidelijk is in hoeverre het kabinet voornemens is om dit voort te zetten;</al>
+            <al>verzoekt de regering om onverkort door te gaan met het uitwerken en toepassen van water en bodem sturend en om waar zich maatschappelijke knelpunten voordoen, zoals rondom woningbouw, deze binnen de kaders van water en bodem sturend op te lossen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bamenga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

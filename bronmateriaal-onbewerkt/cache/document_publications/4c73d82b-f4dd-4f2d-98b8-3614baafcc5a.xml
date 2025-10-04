@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29502-200"/>
+      <meta name="OVERHEIDop.ondernummer" content="200"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29502"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Thijssen over zorgen dat de krimp van de postmarkt niet ten koste gaat van werknemers"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Thijssen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector; Motie; Motie van het lid Thijssen over zorgen dat de krimp van de postmarkt niet ten koste gaat van werknemers"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 502</dossiernr>
+         </dossiernummer>
+         <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">200</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID THIJSSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat sinds de privatisering van de postmarkt er een nieuwe cao is opgetuigd met fors mindere arbeidsvoorwaarden dan de originele, pre-privatiserings-cao;</al>
+                  <al>constaterende dat PostNL een monopolist op de postmarkt is;</al>
+                  <al>overwegende dat het aantal poststukken jaarlijks afneemt waardoor er een grote druk is om arbeidskosten te verlagen;</al>
+                  <al>overwegende dat er grote veranderingen zullen zijn de komende jaren in de post-, pakket- en foldermarkt;</al>
+                  <al>verzoekt de regering om te garanderen dat de krimp van de postmarkt niet ten koste gaat van de werknemers door in het verdere wetgevingsproces vast te leggen dat aan elke wijziging van de dienstverlening of financiering een bindend met in elk geval de twee grootste vakbonden afgesloten sociaaltoekomstpact als onlosmakelijke voorwaarde is verbonden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Thijssen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

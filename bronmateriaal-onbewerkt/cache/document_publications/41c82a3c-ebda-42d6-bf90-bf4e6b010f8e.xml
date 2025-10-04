@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36715-13"/>
+      <meta name="OVERHEIDop.ondernummer" content="13"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36715"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bontenbal en Van Campen over verder werken aan voor Nederland cruciale Europese onderwerpen die niet kunnen wachten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Bontenbal"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Staat van de Europese Unie 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Staat van de Europese Unie 2025; Motie; Motie van de leden Bontenbal en Van Campen over verder werken aan voor Nederland cruciale Europese onderwerpen die niet kunnen wachten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 715</dossiernr>
+         </dossiernummer>
+         <titel>Staat van de Europese Unie 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">13</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BONTENBAL EN VAN CAMPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de regering in haar brief over de Staat van de Unie aangeeft dat we op een kantelpunt staan in Europa en dat de keuze is om ofwel gevormd te worden door de gebeurtenissen ofwel onze eigen toekomst vorm te geven;</al>
+                  <al>constaterende dat de regering inmiddels demissionair is;</al>
+                  <al>overwegende dat de Europese Unie geconfronteerd wordt met geopolitieke, economische en maatschappelijke uitdagingen die vragen om een ambitieus en samenhangend Nederlands antwoord;</al>
+                  <al>overwegende dat de Europese Unie geen rekening houdt met stilstand in Nederland en doorwerkt aan grote maatschappelijke uitdagingen;</al>
+                  <al>verzoekt de regering verder te werken aan cruciale Europese onderwerpen voor Nederland die niet kunnen wachten, zoals de uitwerking van Draghi en Letta, veiligheid, migratie en klimaat in combinatie met het nieuwe MFK, waarbij draagvlak in het parlement voor Europese voorstellen leidend is;</al>
+                  <al>verzoekt de regering zich daartoe in de EU als een constructieve, positieve en realistische bondgenoot op te stellen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bontenbal</al>
+                     <al>Van Campen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

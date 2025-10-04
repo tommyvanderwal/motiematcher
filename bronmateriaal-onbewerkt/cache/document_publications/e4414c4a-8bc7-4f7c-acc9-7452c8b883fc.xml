@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-752/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">752</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er wordt gewerkt aan een wet om rechtstreekse bekostiging van het praktijkonderwijs mogelijk te maken;</al>
+            <al>constaterende dat hierdoor de noodzaak van het afgeven van een toelaatbaarheidsverklaring, oftewel tlv, door het samenwerkingsverband wegvalt;</al>
+            <al>constaterende dat het aanvragen van een tlv voor gedoe, extra bureaucratie en stress zorgt;</al>
+            <al>overwegende dat door het moeten aanvragen van een tlv praktijkonderwijsleerlingen in een uitzonderingspositie worden geplaatst;</al>
+            <al>verzoekt de regering om voor het wetsvoorstel er is een verkenning te doen naar het afschaffen van de tlv, inclusief financiële gevolgen, en deze naar de Kamer te sturen zodat ze meegenomen kan worden in het wetstraject,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Rooderkerk</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

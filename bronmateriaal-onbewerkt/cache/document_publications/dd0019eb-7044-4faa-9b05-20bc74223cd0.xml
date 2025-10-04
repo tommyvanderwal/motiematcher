@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33578-133/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 578</dossiernr>
+      </dossiernummer>
+      <titel>Eerstelijnszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">133</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat consultatiebureaus bijdragen aan preventie en vroegsignalering van gezondheidsproblemen voor alle zuigelingen en peuters;</al>
+            <al>constaterende dat de jeugdgezondheidszorg alleen voorkomt in de begrippenlijst van de Visie eerstelijnszorg 2030;</al>
+            <al>overwegende dat de jeugdgezondheidszorg een steviger positie verdient ter verbetering van gezondheid en vermindering van werkdruk elders in de eerstelijnszorg;</al>
+            <al>verzoekt de regering de positie van en verbinding met de jeugdgezondheidszorg nadrukkelijk mee te nemen in de uitwerking van de Visie eerstelijnszorg 2030,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tielen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

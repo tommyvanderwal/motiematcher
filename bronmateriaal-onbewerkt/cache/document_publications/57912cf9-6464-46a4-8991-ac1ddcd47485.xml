@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36618-30/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 618</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Meststoffenwet in verband met de voorwaarden over de maximale mestproductie in de derogatiebeschikking 2022–2025 (Wet wijziging Meststoffenwet in verband met de maximale mestproductie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">30</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN HOLMAN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-10-07">7 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in de varkens- en pluimveehouderij vaak sprake is van een jaarlijkse variatie in de omvang van het aantal dieren op de bedrijven, bijvoorbeeld door periodes van leegstand of de overgang naar meer duurzame rassen en veehouderijsystemen, waardoor deze sectoren veel gebruikmaken van zogenaamde kortdurende lease;</al>
+            <al>overwegende dat afroming van productierechten noodzakelijk is voor verlaging van de mestproductie, maar dat afroming in de varkens- en pluimveehouderij kan leiden tot grote verstoring van de leasemarkt;</al>
+            <al>constaterende dat daarom in het wetsvoorstel een uitzondering is opgenomen voor deze sectoren, namelijk in het geval van heen en terug leasen en in het geval van herhaalde kortdurende lease;</al>
+            <al>verzoekt de regering in overleg met de pluimvee- en varkenshouderij bij de weegmomenten te monitoren hoe de leasemarkt voor pluimvee- en varkensrechten zich ontwikkelt en, indien blijkt dat er ongewenste effecten optreden, te bezien of en welke maatregelen genomen kunnen worden om ongewenste effecten tegen te gaan;</al>
+            <al>verzoekt de regering om samen met beide sectoren in gesprek te gaan over een toekomstbestendig systeem waarbij veehouders niet afhankelijk zijn van de leasemarkt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

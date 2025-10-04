@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33552-124/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 552</dossiernr>
+      </dossiernummer>
+      <titel>Slachtofferbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">124</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de problematiek van sektes nog steeds erg groot is en het zeer moeilijk is om uit gesloten gemeenschappen te treden omdat mensen te maken krijgen met sociaal doodverklaren of andere vormen van dwang en (soms ernstig) beschadigd raken;</al>
+            <al>verzoekt de regering te onderzoeken hoe mensen beter beschermd kunnen worden tegen sektes en of, en zo ja hoe, voorkomen kan worden dat kinderen formeel toetreden tot gesloten gemeenschappen;</al>
+            <al>verzoekt de regering voorts in het kader van de aanstaande nieuwe wet omtrent strafbaarstelling van psychisch geweld het beleid rondom sektes beter vorm te geven en hierover al in een vroeg stadium te overleggen met deskundigen, Fier en de politie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

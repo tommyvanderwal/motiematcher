@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36704-66"/>
+      <meta name="OVERHEIDop.ondernummer" content="66"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-27"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36704"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Boomsma c.s. over zorgen dat de IND het asielbeleid effectief kan uitvoeren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Bontenbal"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet); Motie; Motie van het lid Boomsma c.s. over zorgen dat de IND het asielbeleid effectief kan uitvoeren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 704</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Vreemdelingenwet 2000 en de Algemene wet bestuursrecht in verband met maatregelen om de asielketen te ontlasten en de instroom van asielzoekers te verminderen (Asielnoodmaatregelenwet)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">66</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BOOMSMA C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-26">26 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Immigratie- en Naturalisatiedienst (IND) kampt met structurele uitdagingen zoals fluctuerende en ontoereikende financiering, complexe en langdurige procedures, en grote achterstanden in het behandelen van asielaanvragen;</al>
+                  <al>overwegende dat de IND het komende jaar voor grote uitdagingen staat, zoals het implementeren van de Asielnoodmaatregelenwet, het tweestatusstelsel en het Europees Migratiepact;</al>
+                  <al>van mening dat effectieve uitvoering van het asielbeleid prioriteit nummer een moet zijn en alleen mogelijk is wanneer de IND beschikt over voldoende en stabiele middelen en eenvoudigere en kortere procedures;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>er zorg voor te dragen dat aan de randvoorwaarden wordt voldaan voor de IND om deze uitdagingen aan te kunnen gaan en achterstanden weg te kunnen werken;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in kaart te brengen of en wanneer aanvullende maatregelen daartoe noodzakelijk zijn en die zo snel mogelijk te nemen en waar nodig voor te leggen aan de Kamer;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>verder in te zetten op het verkorten en versimpelen van de asielprocedures en daartoe mogelijkheden te inventariseren en voor te leggen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>tweemaal per jaar een overleg tussen de IND en de Tweede Kamer te faciliteren, zodat de IND knelpunten tijdig kan agenderen en de Kamer beter zicht krijgt op noodzakelijke verbeteringen,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Boomsma</al>
+                     <al>Bontenbal</al>
+                     <al>Diederik van Dijk</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

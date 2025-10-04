@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36045-225"/>
+      <meta name="OVERHEIDop.ondernummer" content="225"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36045"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Paternotte c.s. over positief besluiten over de vestiging van het agressietribunaal in Den Haag"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Teunissen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.J. Eerdmans"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D. Yesilgöz-Zegerius"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.C.G.M. Timmermans"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="Y.J. van Hijum"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Situatie in Oekraïne"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-11"/>
+      <meta name="DC.title" scheme="" content="Situatie in Oekraïne; Motie; Motie van het lid Paternotte c.s. over positief besluiten over de vestiging van het agressietribunaal in Den Haag"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Immigratie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 045</dossiernr>
+         </dossiernummer>
+         <titel>Situatie in Oekraïne</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">225</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-11">11 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de grootschalige Russische agressieoorlog in Oekraïne gepaard gaat met grove schendingen van het internationaal recht, zoals het ontvoeren van Oekraïense kinderen, het bombarderen van ziekenhuizen en het martelen van Oekraïense krijgsgevangen;</al>
+                  <al>overwegende dat is besloten tot oprichting van een speciaal tribunaal;</al>
+                  <al>overwegende dat Nederland reeds gastland is van veel internationale hoven en tribunalen, gevestigd in de internationale stad van vrede en recht;</al>
+                  <al>overwegende dat het kabinet voornemens is om op korte termijn een besluit te nemen over het al dan niet vestigen van het tribunaal in Nederland;</al>
+                  <al>overwegende dat een zorgvuldige vestiging van het tribunaal vereist dat tijdig wordt gezorgd voor adequate randvoorwaarden, waaronder maatregelen ter bescherming van de binnenlandse veiligheid;</al>
+                  <al>verzoekt het kabinet positief te besluiten over de vestiging van het agressietribunaal in Den Haag, dit besluit zo snel als mogelijk over te brengen aan internationale partners en de voorbereidingen voor de oprichting van het agressietribunaal te starten,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Paternotte</al>
+                     <al>Van Hijum</al>
+                     <al>Timmermans</al>
+                     <al>Boswijk</al>
+                     <al>Yeşilgöz-Zegerius</al>
+                     <al>Dassen</al>
+                     <al>Dobbe</al>
+                     <al>Ceder</al>
+                     <al>Eerdmans</al>
+                     <al>Teunissen</al>
+                     <al>Van Baarle</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

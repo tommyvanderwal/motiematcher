@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36658-8"/>
+      <meta name="OVERHEIDop.ondernummer" content="8"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36658"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Dobbe c.s. over onderzoek naar economisch geweld tegen vrouwen en de wenselijkheid van strafbaarstelling hiervan"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.J. van der Werf"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B. Becker"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld; Motie; Motie van het lid Dobbe c.s. over onderzoek naar economisch geweld tegen vrouwen en de wenselijkheid van strafbaarstelling hiervan"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 658</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">8</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DOBBE C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-22">22 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat economisch geweld tegen vrouwen een belangrijk aspect is van gendergerelateerd geweld en de afhankelijkheidspositie van vrouwen;</al>
+                  <al>overwegende dat economisch geweld specifieke aandacht verdient in het tegengaan van gendergerelateerd geweld, waaronder femicide;</al>
+                  <al>verzoekt de regering te onderzoeken wat de aard en schaal van economisch geweld tegen vrouwen in Nederland is en ook de wenselijkheid van het specifiek strafbaar stellen van economisch geweld in dit onderzoek mee te nemen, en hierover de Kamer te informeren;</al>
+                  <al>verzoekt de regering tevens zich in te spannen om de bewustwording over economisch geweld te vergroten,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dobbe</al>
+                     <al>Becker</al>
+                     <al>Van der Werf</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

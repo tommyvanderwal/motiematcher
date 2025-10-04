@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1627/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1627</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering in 2013 beloofde in 2023 concrete doelen te halen om de watervervuiling door pesticiden terug te dringen, vastgelegd in de nota Gezonde Groei, Duurzame Oogst;</al>
+            <al>constaterende dat het Compendium voor de Leefomgeving eind 2023 op basis van de toen bekende gegevens concludeerde dat die doelen hoogstwaarschijnlijk niet zijn gehaald, met alle consequenties van dien voor ons drinkwater, in het water levende dieren, en het halen van de Kaderrichtlijn Water;</al>
+            <al>verzoekt de regering op korte termijn te evalueren of de doelen uit de nota Gezonde Groei, Duurzame Oogst zijn bereikt en, zo niet, met spoed aanvullende maatregelen te nemen om die doelen alsnog te halen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić.</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

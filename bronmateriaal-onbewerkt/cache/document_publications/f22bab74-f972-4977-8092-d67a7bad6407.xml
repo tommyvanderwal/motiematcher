@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-30/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">30</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN VROONHOVEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de vrijheid van godsdienst in de Grondwet is opgenomen, maar dat niet expliciet het recht bestaat om geen religie te hebben of afstand te doen van een religie;</al>
+            <al>van mening dat geloofsvrijheid ook inhoudt dat iemand een religie moet kunnen verlaten en dat die keuze gerespecteerd wordt;</al>
+            <al>overwegende dat het goed is om expliciet te benoemen dat bij geloofsvrijheid het recht op geloofsafval daar integraal onderdeel van uitmaakt;</al>
+            <al>verzoekt de regering om binnen anderhalf jaar te komen met een voorstel tot wijziging van artikel 6 van de Grondwet en het recht van geloofsafval als grondrecht op te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Vroonhoven</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36180-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 180</dossiernr>
+      </dossiernummer>
+      <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HIRSCH EN TEUNISSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat door de Nederlandse overheid ondersteunde handel en investeringen ook plaatsvinden in instabiele regio's waarin sprake is van dreiging van conflicten en geweld;</al>
+            <al>overwegende dat dergelijke projecten door geweld stil kunnen komen te vallen, en ook voeding kunnen geven aan conflicten en gewelddadigheden in toch al instabiele regio's;</al>
+            <al>verzoekt de regering om te onderzoeken hoe het risico op conflict zwaar meegewogen kan worden bij verstrekking van exportkredietverzekeringen en andere handels- en investeringsbevorderende instrumenten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hirsch</al>
+              <al>Teunissen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

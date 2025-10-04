@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36584-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 584</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Handelsregisterwet 2007 en de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter beperking van de toegang tot informatie over uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten alsmede van de toegang tot informatie over uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Wijzigingswet beperking toegang UBO-registers)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN IDSINGA</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-10">10 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister in zijn visie op de financiÃ«le sector heeft aangekondigd tot een nieuwe vorm van gegevensdeling tussen banken te willen komen;</al>
+            <al>overwegende dat de Minister hier nog geen concreet voorstel voor heeft gedaan;</al>
+            <al>overwegende dat er aanhoudende meldingen zijn van gevallen waarin er bankrekeningen worden opgeheven, dan wel niet toegekend worden, soms voor hele sectoren zoals de autohandel, en de Minister heeft aangegeven dat dit zo niet langer kan;</al>
+            <al>overwegende dat een nieuwe vorm van gegevensdeling de toegang tot het betalingsverkeer niet verder moet belemmeren;</al>
+            <al>verzoekt de Minister ervoor zorg te dragen dat een nieuwe vorm van gegevensdeling niet leidt tot een weigerlijst met (rechts)personen die de toegang tot het betalingsverkeer moet worden ontzegd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Idsinga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

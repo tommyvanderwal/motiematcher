@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-XVII-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Wijziging van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2024 (wijziging samenhangende met de Voorjaarsnota)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-19">19 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering nog steeds voornemens is toe te treden tot het Verdrag van Aken met Frankrijk, Spanje en Duitsland;</al>
+            <al>overwegende dat hiermee de democratische zeggenschap over het Nederlandse wapenexportbeleid afneemt;</al>
+            <al>overwegende dat is gebleken dat, ondanks dat dezelfde exportcriteria gelden, Frankrijk wapens of wapenonderdelen heeft geleverd aan Saudi-Arabië en de Verenigde Arabische Emiraten;</al>
+            <al>overwegende dat met het deelnemen aan het Verdrag van Aken de kans toeneemt dat Nederlandse wapens en wapenonderdelen terechtkomen bij regimes die mensenrechten schenden, zoals Saudi-Arabië en de Verenigde Arabische Emiraten, en kunnen worden doorgevoerd naar conflictgebieden zoals Sudan en Jemen;</al>
+            <al>overwegende dat een noodknop of noodremprocedure binnen het verdrag minder garanties biedt dat wapens of wapenonderdelen terechtkomen bij landen als Saudi-Arabië en de Emiraten dan als Nederland zelf de zeggenschap over vergunningen behoudt;</al>
+            <al>verzoekt de regering om te voorkomen dat Nederlandse wapens in handen komen van regimes waar mensenrechten geschonden worden en niet toe te treden tot het Verdrag van Aken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

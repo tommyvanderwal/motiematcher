@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-328/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">328</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID THIJSSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-16">16 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat kritieke grondstoffen essentieel zijn voor de energietransitie en de groene economie van de toekomst;</al>
+            <al>overwegende dat 59% van de kritieke grondstoffen en zelfs 91% van de zeldzame aardmetalen die Europa importeert uit China komen;</al>
+            <al-groep>
+              <al>constaterende dat Nederland op het gebied van verwerking en recycling een</al>
+              <al>voortrekkersrol zou kunnen spelen;</al>
+              <al>constaterende dat dit nu niet het geval is en dat bedrijven zoals Nyrstar die kritieke grondstoffen zouden kunnen winnen juist kopje onder dreigen te gaan;</al>
+            </al-groep>
+            <al>verzoekt de regering een pilot te starten met circa vijf bedrijven die kritieke grondstoffen kunnen recyclen en de lessons learned van deze pilot mee te nemen in de uitvoering van de grondstoffenstrategie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Thijssen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

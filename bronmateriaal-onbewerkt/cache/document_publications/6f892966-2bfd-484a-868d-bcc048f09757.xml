@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-V-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER BURG C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat reisadviezen van de rijksoverheid een belangrijk hulpmiddel zijn voor Nederlandse burgers om de risico's in een land in te schatten;</al>
+            <al>overwegende dat er nu alleen een groen, geel, oranje en rood reisadvies bestaat en dat rode reisadviezen bij lange na niet altijd worden opgevolgd;</al>
+            <al>overwegende dat recent nog honderden Nederlanders geëvacueerd zijn uit Libanon, terwijl de Nederlandse overheid al maanden verzocht om het land te verlaten en er al maanden een rood reisadvies van kracht was;</al>
+            <al>verzoekt het kabinet om personen die gebruikmaken van een door de regering georganiseerde evacuatie en repatriëringsvlucht een financiële bijdrage te laten betalen als zij zonder gegronde reden in een rood reisgebied zijn geweest;</al>
+            <al>verzoekt de regering om een zwart reisadvies te onderzoeken, en mogelijk te ontwikkelen voor (regio's van) landen waar oorlog is, waar de veiligheidsrisico’s te groot zijn of waar Nederland dusdanig slechte bilaterale betrekkingen mee heeft dat er veiligheidsrisico’s voor Nederlandse burgers ontstaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Burg</al>
+              <al>Boswijk</al>
+              <al>Stoffer</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

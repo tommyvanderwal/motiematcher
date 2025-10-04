@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36577-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 577</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet hersteloperatie toeslagen en van de Wet aanvullende regelingen hersteloperatie toeslagen, houdende aanpassingen in de hersteloperatie toeslagen van bepaalde termijnen, van de peildatum voor brede ondersteuning voor gedupeerden in het buitenland en van de nabestaandenregeling (Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIJK EN VIJLBRIEF</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Wet aanpassing termijnen en nabestaandenregeling hersteloperatie toeslagen grote gevolgen heeft voor de rechtszekerheid van ouders door het beperken van de bezwaartermijnen en het begrenzen van de brede ondersteuning;</al>
+            <al>overwegende dat te allen tijde moet worden voorkomen dat ouders door aangepaste wetgeving verder in het nauw worden gedrukt en de belangen van ouders bij wetgeving altijd voorop moeten staan;</al>
+            <al>verzoekt het kabinet bij alle wetsvoorstellen die gaan over het herstel van het kinderopvangtoeslagschandaal uitvoerig in gesprek te gaan met een grote groep gedupeerde ouders om de gevolgen van nieuwe en aangepaste wetgeving te bespreken, en de uitkomst van deze gesprekken te betrekken bij de stukken die naar de Tweede Kamer worden gestuurd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Vijlbrief</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

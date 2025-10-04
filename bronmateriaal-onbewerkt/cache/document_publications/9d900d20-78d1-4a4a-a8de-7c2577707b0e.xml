@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-588/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">588</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN DER PLAS EN FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er, mede door het einde van de derogatie, een meststoffencrisis is en dat voedsel, mede daardoor, duurder zal worden;</al>
+            <al>constaterende dat er mogelijk minder voedsel geproduceerd gaat worden in Nederland, onder andere door het uit gebruik nemen van vruchtbare landbouwgronden vanwege stoppende boeren en door het omzetten van grasland in bouwland;</al>
+            <al>overwegende dat we ten opzichte van onze totale voedingsbehoefte nu al te weinig nutriënten produceren voor de inwoners van Nederland en dat we voor onze totale voedingsbehoefte voedsel moeten importeren;</al>
+            <al>overwegende dat in heel Europa de laatste tien jaar drie miljoen boerderijen zijn verdwenen en er meer zullen volgen;</al>
+            <al>overwegende dat Europa niet verder afhankelijk moet worden van import uit derde landen;</al>
+            <al>constaterende dat we niet alleen ReArm Europe, maar ook «ReFarm Europe» nodig hebben;</al>
+            <al>verzoekt de regering de voedselproductie in Nederland te waarborgen en beleid te voeren waarbij de impact op de voedselvoorzieningen als zwaarwegende factor wordt gewogen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

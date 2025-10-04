@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36471-35/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 471</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsformatie 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">35</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BIKKER EN EERDMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-20">20 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het toeslagenstelsel voor veel te veel burgers tot grote problemen leidt, zoals hoge terugvorderingen, schulden en niet-gebruik van toeslagen;</al>
+            <al>overwegende dat, sinds de unaniem aangenomen motie-Bruins/Van Weyenberg (<extref doc="kst-31066-558" soort="document" status="actief">31 066, nr. 558</extref>) uit 2019, er veel studies naar en oproepen tot afschaffing van het toeslagenstelsel zijn gedaan, bijvoorbeeld in het enquêterapport Blind voor mens en recht, maar dat er ondertussen nog geen toeslag is afgeschaft;</al>
+            <al>overwegende dat de Belastingdienst over enkele jaren een vereenvoudiging van het belastingstelsel in combinatie met een hervorming van het toeslagenstelsel aankan en dat dit het moment is daar afspraken over te maken;</al>
+            <al>spreekt uit dat het eenvoudiger en rechtvaardiger maken van het belastingstelsel, inclusief een grondige hervorming van het toeslagenstelsel, zo urgent én complex is dat daar afspraken over nodig zijn in het hoofdlijnenakkoord,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

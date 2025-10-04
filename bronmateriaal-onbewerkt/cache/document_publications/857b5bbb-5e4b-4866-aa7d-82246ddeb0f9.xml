@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34843-106/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 843</dossiernr>
+      </dossiernummer>
+      <titel>Seksuele intimidatie en geweld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">106</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat met de uitgevoerde verkenning bepaald niet uitgesloten is dat er binnen de porno-industrie geweld, verkrachting en seks met minderjarigen plaatsvindt;</al>
+            <al>overwegende dat er geen sprake is geweest van een diepgravende verkenning;</al>
+            <al>constaterende dat er in Frankrijk een grootschalig en breedgedragen offensief is gestart tegen misstanden in de porno-industrie naar aanleiding van een rapport waaruit blijkt dat bijna een derde van al het internetverkeer porno betreft en dat in zo'n 90% van de bestudeerde films geweld werd gebruikt;</al>
+            <al>verzoekt de regering om naar Frans voorbeeld, samen met politie en justitie, een grootschalig en breedgedragen offensief te starten tegen misstanden in de porno-industrie waarbij onderzoek gedaan wordt naar de omvang van de industrie, het gebruik van geweld, de impact op slachtoffers en de impact op jongeren, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Krul</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

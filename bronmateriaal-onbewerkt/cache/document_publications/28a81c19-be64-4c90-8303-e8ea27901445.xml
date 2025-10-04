@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-8/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">8</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Duitse parlement een voorstel heeft aangenomen om overheidsfinanciering stop te zetten voor groepen en organisaties die Israël boycotten en antisemitische of pro-Hamasuitingen doen;</al>
+            <al>van mening dat ook de Nederlandse Staat geen financiële middelen beschikbaar zou moeten stellen aan deze groepen en organisaties;</al>
+            <al>verzoekt de regering de eigen geldkraan dicht te draaien voor bovengenoemde organisaties, instellingen en andere groepen die zich schuldig maken aan antisemitisme of aan het aanzetten daartoe,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Plas</al>
+              <al>Van Zanten</al>
+              <al>Wilders</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

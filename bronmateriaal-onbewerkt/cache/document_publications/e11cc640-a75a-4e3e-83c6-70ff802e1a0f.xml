@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1162/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1162</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN OLGER VAN DIJK EN VELTMAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in het verkeer nog altijd veel hinder, onveilige situaties en ongevallen met fatbikes zijn, waarbij de helft van het aantal slachtoffers tussen de 10 en de 14 jaar is;</al>
+            <al>constaterende dat de aangenomen motie-Veltman/Olger van Dijk (<extref doc="kst-29398-1115" soort="document" status="actief">29 398, nr. 1115</extref>) verzoekt alleen voor fatbikes een minimumleeftijd van 14 jaar en een helmplicht in te voeren;</al>
+            <al>overwegende dat volgens het DTV-rapport een aparte voertuigcategorie voor alleen fatbikes lastig te maken is, maar dat de kenmerken gewicht en koppel wel in regelgeving zijn vast te leggen en een relatie hebben met verkeersveiligheid;</al>
+            <al>overwegende dat fatbikes een hoger gewicht en koppel hebben dan veel reguliere e-bikes;</al>
+            <al>verzoekt de regering zich onverminderd in te blijven zetten om een helmplicht en minimumleeftijd van 14 jaar voor fatbikes mogelijk te maken, en daarbij specifiek te kijken naar een aparte voertuigcategorie zware e-bikes op basis van gewicht en/of koppel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Veltman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

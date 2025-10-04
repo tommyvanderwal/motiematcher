@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31289-577/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 289</dossiernr>
+      </dossiernummer>
+      <titel>Voortgezet Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">577</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIJPELINK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Auris College Goes voor kinderen met een taalontwikkelingsstoornis die doof of slechthorend zijn, gaat sluiten;</al>
+            <al>overwegende dat onderwijs in de omgeving van deze school niet vanzelfsprekend inclusief genoeg is om alle leerlingen van deze school elders passend onderwijs te bieden;</al>
+            <al>van oordeel dat geen van deze leerlingen door de sluiting tussen wal en schip mag belanden;</al>
+            <al>verzoekt de regering om erop toe te zien dat niet een van deze leerlingen door de sluiting verstoken blijft van passend onderwijs binnen een redelijke afstand met de bijbehorende toereikende financiering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pijpelink</al>
+              <al>Paternotte</al>
+              <al>De Kort</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

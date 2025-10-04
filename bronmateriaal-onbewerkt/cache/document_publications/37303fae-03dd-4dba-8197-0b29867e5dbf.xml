@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32852-387"/>
+      <meta name="OVERHEIDop.ondernummer" content="387"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32852"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Wingelaar c.s. over wettelijke borging van de circulaire hefboom"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.R.G. Buijsse"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="G.J.W. Gabriëls"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="N.T.P. Wingelaar"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Grondstoffenvoorzieningszekerheid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Wingelaar c.s. over wettelijke borging van de circulaire hefboom"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 852</dossiernr>
+         </dossiernummer>
+         <titel>Grondstoffenvoorzieningszekerheid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">387</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WINGELAAR C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Plastic Tafel breed draagvlak heeft uitgesproken voor invoering van een circulaire hefboom;</al>
+                  <al>overwegende dat de invoering dreigt te vertragen doordat de Europese delegated act voor het digitale productpaspoort textiel pas in 2027 in werking treedt en pas achttien maanden later handhaafbaar is;</al>
+                  <al>overwegende dat hierdoor kostbare jaren verloren dreigen te gaan en circulaire bedrijven in Nederland onzekerheid ervaren;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>zich expliciet te committeren aan een beleidstraject dat moet leiden tot een wettelijke borging van de circulaire hefboom ter perspectief van de industrie;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>zich in Brussel actief in te zetten voor publicatie van de delegated act voor het digitale productpaspoort voor textiel in uiterlijk januari 2027;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>te borgen dat zowel binnenlandse producten als importproducten onder gelijke voorwaarden vallen,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Wingelaar</al>
+                     <al>Gabriëls</al>
+                     <al>Buijsse</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

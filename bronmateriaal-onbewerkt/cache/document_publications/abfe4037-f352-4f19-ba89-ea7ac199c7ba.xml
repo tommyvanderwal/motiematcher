@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32645-144/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 645</dossiernr>
+      </dossiernummer>
+      <titel>Kernenergie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">144</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Rijk in december 2022 een voorkeurslocatie in de gemeente Borsele heeft aangewezen voor de mogelijke bouw van twee kerncentrales en dat het Rijk in februari 2024 heeft aangekondigd tegelijkertijd met het voorlopige locatiebesluit een voorlopig Rijk-Regiopakket vast te stellen;</al>
+            <al>constaterende dat uit de eerste adviesbrief van de gebiedsverbinder Rijk-Regiopakket Zeeland van december 2024 blijkt dat er sprake is van significante knelpunten, zoals spanningen met andere ruimtelijke initiatieven, gebrek aan samenhang en coördinatie tussen verschillende projecten, onzekerheid over locatie en bouwimpact, en onvoldoende afstemming met relevante stakeholders;</al>
+            <al>overwegende dat een integrale benadering essentieel is om genoemde knelpunten aan te pakken en een breedgedragen Rijk-Regiopakket te realiseren;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>ter bevordering van blijvend draagvlak voor en vertrouwen in nieuwe kerncentrales in Zeeland, een gebiedsvisie op te stellen waarin ruimtelijke initiatieven, inclusief de bouw van kerncentrales, integraal worden afgestemd;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een stuurgroep in te richten met betrokken overheden om voortvarend samen met de regio en gebiedsverbinder Knops een breedgedragen Rijk-Regiopakket op te stellen, zodat dit gelijktijdig met het voorlopige locatiebesluit vastgesteld kan worden,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

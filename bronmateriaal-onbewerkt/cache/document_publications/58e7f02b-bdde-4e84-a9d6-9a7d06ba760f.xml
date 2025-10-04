@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XVI-51/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">51</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-25">25 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit verschillende onderzoeken blijkt dat meer mensen zorg mijden vanwege de kosten;</al>
+            <al>overwegende dat de Tweede Kamer zich in de motie op stuk nr. <extref doc="kst-36471-9" soort="document" status="actief">9 (36 471)</extref> ervoor heeft uitgesproken om het eigen risico zo snel mogelijk af te schaffen;</al>
+            <al>overwegende dat in 2025 de eerste stap gezet kan worden met het afbouwen van het eigen risico;</al>
+            <al>verzoekt de regering met spoed een wetsvoorstel voor te bereiden om het eigen risico in 2025 met € 100 te verlagen;</al>
+            <al>verzoekt de regering om deze investering van circa 1,4 miljard euro te dekken door de maximuminkomensgrens voor de inkomensafhankelijke bijdrage Zorgverzekeringswet (IAB Zvw) af te schaffen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bushoff</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-A-30/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">30</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de N36 tussen Almelo en Ommen een «dodenweg» is omdat hier veel ernstige ongevallen gebeuren;</al>
+            <al>overwegende dat de N36 een drukke en cruciale verbindingsweg voor de regio is;</al>
+            <al>overwegende dat eerder bestuurlijke afspraken zijn gemaakt over de totale aanpak voor het verbeteren van de verkeersveiligheid van de N36;</al>
+            <al>overwegende dat voor het verbeteren van de verkeersveiligheid van de N36 slechts de helft van het nodige budget beschikbaar is;</al>
+            <al>overwegende dat de gemeenten Almelo en Hardenberg en de provincie Overijssel cofinanciering beschikbaar willen stellen;</al>
+            <al>verzoekt de regering om in overleg met de regio het perspectief voor de verbetering van de verkeersveiligheid van de gehele N36 uit te werken met een beschrijving van concrete vervolgstappen en dit nadrukkelijk mee te nemen in de bredere afweging binnen het Mobiliteitsfonds;</al>
+            <al>verzoekt de regering om de Tweede Kamer hierover uiterlijk het tweede kwartaal van 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Olger van Dijk</al>
+              <al>Grinwis</al>
+              <al>Pierik</al>
+              <al>Vedder</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-59/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">59</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MARTENS-AMERICA EN KEIJZER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het niet inzichtelijk is wat de kosten per tv-programma bij de publieke omroep betreffen;</al>
+            <al>constaterende dat het vóórkomt dat regels voor topsalarissen van presentatoren omzeild worden door presentatoren via bv's in te huren;</al>
+            <al>overwegende dat het omzeilen van salarisregels kan blijven voortbestaan doordat kosten van programma’s niet inzichtelijk zijn voor journalistiek en politiek;</al>
+            <al>van mening dat bij de besteding van belastinggeld altijd zo veel mogelijk transparantie en verantwoording betracht moeten worden;</al>
+            <al>van mening dat een gebrek aan transparantie en verantwoording het draagvlak voor het publieke bestel aantast;</al>
+            <al>overwegende dat de NPO ondanks zijn wettelijke taak niet vanuit zichzelf verdere transparantie zal of kan betrachten, ondanks meerdere verzoeken daartoe vanuit de Kamer, de Rekenkamer, het Commissariaat voor de Media et cetera;</al>
+            <al>verzoekt de regering een transparantieregister in te stellen waarin omroepen de kosten van elk tv- en radioprogramma vermelden, uitgesplitst naar kostensoort en met medeneming van externe producenten voor zover het besteding van publieke middelen betreft,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Martens-America</al>
+              <al>Keijzer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

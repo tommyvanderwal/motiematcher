@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36563-12"/>
+      <meta name="OVERHEIDop.ondernummer" content="12"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36563"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Veltman en Olger van Dijk over met buurlanden internationale kaderovereenkomsten tot stand brengen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="O.C. (Olger) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.N. Veltman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen; Motie; Motie van de leden Veltman en Olger van Dijk over met buurlanden internationale kaderovereenkomsten tot stand brengen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Spoor"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 563</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">12</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VELTMAN EN OLGER VAN DIJK</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-22">22 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat vervoerders voor internationale lijnen nu met elk land afzonderlijk afspraken moeten maken, wat leidt tot onzekerheid en vertraging bij de start van nieuwe verbindingen;</al>
+                  <al>overwegende dat extra internationale lijnen, zoals Groningen-Parijs, Amsterdam-Berlijn en Amsterdam-Londen, alleen van de grond komen als afspraken tussen landen beter op elkaar aansluiten;</al>
+                  <al>van mening dat eenduidige internationale kaderovereenkomsten meer zekerheid bieden aan vervoerders en dit sneller leidt tot nieuwe verbindingen;</al>
+                  <al>verzoekt de regering om met de buurlanden, waaronder in elk geval Duitsland, België, Frankrijk en het Verenigd Koninkrijk, gezamenlijke internationale kaderovereenkomsten tot stand te brengen zodat er sneller meerjarige zekerheid ontstaat voor vervoerders van internationale trajecten en nieuwe verbindingen dus sneller tot stand kunnen komen, en de Kamer hierover te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Veltman</al>
+                     <al>Olger van Dijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

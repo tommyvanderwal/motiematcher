@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33037-540/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 037</dossiernr>
+      </dossiernummer>
+      <titel>Mestbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">540</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de normering van de Nitraatrichtlijn geldt voor zover sprake is van kwetsbare gebieden in verband met de stikstofbelasting vanuit de landbouw en dat Nederland het hele land als kwetsbaar gebied heeft aangewezen;</al>
+            <al>overwegende dat in verschillende graslandregio's buiten de NV-gebieden geen sprake is van problematische stikstofbelasting en waterkwaliteitsproblemen;</al>
+            <al>overwegende dat wanneer de Nitraatrichtlijn niet van toepassing is nog steeds de kaders van de Kaderrichtlijn Water gelden en geen sprake kan zijn van onbegrensde en ongewenste bemestingsruimte;</al>
+            <al>overwegende dat Nederland voor eventuele inperking van de aanwijzing als kwetsbaar gebied niet vooraf toestemming van de Europese Commissie nodig heeft;</al>
+            <al>verzoekt de regering op korte termijn in te zetten op het beperken van de aanwijzing als kwetsbaar gebied in de zin van de Nitraatrichtlijn en niet-NV-gebieden met veel grasland en weinig waterkwaliteitsproblemen niet als kwetsbaar gebied aan te merken, waaronder in ieder geval het rivierengebied,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-66/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">66</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-06-03">3 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het voor de Nederlandse maritieme maakindustrie van groot belang is dat het Nederlandse bedrijfsleven een substantiële en gegarandeerde bijdrage levert aan de bouw van de nieuwe Nederlandse onderzeeboten;</al>
+            <al>verzoekt de regering de Auditdienst Rijk (ADR) te verzoeken de hardheid van de met Nederlandse bedrijven overeengekomen afspraken in de ICA's op korte termijn te toetsen en de Kamer over de uitkomsten daarvan te informeren, voordat wordt overgegaan tot definitieve gunning,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Stoffer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

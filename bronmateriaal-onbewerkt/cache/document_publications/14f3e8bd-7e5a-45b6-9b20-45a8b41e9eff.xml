@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36706-18"/>
+      <meta name="OVERHEIDop.ondernummer" content="18"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-06"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36706"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Stultiens en Vijlbrief over herstel van de onrechtvaardige herverdeling van geld van werkenden naar de grootste vermogens"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.C.J. Stultiens"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-05"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3); Motie; Motie van de leden Stultiens en Vijlbrief over herstel van de onrechtvaardige herverdeling van geld van werkenden naar de grootste vermogens"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Belasting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 706</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Wet inkomstenbelasting 2001 om een tegenbewijsregeling te introduceren bij het bepalen van het belastbare inkomen uit sparen en beleggen (Wet tegenbewijsregeling box 3)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">18</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN STULTIENS EN VIJLBRIEF</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-05">5 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de hele box 3-hersteloperatie inmiddels 16,6 miljard euro aan belastinggeld gaat kosten, waarvan het grootste deel terechtkomt bij de grootste vermogens;</al>
+                  <al>constaterende dat de rekening van deze operatie voor minder dan de helft (7,3 miljard euro) terechtkomt binnen het domein vermogen en winst, waardoor de rekening grotendeels bij gewone werkende mensen terechtkomt;</al>
+                  <al>overwegende dat dit haaks staat op het uitgangspunt in de begrotingsregels dat een budgettaire derving binnen hetzelfde domein wordt gedekt;</al>
+                  <al>van mening dat het onwenselijk is om geld te herverdelen van werkende mensen naar de grootste vermogens;</al>
+                  <al>verzoekt de regering om deze onrechtvaardigheid bij het komende Belastingplan zo veel mogelijk te herstellen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Stultiens</al>
+                     <al>Vijlbrief</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

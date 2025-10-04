@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1163/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1163</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in toenemende mate overlast en verkeersongevallen veroorzaakt worden door het gebruik van opgevoerde fatbikes;</al>
+            <al>overwegende dat fatbikes eenvoudig opgevoerd kunnen worden door middel van software, een nieuw schermpje of met behulp van een (digitaal) opvoersetje, die eenvoudig aan- en afgeschakeld kunnen worden;</al>
+            <al>overwegende dat het rijden op een opgevoerde elektrische fiets op afgeschermd privéterrein, het opvoeren van een elektrische fiets en de verkoop van opvoersetjes nog steeds zijn toegestaan;</al>
+            <al>overwegende dat slechts de aanwezigheid van opvoerhard- en software op de openbare weg wordt verboden;</al>
+            <al>verzoekt de regering te komen tot een algeheel opvoerverbod voor het opvoeren van elektrische fietsen, elektrische stepjes en andere tweewielers, in het bijzonder fatbikes,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Veltman</al>
+              <al>Vedder</al>
+              <al>Olger van Dijk</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

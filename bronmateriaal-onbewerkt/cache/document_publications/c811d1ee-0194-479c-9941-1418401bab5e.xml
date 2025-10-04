@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36514-5/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 514</dossiernr>
+      </dossiernummer>
+      <titel>EU-voorstel: Richtlijn transparantie van namens derde landen uitgevoerde belangvertegenwoordigingsactiviteiten COM (2023) 637</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">5</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CHAKOR EN INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de betrokkenheid van jongeren bij verkiezingen van cruciaal belang is voor een gezonde democratie en een representatieve besluitvorming;</al>
+            <al>overwegende dat de Europese Commissie verschillende acties heeft aangekondigd om jongeren meer inspraak te geven in besluiten die hen aangaan en om de aandacht voor jongeren op diverse beleidsterreinen te verdiepen;</al>
+            <al>constaterende dat deze acties voortbouwen op inzichten van het Europees Jaar van de Jeugd 2022 en gericht zijn op het betrekken van jongeren bij de Europese verkiezingen van 2024 en volgende verkiezingen;</al>
+            <al-groep>
+              <al>overwegende dat enkele EU-lidstaten de kiesgerechtigde leeftijd voor de EP-</al>
+              <al>verkiezingen hebben verlaagd naar 16 jaar om de betrokkenheid van jongeren bij de EU te bevorderen;</al>
+            </al-groep>
+            <al>verzoekt de regering om in samenspraak met jongeren(organisaties) concrete voorstellen uit te werken voor hoe de betrokkenheid van jongeren bij de EU-besluitvorming kan worden verbeterd, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

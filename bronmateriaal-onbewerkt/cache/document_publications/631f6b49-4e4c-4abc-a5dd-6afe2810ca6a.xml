@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36526-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 526</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet ter voorkoming van witwassen en financieren van terrorisme en enige andere wetten in verband met de uitvoering van Verordening (EU) 2023/1113 betreffende bij geldovermakingen en overdrachten van bepaalde cryptoactiva te voegen informatie en tot wijziging van Richtlijn (EU) 2015/849 (Uitvoeringswet verordening bij geldovermakingen en overdrachten van cryptoactiva te voegen informatie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID VAN DER LEE TER VERVANGING VAN DIE GEDRUKT ONDER NR. 11</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-26">26 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende, dat «Pump-and-Dump» volgens de AFM een wijdverspreide vorm van marktmanipulatie is;</al>
+            <al>overwegende, dat consumenten hierdoor veel financiële schade op kunnen lopen;</al>
+            <al>overwegende, dat er al snel een eerste Europese evaluatie van de MiCA voorzien is;</al>
+            <al>verzoekt de regering, als daar n.a.v. de eerste evaluatie aanleiding toe is, om in Europees verband te bespreken of bij grootschalige «Pump-and-Dump» activiteiten een gerichte en verplichte wachttijd tussen het aankopen en verkopen van cryptoactiva kan worden ingebouwd om prijsmanipulatie te voorkomen,</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al>Van der Lee</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

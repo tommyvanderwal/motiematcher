@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2013/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2013</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN KLAVER</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van  <datum isodatum="2024-01-25">25 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ruim een jaar tientallen miljarden aan Europese subsidies voor Hongarije zijn bevroren en dat de Europese Commissie recent bekend heeft gemaakt een deel van dat geld, 10 miljard, te ontdooien;</al>
+            <al>overwegende dat dit op terechte gronden was in verband met rechtsstatelijke gebreken in Hongarije en dat het Europees parlement een rechtszaak is gestart tegen de Europese Commissie over het vermeend onterecht ontdooien van deze middelen;</al>
+            <al>overwegende dat het erop lijkt dat de Europese Commissie zich door Hongarije heeft laten chanteren, teneinde toetredingsonderhandelingen met Oekraïne te kunnen beginnen;</al>
+            <al>overwegende dat het onwenselijk is wanneer de Europese Commissie inderdaad toe heeft gegeven aan de chantage door Hongarije en dit op de komende Europese Raden een stevige lijn vereist ten opzichte van stoorzender Hongarije;</al>
+            <al>verzoekt het kabinet zich bij de komende Europese Raad helder en standvastig op te blijven stellen richting Hongarije, zich in te zetten voor voorspelbare en duurzame financiële steun aan Oekraïne, zonder daarbij concessies te doen aan Hongarije, met name gericht op het gebied van de Hongaarse rechtsstaat,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Klaver</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

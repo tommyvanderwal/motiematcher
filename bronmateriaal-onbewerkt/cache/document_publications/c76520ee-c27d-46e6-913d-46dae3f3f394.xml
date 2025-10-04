@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36443-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 443</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet op het primair onderwijs, de Wet primair onderwijs BES, de Wet voortgezet onderwijs 2020, de Wet op de expertisecentra en de Wet medezeggenschap op scholen in verband met het versterken van de positie van leerlingen die extra ondersteuning behoeven en hun ouders (Wet versterking positie ouders en leerlingen in het passend onderwijs)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE KORT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-18">18 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat ouder- en jeugdsteunpunten formeel onderdeel zijn van de samenwerkingsverbanden passend onderwijs en vallen onder de bekostiging van de samenwerkingsverbanden;</al>
+            <al>overwegende dat het cruciaal is dat de ouder- en jeugdsteunpunten onafhankelijk en alleen in het belang van de ouder en leerling handelen;</al>
+            <al>verzoekt de regering om afspraken te maken met de samenwerkingsverbanden passend onderwijs over hoe de onafhankelijkheid van de ouder- en jeugdsteunpunten wordt geborgd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Kort</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

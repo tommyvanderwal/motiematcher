@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1651/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1651</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het ondersteboven aan de poten vangen van kippen al bijna twintig jaar verboden is via de Europese diertransportverordening, maar dat dit nog steeds de dagelijkse praktijk is;</al>
+            <al>constaterende dat dit leidt tot botbreuken, bloedingen en ontwrichtingen bij honderden miljoenen kippen per jaar;</al>
+            <al>constaterende dat de Europese Commissie heeft voorgesteld om deze wrede vangmethode toch weer officieel toe te gaan staan en dat de Minister van LNV daarmee wil instemmen;</al>
+            <al>constaterende dat de Kamer eerder al duidelijk heeft uitgesproken dat het onacceptabel is dat bij het vangen van dieren methoden worden gebruikt die vermijdbaar dierenleed opleveren (aangenomen motie <extref doc="kst-36200-XIV-61" soort="document" status="actief">36 200-XIV, nr. 61</extref>);</al>
+            <al>verzoekt de regering zich te verzetten tegen het voorstel van de Europese Commissie om de wrede methode om kippen ondersteboven aan hun poten te vangen weer toe te staan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

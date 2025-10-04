@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29544-1259/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 544</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1259</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AARTSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een werknemer na het beëindigen van een arbeidsovereenkomst of het aflopen van een tijdelijk contract vaak een transitievergoeding krijgt van de werkgever;</al>
+            <al>constaterende dat slechts 12% van de werknemers deze transitievergoeding besteedt aan een opleiding of cursus voor het vinden van nieuw werk;</al>
+            <al>constaterende dat 44% nog niet weet waaraan die de vergoeding wil besteden en dat 38% een andere besteding in gedachten heeft;</al>
+            <al>overwegende dat het doel van de transitievergoeding moet zijn om mensen te begeleiden naar nieuw werk;</al>
+            <al>verzoekt de regering onderzoek te laten doen naar hoe beide zojuist genoemde groepen die hun transitievergoeding niet besteden aan een opleiding of cursus daar wél hun vergoeding aan kunnen besteden en daarbij in gedachten te houden waarvoor de transitievergoeding bedoeld is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aartsen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

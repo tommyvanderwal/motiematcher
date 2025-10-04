@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-39/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">39</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de hoge kosten voor het gebruik van de auto ook worden bepaald door parkeerkosten;</al>
+            <al>overwegende dat de parkeerkosten de laatste jaren aanzienlijk zijn gestegen, met als absolute uitschieter de provincie Zuid-Holland waar de parkeerkosten gemiddeld van 2018 tot 2023 met 46% zijn gestegen;</al>
+            <al>overwegende dat parkeerkosten steeds meer een knop zijn geworden waaraan gemeenten kunnen draaien om hun begroting sluitend te krijgen;</al>
+            <al>overwegende dat dit voor veel mensen een beperking van reizen en bereikbaarheid tot gevolg heeft;</al>
+            <al>verzoekt de regering de gemeentelijke parkeertarieven voor bezoekers en bewoners in kaart te brengen, inclusief een vergelijking met het buitenland, en met gemeenten in overleg te treden over de bijdrage van het gemeentelijk parkeerbeleid aan verminderde mobiliteit en bereikbaarheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Veltman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

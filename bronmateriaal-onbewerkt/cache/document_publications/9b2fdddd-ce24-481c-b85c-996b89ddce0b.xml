@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36403-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 403</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tabaks- en rookwarenwet, houdende regeling van nicotineproducten zonder tabak en nicotineapparaten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-14">14 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat niet alleen nicotinezakjes, maar alle nicotineproducten zonder tabak (NZT) volgens het RIVM schadelijk zijn voor de gezondheid;</al>
+            <al>overwegende dat het kabinet een totaalverbod op NZT met name afraadt omdat onduidelijk is wat de gevolgen zijn voor de handhaving;</al>
+            <al>overwegende dat het belangrijk is om inzicht te hebben in wat ervoor nodig is om een dergelijk totaalverbod op NZT effectief te handhaven;</al>
+            <al>verzoekt de regering te onderzoeken wat er nodig is in de uitvoering en qua financiële middelen om een totaalverbod op alle NZT te kunnen handhaven, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Krul</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

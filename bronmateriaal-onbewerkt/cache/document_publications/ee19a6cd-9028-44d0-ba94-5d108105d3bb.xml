@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29240-141/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 240</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheid op school </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">141</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DE KORT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende uit het jaarverslag van de inspectie dat er een totaal van 2.933 veiligheidsmeldingen gemaakt zijn;</al>
+            <al>constaterende dat het aantal signalen van fysieke en sociale onveiligheid in het onderwijs in de afgelopen twee jaar verdrievoudigd is;</al>
+            <al>constaterende dat de onderwijsinspectie aan een op de vijf scholen in het voortgezet onderwijs herstelopdrachten op het gebied van veiligheid heeft uitgedeeld;</al>
+            <al>constaterende dat het terugdringen van jonge aanwas in de criminaliteit een prioriteit is van dit kabinet waarvoor specifieke programma’s zijn ingezet zoals leefbare wijken en Preventie met Gezag;</al>
+            <al>verzoekt de regering om een verkenning uit te voeren naar een wettelijke verplichting van scholen om scholieren die zich schuldig hebben gemaakt aan ernstige incidenten te melden bij de gemeente, zodat er specifieke inzet op kan worden gezet vanuit veiligheid en/of zorg,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>De Kort</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

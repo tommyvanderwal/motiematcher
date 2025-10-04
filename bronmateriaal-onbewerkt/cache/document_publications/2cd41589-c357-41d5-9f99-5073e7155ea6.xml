@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30175-465/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 175</dossiernr>
+      </dossiernummer>
+      <titel>Luchtkwaliteit</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">465</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Kamer eerder gevraagd heeft om toe te werken naar de WHO-advieswaarden omtrent luchtkwaliteit;</al>
+            <al>overwegende dat de Europese richtlijn over luchtkwaliteit is herzien en lidstaten op termijn naar deze advieswaarden zullen toewerken;</al>
+            <al>overwegende dat gemeenten en provincies alleen kunnen bijdragen aan adequate luchtkwaliteit met duidelijke doelen en up-to-date kennis over luchtkwaliteit;</al>
+            <al>verzoekt de regering de meest actuele gezondheidskundige advieswaarden van de WHO op te nemen in het luchtkwaliteitsbeleid als streefwaarden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bamenga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-I-9/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>I</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van de Koning (I) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">9</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MAATOUG C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat openheid, transparantie en toegankelijkheid belangrijke randvoorwaarden voor een werkende democratie zijn;</al>
+            <al>overwegende dat in de archieven van het Koninklijk Huis belangrijke stukken zitten die voortvloeien uit de uitoefening van de functie van het staatshoofd;</al>
+            <al>van mening dat het lovenswaardig is dat de Koning als bestuurder van de Stichting Archief van het Huis Oranje-Nassau de openbaarheidstermijn van de particuliere archieven van het Koninklijk Huis tot 1948 heeft verruimd;</al>
+            <al>van mening dat verdere openbaarmaking van deze archieven voor bijvoorbeeld het doen van wetenschappelijk onderzoek wenselijk is;</al>
+            <al>verzoekt de regering om te bevorderen dat de rijksarchivaris en de directeur van het Koninklijk Huisarchief een plan van aanpak maken om tot een stapsgewijze versnelling van de openbaarmaking van deze archieven te komen, en daarover de Kamer voor de behandeling van de volgende begroting van de Koning te berichten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Maatoug</al>
+              <al>Beckerman</al>
+              <al>Sneller</al>
+              <al>Van Baarle</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

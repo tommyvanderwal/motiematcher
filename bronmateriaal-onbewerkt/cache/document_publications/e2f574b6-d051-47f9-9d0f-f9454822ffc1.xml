@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35709-18/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 709</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van de leden Timmermans en Bikker tot wijziging van het Wetboek van Strafrecht in verband met de invoering van het discriminatoir oogmerk als strafverzwaringsgrond</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">18</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat discriminatie op basis van inkomen, opleiding of beroepsstatus voorkomt, een groot probleem is, en gezien kan worden als discriminatie op grond van sociaaleconomische klasse;</al>
+            <al>constaterende dat in het Wetboek van Strafrecht en de Algemene wet gelijke behandeling de discriminatiegrond sociaaleconomische klasse niet staat opgenomen;</al>
+            <al>verzoekt de regering te onderzoeken op welke manier discriminatie op grond van sociaaleconomische klasse kan worden toegevoegd als discriminatiegrond in de Algemene wet gelijke behandeling en het Wetboek van Strafrecht,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

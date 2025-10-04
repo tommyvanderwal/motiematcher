@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33578-154"/>
+      <meta name="OVERHEIDop.ondernummer" content="154"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33578"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Daniëlle Jansen over herinvoering van een verbod op financiële steunverlening voor bv's"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.E.M.C. (Daniëlle) Jansen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Eerstelijnszorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.title" scheme="" content="Eerstelijnszorg; Motie; Motie van het lid Daniëlle Jansen over herinvoering van een verbod op financiële steunverlening voor bv's"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Ziekten en behandelingen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 578</dossiernr>
+         </dossiernummer>
+         <titel>Eerstelijnszorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">154</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-21">21 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat bij veel private-equitytransacties de overname vaak met vreemd vermogen wordt gefinancierd, waarbij de overgenomen vennootschap zelf garant staat voor de schulden, wat doorgaans niet in het vennootschappelijk belang is;</al>
+                  <al>constaterende dat met een afdoende verbod op financiële steunverlening in de wetgeving voor bv's zoals dat vroeger gold, voorkomen kan worden dat de continuïteit van de zorgonderneming in gevaar komt;</al>
+                  <al>constaterende dat de dreiging van hoofdelijke aansprakelijkheid voor bestuurders onvoldoende is om de continuïteit van de onderneming te borgen;</al>
+                  <al>constaterende dat het uitkeren van toekomstige winst van de bv, zoals nu onder voorwaarden is toegestaan, ook de continuïteit in gevaar kan brengen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>te onderzoeken hoe het expliciete verbod op financiële steunverlening voor bv's opnieuw kan worden ingevoerd;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>te onderzoeken hoe de mogelijkheid om toekomstige winst uit te keren aan banden wordt gelegd;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>tevens flankerende maatregelen te ontwikkelen om te voorkomen dat het verbod op financiële steunverlening wordt ontweken;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in het onderzoek te betrekken hoe de regering borgt dat, waar het gaat om overheidsgeld, zoals bij gezondheidszorg en kinderopvang, de private-equitybetrokkenheid de continuïteit van de onderneming niet in gevaar brengt;</al>
+                        </li>
+                     </lijst>
+                     <al>de Kamer hierover voor het einde van het jaar te informeren,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Danielle Jansen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31015-282/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 015</dossiernr>
+      </dossiernummer>
+      <titel>Kindermishandeling</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">282</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CRIJNS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-05">5 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er gevallen zijn waarin pleegouders in het verleden ernstig in de fout zijn gegaan, met schrijnende gevolgen voor de aan hen toevertrouwde kinderen;</al>
+            <al>overwegende dat het onacceptabel is dat pleegouders die zich schuldig hebben gemaakt aan mishandeling, verwaarlozing of ander ernstig misbruik, opnieuw in aanmerking kunnen komen voor het opvangen van pleegkinderen;</al>
+            <al>overwegende dat een effectieve screening en controle van pleeggezinnen essentieel is om de veiligheid van kwetsbare kinderen te waarborgen;</al>
+            <al>verzoekt de regering om er zorg voor te dragen dat pleegzorgaanbieders bij (her)screening van pleegouders zich te allen tijde vergewissen van het verloop van eerdere plaatsingen bij deze pleegzorgouders, dit mee te nemen in het oordeel, dit onderdeel te laten zijn van het Kwaliteitskader Voorbereiding en screening van pleegouders en dit te implementeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Crijns</al>
+              <al>Eerdmans</al>
+              <al>Krul</al>
+              <al>Van der Werf</al>
+              <al>Dral</al>
+              <al>Ceder</al>
+              <al>Bruyning</al>
+              <al>Rikkers-Oosterkamp</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

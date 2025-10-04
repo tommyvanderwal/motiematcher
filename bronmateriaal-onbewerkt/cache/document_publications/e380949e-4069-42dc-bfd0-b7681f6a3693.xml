@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36740-17"/>
+      <meta name="OVERHEIDop.ondernummer" content="17"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36740"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Grinwis c.s. over na verwerping van een ontwerpbegroting onverwijld een nieuw begrotingswetsvoorstel indienen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.L. Idsinga"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.M.T. van der Lee"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.C. Sneller"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. (Aukje) de Vries"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Financieel Jaarverslag van het Rijk 2024"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Financieel Jaarverslag van het Rijk 2024; Motie; Motie van het lid Grinwis c.s. over na verwerping van een ontwerpbegroting onverwijld een nieuw begrotingswetsvoorstel indienen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 740</dossiernr>
+         </dossiernummer>
+         <titel>Financieel Jaarverslag van het Rijk 2024</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">17</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Algemene Rekenkamer op verzoek van de Kamer de consequenties van het verwerpen van een ontwerpbegroting in kaart heeft gebracht, waarbij de Rekenkamer concludeert dat het verwerpen van een begroting leidt tot «veel onduidelijkheid en rechtsonzekerheid» daar de relevante wetgeving «ruimte voor interpretatie laat»;</al>
+                  <al>constaterende dat de Raad van State in zijn advies van 10 juni 2025 het advies van de Rekenkamer onderschrijft en tevens in overweging geeft de Comptabiliteitswet aan te passen met als oogmerk het beperken van een periode zonder begroting;</al>
+                  <al>constaterende dat de Comptabiliteitswet enkel ziet op de situatie waarin een wet nog niet is aangenomen, maar niet ingaat op de situatie waarin een begroting is verworpen;</al>
+                  <al>overwegende dat het niet langer ondenkbaar is dat een ontwerpbegroting geen meerderheid haalt;</al>
+                  <al>verzoekt de regering met een wetswijziging de rechtsonzekerheid weg te nemen die nu bestaat wanneer een ontwerpbegroting wordt weggestemd, door in de Comptabiliteitswet 2016 vast te leggen dat de regering na verwerping onverwijld een nieuw begrotingswetsvoorstel indient,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Flach</al>
+                     <al>Inge van Dijk</al>
+                     <al>Aukje de Vries</al>
+                     <al>Sneller</al>
+                     <al>Van der Lee</al>
+                     <al>Idsinga</al>
+                     <al>Dassen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

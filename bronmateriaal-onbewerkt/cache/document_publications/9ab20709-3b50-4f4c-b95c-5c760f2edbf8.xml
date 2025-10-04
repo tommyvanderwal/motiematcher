@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1128/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1128</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN HEUTINK EN VEDDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1117</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-24">24 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat alleen in 2023 al 26.264 expats via de 30%-regeling hun buitenlandse rijbewijs, zonder enige vorm van toetsing, hebben kunnen omzetten naar een Nederlands rijbewijs,</al>
+            <al>constaterende dat onder meer Veilig Verkeer Nederland waarschuwt voor het negatieve effect op de verkeersveiligheid in Nederland hiervan,</al>
+            <al>constaterende dat Nederland bij uitvoering van «advies Roemer» juist inzet op een verhoging van het algehele rijvaardigheidsniveau van Nederland ten einde de verkeersveiligheid te stimuleren,</al>
+            <al>verzoekt de regering om te onderzoeken uit welke landen de expats komen die op basis van de 30%-regeling een Nederlands rijbewijs krijgen, of deze landen daar geschikt voor zijn en of de kennis om aan het verkeer deel te nemen voldoende aanwezig is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Heutink</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

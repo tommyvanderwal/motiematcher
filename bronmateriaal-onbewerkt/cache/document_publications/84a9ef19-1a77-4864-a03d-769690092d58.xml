@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-350/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">350</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN STOFFER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering het voornemen heeft om de nationale CO2-heffing op afvalverwerking aan te scherpen van 35% naar 80% CO2-reductie in 2030, terwijl in het hoofdlijnenakkoord is vastgelegd dat er geen extra nationale koppen moeten worden geïntroduceerd;</al>
+            <al>constaterende dat de afvalverwerking reeds onderhevig is aan een nationale verbrandingsbelasting, die door haar hoogte leidt tot een fiscaal ongelijk speelveld binnen Europa;</al>
+            <al>overwegende dat de aangescherpte CO2-heffing zal resulteren in hogere kosten voor de verwerking van restafval, wat een lastenverzwaring betekent voor burgers en recyclingbedrijven;</al>
+            <al>overwegende dat er jaarlijks circa 800.000 ton brandbaar Nederlands afval wordt geëxporteerd en dat deze weglek door de extra nationale heffing naar verwachting aanzienlijk zal toenemen;</al>
+            <al>verzoekt de regering met voorstellen te komen om de aanscherping van de nationale CO2-heffing op afvalverwerking te beperken tot de CO2-reductiedoelstelling, die ook geldt voor de rest van de Nederlandse industrie, namelijk 43%;</al>
+            <al>verzoekt de regering afvalbedrijven handelingsperspectief te bieden door via reeds aangekondigde maatwerkafspraken, concrete mogelijkheden te creëren voor CO2-reductie, onder andere door CCU (Carbon Capture and Utilization) en CCS (Carbon Capture and Storage), aanvullende warmtelevering aan warmtenetten en het verminderen van de verbranding van plastic door stimulering van nascheiding van plastic,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

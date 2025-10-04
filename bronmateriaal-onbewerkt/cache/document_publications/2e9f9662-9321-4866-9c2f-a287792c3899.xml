@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33561-70/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 561</dossiernr>
+      </dossiernummer>
+      <titel>Structuurvisie Windenergie op Zee (SV WoZ)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">70</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in 2030 het mandaat van de RES-regio's verloopt en de doelen van de RES-regio's dan ook zijn behaald;</al>
+            <al>overwegende dat versnippering in de RES-regio's zorgt voor inconsistent energiebeleid;</al>
+            <al>van mening dat de RES-regio's een onnodige bestuurslaag zijn waarvan de bevoegdheden en taken ook kunnen worden belegd bij gemeentes en provincies;</al>
+            <al>verzoekt de regering om de RES-regio's in 2030 of eerder op te heffen en om de relevante expertise, bevoegdheden en taken te beleggen bij de provincies,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Erkens</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

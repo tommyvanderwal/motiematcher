@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-418/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">418</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-12">12 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de uitkomsten van meerdere onderzoeken, waaronder de personeelsenquête, aantonen dat racisme en discriminatie op de werkvloer binnen de rijksoverheid nog steeds aanwezig zijn;</al>
+            <al>overwegende dat de Minister van BZK een coördinerende rol heeft in de aanpak van racisme en discriminatie binnen de rijksoverheid;</al>
+            <al>overwegende dat wetenschappers en experts benadrukken dat er concreet beleid moet komen op institutioneel niveau, met afrekenbare doelen en verantwoording om discriminatie tegen te gaan;</al>
+            <al>van mening dat de Minister van BZK niet alleen een coördinerende en aanjagende rol moet vervullen, maar ook meer doorzettingsmacht nodig heeft om daadwerkelijk verandering te bewerkstelligen en sociale veiligheid te waarborgen;</al>
+            <al>verzoekt de regering, de Minister van BZK naast haar coördinerende rol als aanjager tegen racisme en discriminatie, ook doorzettingsmacht te geven om als hoeder van sociale veiligheid op te treden, inclusief bevoegdheden om afrekenbare doelen op te leggen, sanctiebeleid in te voeren en disciplinaire maatregelen te treffen, indien nodig tot ontslag aan toe,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Chakor</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

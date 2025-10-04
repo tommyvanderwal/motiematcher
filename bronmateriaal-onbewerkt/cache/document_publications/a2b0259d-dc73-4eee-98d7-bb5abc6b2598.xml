@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-IV-58/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>IV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van Koninkrijksrelaties (IV) en het BES-fonds (H) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">58</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op basis van het advies van de commissie-Thodé eind 2023, bij de begroting van SZW, is besloten om het minimumloon en de onderstand op de BES-eilanden in 2024 te laten stijgen in twee tranches;</al>
+            <al>constaterende dat de eerste tranche heeft plaatsgevonden in januari 2024 en de tweede tranche zal worden doorgevoerd per juli 2024;</al>
+            <al>constaterende dat de Minister van SZW jaarlijks, voor de behandeling van de begroting van SZW, inzicht geeft in de inkomenseffecten van deze maatregel;</al>
+            <al>van mening dat de verhoging gerechtvaardigd is om ervoor te zorgen dat iedereen op de BES-eilanden een menswaardig bestaan kan leiden en er tegelijkertijd moet worden geborgd dat dit niet ten koste gaat van een stabiele en gezonde economie waar het mkb een belangrijk onderdeel van is;</al>
+            <al>overwegende dat veel kleine, lokale mkb-ondernemingen aangeven dat de compensaties die zij krijgen voor de gestegen loonkosten onvoldoende zijn, wat kan leiden tot ontslagen dan wel faillissementen;</al>
+            <al>overwegende dat Economisch Bureau Amsterdam en het CBS over ondernemerschap relevant onderzoek hebben gedaan;</al>
+            <al>verzoekt de regering om te onderzoeken wat het effect is van de verhoging van het minimumloon op kleine, lokale mkb-ondernemers en op het vestigingsklimaat op de BES, en hierbij ook de hoogte van de compensatie te betrekken, en de Kamer kort na de zomer over de resultaten van het onderzoek te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Tuinman</al>
+              <al>White</al>
+              <al>Bruyning</al>
+              <al>Van Haasen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

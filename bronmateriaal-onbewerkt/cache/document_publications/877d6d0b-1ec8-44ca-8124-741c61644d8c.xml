@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36566-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 566</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tijdelijke wet Groningen in verband met het herstel van omissies en het aanbrengen van verduidelijkingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BECKERMAN EN BUSHOFF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>gelet op signalen uit Groningen dat het Instituut Mijnbouwschade Groningen (IMG) steeds vaker terugvalt op een juridische benadering waarbij gedupeerden worden gedwongen tot langdurige en complexe procedures;</al>
+            <al>constaterende dat gedupeerden vaak slechts één deskundige tot hun beschikking hebben, terwijl het IMG rechtszaken voert met een omvangrijk team van deskundigen;</al>
+            <al>overwegende dat een onevenwichtige inzet van deskundigen de positie van gedupeerden ondermijnt en leidt tot extra onzekerheid en vertraging;</al>
+            <al>verzoekt de regering in gesprek te gaan met het IMG om terughoudendheid te betrachten bij het inzetten van deskundigen tegen gedupeerden en indien nodig de aanwijzingsbevoegdheid te gebruiken om dit af te dwingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Beckerman</al>
+              <al>Bushoff</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

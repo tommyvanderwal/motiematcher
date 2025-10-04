@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij de behandeling van het Belastingplan BES 2025 het amendement-Grinwis c.s. is aangenomen dat een aantal lastenverzwaringen op de BES met een jaar uitstelt, om zo de regering in staat te stellen de inkomenseffecten van deze maatregelen – die bepaalde groepen onder het sociaal minimum van de commissie-Thodé dreigen te duwen – beter in kaart te brengen voordat deze van kracht worden;</al>
+            <al>constaterende dat dit amendement de regering tevens verzoekt om de belastingvrije som beleidsmatig te indexeren, zodat de lagere inkomens hiervan geen nadeel ondervinden;</al>
+            <al>overwegende dat het de regering om uitvoeringstechnische redenen niet lukt om deze beleidsmatige indexatie voor 2025 uit te voeren;</al>
+            <al>verzoekt de regering om, gelet op het feit dat het uitvoeringstechnisch niet lukt om de door de Kamer beoogde beleidsmatige indexatie van de belastingvrije som op de BES voor 2025 uit te voeren, met een novelle te komen die het in het amendement geregelde uitstel voor de maatregelen terugdraait, zodat de belastingvrije som in 2025 niet achterblijft bij het minimumloon;</al>
+            <al>verzoekt de regering om in wezenlijke samenspraak met de eilanden in kaart te brengen wat de precieze koopkrachteffecten zijn van de voorgestelde lastenverzwaringen, en, indien dit leidt tot inkomensdalingen tot ónder het sociaal minimum zoals in de minimumvoorbeeldbegrotingen van de commissie-Thodé, bij het Belastingplan 2026 voorstellen te doen hoe dit te repareren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Grinwis</al>
+              <al>Bamenga</al>
+              <al>White</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-765/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">765</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-28">28 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat vuurwerk jaarlijks leidt tot ernstige verwondingen, schade aan eigendommen, overlast en milieuschade;</al>
+            <al>overwegende dat bij sigaretten afschrikwekkende afbeeldingen en waarschuwende teksten effectief blijken te zijn in het verhogen van bewustzijn en het ontmoedigen van gebruik;</al>
+            <al-groep>
+              <al>verzoekt de regering te onderzoeken of het mogelijk en wenselijk is om op vuurwerkverpakkingen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>afschrikwekkende afbeeldingen te plaatsen die de gevolgen van vuurwerkgebruik, zoals letsel en schade, weergeven;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>waarschuwende teksten te plaatsen over de gevaren van vuurwerk voor mens, dier en milieu;</al>
+                </li>
+              </lijst>
+              <al>en dit onderzoek uit te voeren in samenspraak met relevante instanties zoals de politie, brandweer, gezondheidsorganisaties en dierenbeschermingsorganisaties,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-382/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">382</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in de kustprovincies sprake is van verzilting van landbouwgronden, het schaarser worden van de zoetwatervoorziening en stikstofdepositie van scheepvaart;</al>
+            <al>overwegende dat deze factoren druk leggen op de staat van instandhouding van de natuur en daarbij NO<inf>x</inf> uit de scheepvaart in alle kustprovincies ervoor zorgt dat deze provincies weinig sturing hebben op de stikstofdepositie;</al>
+            <al>overwegende dat hiermee agrarisch ondernemerschap op de Zeeuwse eilanden en andere kustprovincies zeer moeilijk wordt en daarmee kostbare opbrengsten verloren gaan, zeker aangezien de provincie door beperkte aanwezigheid van veehouderij kan sturen op emissies;</al>
+            <al>verzoekt de regering om in lijn met het doel «maatwerk per gebied» in het NPLG samen met deze provincies tot een actieplan te komen om in de behoefte van zoetwater te kunnen voorzien en verzilting tegen te gaan en maatregelen in het NPLG op te nemen die sturing op het gebied van de staat van instandhouding kunnen bieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Campen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

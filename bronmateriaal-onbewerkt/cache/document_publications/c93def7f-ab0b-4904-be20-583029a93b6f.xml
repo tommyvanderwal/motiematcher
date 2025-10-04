@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-133/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">133</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HOLMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de huidige ondergrens voor stikstofdepositie in de vergunningverlening leidt tot ernstige problemen;</al>
+            <al>constaterende dat de commissie-Hordijk (2020), TNO (2021) en het recente rapport van De Nieuwe Denktank (2023) hebben geconcludeerd dat de modeluitkomsten van AERIUS Calculator onder 1 mol stikstofdepositie per hectare per jaar voor individuele projecten technisch modelmatig niet te onderscheiden zijn van deposities van nul en daarmee schijnzekerheid creëren;</al>
+            <al>constaterende dat de Raad van State in haar ViA15-oordeel van april 2023 een vergelijkbare beperking in het toepassingsbereik van het model heeft geaccepteerd als onderbouwing van de aanvaardbaarheid van de maximale rekenafstand van 25 kilometer omdat het model daarbuiten geen betrouwbare uitspraken kan doen;</al>
+            <al>verzoekt de regering onder voorbehoud van een positief advies van de Raad van State voortaan een rekenkundige ondergrens van 1 mol per hectare per jaar te hanteren voor stikstofdepositie waarbij een passende beoordeling nodig is voor een vergunning, zoals eerder ook werd voorgesteld in de initiatiefnota van Van der Plas en Eppink;</al>
+            <al>verzoekt de regering zo spoedig mogelijk deze aanpassingen voor te leggen aan de Kamer inclusief het advies van de Raad van State en daarbij rekening te houden met de noodzaak van daling van de stikstofuitstoot,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Hertzberger</al>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+              <al>Nijhof-Leeuw</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

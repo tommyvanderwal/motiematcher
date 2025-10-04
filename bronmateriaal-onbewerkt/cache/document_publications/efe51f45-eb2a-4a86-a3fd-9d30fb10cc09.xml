@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22054-407/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 054</dossiernr>
+      </dossiernummer>
+      <titel>Wapenexportbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">407</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TUINMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat exportbeperkende maatregelen voor Nederlandse techbedrijven, bijvoorbeeld ASML, bedoeld zijn om hoogwaardige, strategische kennis niet in handen te geven van autocratische regimes;</al>
+            <al>overwegende dat naast nationale veiligheid door middel van sancties ook werkgelegenheid in Nederland en een geostrategische onderhandelingspositie een cruciale rol zouden moeten spelen voor ons vestigingsklimaat en daarmee juist ons nationale belang dienen;</al>
+            <al>overwegende ook dat de Minister iedere aanvraag voor een exportvergunning «per geval» bekijkt;</al>
+            <al>verzoekt de regering om bij iedere aanvraag voor een exportvergunning factoren als ons vestigingsklimaat, werkgelegenheid en de nationale veiligheid bewust mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tuinman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36800-24"/>
+      <meta name="OVERHEIDop.ondernummer" content="24"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36800"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van der Plas en Yesilgöz-Zegerius over het initiatief van de Belgische premier De Wever steunen om een interpretatieprotocol voor het EVRM te onderzoeken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D. Yesilgöz-Zegerius"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nota over de toestand van ’s Rijks Financiën"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-18"/>
+      <meta name="DC.title" scheme="" content="Nota over de toestand van ’s Rijks Financiën; Motie; Motie van de leden Van der Plas en Yesilgöz-Zegerius over het initiatief van de Belgische premier De Wever steunen om een interpretatieprotocol voor het EVRM te onderzoeken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 800</dossiernr>
+         </dossiernummer>
+         <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">24</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN DER PLAS EN YEŞILGÖZ-ZEGERIUS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-18">18 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat regelmatig uitzettingen van uitgeprocedeerde en criminele asielzoekers geen doorgang kunnen vinden omdat dit in strijd zou zijn met het Europees Verdrag voor de Rechten van de Mens;</al>
+                  <al>overwegende dat het EVRM nooit is opgesteld met de intentie om asielbeleid dat op democratische wijze tot stand is gekomen te ondermijnen;</al>
+                  <al>constaterende dat de Belgische premier Bart De Wever een oproep heeft gedaan om samen met andere landen te werken aan een interpretatieprotocol om de invloed van het EVRM op asielbeleid in te perken;</al>
+                  <al>verzoekt de regering om het initiatief van De Wever om een interpretatieprotocol voor het EVRM te onderzoeken te steunen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van der Plas</al>
+                     <al>Yeşilgöz-Zegerius</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31765-921"/>
+      <meta name="OVERHEIDop.ondernummer" content="921"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31765"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Dijk en Bushoff over onderzoek naar een moratorium op het sluiten van afdelingen van ziekenhuizen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.J. Bushoff"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P. Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Kwaliteit van zorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.title" scheme="" content="Kwaliteit van zorg; Motie; Motie van de leden Dijk en Bushoff over onderzoek naar een moratorium op het sluiten van afdelingen van ziekenhuizen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 765</dossiernr>
+         </dossiernummer>
+         <titel>Kwaliteit van zorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">921</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DIJK EN BUSHOFF</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-21">21 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er plannen zijn om de spoedeisendehulpafdelingen en de acute verloskunde te gaan betalen vanuit budgetbekostiging vanaf 2027 en zorgen voor voldoende zorgpersoneel prioriteit is voor dit kabinet;</al>
+                  <al>overwegende dat er in de tussentijd een risico bestaat dat (afdelingen van) ziekenhuizen zullen sluiten en personeel en inwoners hiervan de dupe zijn;</al>
+                  <al>verzoekt het kabinet de mogelijkheden tot het instellen van een moratorium op het sluiten van (afdelingen van) ziekenhuizen te verkennen en in te voeren, en tegelijkertijd alles te doen om financiële en personele tekorten van ziekenhuizen op te lossen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dijk</al>
+                     <al>Bushoff</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-449/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">449</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN MEIJEREN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overheid bij de selectie van personeel gebruikmaakt van diversiteitsquota en kandidaten beoordeelt op basis van ras, geslacht en andere groepskenmerken;</al>
+            <al>overwegende dat dit leidt tot discriminatie van sollicitanten die niet het gewenste ras of geslacht hebben en daardoor benadeeld worden;</al>
+            <al>overwegende dat het diversiteitsbeleid bovendien aantoonbaar niet leidt tot meer eenheid of effectiviteit, maar juist tot meer verdeeldheid en wantrouwen;</al>
+            <al>roept de regering op te stoppen met het personeelsbeleid waarin selectie plaatsvindt op grond van ras, geslacht of andere groepskenmerken en alle diversiteitsquota af te schaffen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Meijeren</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

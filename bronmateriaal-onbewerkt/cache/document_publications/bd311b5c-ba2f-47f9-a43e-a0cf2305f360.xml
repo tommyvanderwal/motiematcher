@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1259/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1259</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PETER DE GROOT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er signalen zijn dat middenhuurwoningen op grote schaal worden verkocht door de effecten die de Wet betaalbare huur heeft op de middenhuursector;</al>
+            <al>overwegende dat de huisvesting voor middengroepen hierdoor in de knel komt en mensen zelfs op straat komen te staan;</al>
+            <al>constaterende dat het noodzakelijk is dat de verkoopgolf in de middenhuursector gestopt wordt en de middenhuursector vergroot wordt om de woningnood echt te beteugelen;</al>
+            <al>verzoekt de regering scenario's en maatregelen uit te werken omtrent de Wet betaalbare huur zodat dat het weer loont om te investeren in middenhuurwoningen met als resultaat dat het aantal middenhuurwoningen groeit en de verkoopgolf wordt gestopt;</al>
+            <al>verzoekt deze scenario's en maatregelen gelijktijdig met de evaluatie van uitpondcijfers in het eerste kwartaal aan de Tweede Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Peter de Groot</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

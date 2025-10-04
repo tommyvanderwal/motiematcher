@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-B-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>B</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het gemeentefonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CHAKOR EN VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de groei van het Gemeentefonds is gekoppeld aan de ontwikkeling van het bbp;</al>
+            <al>constaterende dat tegelijkertijd voor de berekening van het accres is overgestapt op een andere berekeningswijze van de accrestranches uit voorgaande jaren voor het geraamde accres in een jaar;</al>
+            <al>overwegende dat deze nieuwe berekeningswijze volgens de VNG leidt tot een extra nadeel voor medeoverheden vanaf 2026 en daarmee het ravijn verdiept;</al>
+            <al>overwegende dat deze berekeningswijze het inzicht en transparantie van de accresberekening vertroebelt en uitvoeringsproblemen met zich meebrengt bij het bepalen van uitnamen en toevoegingen uit de algemene uitkering bij taakmutaties;</al>
+            <al>verzoekt de regering de financiële effecten en voor- en nadelen van de nieuwe berekeningswijze taakmutaties samen met medeoverheden inzichtelijk te maken, en de Kamer hierover uiterlijk februari 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

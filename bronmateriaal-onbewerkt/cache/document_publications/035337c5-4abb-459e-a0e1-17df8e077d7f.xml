@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-35334-372"/>
+      <meta name="OVERHEIDop.ondernummer" content="372"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="35334"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Holman en Vedder over een schriftelijke reactie op de vier kritiekpunten van de Raad van State"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.C. Vedder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Problematiek rondom stikstof en PFAS"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Problematiek rondom stikstof en PFAS; Motie; Motie van de leden Holman en Vedder over een schriftelijke reactie op de vier kritiekpunten van de Raad van State"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Bodem"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Lucht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Bouwnijverheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>35 334</dossiernr>
+         </dossiernummer>
+         <titel>Problematiek rondom stikstof en PFAS</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">372</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN HOLMAN EN VEDDER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>constaterende dat de Raad van State in zijn advies over het wetsvoorstel Legalisering PAS-projecten vier fundamentele kritiekpunten heeft geformuleerd ten aanzien van het wetsvoorstel om PAS-melders te legaliseren, namelijk:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>het ontbreken van gerichte bronmaatregelen voor stikstofreductie;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>het ontbreken van een concreet programma voor alternatieven bij legalisering;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>onduidelijkheid over de juridische betekenis van «legalisering»;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>onzekerheid over de juridische houdbaarheid bij het afzien van handhaving;</al>
+                        </li>
+                     </lijst>
+                     <al>constaterende dat de Raad van State expliciet aangeeft dat deze punten nader moeten worden uitgewerkt om juridische onzekerheid te voorkomen;</al>
+                  </al-groep>
+                  <al>overwegende dat het wetsvoorstel geen concreet perspectief biedt, waardoor de onzekerheid voor PAS-melders voortduurt;</al>
+                  <al>overwegende dat PAS-melders en interim-mers te goeder trouw hebben gehandeld op basis van overheidsbeleid;</al>
+                  <al>van mening dat PAS-melders en interim-mers daarom recht hebben op een juridische oplossing in de vorm van een vergunning of adequate compensatie;</al>
+                  <al>verzoekt de regering schriftelijk in te gaan op de vier kritiekpunten zoals benoemd door de Raad van State, inclusief een duidelijk onderbouwd juridisch kader voor elk van deze punten;</al>
+                  <al>verzoekt de regering een volledige uitwerking van deze onderbouwing te presenteren aan de Kamer voordat er verdere wetsbehandeling plaatsvindt;</al>
+                  <al>verzoekt de regering expliciet aandacht te besteden aan de positie van PAS-melders en interim-mers, waarbij wordt gewaarborgd dat zij niet de dupe worden van juridische onzekerheden die voortkomen uit veranderend overheidsbeleid,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Holman</al>
+                     <al>Vedder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

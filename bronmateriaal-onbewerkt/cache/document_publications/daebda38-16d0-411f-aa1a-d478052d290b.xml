@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-347/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">347</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN HOLMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de KDW-doelen in de Wet stikstofreductie en natuurverbetering uit 2020 na de nieuwe inzichten uit 2023 geen stabiele doelen, maar bewegende doelen bleken te zijn, wat betekent dat volgens het RIVM voor het 2030-doel van 50% onder de KDW geen emissiereductie van 26% nodig is, zoals in de memorie van toelichting stond, maar voor ammoniak uit de landbouw wel 55% tot 65% boven op het basispad;</al>
+            <al>overwegende dat alleen Nederland de KDW in de wet heeft opgenomen, dat de Habitatrichtlijn niet van ons vraagt de KDW in de wet te zetten, dat de Europese Commissie emissieplafonds oplegt, en dat België – met een vergelijkbare stikstofproblematiek – werkt met emissiereductiepercentages;</al>
+            <al-groep>
+              <al>verzoekt de regering in de wetsaanpassingen die worden voorbereid om de overstap naar emissiebeleid te maken omwille van rechtszekerheid en investeringszekerheid stabiele emissiereductiedoelen dan wel emissieplafonds in de wet te zetten en de veranderlijke KDW als effectindicator te hanteren in</al>
+              <al>de memorie van toelichting,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

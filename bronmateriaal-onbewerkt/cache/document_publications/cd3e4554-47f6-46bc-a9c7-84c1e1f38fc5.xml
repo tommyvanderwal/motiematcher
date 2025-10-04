@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36378-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 378</dossiernr>
+      </dossiernummer>
+      <titel>Regels over energiemarkten en energiesystemen (Energiewet) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat onderzoek van de Woonbond concludeert dat er nu al huurders met zonnepanelen zijn die soms duurder uit zijn dan huurders zonder zonnepanelen;</al>
+            <al>van mening dat maatregelen die huurders straffen voor gebruik van zonnepanelen het draagvlak voor een klimaattransitie ondermijnen en niet in lijn zijn met klimaatrechtvaardigheid;</al>
+            <al>van mening dat de regering zonnepanelen voor huurders aantrekkelijk moet maken en houden;</al>
+            <al>verzoekt de regering samen met de Woonbond en Aedes onderzoek te doen naar hoe huurders met bestaande zonnepanelen beschermd kunnen worden tegen hogere prijzen dan ze zouden hebben zonder zonnepanelen;</al>
+            <al>verzoekt de regering samen met de Woonbond en Aedes onderzoek te doen naar hoe het aanleggen van nieuwe zonnepanelen voor huurders zo aantrekkelijk mogelijk kan worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

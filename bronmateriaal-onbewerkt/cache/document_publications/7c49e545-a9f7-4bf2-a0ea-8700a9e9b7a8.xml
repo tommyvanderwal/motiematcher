@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+      </dossiernummer>
+      <titel>Voorjaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HIJUM C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in de Voorjaarsnota 1,7 miljard euro wordt vrijgemaakt om het vestigingsklimaat voor de microchipsector te verbeteren, met Brainport Eindhoven als geografisch zwaartepunt;</al>
+            <al>overwegende dat de opgave om hightechtalent op te leiden en te binden zich niet beperkt tot de regio Eindhoven, en dat ook bedrijvenclusters in met name de regio's Delft, Twente, Arnhem-Nijmegen, Almere en Groningen onderdeel zijn van de sterke Nederlandse halfgeleiderketen;</al>
+            <al>overwegende dat het politiek breed omarmde advies «Elke regio telt» adviseerde om de investeringslogica van de rijksoverheid te veranderen door niet langer vanzelfsprekend sterker te maken wat al sterk is;</al>
+            <al>verzoekt de regering om te borgen dat de beschikbare 882 miljoen euro voor het opleiden van talent en onderzoek evenwichtig wordt verdeeld over de betrokken regio's,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Hijum</al>
+              <al>Vermeer</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-19637-3422"/>
+      <meta name="OVERHEIDop.ondernummer" content="3422"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="19637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Podt c.s. over het inrichten van één loket voor ondernemers in Ter Apel"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.R. van Zanten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="Q.M. Rajkowski"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="K.P. Piri"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Podt"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vreemdelingenbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-20"/>
+      <meta name="DC.title" scheme="" content="Vreemdelingenbeleid; Motie; Motie van het lid Podt c.s. over het inrichten van één loket voor ondernemers in Ter Apel"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Immigratie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>19 637</dossiernr>
+         </dossiernummer>
+         <titel>Vreemdelingenbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3422</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PODT C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-20">20 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat ondernemers in Ter Apel al jarenlang worden geconfronteerd met overlast en schade, waarbij zij door het Rijk onvoldoende geholpen worden;</al>
+                  <al>constaterende dat er verschillende regelingen zijn, die ook niet allemaal zijn toegesneden op de situatie van de ondernemers, waardoor zij veel tijd kwijt zijn met administratie die ook nog eens nergens toe leidt;</al>
+                  <al>overwegende dat er herhaaldelijk goede voornemens zijn uitgesproken, maar dat concrete ondersteuning voor de ondernemers uitblijft;</al>
+                  <al>van mening dat ondernemers recht hebben op een centrale, toegankelijke voorziening waar zij terechtkunnen voor zowel schadevergoeding als preventieve ondersteuning;</al>
+                  <al>verzoekt de regering om uiterlijk deze zomer één loket in te richten, waar ondernemers in Ter Apel terechtkunnen voor zowel reguliere als complexe schadeafhandeling en voor preventieve maatregelen en dit loket in samenwerking met, maar niet onder verantwoordelijkheid van de gemeente Westerwolde te organiseren;</al>
+                  <al>verzoekt de regering de Kamer hierover te informeren voor juli 2025 inclusief toelichting over de financiële onderbouwing,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Podt</al>
+                     <al>Piri</al>
+                     <al>Rajkowski</al>
+                     <al>Boomsma</al>
+                     <al>Van Zanten</al>
+                     <al>Van Nispen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

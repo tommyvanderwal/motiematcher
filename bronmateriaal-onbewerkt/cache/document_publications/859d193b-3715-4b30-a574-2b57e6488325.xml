@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-879/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">879</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CLAASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog steeds grote tekorten zijn op de geneesmiddelenmarkt;</al>
+            <al>constaterende dat langetermijnoplossingen voor nu geen oplossing zijn;</al>
+            <al>constaterende dat het zoeken naar medicatie voor artsen en apothekers een tijdrovende bezigheid is;</al>
+            <al>overwegende dat mensen te allen tijde moeten kunnen beschikken over medicatie die door de arts aan hen is voorgeschreven en dat mensen door tekorten niet zieker mogen worden;</al>
+            <al>overwegende dat het in Nederland mogelijk moet zijn om een logistiek netwerk op te zetten om medicatie snel door Nederland te kunnen verplaatsen naar plekken waar het nodig is;</al>
+            <al>verzoekt de regering zo snel mogelijk een centraal nooddepot schaarse generieke medicatie op te zetten, dat bereikbaar is via een centraal bekend nummer voor snelle uitlevering aan artsen en apothekers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Claassen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

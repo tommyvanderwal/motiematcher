@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32827-347/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 827</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst mediabeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">347</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2025-04-14">14 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister voornemens is om bij de verdere ontwikkeling van een nieuwe mediawet vast te houden aan de NPO als coördinerend orgaan dat over de verdeling van de budgetten gaat;</al>
+            <al>constaterende dat de Minister bij de ontwikkeling van een nieuwe mediawet aan externe pluriformiteit als leidend principe wil vasthouden;</al>
+            <al>overwegende dat bij de ontwikkeling van een nieuwe mediawet een scheiding tussen wie er verantwoordelijk is voor de programmering en wie er verantwoordelijk is voor de besteding van de budgetten juist bijdraagt aan externe pluriformiteit en een duidelijke scheiding van rollen, verwachtingen en verantwoordelijkheden;</al>
+            <al>overwegende dat er behoefte is aan een nieuwe mediawet waarin duidelijke keuzes worden gemaakt;</al>
+            <al>verzoekt de regering bij de uitwerking van het wetsvoorstel voor een nieuwe mediawet de omroephuizen gezamenlijk verantwoordelijk te maken voor de verdeling van de budgetten en sec het programmeren bij de NPO te laten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

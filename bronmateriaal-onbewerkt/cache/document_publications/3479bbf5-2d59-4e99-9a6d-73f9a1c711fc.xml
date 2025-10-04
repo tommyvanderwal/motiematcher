@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36446-69/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 446</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet allocatie arbeidskrachten door intermediairs en enige andere wetten in verband met de invoering van regels voor het verlenen van toelating voor het ter beschikking stellen van arbeidskrachten (Wet toelating terbeschikkingstelling van arbeidskrachten)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">69</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN AARTSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in het wetsvoorstel een uitzonderingsmogelijkheid is opgenomen om sectoren te kunnen uitzonderen van het toelatingsstelsel;</al>
+            <al>constaterende dat nu onduidelijk is langs welke lat sectoren gelegd worden om in aanmerking te kunnen komen voor de uitzondering;</al>
+            <al>verzoekt de regering een helder en kenbaar kader op te stellen op grond waarvan sectoren getoetst worden om uitgezonderd te kunnen worden van het toelatingsstelsel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Aartsen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

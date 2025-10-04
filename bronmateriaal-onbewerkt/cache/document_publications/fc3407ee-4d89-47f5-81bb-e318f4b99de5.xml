@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1604/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1604</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-07">7 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de druk op de mestmarkt door afbouw van derogatie steeds verder toeneemt en dat de afzetkosten voor drijfmest nog iedere week blijven stijgen;</al>
+            <al>constaterende dat dit door de recente aanwijzing van nutriënten verontreinigde gebieden alleen maar verder zal toenemen;</al>
+            <al>van mening dat dit een ongewenste druk legt op het inkomen en verdienvermogen van boeren en dat toelating van kunstmestvervangers de druk op de mestmarkt aanzienlijk zal verlagen;</al>
+            <al>van mening dat inzet van kunstmestvervangers zal leiden tot een aanzienlijke vermindering van gasverbruik en een verbetering van het verdienvermogen van boeren;</al>
+            <al>verzoekt de regering deze nijpende situatie op de Nederlandse mestmarkt in de Raad aan de orde te stellen en de Europese Commissie te vragen om RENURE per direct mogelijk te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Vedder</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

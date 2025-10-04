@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35709-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 709</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van wet van de leden Timmermans en Bikker tot wijziging van het Wetboek van Strafrecht in verband met de invoering van het discriminatoir oogmerk als strafverzwaringsgrond</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Algemene wet gelijke behandeling (AWGB) niet geldt voor eenzijdig overheidshandelen;</al>
+            <al>overwegende dat de overheid wettelijk aanspreekbaar zou moeten zijn op discriminerende handelingen;</al>
+            <al>overwegende dat de parlementaire enquêtecommissie Fraudebeleid en Dienstverlening, de Nationaal Coördinator tegen Discriminatie en Racisme en de staatscommissie tegen discriminatie en racisme de aanbeveling doen om eenzijdig overheidshandelen onder de werking van de AWGB te brengen;</al>
+            <al>verzoekt de regering eenzijdig overheidshandelen onder de werking van de AWGB te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

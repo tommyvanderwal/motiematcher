@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-114/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">114</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN BUSHOFF EN BECKERMAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 83</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aanpak voor verduurzaming is vertraagd terwijl de waardevermeerderingsregeling (WVR) ondanks een resterend budget van ca 90 miljoen euro op 1 februari 2025 afloopt;</al>
+            <al>overwegende dat nog maar een heel klein percentage van de toegevoegde doelgroepen aan de WVR een aanvraag heeft gedaan en de komende jaren naar schatting nog duizenden adressen in aanmerking komen voor de WVR;</al>
+            <al>verzoekt de regering de datum van de huidige waardevermeerderingsregeling in ieder geval te verlengen tot en met het beschikbaar komen van vervangende regelingen;</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

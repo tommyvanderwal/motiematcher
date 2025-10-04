@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-127/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">127</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID CEDER C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 105</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de 80-jarige Nederlander Jaitsen Singh al 40 jaar vastzit in een gevangenis in de Verenigde Staten en te kampen heeft met een slechte gezondheid;</al>
+            <al>constaterende dat 16 juni 2020 de motie-Van Nispen is aangenomen over een maximale inspanning om de heer Singh op humanitaire gronden, namelijk zijn gezondheid, leeftijd en binding met Nederland, over te laten brengen;</al>
+            <al>constaterende dat dit nog niet gelukt is ẹn de regering tot op heden geen WOTS-verzoek heeft gestart omdat er volgens de Minister geen binding met Nederland zou zijn;</al>
+            <al>overwegende dat Singh de Nederlandse nationaliteit heeft, in Nederland heeft gewoond en bij uitzetting door de VS naar Nederland gestuurd zou worden en er geen andere procedurele mogelijkheden in de VS voorhanden zijn;</al>
+            <al>verzoekt de regering om alsnog een WOTS-verzoek op te starten en maatwerk binnen de beleidskaders toe passen om Singh zo op korte termijn naar Nederland over te laten brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van Nispen</al>
+              <al>Omtzigt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

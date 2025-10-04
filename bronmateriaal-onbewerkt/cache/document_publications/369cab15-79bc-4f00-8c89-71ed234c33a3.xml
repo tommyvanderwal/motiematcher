@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-81/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">81</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HERTZBERGER EN MEULENKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Europese Verordening Nieuwe Genomische Technologie (hierna: NGT) het aanvragen van patenten op kenmerken van uitgangsmateriaal vereenvoudigt;</al>
+            <al>overwegende dat dit intellectueel eigendom niet compatibel is met het kwekersrecht;</al>
+            <al>overwegende dat het in veel gevallen onmogelijk is om met NGT geïntroduceerde eigenschappen te onderscheiden van natuurlijk voorkomende eigenschappen of van eigenschappen die door conventionele veredelingstechnieken zijn geïntroduceerd;</al>
+            <al>overwegende dat zowel het Nederlandse parlement, als de nationale parlementen van veel andere lidstaten, als het Europees Parlement deze patenten als onwenselijk hebben beoordeeld;</al>
+            <al>verzoekt de regering zich zo in te zetten dat de positie van de Europese Raad, met betrekking tot de verordening NGT, het ENVI-compromis steunt, zodat uitgangsmateriaal of eigenschappen hierin niet patentbaar zijn, ook niet wanneer zij met genetische technologie tot stand zijn gebracht;</al>
+            <al>verzoekt de regering zich ervoor in te zetten dat de Europese patentenorganisatie, conform de positie van de Europese Raad, de nieuwe verordening dusdanig interpreteert dat er noch op conventioneel, noch op met door genetische technologie geïntroduceerde eigenschappen patenten kunnen worden verleend,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Hertzberger</al>
+              <al>Meulenkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1407/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1407</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KAMMINGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-13">13 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is om de schaderoute via de Stichting (Gelijk)waardig Herstel en andere routes voort te zetten;</al>
+            <al>overwegende dat het van belang is om ontwikkelingen binnen de herstelopgave goed te monitoren om waar nodig te kunnen bijsturen en zo ook op lange termijn de zorgvuldigheid en uitlegbaarheid van de verschillende routes te kunnen waarborgen en de lessons learned een plek te kunnen geven;</al>
+            <al>verzoekt de regering om een evaluatieplan op te stellen en dit nog komend najaar aan de Kamer te doen toekomen, inclusief mogelijkheden voor versnelling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kamminga</al>
+              <al>Omtzigt</al>
+              <al>Flach</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

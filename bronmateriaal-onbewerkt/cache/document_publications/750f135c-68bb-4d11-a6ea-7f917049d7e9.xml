@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1187/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1187</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OLGER VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aangenomen motie-Olger van Dijk/Grinwis (<extref doc="kst-31936-1158" soort="document" status="actief">31 936, nr. 1158</extref>) de regering verzoekt om een externe commissie in te stellen bestaande uit experts en omwonenden die de nut en noodzaak van een vierde aanvliegroute zal beoordelen;</al>
+            <al>constaterende dat de Kamer eind 2024 op de hoogte wordt gesteld van de voorgestelde samenstelling van de externe commissie die adviseert over de luchtruimherziening;</al>
+            <al>overwegende dat de regering aanstuurt op een externe commissie luchtruimherziening bestaande uit experts;</al>
+            <al>verzoekt de regering om ook representanten van omwonenden te benoemen in de externe commissie voor de luchtruimherziening,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Kostić</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

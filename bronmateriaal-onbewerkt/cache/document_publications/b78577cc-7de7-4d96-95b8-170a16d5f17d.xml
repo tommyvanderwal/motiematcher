@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29517-260/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 517</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheidsregio’s</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">260</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de meldkamerfunctie ambulancezorg conform de Politiewet moet worden uitgevoerd op de meldkamer;</al>
+            <al>constaterende dat het een groot goed is dat er op tien locaties een multidisciplinaire meldkamer (blauw, wit en rood) operationeel is voor de afhandeling van 112-meldingen;</al>
+            <al>constaterende dat het kabinet aangeeft dat er pilots kunnen worden opgestart om de meldkamerfunctie ambulancezorg geheel of gedeeltelijk buiten de meldkamer uit te voeren;</al>
+            <al>overwegende dat het voor de politie essentieel is dat de «witte kolom» op de meldkamer aanwezig is, met directe toegang tot de ggz in het kader van de opvolging van meldingen van personen met verward gedrag;</al>
+            <al>van mening dat de voorgestelde pilots indruisen tegen de uitgangspunten van de multidisciplinaire meldkamer en de opgaven waar we voor staan;</al>
+            <al>voorts van mening dat er geen wijzigingen in de organisatie van de meldkamers gemaakt mogen worden zonder een expliciet akkoord van de korpsleiding van de politie;</al>
+            <al>verzoekt de regering de Kamer actief te informeren over de invulling, voortgang en uitkomst van de pilots;</al>
+            <al>verzoekt de regering om geen onomkeerbare wijzigingen door te voeren in de organisatie van de meldkamerfunctie ambulancezorg voordat de Kamer hierover uitdrukkelijk is geïnformeerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Michon-Derkzen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

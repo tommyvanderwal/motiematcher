@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36387-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 387</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Omgevingswet, de Gaswet en de Warmtewet in verband met gemeentelijke instrumenten voor de warmtetransitie in de gebouwde omgeving (Wet gemeentelijke instrumenten warmtetransitie)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het collectief verduurzamen van een wijk grote gevolgen kan hebben voor de bewoners in de betrokken wijk;</al>
+            <al>overwegende dat voor huishoudens een paar tientjes in de maand extra ten opzichte van wat werd verwacht een grote impact kan hebben;</al>
+            <al>constaterende dat uit de huidige praktijk blijkt dat het moeilijk is voor individuele burgers om hun recht te halen, bijvoorbeeld als blijkt dat ze per maand wel degelijk meer betalen dan voor de overstap op warmte;</al>
+            <al>constaterende dat er diverse (gemeentelijke) loketten zijn waar burgers terechtkunnen met vragen over het verduurzamen van de woning en voor hulp bij financiële vraagstukken;</al>
+            <al>verzoekt de regering om samen met de medeoverheden een loket aan te wijzen waar huishoudens laagdrempelig terechtkunnen tijdens en na hun overstap naar een collectieve warmteoplossing voor hulp bij (financiële) vragen en hulp bij het halen van hun recht, waardoor de transitie in de wijk een «menselijk gezicht» krijgt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Postma</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

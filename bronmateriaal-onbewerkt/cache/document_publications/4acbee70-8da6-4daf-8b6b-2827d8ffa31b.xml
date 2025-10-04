@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36537-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 537</dossiernr>
+      </dossiernummer>
+      <titel>Voorstel van het lid Bontenbal tot wijziging van het Reglement van Orde in verband met het beperken van de mogelijkheid om moties in te dienen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de context, het dictum en de appreciatie van moties, die leidend zijn voor de interpretatie van moties, wegvallen bij het weergeven van stemmingsuitslagen op websites en apps van de Kamer;</al>
+            <al>constaterende dat deze stemmingsuitslagen wel geregeld rondgaan op onder andere social media;</al>
+            <al>overwegende dat dit alles geen recht doet aan moties, indieners daarvan, de voor- of tegenstemmers en bovendien geregeld tot een vertekende situatie leidt;</al>
+            <al>verzoekt het presidium om te onderzoeken of op websites en apps van de Kamer waar stemmingsuitslagen worden geplaatst zowel de appreciatie van de bewindspersoon als het volledige dictum van de motie overzichtelijk weergegeven kan worden, en de Kamer hier voor het voorjaarreces over te berichten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ceder</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

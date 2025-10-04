@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1008/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1008</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SYNHAEVE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-28">28 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat nu een opnamestop is ingesteld bij de ZIKOS-afdelingen naar aanleiding van het rapport Eenzaam gesloten, maar dat veel van deze signalen al eerder gedaan waren;</al>
+            <al-groep>
+              <al>verzoekt de regering om de Kamer voor het volgende WGO Jeugd te informeren op welke wijze de IGJ haar werkwijze gaat verbeteren en hierin expliciet aandacht te hebben voor:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een betere omgang met signalen en meldingen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>betrokkenheid van ervaringsdeskundigen bij het toezicht;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de mogelijkheid om een negeerverbod op te nemen bij meldingen van bepaalde ernstige incidenten,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Synhaeve</al>
+              <al>Krul</al>
+              <al>Westerveld</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

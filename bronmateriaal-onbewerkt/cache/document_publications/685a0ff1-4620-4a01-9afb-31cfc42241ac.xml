@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-69/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">69</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOOPS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat artikel 22b van het Wetboek van Strafrecht een aantal taakstrafverboden bevat waarbij de achterliggende gedachte is dat in de gevallen waarin een taakstrafverbod geldt in principe een gevangenisstraf wordt opgelegd;</al>
+            <al>constaterende dat het OM wel een strafbeschikking kan opleggen als een taakstrafverbod geldt en dat het OM dit ook als beleid hanteert, terwijl in een strafbeschikking geen gevangenisstraf kan worden opgelegd;</al>
+            <al>van mening dat de achterliggende gedachte van het taakstrafverbod op deze wijze kan worden omzeild en dat in gevallen waarin een taakstrafverbod geldt daarom geen strafbeschikking moet worden uitgevaardigd;</al>
+            <al>verzoekt de regering via de tweede aanvullingswet wettelijk te verankeren dat er geen strafbeschikking mag worden uitgevaardigd in gevallen waarin een taakstrafverbod geldt;</al>
+            <al>verzoekt de regering dit ook, vooruitlopend op de inwerkingtreding van het nieuwe Wetboek van Strafvordering, in het huidige Wetboek van Strafrecht te verankeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koops</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

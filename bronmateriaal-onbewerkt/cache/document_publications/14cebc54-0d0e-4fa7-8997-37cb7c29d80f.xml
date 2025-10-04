@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33835-246/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 835</dossiernr>
+      </dossiernummer>
+      <titel>Nederlandse Voedsel- en Warenautoriteit (NVWA)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">246</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de NVWA kampt met arbeidstekorten, terwijl veel gevluchte of geëmigreerde dierenartsen in Nederland zonder werk zitten;</al>
+            <al>overwegende dat deze dierenartsen nu onnodig hoge drempels ervaren om bij de NVWA aan de slag te gaan, zoals de eis om een volledige dierenartsopleiding opnieuw te doorlopen;</al>
+            <al>van mening dat het oplossen van het capaciteitsprobleem bij de NVWA prioriteit moet hebben en dat we het beschikbare talent in Nederland beter moeten benutten;</al>
+            <al>verzoekt de regering te onderzoeken wat er wettelijk nodig is om gerichte opleidingsmodules mogelijk te maken, zodat instromers alleen hoeven te leren wat relevant is voor hun functie bij de NVWA,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

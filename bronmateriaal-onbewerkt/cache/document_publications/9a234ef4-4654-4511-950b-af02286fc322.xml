@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36714-11"/>
+      <meta name="OVERHEIDop.ondernummer" content="11"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36714"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Nispen over uitspreken dat Kamerleden hun taken serieus moeten nemen en onderzoek naar mogelijkheden om op te treden als zij hun taken verwaarlozen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-30"/>
+      <meta name="DC.title" scheme="" content="Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten; Motie; Motie van het lid Van Nispen over uitspreken dat Kamerleden hun taken serieus moeten nemen en onderzoek naar mogelijkheden om op te treden als zij hun taken verwaarlozen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 714</dossiernr>
+         </dossiernummer>
+         <titel>Raming der voor de Tweede Kamer in 2026 benodigde uitgaven, alsmede aanwijzing en raming van de ontvangsten</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">11</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-30">30 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er Kamerleden zijn die niet of nauwelijks aan debatten meedoen, geen Kamervragen of moties indienen, soms ook lokaal vertegenwoordiger zijn en daarvoor betaald krijgen en in sommige gevallen zelfs oneigenlijk gebruikmaken van de wachtgeldregeling en daarmee hun parlementaire taken verzaken en verwaarlozen, terwijl zij vorstelijk betaald worden met belastinggeld;</al>
+                  <al>overwegende dat dit soort Kamerleden negatief afstralen op het gehele parlement;</al>
+                  <al>spreekt uit dat Kamerleden hun taken serieus moeten nemen, dat zij behoren te werken voor het belastinggeld dat zij krijgen, en dat het slechts in uitzonderlijke omstandigheden wenselijk is om een zetel tussentijds (tijdelijk) over te dragen aan de volgende op de kieslijst;</al>
+                  <al>verzoekt het presidium te laten onderzoeken, bijvoorbeeld door een commissie van (staatsrecht)deskundigen, welke mogelijkheden er zouden kunnen komen om op te treden tegen Kamerleden die hun parlementaire taken verwaarlozen en tegen oneigenlijk gebruik van de wachtgeldregeling,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Nispen</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

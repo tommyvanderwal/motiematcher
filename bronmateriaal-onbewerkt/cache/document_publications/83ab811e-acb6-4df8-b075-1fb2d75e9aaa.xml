@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MOHANDIS EN ROODERKERK</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat cultuuraanbod voor iedereen bereikbaar moet zijn en dat daarom onder meer een evenwichtige geografische spreiding van beschikbare middelen van belang is;</al>
+            <al>overwegende dat de investeringen in de regio's met een achterblijvend cultuuraanbod er bij de toekenning van de meerjarige BIS-subsidies voor 2025–2028 en de rijkscultuurfondsen maar mondjesmaat op vooruitgaan;</al>
+            <al>overwegende dat door de zogenoemde zaaglijnproblematiek 57 grote (categorie 3) en kleine podiumfestivals en organisaties positief zijn beoordeeld en toch geen subsidie krijgen vanaf 2025 en dat daardoor de achterliggende regionale culturele infrastructuur in het voortbestaan wordt bedreigd, met onomkeerbare gevolgen voor de beoogde doelen zoals regionale cultuurspreiding, talentontwikkeling en instellingen die een ketenfunctie vervullen;</al>
+            <al>overwegende dat ook gemeenten ondanks hun zorgen over de gemeentefinanciën het belang van het voortbestaan van deze instellingen benadrukken en zij om een eenmalige oplossing vragen voor het jaar 2025;</al>
+            <al>verzoekt de regering om op korte termijn te onderzoeken of het mogelijk is om de desbetreffende gemeenten een oplossing te bieden voor de 57 organisaties (categorie 3) die ondanks een positief advies geen subsidie krijgen, en de Kamer hierover voor het einde van dit jaar te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mohandis</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

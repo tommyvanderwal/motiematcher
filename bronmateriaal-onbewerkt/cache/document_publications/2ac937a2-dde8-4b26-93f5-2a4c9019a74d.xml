@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2121/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2121</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Hongarije eigenstandig de visumregels voor onder anderen Russische en Wit-Russische staatsburgers heeft aangepast;</al>
+            <al>overwegende dat Hongarije hiermee de integriteit van de Schengenzone heeft beschadigd en een acuut veiligheidsrisico voor de rest van de EU veroorzaakt in verband met mogelijke Russische inmenging en het vrij verkeer van personen binnen de EU;</al>
+            <al>van mening dat ernaar moet worden gestreefd dat de Europese Commissie er uiteindelijk niet toe over hoeft te gaan om Hongarije (tijdelijk) te schorsen;</al>
+            <al>verzoekt de regering om steun uit te spreken voor maatregelen binnen de kaders van de Schengengrenscode tegen Hongarije, vanuit de Europese Commissie dan wel vanuit individuele EU-lidstaten, ter bescherming van de integriteit van de Schengenzone, waaronder gecoördineerde grenscontroles dan wel paspoortcontroles rond Hongarije door EU-lidstaten en verdergaande maatregelen indien de Europese Commissie daartoe besluit,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Kahraman</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

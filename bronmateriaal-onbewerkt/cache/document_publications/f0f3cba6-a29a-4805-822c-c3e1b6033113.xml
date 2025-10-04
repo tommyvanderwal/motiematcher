@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-132/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">132</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de aangenomen motie-Van der Plas (<extref doc="kst-21501-32-1572" soort="document" status="actief">21 501-32, nr. 1572</extref>) oproept om het verbod op bodemvisserij in de Voordelta uit te stellen totdat uit metingen is gebleken dat de maatregelen bijdragen aan het herstel van de natuurwaarden;</al>
+            <al>constaterende dat de Minister voor Natuur en Stikstof alsnog een toegangsbeperkend besluit op wil tuigen;</al>
+            <al>verzoekt het kabinet om geen toegangsbeperkingen of verbod op bodemvisserij in de Voordelta in te stellen totdat uit een ecologische toets is gebleken dat de maatregel daadwerkelijk bijdraagt aan het herstel van de natuurwaarden;</al>
+            <al>en de motie-Van der Plas uit te voeren zoals die is aangenomen op 12 september 2023,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

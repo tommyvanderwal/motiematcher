@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36698-13"/>
+      <meta name="OVERHEIDop.ondernummer" content="13"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-14"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36698"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.9/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Grinwis c.s. over het overeind houden van de doelen van de Woontop en de Nationale Prestatieafspraken"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="L.A.J.M. Dassen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Voorstel van wet van het lid De Hoop tot wijziging van de Uitvoeringswet huurprijzen woonruimte en de Woningwet in verband met de bevriezing van de huren in 2025 en van de Wet op de vennootschapsbelasting 1969 en andere fiscale wetten in verband met het vervallen van de vennootschapsbelastingplicht voor woningcorporaties en dekkingsmaatregelen daarvoor"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-04-23"/>
+      <meta name="DC.title" scheme="" content="Voorstel van wet van het lid De Hoop tot wijziging van de Uitvoeringswet huurprijzen woonruimte en de Woningwet in verband met de bevriezing van de huren in 2025 en van de Wet op de vennootschapsbelasting 1969 en andere fiscale wetten in verband met het vervallen van de vennootschapsbelastingplicht voor woningcorporaties en dekkingsmaatregelen daarvoor; Motie; Motie van het lid Grinwis c.s. over het overeind houden van de doelen van de Woontop en de Nationale Prestatieafspraken"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Huisvesting | Huren en verhuren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 698</dossiernr>
+         </dossiernummer>
+         <titel>Voorstel van wet van het lid De Hoop tot wijziging van de Uitvoeringswet huurprijzen woonruimte en de Woningwet in verband met de bevriezing van de huren in 2025 en van de Wet op de vennootschapsbelasting 1969 en andere fiscale wetten in verband met het vervallen van de vennootschapsbelastingplicht voor woningcorporaties en dekkingsmaatregelen daarvoor</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">13</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-04-23">23 april 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>gelezen de afspraken van de Woontop, de Nationale Prestatieafspraken én de Voorjaarsnota;</al>
+                  <al>spreekt uit dat het Rijk zich moet houden aan afspraken die het heeft gemaakt en ondertekend;</al>
+                  <al>verzoekt de regering alles in het werk te stellen om de doelen van de Woontop en de Nationale Prestatieafspraken om te voorzien in voldoende betaalbare en goed geïsoleerde woningen overeind te houden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Grinwis</al>
+                     <al>Vijlbrief</al>
+                     <al>Flach</al>
+                     <al>Boswijk</al>
+                     <al>Dassen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

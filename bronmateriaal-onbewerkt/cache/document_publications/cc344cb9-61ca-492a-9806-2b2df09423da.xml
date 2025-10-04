@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32813-1452/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 813</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsaanpak Klimaatbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1452</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN THIJSSEN EN KRÖGER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet inzet op de afbouw van fossiele regelingen;</al>
+            <al>constaterende dat er bij de voorjaarsbesluitvorming een additioneel pakket aan klimaatmaatregelen vastgesteld moet worden om de doelen uit de Klimaatwet weer binnen bereik te brengen;</al>
+            <al>overwegende dat uit diverse analyses, waaronder van PBL, blijkt dat een beprijzingstekort de transitie naar klimaatneutraal belemmert;</al>
+            <al>verzoekt de regering te komen met concrete voorstellen die bijdragen tot afbouwen van fossiele regelingen te betrekken bij het voorjaarspakket,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Thijssen</al>
+              <al>Kröger</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

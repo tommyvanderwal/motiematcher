@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28676-545"/>
+      <meta name="OVERHEIDop.ondernummer" content="545"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28676"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Baudet over zich verzetten tegen de invoering van de 5%-norm"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.H.P. Baudet"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="NAVO"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-17"/>
+      <meta name="DC.title" scheme="" content="NAVO; Motie; Motie van het lid Baudet over zich verzetten tegen de invoering van de 5%-norm"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Militaire missies"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 676</dossiernr>
+         </dossiernummer>
+         <titel>NAVO</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">545</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BAUDET</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-17">17 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het kabinet voornemens is tijdens de NAVO-top van 24 en 25 juni in te stemmen met een structurele verhoging van de defensie-uitgaven naar 5% van het bruto binnenlands product;</al>
+                  <al>constaterende dat deze norm neerkomt op een structurele extra uitgave van circa 35 miljard euro per jaar, oftewel circa € 3.600 per werkende Nederlander per jaar;</al>
+                  <al>overwegende dat deze financiële verplichting grote gevolgen heeft voor de nationale begrotingsruimte en de lasten voor burgers;</al>
+                  <al>overwegende dat Nederland als soevereine lidstaat binnen de NAVO de ruimte moet behouden om eigen afwegingen te maken in het bepalen van defensie-uitgaven;</al>
+                  <al>verzoekt de regering zich tijdens de NAVO-top te verzetten tegen de invoering van de 5%-norm en in te zetten op lastenverlichting voor Nederlanders,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Baudet</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

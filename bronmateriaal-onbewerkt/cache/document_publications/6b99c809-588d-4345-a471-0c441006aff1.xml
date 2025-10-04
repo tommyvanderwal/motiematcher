@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25883-506/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 883</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsomstandigheden</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">506</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de RI&amp;E in de top tien van grootste regeldrukknelpunten voor het mkb staat;</al>
+            <al>overwegende dat de Kaderrichtlijn 89/391 een aantal systeemverplichtingen bevat, maar dat in Nederland is gekozen voor aanvullende verplichtingen, terwijl andere lidstaten lichtere varianten hebben toegepast bij de implementatie van deze richtlijn;</al>
+            <al>overwegende dat Italië en Spanje een sterk vereenvoudigde RI&amp;E kennen voor kleine ondernemingen tot 50 werknemers met beperkte risico's en Zweden geen verplichting kent voor een schriftelijke RI&amp;E voor ondernemingen tot 10 medewerkers;</al>
+            <al>overwegende dat de bedrijfsrisico's beperkt moeten worden met oog voor de regeldrukgevolgen voor het bedrijfsleven;</al>
+            <al>verzoekt de regering te verkennen hoe de RI&amp;E-verplichtingen vereenvoudigd kunnen worden, en daarbij de mogelijkheid van het uitzonderen van organisaties tot 25 werknemers van de schriftelijke RI&amp;E nadrukkelijk te betrekken, en de Kamer over de uitkomsten hiervan te informeren voor het voorjaar van 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kisteman</al>
+              <al>Flach</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

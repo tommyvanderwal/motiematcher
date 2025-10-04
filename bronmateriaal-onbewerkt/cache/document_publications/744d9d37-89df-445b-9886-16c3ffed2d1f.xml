@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29984-1192/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 984</dossiernr>
+      </dossiernummer>
+      <titel>Spoor: vervoer- en beheerplan</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1192</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er sinds het aanhoudende brute geweld van Israël tegen de Palestijnse bevolking vreedzame en veilige sit-ins zijn georganiseerd in verschillende stationshallen in Nederland;</al>
+            <al>constaterende dat de bewoners van Gaza zich niet vrijelijk kunnen bewegen en niet veilig vervoerd kunnen worden;</al>
+            <al>overwegende dat wij in Nederland ons wel vrijelijk en veilig kunnen vervoeren;</al>
+            <al>overwegende dat de trein symbool staat voor vervoer en dat NS-stations hierdoor een passende plek zijn om te demonstreren voor rechten van de Palestijnen;</al>
+            <al>spreekt uit dat vreedzame demonstranten die demonstreren tegen het handelen van Israël niet pijnlijk weg gezet moeten worden als antisemieten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>El Abassi</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

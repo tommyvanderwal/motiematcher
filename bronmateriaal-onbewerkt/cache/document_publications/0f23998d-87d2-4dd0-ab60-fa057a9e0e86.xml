@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33578-136/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 578</dossiernr>
+      </dossiernummer>
+      <titel>Eerstelijnszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">136</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BUSHOFF C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 125</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat mensen met een vaste huisarts langer en gezonder leven;</al>
+            <al>overwegende dat de financiering van huisvesting voor huisartsen steeds vaker een knelpunt vormt waardoor het verbouwen of openen van een praktijk vaak niet mogelijk is;</al>
+            <al>constaterende dat zorginstellingen via het Waarborgfonds Zorginstellingen (WfZ) in aanmerking komen voor gunstige financiering tegen zo laag mogelijke rentekosten waardoor kosten bespaard worden die direct ten goede komen aan de zorg, maar dat huisartsen hier geen gebruik van kunnen maken;</al>
+            <al>verzoekt de regering in kaart te brengen welke mogelijkheden er zijn voor uitbreiding van het huidige Waarborgfonds, het opzetten van een afzonderlijk Waarborgfonds en de mogelijkheden voor de huisartsenzorg om zelf een fonds op te richten om zodoende de knelpunten rondom financiering van huisvesting bij huisartsen te verminderen en de Kamer hier uiterlijk halverwege 2025 over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Bikker</al>
+              <al>Daniëlle Jansen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-626/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">626</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-12">12 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek blijkt dat er in de achterliggende jaren regelmatig sprake was van strengere implementatie van EU-wetgeving en dat de keuze hiervoor in de helft van de gevallen niet expliciet werd vermeld en onderbouwd in de toelichting;</al>
+            <al>overwegende dat ondernemers gebaat zijn bij voorspelbaar en regelluw overheidsbeleid en dat zeer terughoudend dient te worden omgegaan met extra nationale regels bovenop EU-regelgeving;</al>
+            <al>verzoekt de regering terug te keren naar het uitgangspunt van lastenluwe implementatie van EU-wetgeving en daartoe in het Beleidskompas op te nemen dat bij implementaties die verdergaan dan strikt noodzakelijk is, expliciet wordt vermeld dat er sprake is van aanvullende nationale regels en waarom hiervoor gekozen is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36045-194/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 045</dossiernr>
+      </dossiernummer>
+      <titel>Situatie in Oekraïne</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">194</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OMTZIGT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-18">18 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de mondiale veiligheidssituatie snel verandert en Nederland beter voorbereid moet zijn op externe dreigingen;</al>
+            <al>overwegende dat strategische voorraden van essentiële goederen, zoals medicijnen en voedsel, de bescherming van vitale infrastructuur en een robuuste cyberveiligheid cruciaal zijn voor nationale veiligheid;</al>
+            <al>overwegende dat de Rekenkamer in 2022 aanbevelingen deed om de weerbaarheid te versterken middels strategische voorraden;</al>
+            <al>verzoekt de regering om binnen drie maanden met de hoofdlijnen en voor de zomer met een concreet plan en uitwerking te komen voor de versterking van de nationale weerbaarheid, met aandacht voor cyberveiligheid, strategische voorraden (waaronder voedsel, water en medicijnen) en vitale infrastructuur, in het licht van de veranderende geopolitieke situatie en conform de ARK-aanbeveling uit 2022,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Omtzigt</al>
+              <al>Yeşilgöz-Zegerius</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

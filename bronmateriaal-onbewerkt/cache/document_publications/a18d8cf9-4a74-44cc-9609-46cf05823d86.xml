@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29689-1279/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 689</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Zorgstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1279</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DOBBE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet het plan heeft om te bezuinigen op de Subsidieregeling medisch noodzakelijke zorg aan onverzekerden, de SOV, waar de zorg voor veel dakloze mensen uit wordt gefinancierd;</al>
+            <al>overwegende dat het recht op zorg een mensenrecht is en het dus onrechtvaardig zou zijn om de toegankelijkheid of de kwaliteit van de zorg voor de doelgroep van deze regeling te verminderen;</al>
+            <al>overwegende dat de beste manier om te besparen op deze regeling is om meer mensen toegang te geven tot een reguliere zorgverzekering;</al>
+            <al>verzoekt de regering om de bezuinigingsopgave in ieder geval niet in te vullen door de toegankelijkheid of de kwaliteit van de zorg voor onverzekerde mensen te verminderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dobbe</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

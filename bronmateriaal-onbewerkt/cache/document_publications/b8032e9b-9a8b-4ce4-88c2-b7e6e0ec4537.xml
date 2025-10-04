@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1472/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1472</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN EIJK EN KISTEMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat verder financieel gezonde bedrijven onnodig failliet gaan door aflossing van coronabelastingschulden;</al>
+            <al>constaterende dat sanering kan leiden tot hogere terugbetalingsverplichtingen dan wanneer er niet gesaneerd wordt;</al>
+            <al>overwegende dat de Belastingdienst maatwerk kan bieden wat betreft terugbetalingsafspraken, bijvoorbeeld door een langere en flexibelere aflossingsperiode;</al>
+            <al>verzoekt de regering te voorkomen dat verder financieel gezonde bedrijven onnodig failliet gaan, door binnen de vastgestelde budgettaire kaders en regels maatwerk te bieden en knelpunten op te lossen, en de Kamer over de voortgang te informeren in de periodieke stand-van-zakenbrieven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Eijk</al>
+              <al>Kisteman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

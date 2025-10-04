@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31288-1194"/>
+      <meta name="OVERHEIDop.ondernummer" content="1194"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31288"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Martens-America over een arbeidsmarktscan van noodzakelijke beroepsgroepen en opleidingen voor het verdienvermogen van Nederland"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Martens-America"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid; Motie; Motie van het lid Martens-America over een arbeidsmarktscan van noodzakelijke beroepsgroepen en opleidingen voor het verdienvermogen van Nederland"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Hoger onderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Onderzoek en wetenschap"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 288</dossiernr>
+         </dossiernummer>
+         <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1194</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat ons land op dit moment te kampen heeft met grote tekorten, niet alleen in technische beroepen maar ook in andere takken;</al>
+                  <al>van mening dat een zo goed mogelijke aansluiting van ons onderwijs op de arbeidsmarkt van nu en die van de toekomst essentieel is, zodat toekomstige werknemers en werkgevers elkaar blijven vinden;</al>
+                  <al>overwegende dat een zo goed mogelijke aansluiting van ons onderwijs op de arbeidsmarkt ook de economie ten goede komt;</al>
+                  <al>verzoekt de regering in samenwerking met de ministeries van OCW, SZW en EZ een arbeidsmarktscan uit te voeren om helder te krijgen welke beroepsgroepen en dus opleidingen nodig zijn voor ons verdienvermogen van de toekomst;</al>
+                  <al>verzoekt de regering het Ministerie van OCW te vragen de resultaten te analyseren en de Kamer verschillende scenario's te doen toekomen van wat er nodig is om ons onderwijsaanbod te laten aansluiten bij de arbeidsmarkt vanuit een langetermijnvisie,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Martens-America</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

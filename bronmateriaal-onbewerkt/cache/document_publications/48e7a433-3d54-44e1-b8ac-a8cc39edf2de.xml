@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-246/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">246</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DRAL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aanbod van illegale goksites extreem groot en bijzonder eenvoudig toegankelijk is en geen bescherming voor spelers of toezicht kent;</al>
+            <al>overwegende dat het volgens artikel 1, eerste lid, sub b van de Wet op de kansspelen verboden is om deelname aan illegale kansspelen te faciliteren;</al>
+            <al>verzoekt de Staatssecretaris zo spoedig mogelijk een taskforce «aanpak illegaliteit» in te stellen, en voor uiterlijk 1 oktober 2025 te komen met een concreet plan van aanpak om het faciliteren door banken, platforms en anderen van illegale goksites, illegale crypto en matchfixing tegen te gaan, en de Ksa daartoe bij de wijziging van de Wet op de kansspelen van meer bevoegdheden te voorzien,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dral</al>
+              <al>Van Nispen</al>
+              <al>Bikker</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

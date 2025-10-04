@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29924-266/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 924</dossiernr>
+      </dossiernummer>
+      <titel>Toezichtsverslagen AIVD en MIVD</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">266</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de regering voornemens is de Wet op de inlichtingen- en veiligheidsdiensten 2017 te herzien;</al>
+            <al>overwegende dat naast de AIVD en de MIVD ook de NCTV zich inzet voor het reduceren van nationale veiligheidsrisico's;</al>
+            <al>van mening dat er een overlap in taken tussen de genoemde diensten bestaat, waaronder het identificeren en duiden van dreigingen en risico's;</al>
+            <al>van mening dat de taken, bevoegdheden en het toezicht van de diensten helder en eenduidig in één wettelijk kader moeten worden geborgd, ook om daarmee de verschillen tussen de diensten te markeren;</al>
+            <al>verzoekt de regering de wenselijkheid van een nationale veiligheidswet onafhankelijk te laten onderzoeken, en de uitkomst daarvan mee te nemen bij de herziening van de Wiv 2017,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

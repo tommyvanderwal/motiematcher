@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26150-219/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 150</dossiernr>
+      </dossiernummer>
+      <titel>Algemene Vergadering der Verenigde Naties</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">219</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIRI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-12">12 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Internationaal Gerechtshof in Den Haag heeft geoordeeld dat er een duidelijk risico bestaat dat met de F-35-gevechtsvliegtuigen van Israël ernstige schendingen van het humanitaire oorlogsrecht worden gepleegd in de Gazastrook;</al>
+            <al>constaterende dat het Internationaal Gerechtshof heeft geoordeeld dat er een reëel en dreigend risico is op genocide in de Gazastrook;</al>
+            <al>constaterende dat het Internationaal Gerechtshof heeft geoordeeld dat Israël het verbod op rassenscheiding en apartheid in de Palestijnse gebieden schendt;</al>
+            <al>constaterende dat de aanklager van het Internationaal Strafhof heeft gevraagd om arrestatiebevelen voor de drie leiders van Hamas, premier Netanyahu en Minister Gallant;</al>
+            <al>overwegende dat het kabinet heeft aangegeven zich te beraden op het huidige beleidskader ten aanzien van Israël en de Palestijnse gebieden;</al>
+            <al>verzoekt het kabinet om, voor behandeling van de begroting van het Ministerie van Buitenlandse Zaken, de Tweede Kamer te informeren over de consequenties van de uitspraken van nationale en internationale rechtshoven voor het kabinetsbeleid ten aanzien van Israël en de Palestijnse gebieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Ergin</al>
+              <al>Dobbe</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23645-845/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 645</dossiernr>
+      </dossiernummer>
+      <titel>Openbaar vervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">845</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de herijking van het studentenreisproduct ertoe heeft geleid dat de ov-bedrijven in Nederland vanaf 2025 meer dan 200 miljoen euro minder inkomsten van het Rijk ontvangen;</al>
+            <al>overwegende dat de ov-bedrijven zonder compensatie genoodzaakt zijn fors te snijden in het aantal ritten, tot ruim 20% minder dan in 2019, en/of prijsstijgingen van wel meer dan 10% voor bus- en treinkaartjes door te voeren;</al>
+            <al>overwegende dat daardoor, ondanks de afspraak in het hoofdlijnenakkoord om het busvervoer op het platteland te versterken, de bereikbaarheid van dorpen op het platteland nog verder onder druk komt te staan;</al>
+            <al>verzoekt de regering de concrete gevolgen van de recente herijking van het studentenreisproduct voor de regionale bereikbaarheid per provincie dan wel vervoersregio in kaart te brengen, en de resultaten hiervan voor de eerstvolgende begrotingsbehandeling aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>De Hoop</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29282-562/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 282</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid en opleidingen zorgsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">562</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een nieuw systeem wordt ontworpen voor de BIG-registraties van zorgverleners;</al>
+            <al>constaterende dat zorgverleners, onafhankelijk van hun loon, evenveel moeten betalen voor hun BIG-registratie;</al>
+            <al>constaterende dat universitair opgeleide zorgverleners relatief veel verdienen en zorgverleners met een mbo- of hbo-opleiding relatief weinig;</al>
+            <al>verzoekt de regering een differentiatie toe te passen op de tarieven voor de (her)registratie zodat de kosten lager zijn voor zorgverleners met een lager loon,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

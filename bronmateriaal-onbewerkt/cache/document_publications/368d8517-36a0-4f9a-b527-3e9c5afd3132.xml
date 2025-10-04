@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36382-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 382</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet hergebruik van overheidsinformatie en enkele andere wetten in verband met de implementatie van richtlijn nr. 2019/1024/EU van het Europees Parlement en de Raad van 20 juni 2019 inzake open data en het hergebruik van overheidsinformatie (Wet implementatie Open data richtlijn)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de toegang tot overheidsinformatie in verschillende sectorale wetgeving is vastgelegd maar dat een duidelijk totaaloverzicht ontbreekt;</al>
+            <al>overwegende dat de Kamer in staat moet zijn om met meerderheden te besluiten tot aanvullende uitzonderingen onder strakke, weloverwogen voorwaarden en dat dit verschillende wetswijzigingen vereist;</al>
+            <al>verzoekt de regering om met alle betrokken bewindspersonen een duidelijk overzicht uit te werken van hoe toegang tot overheidsinformatie nu in verschillende wetten is vastgelegd, voor welke doeleinden en partijen dit geldt en welke twijfelgevallen er nog bestaan;</al>
+            <al>verzoekt de regering om de Kamer hierover voor het meireces te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

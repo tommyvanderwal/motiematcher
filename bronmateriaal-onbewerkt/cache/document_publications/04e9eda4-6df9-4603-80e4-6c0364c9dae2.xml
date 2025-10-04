@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-65/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">65</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ELLIAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de afgelopen jaren de positie van slachtoffers en nabestaanden is verbeterd maar zij desondanks in een aanzienlijk aantal gevallen hun bestaande rechten niet of onvoldoende kunnen uitoefenen;</al>
+            <al>constaterende dat er momenteel onvoldoende toezicht wordt uitgeoefend op de naleving van de bestaande slachtofferrechten;</al>
+            <al>van mening zijnde dat slachtoffers hun rechten gedurende het gehele strafproces, bij buitengerechtelijke afdoening en tijdens de fase van tenuitvoerlegging effectief moeten kunnen uitoefenen;</al>
+            <al>overwegende dat dit onder andere tot uitdrukking wordt gebracht in artikel 1.1.4, waarin is opgenomen dat strafvordering plaats heeft op een wijze die recht doet aan de belangen van het slachtoffer;</al>
+            <al>overwegende dat de organisatie van de strafrechtspleging zodanig moet zijn ingericht dat de uitoefening van de in het nieuwe Wetboek van Strafvordering opgenomen rechten van slachtoffers in de praktijk daadwerkelijk wordt gewaarborgd;</al>
+            <al>verzoekt de regering om effectieve remedies of rechtsmiddelen voor slachtoffers te introduceren in de tweede aanvullingswet en daarbij als uitgangspunt te hanteren dat het toekennen van een remedie, sanctie of rechtsmiddel evenredig moet zijn aan de ernst van de niet-naleving van het betreffende wettelijke voorschrift en toegevoegde waarde moet hebben voor slachtoffers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ellian</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36378-83/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 378</dossiernr>
+      </dossiernummer>
+      <titel>Regels over energiemarkten en energiesystemen (Energiewet) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">83</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VERMEER EN ERKENS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in artikel 3.19 van de Energiewet de mogelijkheid wordt geboden aan netwerk- en infrastructuurbedrijven om activiteiten en handelingen te verrichten voor onder andere het aanleggen, onderhouden, beheren en exploiteren van infrastructuur, faciliteiten en opslagsystemen;</al>
+            <al>constaterende dat een groot aantal private marktspelers actief of voornemens zijn om activiteiten te ontwikkelen in de waterstofketen, specifiek voor de invoer, uitvoer, doorvoer, omzetting of overslag van waterstofgas of waterstofdragers;</al>
+            <al>constaterende dat de ACM van mening is dat de betrokkenheid van netbeheerders alleen gewenst is als de markt een activiteit onvoldoende oppakt en als uit een afweging van de maatschappelijke kosten en baten blijkt dat dit verstandig is;</al>
+            <al>overwegende dat het onwenselijk is dat netwerk- en infrastructuurbedrijven met publiek geld actief zijn op de private markt, omdat dit concurrentieverstorend werkt en omdat commerciële risico's kunnen terugslaan op de netbeheerder en daarmee het publieke belang;</al>
+            <al-groep>
+              <al>van mening dat het ontbundelingsprincipe wordt ondermijnd als een infrastructuurbedrijf in alle delen van de waterstofketen actief is (invoer, uitvoer, doorvoer, omzetting of overslag);</al>
+              <al>verzoekt de regering via een algemene maatregel van bestuur, conform artikel 3.21, lid 5, van de Energiewet, voorschriften te verbinden aan de deelname van publieke infrastructuurbedrijven, waardoor de uitbreiding van bevoegdheden wordt beperkt tot de invoer, uitvoer en doorvoer van waterstofgas of waterstofdragers,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vermeer</al>
+              <al>Erkens</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

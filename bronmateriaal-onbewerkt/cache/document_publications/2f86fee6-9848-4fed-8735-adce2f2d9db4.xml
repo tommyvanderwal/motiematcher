@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-348/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">348</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOUTKAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland voor het niet-gerecycled plastic dat in Nederland wordt geproduceerd dat op de markt komt en vervolgens wordt verbrand, aan de Europese Unie verplicht een plastictaks moet betalen;</al>
+            <al>constaterende dat voor de jaren 2021–2023 Nederland een plastictaks van gemiddeld 235 miljoen euro per jaar heeft afgedragen;</al>
+            <al>overwegende dat niet-gerecycled plastic op de markt wordt gebracht binnen Nederland door producenten, die in het kader van de uitgebreide producentenverantwoordelijkheid een financiële bijdrage zouden moeten leveren;</al>
+            <al>verzoekt de regering om te onderzoeken of de jaarlijkse afdracht van de plastictaks op niet-gerecycled plastic kan worden afgedragen door producenten in plaats van uit de algemene middelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boutkan</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

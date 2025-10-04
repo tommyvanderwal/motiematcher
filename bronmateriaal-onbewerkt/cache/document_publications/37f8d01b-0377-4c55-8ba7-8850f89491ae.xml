@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-944/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">944</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN LAHLAH EN EL ABASSI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de personeelstekorten in de gevangenissen ertoe leiden dat dag- of avondprogramma's voor gedetineerden incidenteel worden geschrapt;</al>
+            <al>overwegende dat de spanningen onder gedetineerden hierdoor verder zullen oplopen en zullen leiden tot meer onveilige situaties in het gevangeniswezen;</al>
+            <al>overwegende dat het versoberen van dagprogramma's het vakmanschap, werkplezier en de veiligheid van personeel ondermijnt, met naar verwachting hoger ziekteverzuim en vertrek van personeel tot gevolg;</al>
+            <al>constaterende dat het versoberen van dagprogramma's de personeelstekorten daarmee zelfs kunnen verergeren;</al>
+            <al>verzoekt de regering om te bezien onder welke voorwaarden het eerder verlenen van re-integratieverlof voor extramurale arbeid kan worden ingezet als alternatief voor het versoberen van dagprogramma's, en de Kamer daar voor de zomer van 2024 over te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

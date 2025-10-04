@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-33/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">33</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-27">27 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het nieuwe Wetboek van Strafvordering in een vroeg stadium een actieve opstelling van de verdediging en daarmee de raadsman vereist;</al>
+            <al>overwegende dat het stelsel van gesubsidieerde rechtsbijstand nog niet op orde is, waardoor verdachten zonder financiële middelen benadeeld kunnen worden;</al>
+            <al>verzoekt de regering in overleg te treden met de Raad voor Rechtsbijstand en de Nederlandse orde van advocaten om te waarborgen dat de gesubsidieerde rechtsbijstand tijdig en adequaat beschikbaar is voor alle verdachten, ongeacht hun detentiestatus;</al>
+            <al>verzoekt de regering tevens te onderzoeken welke aanvullende maatregelen nodig zijn om de positie van verdachten zonder financiële draagkracht te versterken, in lijn met de adviezen van de Afdeling advisering van de Raad van State,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mutluer</al>
+              <al>Lahlah</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

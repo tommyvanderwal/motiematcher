@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-24170-366"/>
+      <meta name="OVERHEIDop.ondernummer" content="366"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-10"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="24170"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Westerveld c.s. over richtlijnen vastleggen voor de beoordeling van meerzorgvragen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W. Paulusma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.C. de Korte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Bikker"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.M. Westerveld"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gehandicaptenbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.title" scheme="" content="Gehandicaptenbeleid; Motie; Motie van het lid Westerveld c.s. over richtlijnen vastleggen voor de beoordeling van meerzorgvragen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>24 170</dossiernr>
+         </dossiernummer>
+         <titel>Gehandicaptenbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">366</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-09">9 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat gezinnen met ernstig meervoudig beperkte kinderen onverwacht zijn geconfronteerd met een afwijzing voor meerzorg, terwijl de hulpvraag onveranderd of zelfs verslechterd is;</al>
+                  <al>overwegende dat deze zorg noodzakelijk is en de afwijzing leidt tot enorme stress en financiële druk;</al>
+                  <al>overwegende dat de kwaliteit en toegang tot noodzakelijke zorg niet zou mogen afhangen van het zorgkantoor waar de zorg voor iemand wordt geregeld;</al>
+                  <al>verzoekt de regering om met professionals en vertegenwoordigers van cliënten richtlijnen vast te leggen voor de beoordeling van meerzorgvragen, en tot die tijd zorgkantoren de ruimte te geven maatwerk te bieden aan cliënten met een complexe zorgvraag die (nog) niet in aanmerking komen;</al>
+                  <al>verzoekt de regering tevens in overleg met zorgkantoren een oplossing te vinden voor de gezinnen van wie de aanvraag is afgewezen, en de Kamer te informeren voor het begrotingsdebat VWS,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Westerveld</al>
+                     <al>Dobbe</al>
+                     <al>Bikker</al>
+                     <al>De Korte</al>
+                     <al>Krul</al>
+                     <al>Paulusma</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

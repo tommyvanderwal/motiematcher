@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-774/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">774</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er schadelijke zware metalen vrijkomen zodra staalslakken in contact komen met water en het toepassen van staalslakken als bouwstof daarom tot negatieve gezondheids- en milieueffecten kan leiden;</al>
+            <al>constaterende dat het RIVM en de Inspectie Leefomgeving en Transport (ILT) waarschuwen voor de gevaren van staalslakken voor de natuur en de menselijke gezondheid;</al>
+            <al-groep>
+              <al>constaterende dat een werkgroep bestaande uit vertegenwoordigers van omgevingsdiensten, waterschappen, Rijkswaterstaat, politie en ILT zou willen zien dat het verplicht wordt voor bedrijven om te melden wanneer staalslakken worden gebruikt bij projecten, omdat toezichthouders sneller</al>
+              <al>kunnen ingrijpen bij een meldplicht dan bij een informatieplicht;</al>
+            </al-groep>
+            <al>verzoekt de regering om op korte termijn een meldplicht voor de toepassing van staalslakken in te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Gabriëls</al>
+              <al>Wingelaar</al>
+              <al>Van Kent</al>
+              <al>Grinwis</al>
+              <al>Koekkoek</al>
+              <al>Kostić,</al>
+              <al>Bamenga</al>
+              <al>El Abassi</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

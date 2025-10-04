@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1365/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1365</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KAMMINGA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-09">9 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er inmiddels meerdere schade- en herstelroutes voor gedupeerden openstaan;</al>
+            <al>overwegende dat ruimhartigheid, bejegening, het verhaal van de ouder en de uitlegbaarheid en transparantie belangrijke uitgangspunten en voorwaarden zijn bij de schaderoutes na de integrale beoordeling;</al>
+            <al>overwegende dat het goed is dat gedupeerden zelf kunnen kiezen welke route naar herstel het beste past bij hun persoonlijke situatie en zij op die wijze zelf meer regie krijgen over hun traject;</al>
+            <al>overwegende dat het van belang is dat ondanks de verschillen in aanpak, de uitkomsten van de trajecten niet in onverklaarbare verschillen mogen resulteren en het voor gedupeerden helder moet zijn wat de voor- en nadelen van de verschillende trajecten zijn;</al>
+            <al>verzoekt de regering zich daarom in te spannen om de voor- en nadelen van de verschillende routes aan de voorkant duidelijk aan gedupeerden te communiceren, en in overleg te treden met CWS, SGH en de regieroute om te voorkomen dat er onuitlegbare verschillen ontstaan in de uitkomsten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kamminga</al>
+              <al>Inge van Dijk</al>
+              <al>Van der Werf</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

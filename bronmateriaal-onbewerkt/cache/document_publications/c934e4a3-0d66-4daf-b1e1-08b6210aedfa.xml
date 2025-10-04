@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+      </dossiernummer>
+      <titel>Voorjaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland voor grote transities staat, waar veel kapitaal, publiek en privaat, voor moet worden gemobiliseerd;</al>
+            <al>overwegende dat de financieringsinitiatieven voor de transities versnipperd zijn in Nederland;</al>
+            <al>overwegende dat de WRR aanbeveelt dat een publiek-private investeringsbank het investeringsbeleid van de overheid minder wispelturig maakt, private aandeelhouders kan aantrekken voor langetermijnprojecten en kan bijdragen om de transities te realiseren;</al>
+            <al>overwegende dat KfW in Duitsland en Bpifrance in Frankrijk voorbeelden zijn van investeringsbanken;</al>
+            <al>overwegende dat de positie van Invest-NL door het hoofdlijnenakkoord versterkt wordt en als partner van InvestEU mogelijkheden heeft om Europees kapitaal te mobiliseren;</al>
+            <al>verzoekt de regering te onderzoeken hoe en in welke vorm Invest-NL omgevormd kan worden in een investeringsbank en bij dit onderzoek ook het Europese speelveld van Europese investeringsbanken in kaart te brengen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Dassen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

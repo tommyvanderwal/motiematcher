@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-742/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">742</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN TIELEN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de vaccinatiegraad onder kinderen daalt, met name bij de bmr- en dktp-vaccinaties, en dat het risico op uitbraken van ernstige en zeer besmettelijke ziektes zoals mazelen en kinkhoest toeneemt;</al>
+            <al>overwegende dat het verbeteren van de toegang tot vaccinaties een effectieve maatregel kan zijn om de vaccinatiegraad te verhogen en het risico op uitbraken te verkleinen;</al>
+            <al>overwegende dat hierbij ook gekeken moet worden naar interventies op het gebied van het aanpassen van de standaardoptie, zoals het organiseren van gezamenlijke vaccinatiemomenten op school of werk;</al>
+            <al>verzoekt de regering om in kaart te brengen welke concrete opties er zijn om de toegankelijkheid van vaccinaties te verbeteren, ook als het gaat om het aanpassen van de standaardoptie, en samen met de GGD'en een lijst van best practices hierbij te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

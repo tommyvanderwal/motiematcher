@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-379/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">379</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat slechts 4% van de Nederlandse landbouw biologisch is en we daarmee hekkensluiter van de Europese Unie zijn;</al>
+            <al>constaterende dat terwijl veel andere Europese landen steeds meer biologische landbouw hebben, de achterstand van Nederland volgens cijfers van Eurostat toeneemt;</al>
+            <al>constaterende dat onderzoekers een te weinig actieve overheid als een van de oorzaken van deze achterstand noemen, terwijl de biologische boeren te maken krijgen met een oneerlijk bedrijfseconomisch speelveld waarbij ze extra kosten moeten dragen;</al>
+            <al>constaterende dat biologische landbouw veel voordelen kan hebben voor onze gezondheid, de bijen- en hommelpopulaties en de bodem- en waterkwaliteit;</al>
+            <al>verzoekt de regering extra maatregelen te nemen zodat Nederland de achterstand in Europa op het gebied van biologische landbouw zo snel mogelijk inloopt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

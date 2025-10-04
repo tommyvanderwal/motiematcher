@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-881/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">881</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ELLIAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat van een specifieke groep veroordeelden zoals criminele kopstukken, opdrachtgevers en schutters een hoog en/of extreem veiligheidsrisico uitgaat;</al>
+            <al>constaterende dat uit het rapport Bijzondere voorwaarden bij voorwaardelijke invrijheidstelling door de procureur-generaal blijkt dat bijzondere voorwaarden onuitvoerbaar zijn bij de voorwaardelijke invrijheidstelling van gedetineerden van wie dit (extreem) hoge veiligheidsrisico uitgaat;</al>
+            <al>constaterende dat begin 2025 crimineel kopstuk «Rico de Chileen» vrijkomt en de reclassering inmiddels bij enkele veroordeelden uit deze risicovolle categorie geen uitvoering kan geven aan het toezicht op de noodzakelijke bijzondere voorwaarden bij de voorwaardelijke invrijheidsstelling;</al>
+            <al-groep>
+              <al>overwegende dat zonder de gedegen uitvoering van en het toezicht op bijzondere voorwaarden de voorwaardelijke invrijheidstelling feitelijk geen nut meer heeft, omdat de voorwaardelijke invrijheidsstelling bedoeld is om re-integratie in de samenleving te bevorderen;</al>
+              <al>van mening dat de veiligheid van reclasseringsmedewerkers niet in het geding mag komen;</al>
+            </al-groep>
+            <al>verzoekt de regering om bij het Openbaar Ministerie onder de aandacht te brengen dat een voorwaardelijke invrijheidsstelling niet gepast is bij veroordeelden van wie onaanvaardbare veiligheidsrisico's uitgaan en de Aanwijzing Voorwaardelijke Invrijheidsstelling tegen deze achtergrond opnieuw te bezien,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ellian</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

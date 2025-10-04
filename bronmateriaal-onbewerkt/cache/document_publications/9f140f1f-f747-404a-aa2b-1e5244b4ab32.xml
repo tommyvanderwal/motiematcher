@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-1980/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1980</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een voorstel van de Europese Commissie ligt om het MFK met 65,8 miljard euro te verhogen;</al>
+            <al>overwegende dat, zoals ook het kabinet aangeeft, het vertrek van het Verenigd Koninkrijk uit de Europese Unie adequaat gereflecteerd dient te worden in het MFK 2021–2027, en dat ambitieuze hervorming van de begroting hand in hand moet gaan met het realiseren van bezuinigingen;</al>
+            <al>overwegende dat een verhoging van het MFK in de nadagen van genoemde Commissie en voor de naderende EP-verkiezingen niet opportuun is;</al>
+            <al>verzoekt de regering zich ervoor in te zetten dat de omvang van het herziene MFK ten opzichte van het huidige MFK bij voorkeur krimpt, maar hooguit gelijk blijft;</al>
+            <al>verzoekt de regering voorts niet in te stemmen met een verhoging van een herzien MFK,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Dijk</al>
+              <al>Tuinman</al>
+              <al>Veldkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

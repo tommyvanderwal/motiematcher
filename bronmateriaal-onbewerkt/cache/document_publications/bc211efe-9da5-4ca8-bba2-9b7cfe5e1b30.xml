@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31239-419/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 239</dossiernr>
+      </dossiernummer>
+      <titel>Stimulering duurzame energieproductie </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">419</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID FLACH C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 414</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-04">4 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is ammoniakproductie slechts gedeeltelijk vrij te stellen van de REDIII-verplichting voor gebruik van groene waterstof;</al>
+            <al>overwegende dat zeker voor ammoniakproductie deze REDIII-verplichting voor grote problemen zorgt, ook bij een gedeeltelijke vrijstelling;</al>
+            <al>overwegende dat de Europese richtlijn ruimte biedt voor een algehele vrijstelling voor ammoniakproductie als de verduurzaming op andere wijze geborgd wordt, bijvoorbeeld door inzet van blauwe waterstof;</al>
+            <al>verzoekt de regering ammoniakproductie vrij te stellen van verplichte inzet van groene waterstof,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Erkens</al>
+              <al>Grinwis</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

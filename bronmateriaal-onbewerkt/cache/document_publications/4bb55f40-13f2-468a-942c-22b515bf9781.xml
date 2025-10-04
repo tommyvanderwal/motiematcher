@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1228/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1228</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MOOIMAN EN WELZIJN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Rijk met provincies heeft afgesproken 30% meer plancapaciteit beschikbaar te hebben dan nodig is;</al>
+            <al>overwegende dat enkele provincies het onwenselijk vinden om regionale plancapaciteit boven de 130% toe te staan, zelfs wanneer aangrenzende regio's met een tekort aan plancapaciteit kampen;</al>
+            <al>overwegende dat de vraag naar woningen gemeente- en regiogrenzen overstijgt, dat tekorten juist aangevuld kunnen worden met extra plancapaciteit in aangrenzende regio's en dat dit gelet op de woningcrisis niet zou moeten worden belemmerd;</al>
+            <al>verzoekt de regering met alle provincies af te spreken dat zij ruimte geven aan regio's om meer dan 130% plancapaciteit te hanteren, zeker wanneer er sprake is van tekorten in aangrenzende regio's,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mooiman</al>
+              <al>Welzijn</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

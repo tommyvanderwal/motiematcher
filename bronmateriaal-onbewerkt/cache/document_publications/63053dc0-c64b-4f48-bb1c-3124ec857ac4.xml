@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-20-2285"/>
+      <meta name="OVERHEIDop.ondernummer" content="2285"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-20"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Kahraman c.s. over minderheden in Syrië beschermen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Kahraman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Europese Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Europese Raad; Motie; Motie van het lid Kahraman c.s. over minderheden in Syrië beschermen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr>
+         </dossiernummer>
+         <titel>Europese Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">2285</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID KAHRAMAN C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat minderheden zoals druzen, alawieten, Koerden en christenen in Syrië al jarenlang doelwit zijn van vervolging, discriminatie en geweld;</al>
+                  <al>overwegende dat in gebieden onder controle van de zogenoemde regering-Jolani (Hayat Tahrir al-Sham) ernstige mensenrechtenschendingen plaatsvinden, waaronder buitengerechtelijke executies, vervolging van religieuze en etnische minderheden en onderdrukking van vrouwen;</al>
+                  <al>constaterende dat de aanwezigheid en veiligheid van minderheden cruciaal is voor de stabiliteit en toekomstige vreedzame opbouw van Syrië;</al>
+                  <al>constaterende dat Nederland zich inzet voor de bescherming van minderheden en vrijheid van godsdienst en levensovertuiging wereldwijd;</al>
+                  <al-groep>
+                     <al>verzoekt de regering:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>in VN- en EU-verband op te komen voor de bescherming van druzen, alawieten, christenen en Koerden in Syrië tegen het geweld van de regering-Jolani;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>zich in te zetten voor internationale monitoring en rapportage van mensenrechtenschendingen door HTS en aanverwante groeperingen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>samen met gelijkgezinde landen te onderzoeken welke gerichte sancties en verdere diplomatieke middelen kunnen worden ingezet tegen verantwoordelijken voor deze mensenrechtenschendingen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>steun te verlenen aan lokale maatschappelijke en religieuze organisaties die deze minderheden bijstaan in hun veiligheid en bestaanszekerheid,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Kahraman</al>
+                     <al>Van der Plas</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

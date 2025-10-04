@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-19637-3447"/>
+      <meta name="OVERHEIDop.ondernummer" content="3447"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-07"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="19637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Boomsma over contracten van minimaal tien jaar kunnen sluiten voor tijdelijke opvanglocaties voor ontheemden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.T. Boomsma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vreemdelingenbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.title" scheme="" content="Vreemdelingenbeleid; Motie; Motie van het lid Boomsma over contracten van minimaal tien jaar kunnen sluiten voor tijdelijke opvanglocaties voor ontheemden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Immigratie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>19 637</dossiernr>
+         </dossiernummer>
+         <titel>Vreemdelingenbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3447</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BOOMSMA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-03">3 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat gemeenten voor het realiseren van opvanglocaties voor ontheemden momenteel geen zekerheid hebben over financiering, omdat zij maar voor enkele jaren contracten kunnen sluiten;</al>
+                  <al>overwegende dat tijdelijke contracten tot hogere kosten en onzekerheid leiden en het realiseren van locaties verhinderen;</al>
+                  <al>overwegende dat de komende jaren opvanglocaties nodig zullen blijven omdat die ook gebruikt kunnen worden voor andere groepen wanneer de noodzaak voor opvang ontheemden zou vervallen, zoals statushouders of starters of andere groepen;</al>
+                  <al>verzoekt de regering er zorg voor te dragen dat gemeenten de mogelijkheid krijgen om voor langere termijnen van minimaal tien jaar contracten te stuiten voor het realiseren of verlengen van tijdelijke opvanglocaties voor de opvang van Oekraïense ontheemden en ervoor te zorgen dat die ook beschikbaar worden voor andere groepen indien de noodzaak tot opvang ontheemden vervalt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Boomsma</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

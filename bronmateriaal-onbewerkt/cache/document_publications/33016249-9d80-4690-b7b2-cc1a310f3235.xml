@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29893-272/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 893</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheid van het railvervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">272</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEUTINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Stichting railAlert met betrekking tot veilig werken aan het spoor het Voorschrift Veilig Werken Trein heeft opgesteld;</al>
+            <al>constaterende dat het Voorschrift Veilig Werken Trein per situatie richtlijnen geeft over hoe er veilig aan het spoor gewerkt kan worden;</al>
+            <al>van mening dat het veilig kunnen werken aan het spoor altijd moet prevaleren boven punctualiteit van de dienstregeling en dat dit dus betekent dat, indien nodig, de snelheid omlaag zou moeten;</al>
+            <al>verzoekt de regering om de veiligheidsprotocollen aan te scherpen teneinde werkzaamheden aan het spoor veiliger te laten verlopen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Heutink</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

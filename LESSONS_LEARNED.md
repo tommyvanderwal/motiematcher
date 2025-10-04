@@ -7,6 +7,7 @@
 - **Available Entities**: Zaak, Stemming, Besluit, Document, Activiteit, Persoon, Fractie, Vergadering, Agendapunt
 - **Non-existent Entities**: Wet, Amendement, Stemverklaring (as separate entities)
 - **Data Format**: OData v4 with JSON responses
+- **Filter wijziging (okt 2025)**: `$filter=Id eq <guid>` werkt, maar `$filter=Id eq guid'…'` geeft 400-fouten
 
 ### 🔍 Data Structure Patterns
 
@@ -25,6 +26,22 @@ sample_zaak = {
 ```
 
 #### Stemming Entities (Voting Records)  
+#### DocumentVersie & DocumentPublicatie (Full Text Access)
+```python
+# Expand vanuit Besluit → Zaak → Document → HuidigeDocumentVersie
+params = {
+    '$filter': f"Id eq {besluit_id}",
+    '$expand': 'Zaak($expand=Document($expand=HuidigeDocumentVersie($expand=DocumentPublicatie)))'
+}
+
+# XML downloaden via Resource endpoint
+publication_id = document['HuidigeDocumentVersie']['DocumentPublicatie'][0]['Id']
+resp = requests.get(f"{BASE_URL}/DocumentPublicatie({publication_id})/Resource", timeout=30)
+xml_text = resp.text  # Complete motietekst
+```
+- **Content-Type**: `application/xml`
+- **Gebruik**: Parse naar HTML of plain-text voor motiematcher
+- **Caching**: Sla response op in `verwerkt/` dataset om herhaalde downloads te vermijden
 ```python
 # Structure: Direct list (not OData wrapper)
 data = json.load(file)  # List of 250 voting objects
@@ -114,6 +131,16 @@ data = json.load(open(file))  # UnicodeDecodeError
 data = json.load(open(file, encoding='utf-8'))  # Works
 ```
 
+#### Besluit Filter Errors (400 Bad Request)
+```python
+# Problem: Nieuwere API-versie accepteert geen guid-literal meer
+requests.get(f"{BASE_URL}/Besluit", params={'$filter': "Id eq guid'…'"})
+# → 400 Bad Request
+
+# Solution: Gebruik raw GUID zonder literal wrapper
+requests.get(f"{BASE_URL}/Besluit", params={'$filter': f"Id eq {besluit_id}"})
+```
+
 ### 🏛️ Parliamentary Data Insights
 
 #### Party Activity (Top 5 Most Active)
@@ -143,6 +170,10 @@ py quick_analysis.py
 #### Avoid Interactive Python Session
 - ❌ `py` interactive session blocks until exit - no intermediate feedback
 - ✅ Mini-scripts with `py script.py` provide immediate results and reusable code
+
+#### Resource Download Discipline
+- ✅ Gebruik dedicated scripts (bv. `temp/test_fetch_decision.py`) om `DocumentPublicatie(...)/Resource` responses vast te leggen en in `verwerkt/` op te slaan
+- ✅ Voeg snippet logging toe zodat XML parsing reproduceerbaar blijft
 
 ### 📈 Performance & Scalability
 
@@ -197,5 +228,5 @@ py quick_analysis.py
 
 ---
 
-*Generated: 2025-10-02*  
-*Dataset: 30-day Dutch Parliament collection (991 moties, ~9500 votes, 22.9 MB)*
+*Generated: 2025-10-04*  
+*Dataset: 30-day Dutch Parliament baseline (991 moties, ~9500 votes, 22.9 MB) + DocumentPublicatie resource workflow*

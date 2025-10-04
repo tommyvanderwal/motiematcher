@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36395-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 395</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Politiewet 2012 in verband met een delegatiegrondslag voor een algemene maatregel van bestuur over de bewapening en uitrusting van buitengewoon opsporingsambtenaren</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de afgelopen jaren mede door capaciteitsproblemen bij de politie veel meer taken door de boa's worden uitgevoerd om onze gemeenten en wijken veilig en leefbaar te houden;</al>
+            <al>van mening dat het belangrijk is de samenwerking tussen politie en boa's verder te professionaliseren, met name op het gebied van communicatie, informatiesystemen en bevoegdheden;</al>
+            <al>verzoekt de regering om samen met de politie, boa's en hun werkgevers serieus werk te maken van de werkagenda, teneinde samenwerking tussen deze actoren te versterken, en de Kamer hierover voor de Voorjaarsnota te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29282-570/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 282</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsmarktbeleid en opleidingen zorgsector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">570</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN JOSEPH EN VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de registratielast voor zorgprofessionals hoog is en dat pogingen om die te verminderen tot nu toe niet voldoende zijn gelukt;</al>
+            <al>constaterende dat minder registratielast de werkdruk voor zorgprofessionals vermindert;</al>
+            <al>constaterende dat de RVS in het rapport «Is dit wel verantwoord?» een duidelijke routekaart heeft opgesteld om de registratielast in vijf jaar met 50% te verminderen;</al>
+            <al>overwegende dat de Minister wel aan de slag is met het verminderen van de registratielast, maar dat niet helder is of het gehele advies en de routekaart van de RVS worden gevolgd;</al>
+            <al>verzoekt de regering om voor de zomer met een stappenplan te komen waarin de gehele routekaart volgens het rapport «Is dit wel verantwoord?» wordt opgevolgd en hier de doelstelling aan te verbinden dat de registratielast binnen vijf jaar is verminderd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

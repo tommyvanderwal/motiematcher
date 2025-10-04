@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-989/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">989</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ELLIAN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in 2024 tot september 98 telefoons in de penitentiaire inrichtingen gevonden zijn;</al>
+            <al>constaterende dat in de PI Heerhugowaard Zuyder Bos (19), PI Dordrecht (10), PI Rotterdam De Schie (12), PI Veenhuizen Norgerhaven (18), PI Zuid Oost Roermond (11) op maandelijkse basis telefoons worden gevonden;</al>
+            <al>constaterende dat in enkele van deze penitentiaire inrichtingen grote criminelen en/of criminele kopstukken gedetineerd zitten;</al>
+            <al>van mening dat telefoons in penitentiaire inrichtingen ontoelaatbaar zijn en ontoelaatbare veiligheidsrisico's met zich meebrengen omdat zij worden gebruikt voor criminele doeleinden;</al>
+            <al-groep>
+              <al>verzoekt de regering om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>verscherpte controles in te stellen bij de penitentiaire inrichtingen waar de meeste telefoons worden gevonden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>aanvullende maatregelen te nemen teneinde het binnenbrengen van telefoons in penitentiaire inrichtingen tegen te gaan;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Kamer over deze verscherpte controles en aanvullende maatregelen uiterlijk in het eerste kwartaal van 2025 te informeren,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Ellian</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

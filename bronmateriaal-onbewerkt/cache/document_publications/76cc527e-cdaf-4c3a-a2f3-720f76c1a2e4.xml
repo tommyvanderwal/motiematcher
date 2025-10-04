@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VII-68/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">68</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KATHMANN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Al-verordening per februari 2025 verplicht om geen Al-systemen met een onaanvaardbaar risico meer te gebruiken binnen de overheid;</al>
+            <al>constaterende dat de Algemene Rekenkamer concludeert dat er geen inzicht is in het risiconiveau van veel Al-systemen die de overheid gebruikt;</al>
+            <al>overwegende dat zonder effectief toezicht en handhaving de kans bestaat dat risicovolle Al-systemen een integraal onderdeel worden van onze overheidsdienstverlening;</al>
+            <al>verzoekt de regering om zo snel mogelijk één classificatiesysteem in te voeren voor Al-systemen bij de overheid en onafhankelijk toezicht hierop te verplichten;</al>
+            <al>verzoekt de regering om met een harde deadline van 1 februari 2025 registratie in het Algoritmeregister, inclusief risicoclassificatie, te verplichten voordat een Al-systeem gebruikt mag worden bij overheidsorganisaties, en deze anders uit werking te nemen totdat hieraan is voldaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kathmann</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-35334-386"/>
+      <meta name="OVERHEIDop.ondernummer" content="386"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="35334"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Vedder c.s. over adviesaanvragen bij verdere beleidsontwikkeling en vergunningverlening op het gebied van stikstof"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.C. Vedder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Problematiek rondom stikstof en PFAS"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Vedder c.s. over adviesaanvragen bij verdere beleidsontwikkeling en vergunningverlening op het gebied van stikstof"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Bodem"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Lucht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Bouwnijverheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>35 334</dossiernr>
+         </dossiernummer>
+         <titel>Problematiek rondom stikstof en PFAS</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">386</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de landsadvocaat aangeeft dat de huidige maatregelen alleen voor juridisch houdbare vergunningverlening kunnen zorgen als deze tijdig, gebiedsgericht en goed geborgd worden uitgevoerd en dat aanvullende maatregelen noodzakelijk zijn;</al>
+                  <al>overwegende dat het startpakket nog niet aan deze eis voldoet, maar het totaalpakket daar wel aan zal moeten voldoen;</al>
+                  <al>overwegende dat het van belang is om vooraf zo veel mogelijk zekerheid te hebben over de vraag of het totaalpakket daadwerkelijk zal leiden tot onder andere juridisch houdbare vergunningverlening;</al>
+                  <al>overwegende dat dit niet alleen vraagt om een analyse van de aanpak door kennisinstellingen, maar dat er ook een juridische analyse nodig is;</al>
+                  <al-groep>
+                     <al>verzoekt de regering bij verdere beleidsontwikkeling en vergunningverlening op het gebied van stikstof nadrukkelijk advies te vragen aan:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de Raad van State over juridische toetsing en borging van de maatregelen;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de landsadvocaat over juridische haalbaarheid en naleving van Europese regelgeving ten aanzien van de Vogel- en Habitatrichtlijn;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>het consortium onder leiding van PBL voor een kwalitatieve doorrekening van de maatregelen en de bijdrage daarvan aan de doelstelling;</al>
+                        </li>
+                     </lijst>
+                     <al>verzoekt de regering deze adviezen openbaar te maken en actief te betrekken bij de verdere beleidsvorming,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Vedder</al>
+                     <al>Holman</al>
+                     <al>Grinwis</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

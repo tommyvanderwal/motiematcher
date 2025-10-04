@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-615/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">615</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID ERGIN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 613</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-28">28 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is om vanaf het studiejaar 2026–2027 het burgerschapsexamen te verplichten in het MBO;</al>
+            <al>overwegende dat het noodzakelijk is om het burgerschapsonderwijs -over de gehele onderwijslinie- te versterken;</al>
+            <al>overwegende dat in het kader van gelijkwaardigheid van onderwijsniveaus het wenselijk is om verplichte burgerschapsexaminering uit te breiden naar het vervolgonderwijs;</al>
+            <al>verzoekt de regering te onderzoeken op welke wijze een vorm van verplichte burgerschapsexaminering ook toegepast kan worden bij het HBO en WO,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

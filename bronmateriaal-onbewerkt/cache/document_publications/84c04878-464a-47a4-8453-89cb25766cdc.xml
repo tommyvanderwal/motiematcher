@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29911-462/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 911</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding georganiseerde criminaliteit </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">462</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BIKKER EN VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat per juli 2027 nieuwe Europese regelgeving notarissen de mogelijkheid biedt gezamenlijk gegevens te delen;</al>
+            <al>overwegende dat het wenselijk en urgent is om vooruitlopend op de nationale implementatie al afspraken te maken met deze sectorpartijen over de invulling van de belangrijke poortwachtersrol;</al>
+            <al>verzoekt de regering om in aanloop naar de wetgeving in 2027 in overleg met notarissen en andere relevante partijen tijdig afspraken te maken over de praktische uitvoering van deze richtlijn, en in de halfjaarberichten de Kamer te informeren over de voortgang van deze afspraken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

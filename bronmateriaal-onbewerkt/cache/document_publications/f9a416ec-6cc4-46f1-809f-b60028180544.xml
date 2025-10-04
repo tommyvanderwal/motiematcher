@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30420-400/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 420</dossiernr>
+      </dossiernummer>
+      <titel>Emancipatiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">400</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ZEEDIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-21">21 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat uit recent onderzoek van Nappi blijkt dat 80% van de vrouwen op enig moment overgangsklachten ervaart;</al>
+            <al>overwegende dat uit onderzoek van het RIVM onder werkende vrouwen blijkt dat 35% af en toe en 10% vaak beperkingen ervaart als gevolg van overgangsklachten;</al>
+            <al>overwegende dat WOMEN Inc. in haar kosten-batenanalyse heeft becijferd dat 34% van het ziekteverzuim van vrouwen tussen de 45 en 60 jaar te wijten is aan overgangsklachten;</al>
+            <al-groep>
+              <al>constaterende dat op het thema «overgang en taboe» vooral wordt ingezet op</al>
+              <al>bewustwording en wat minder op kennis vergroten en oplossingen bieden;</al>
+            </al-groep>
+            <al>verzoekt de regering als onderdeel van het recent gestarte kennisprogramma voor vrouwspecifieke aandoeningen extra aandacht voor kennis vergroten en oplossingsrichtingen bieden voor overgangsklachten op te nemen;</al>
+            <al>verzoekt de regering het kennisprogramma onderdeel te maken van een nationale strategie voor vrouwengezondheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Zeedijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

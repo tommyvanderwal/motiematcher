@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1323/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1323</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-13">13 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland voor een groot deel van zijn kritieke IT-infrastructuur afhankelijk is van een klein aantal Amerikaanse bedrijven;</al>
+            <al-groep>
+              <al>overwegende dat de AIVD nationale veiligheidsrisico's signaleert bij het exclusief uitbesteden van ICT-infrastructuur aan het buitenland;</al>
+              <al>van mening dat de huidige koers van de Verenigde Staten duidelijk maakt dat Nederland en Europa op eigen benen moeten gaan staan op het gebied van energie, defensie en ICT-infrastructuur;</al>
+            </al-groep>
+            <al>verzoekt de regering Europese bedrijven op één te zetten bij aanbestedingen van vitale ICT-diensten door middel van soevereiniteitseisen voor de opslag van gevoelige gegevens;</al>
+            <al>verzoekt de regering voor de rijksoverheid en lokale overheden samen met het bedrijfsleven alternatieven te ontwikkelen voor de grote Amerikaanse techbedrijven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Kathmann</al>
+              <al>Koekkoek</al>
+              <al>Six Dijkstra</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

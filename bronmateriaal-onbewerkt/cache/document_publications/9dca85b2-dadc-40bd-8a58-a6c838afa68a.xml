@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29517-261/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 517</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheidsregio’s</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">261</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MICHON-DERKZEN EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat natuurbranden een toenemend probleem vormen door veranderende klimaatomstandigheden en veranderingen in landgebruik;</al>
+            <al>overwegende dat een integrale aanpak nodig is om de risico's en gevolgen van natuurbranden effectief te beperken, waarin preventie en repressie samenkomen;</al>
+            <al>overwegende dat het Ministerie van Landbouw, Natuur en Voedselkwaliteit (LNV) een stevige ambitie heeft op de preventie van natuurbranden, onder andere door aanpassing van het landschap;</al>
+            <al>overwegende dat de bestrijding van een natuurbrand veelal vraagt om een bovenregionale aanpak, waarbij een innovatieve manier van werken essentieel is;</al>
+            <al>verzoekt de regering om te komen tot een integrale aanpak van natuurbranden, door samenwerking van de twee betrokken ministeries, de brandweer, veiligheidsregio's en natuurbeheerorganisaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

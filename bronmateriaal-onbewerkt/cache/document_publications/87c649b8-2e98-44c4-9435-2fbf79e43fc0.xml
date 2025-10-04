@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32824-418/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 824</dossiernr>
+      </dossiernummer>
+      <titel>Integratiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">418</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in Duitsland sprake is van een «verklaring van verbondenheid», waarbij inburgeraars beloven het Joodse leven te beschermen;</al>
+            <al>overwegende dat naast het bestrijden van antisemitisme via het onderwijs aandacht voor antisemitisme en de Holocaust bij de inburgering en naturalisatie van nieuwkomers niet mag ontbreken, gezien de Europese en Nederlandse geschiedenis;</al>
+            <al>verzoekt de regering bij de evaluatie van de participatieverklaring te verkennen hoe meer specifieke aandacht voor de geschiedenis van de Holocaust en de betekenis daarvan voor de huidige tijd onderdeel kan worden van de participatieverklaring, en daarbij nadrukkelijk het Duitse voorbeeld te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Van der Plas</al>
+              <al>Ceder</al>
+              <al>Becker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

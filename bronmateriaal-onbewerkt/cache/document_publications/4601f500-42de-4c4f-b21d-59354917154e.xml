@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-X-75/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>X</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">75</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID ERGIN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 64</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-13">13 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog steeds ruim onvoldoende humanitaire hulp Gaza binnenkomt;</al>
+            <al>constaterende dat er maximale inspanning nodig is gezien de humanitaire crisis;</al>
+            <al>constaterende dat Nederland na Frankrijk samen met Jordanië succesvolle airdrops van medische goederen boven Gaza heeft uitgevoerd;</al>
+            <al>constaterende dat airdrops geen vervanging zijn voor de toevoer van grote hoeveelheden humanitaire hulp over land;</al>
+            <al>verzoekt de regering om in lijn met de eerder aangenomen motie Dobbe c.s. (<extref doc="kst-21501-02-2801" soort="document" status="actief">21 501-02, nr. 2801</extref>) met internationale partners te blijven onderzoeken hoe met een humanitaire luchtbrug specifieke (medische) hulp geleverd kan worden zodra de gelegenheid zich voordoet;</al>
+            <al>verzoekt de regering de mogelijkheden voor een maritieme corridor te blijven onderzoeken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ergin</al>
+              <al>Dobbe</al>
+              <al>Kahraman</al>
+              <al>Nordkamp</al>
+              <al>Podt</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

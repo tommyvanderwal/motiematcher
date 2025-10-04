@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1170/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1170</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek blijkt dat er door het verdichten, optoppen en aanplakken in steden nog ruimte is voor meer dan 700.000 nieuwe woningen;</al>
+            <al>constaterende dat veel van die optopmogelijkheden op daken liggen van vve's;</al>
+            <al>constaterende dat het met de huidige wetgeving voor veel vve's ingewikkeld is om op te toppen;</al>
+            <al>constaterende dat het optoppen in Parijs, surélévation, wel zeer succesvol is omdat daar het appartementsrecht is gemoderniseerd;</al>
+            <al>overwegende dat vve's met het opgebrachte geld van de verkoop van de opgetopte woning ook nog de broodnodige isolatie en verduurzaming van hun pand kunnen bekostigen;</al>
+            <al>verzoekt de regering het voor vve's makkelijker te maken om woningen op te toppen door het appartementsrecht te moderniseren in de geest van het Parijse surélévation,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Welzijn</al>
+              <al>Vedder</al>
+              <al>De Hoop</al>
+              <al>Flach</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

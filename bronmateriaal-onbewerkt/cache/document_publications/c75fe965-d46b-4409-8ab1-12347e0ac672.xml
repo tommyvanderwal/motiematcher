@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XII-30/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">30</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GABRIËLS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er op dit moment onvoldoende prikkels zijn om de transitie naar de circulaire economie te versnellen, omdat primaire grondstoffen vaak nog altijd goedkoper zijn dan secundaire grondstoffen;</al>
+            <al>constaterende dat veel circulaire koplopers hierdoor een zwakke concurrentiepositie hebben, omvallen of überhaupt geen financiering rondkrijgen om op te starten of door te groeien, omdat de circulaire businesscase simpelweg nog niet voldoende stabiel is in de lineaire werkelijkheid;</al>
+            <al>constaterende dat deze circulaire koplopers, die hoog op de R-ladder opereren, gestimuleerd moeten worden en veel baat zouden hebben bij een fonds om de onrendabele top af te dekken, zodat zij hun kostprijs omlaag kunnen brengen en een gezonde marge kunnen verdienen, totdat de regelgeving rondom normeren en beprijzen op orde is;</al>
+            <al>verzoekt de regering om te verkennen of er binnen het Klimaatfonds een dergelijk overbruggingsfonds kan worden opgezet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Gabriëls</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36800-28"/>
+      <meta name="OVERHEIDop.ondernummer" content="28"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36800"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Hijum over het minimumloon verhogen en mensen minder afhankelijk maken van toeslagen en belastingkortingen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="Y.J. van Hijum"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nota over de toestand van ’s Rijks Financiën"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-18"/>
+      <meta name="DC.title" scheme="" content="Nota over de toestand van ’s Rijks Financiën; Motie; Motie van het lid Van Hijum over het minimumloon verhogen en mensen minder afhankelijk maken van toeslagen en belastingkortingen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 800</dossiernr>
+         </dossiernummer>
+         <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">28</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN HIJUM</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-18">18 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat veel werkenden in Nederland niet kunnen rondkomen van hun loon en afhankelijk zijn van een woud aan toeslagen en belastingkortingen;</al>
+                  <al>constaterende dat dit mensen in de knel brengt en dat dit tot bureaucratie leidt;</al>
+                  <al>overwegende dat het minimumloon voldoende moet zijn om rond te komen;</al>
+                  <al>spreekt uit het minimumloon te verhogen en mensen minder afhankelijk te maken van toeslagen en belastingkortingen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Hijum</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

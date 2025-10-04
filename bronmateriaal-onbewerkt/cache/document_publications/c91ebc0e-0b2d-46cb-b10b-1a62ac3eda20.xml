@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29338-285/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 338</dossiernr>
+      </dossiernummer>
+      <titel>Wetenschapsbudget</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">285</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-03">3 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in consortiumsamenwerkingen steeds vaker wordt gewerkt met een cofinancieringseis in de tweede geldstroom;</al>
+            <al>constaterende dat dit leidt tot onduidelijkheid en verwevenheid met commerciële belangen, wat onder meer invloed heeft op het gekozen onderwerp en de onderzoeksopzet;</al>
+            <al>constaterende dat meestal alleen grote bedrijven een dergelijke financiële bijdrage kunnen leveren, waardoor niet altijd de meest geschikte partner wordt betrokken bij het onderzoek, maar degene die het budget heeft om daarin te investeren;</al>
+            <al>overwegende dat ook zonder de cofinancieringseis voor de tweede geldstroom nog steeds samengewerkt kan worden met bedrijven, doordat de derde geldstroom nog steeds van bedrijven kan komen, maar dat daarmee dan wel duidelijk is dat het om contractonderzoek gaat;</al>
+            <al>overwegende dat door het beter scheiden van de tweede en derde geldstroom de academische vrijheid wordt vergroot en het onderscheid in financiering duidelijker en transparanter wordt;</al>
+            <al>verzoekt de regering om met een plan te komen om waar mogelijk de niet-noodzakelijke eisen voor cofinanciering in de tweede geldstroom af te bouwen, en de Kamer hierover halverwege 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

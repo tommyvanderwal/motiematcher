@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35867-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 867</dossiernr>
+      </dossiernummer>
+      <titel>Parlementaire enquête fraudebeleid en dienstverlening</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het rapport van de parlementaire enquêtecommissie Fraudebeleid en Dienstverlening wordt geconcludeerd dat grondrechten op de eerbiediging van de persoonlijke levenssfeer en gelijke behandeling zijn geschonden bij het gebruik van gegevens voor fraudebestrijding;</al>
+            <al>overwegende dat de commissie concludeert dat bepaalde groepen mensen vaker bij uitvoeringsorganisaties in beeld zijn gekomen als mogelijke fraudeurs;</al>
+            <al>overwegende dat de commissie dit heeft onderbouwd met de constatering dat persoonsgegevens zoals nationaliteit en dubbele nationaliteit zijn gebruikt ten behoeve van fraudebestrijding en dat dit in gevallen een niet-noodzakelijke verwerking was zonder grondslag, die leidde tot ongelijke behandeling;</al>
+            <al>spreekt uit de conclusie van de enquêtecommissie Fraudebeleid en Dienstverlening dat het recht op gelijke behandeling is geschonden te onderschrijven;</al>
+            <al>verzoekt de regering in de kabinetsreactie op het rapport van de enquêtecommissie Fraudebeleid en Dienstverlening aan te geven met welke aanvullende maatregelen de schending van recht op gelijke behandeling door de overheid voorkomen gaat worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

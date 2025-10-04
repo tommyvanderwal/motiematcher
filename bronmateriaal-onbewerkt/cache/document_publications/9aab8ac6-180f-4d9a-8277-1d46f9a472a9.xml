@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25087-331/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 087</dossiernr>
+      </dossiernummer>
+      <titel>Internationaal fiscaal (verdrags)beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">331</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIJK EN MAATOUG</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat vaak in debatten terugkomt dat toptarieven voor superrijken niet verhoogd kunnen worden, omdat zij anders (fiscaal) verhuizen naar landen met lage belastingtarieven;</al>
+            <al>overwegende dat meerdere EU-landen, zoals Duitsland, Frankrijk, Finland en Spanje, dit probleem al geadresseerd hebben door middel van een exitbelasting;</al>
+            <al>verzoekt de regering in EU-verband een kopgroep te vormen voor het invoeren van een EU-exitbelasting voor high-net-worth individuals en tevens een nationaal voorstel voor een exitbelasting uit te werken in navolging van andere EU-landen die dit al hebben gedaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dijk</al>
+              <al>Maatoug</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

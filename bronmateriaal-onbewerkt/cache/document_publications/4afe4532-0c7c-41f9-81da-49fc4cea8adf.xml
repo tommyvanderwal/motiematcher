@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-722/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">722</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK EN MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-27">27 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het mogelijk is om van veroordeelde terroristen met een dubbele nationaliteit het Nederlanderschap in te trekken;</al>
+            <al>constaterende dat een deel van die mensen Nederland alsnog niet verlaat of niet kan verlaten en onder de radar verdwijnt als ongewenste vreemdeling, waardoor het mogelijk is dat zij ongezien verder kunnen radicaliseren;</al>
+            <al>overwegende dat wanneer deze personen niet of niet op tijd worden uitgezet, er serieus gevaar voor onze nationale veiligheid ontstaat;</al>
+            <al>overwegende dat er zo goed mogelijk zicht moet blijven op de groep terroristen die illegaal als ongewenst vreemdeling in Nederland verblijven, maar dit erg lastig en arbeidsintensief is voor de inlichtingen- en veiligheidsdiensten om te monitoren;</al>
+            <al>verzoekt de regering om te onderzoeken of een tijdelijke status of tussenstatus gecreëerd kan worden voor veroordeelde terroristen van wie het Nederlanderschap is afgenomen en die wel willen, maar niet kunnen vertrekken naar het land van hun overgebleven nationaliteit, om zo zicht te houden op deze gevaarlijke personen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

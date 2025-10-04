@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-82/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">82</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in het funderend onderwijs in Nederland forse personeelstekorten zijn, waardoor er minder ruimte is voor differentiatie in de klas en er risico bestaat op lesuitval;</al>
+            <al>constaterende dat er om het lerarentekort aan te pakken een zijinstromerstraject is ingericht, dat werkenden uit een ander vakgebied de mogelijkheid biedt om zich in ongeveer twee jaar om te scholen tot leerkracht;</al>
+            <al>constaterende dat er in Nederland veel werkende professionals zijn met interesse of passie voor het onderwijs en het overdragen van hun kennis, maar dat zij hun werk in het bedrijfsleven enerzijds en het lesgeven in het praktijkonderwijs anderzijds nu niet kunnen combineren;</al>
+            <al>overwegende dat het vergemakkelijken van het in deeltijd onderwijzen naast een baan de instroom van nieuwe leerkrachten bevordert, maar ook de samenwerking tussen onderwijs en bedrijfsleven versterkt;</al>
+            <al>verzoekt de regering te onderzoeken of er een nieuw traject ontwikkeld kan worden, waarbij professionals uit het bedrijfsleven, na het volgen van een opleiding pedagogische vaardigheden en didactiek, de mogelijkheid krijgen om naast hun werk ook een of meerdere dagen praktijklessen te mogen geven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kisteman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

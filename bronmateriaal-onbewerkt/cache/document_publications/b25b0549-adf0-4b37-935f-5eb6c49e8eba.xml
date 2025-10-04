@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36349-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 349</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 in verband met verlenging van de beslistermijnen in asiel- en nareiszaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN BREKELMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-17">17 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij één op de vijf IND-afspraken de asielzoeker niet komt opdagen, onder andere als gevolg van verhuizingen tijdens de procedure en door nalatigheid van de asielzoeker;</al>
+            <al>overwegende dat de achterstanden bij de IND enorm zijn en de beperkte IND-capaciteit zo efficiënt mogelijk moet worden ingezet, zodat sneller een beslissing genomen kan worden over de aanvraag van een asielzoeker;</al>
+            <al>verzoekt de regering op korte termijn maatregelen te treffen om het no-showpercentage bij IND-gehoren terug te dringen en daarbij te verkennen hoe het niet verschijnen bij een gehoor kan worden ontmoedigd door het buiten behandeling stellen van de asielaanvraag in geval van (herhaalde) nalatigheid van de asielzoeker,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Brekelmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

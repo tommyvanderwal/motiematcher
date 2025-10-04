@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24515-739/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 515</dossiernr>
+      </dossiernummer>
+      <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">739</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SYNHAEVE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de motie Kat (<extref doc="kst-24515-702" soort="document" status="actief">24 515, nr. 702</extref>) is aangenomen om huishoudens niet langer af te sluiten van water, maar dat de uitvoering hiervan op zich laat wachten;</al>
+            <al>constaterende dat er in de tussentijd nog steeds elk jaar honderden huishoudens worden afgesloten van water omdat ze hun rekening niet betalen;</al>
+            <al>constaterende dat er andere voorwaarden gelden voor afsluiting voor drinkwaterbedrijven dan voor energieleveranciers;</al>
+            <al>constaterende dat huishoudens veelal alleen per brief worden geïnformeerd over de mogelijkheden van schuldhulpverlening;</al>
+            <al>verzoekt de regering om in aanloop naar uitvoering van de motie-Kat er alvast voor te zorgen dat het moeilijker wordt om huishoudens af te sluiten van water, door de voorwaarden voor het afsluiten aan te scherpen zodat deze minstens gelijkgetrokken worden met het afsluiten van energie;</al>
+            <al>verzoekt de regering tevens om te bezien of het aanbieden van schuldhulpverlening voor deze huishoudens laagdrempeliger kan worden aangeboden, bijvoorbeeld door de inzet van maatschappelijk organisaties en sociale wijkteams,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Synhaeve</al>
+              <al>Mohandis</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-32793-863"/>
+      <meta name="OVERHEIDop.ondernummer" content="863"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="32793"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Hertzberger over eisen voor informatiebeveiliging bij grote projecten met VWS als aanbestedende partij"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.Y. Hertzberger"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Preventief gezondheidsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Preventief gezondheidsbeleid; Motie; Motie van het lid Hertzberger over eisen voor informatiebeveiliging bij grote projecten met VWS als aanbestedende partij"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>32 793</dossiernr>
+         </dossiernummer>
+         <titel>Preventief gezondheidsbeleid </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">863</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID HERTZBERGER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het merendeel van de medische laboratoria niet voldoet aan de NEN 7510-richtlijn;</al>
+                  <al>overwegende dat het datalek laat zien dat er grote twijfels zijn of de medische laboratoria voldoen aan artikel 5 van de AVG over dataminimalisatie;</al>
+                  <al>overwegende dat diefstal van patiëntengegevens het vertrouwen in het bevolkingsonderzoek ernstig schaadt en vertrouwen essentieel is voor dit soort preventieve programma's;</al>
+                  <al>verzoekt de regering zich steviger in te zetten, zodat alle zorgorganisaties die grote hoeveelheden patiëntengegevens verwerken voldoen aan de NEN 7510-norm, en de Kamer binnen een maand te informeren over de stappen die gezet worden;</al>
+                  <al>verzoekt de regering daar waar VWS de aanbestedende partij is in aanbestedingen voor projecten met grootschalige verwerking van medische gegevens en persoonsgegevens eisen voor informatiebeveiliging op te nemen en actief te controleren dat partijen die gecontracteerd worden aan deze norm voldoen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Hertzberger</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

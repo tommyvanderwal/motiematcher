@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36546-60/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 546</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Jeugdwet, de Wet marktordening gezondheidszorg en enige andere wetten teneinde te bevorderen dat jeugdhulp en gecertificeerde instellingen voor de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering steeds voldoende beschikbaar zijn (Wet verbetering beschikbaarheid jeugdzorg)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">60</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CEDER EN WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat gemeenten verplicht worden een regiovisie op te stellen waarin wordt geadresseerd hoe uitvoering zal worden gegeven aan de wettelijke verplichtingen rondom regionale samenwerking;</al>
+            <al>overwegende dat naast het beschikbaar stellen van specialistische hulp, waar het wetsvoorstel op ziet, het voor de jeugd nodig is dat gemeenten investeren in het versterken van de sociale en pedagogische basis, zoals ook de commissie-Van Ark heeft geadviseerd;</al>
+            <al>overwegende dat gemeenten hun beleid compatibel moeten laten zijn met internationale verdragen, zoals het VN-verdrag Handicap en het Internationaal Verdrag inzake de rechten van het kind;</al>
+            <al>verzoekt de regering het ontwerpbesluit zo aan te passen dat de gemeenten in de regiovisie rekenschap geven van de manier waarop zij de sociale en pedagogische basis versterken en de manier waarop de betreffende bepalingen uit het IVRK en het VN-verdrag Handicap worden uitgevoerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Westerveld</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

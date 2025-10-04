@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32623-340/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 623</dossiernr>
+      </dossiernummer>
+      <titel>Actuele situatie in Noord-Afrika en het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">340</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat na de jarenlange burgeroorlog 90% van de Syrische bevolking in armoede leeft en 7 miljoen Syriërs intern ontheemd zijn;</al>
+            <al>constaterende dat de vijf buurlanden van Syrië daarnaast 5,5 miljoen Syrische vluchtelingen opvangen;</al>
+            <al>van mening dat Nederland en Europa de Syrische bevolking humanitaire hulp moeten bieden bij onder andere de wederopbouw van energie, watervoorzieningen, gezondheidszorg en onderwijs;</al>
+            <al>verzoekt de regering binnen EU-verband te pleiten voor onderzoek naar welke bezittingen, waaronder bankrekeningen, onroerend goed en goudreserves, van leden van het voormalige Assad-regime zich in Europese landen bevinden;</al>
+            <al>verzoekt de regering vervolgens te onderzoeken of en hoe deze bezittingen geconfisqueerd kunnen worden ten behoeve van humanitaire hulp aan Syrië,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Dobbe</al>
+              <al>Paternotte</al>
+              <al>Van der Burg</al>
+              <al>Dassen</al>
+              <al>Stoffer</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

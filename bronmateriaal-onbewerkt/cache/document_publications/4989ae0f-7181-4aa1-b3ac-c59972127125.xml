@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31497-481/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 497</dossiernr>
+      </dossiernummer>
+      <titel>Passend onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">481</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het samenwerkingsverbanden niet altijd lukt een dekkend netwerk van voorzieningen voor passend onderwijs te realiseren;</al>
+            <al>overwegende dat daardoor leerlingen minder kansen krijgen en minder mogelijkheden hebben om (zo) regulier (mogelijk) onderwijs te volgen en waar mogelijk een regulier diploma te halen;</al>
+            <al>verzoekt de regering om onderwijsinstellingen te wijzen op het belang van maatwerkoplossingen die vallen binnen de invloedsfeer van scholen, besturen en samenwerkingsverbanden, zoals afwijking van de onderwijstijd en het inrichten van speciale voorzieningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

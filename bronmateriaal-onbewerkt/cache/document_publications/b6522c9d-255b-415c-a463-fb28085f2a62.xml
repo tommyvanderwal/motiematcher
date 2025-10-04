@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-35334-371"/>
+      <meta name="OVERHEIDop.ondernummer" content="371"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="35334"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Campen en Holman over uitsluitsel van de Europese Commissie over de ADC-toets"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Problematiek rondom stikstof en PFAS"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Problematiek rondom stikstof en PFAS; Motie; Motie van de leden Van Campen en Holman over uitsluitsel van de Europese Commissie over de ADC-toets"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Bodem"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Lucht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Bouwnijverheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>35 334</dossiernr>
+         </dossiernummer>
+         <titel>Problematiek rondom stikstof en PFAS</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">371</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN HOLMAN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat het kabinet grote investeringen doet in Defensie in het belang van de nationale veiligheid, maar dat Defensie vervolgens ook voldoende ruimte moet krijgen om te groeien en te oefenen;</al>
+                  <al>constaterende dat Defensie vaker te maken krijgt met een natuurvergunningplicht na de uitspraak van de Raad van State over intern salderen in december 2024;</al>
+                  <al>constaterende dat in het Europees recht rekening is gehouden met het feit dat sommige projecten bij een dwingende reden van groot openbaar belang toch moeten doorgaan, ook wanneer die mogelijk leiden tot significant negatieve effecten op Natura 2000, door de mogelijkheid te bieden van vergunningverlening op basis van de ADC-toets;</al>
+                  <al>verzoekt de regering om op korte termijn uitsluitsel te verkrijgen bij de Europese Commissie over wat nodig is om de ADC-toets sneller succesvol te kunnen doorlopen en wat eventuele andere oplossingsrichtingen zijn, zodat Defensie de noodzakelijke (stikstof)ruimte krijgt voor haar gereedstelling;</al>
+                  <al>verzoekt de regering om de Kamer hierover te informeren voor de behandeling van de aankomende begroting van Defensie,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Campen</al>
+                     <al>Holman</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

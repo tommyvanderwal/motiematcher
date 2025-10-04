@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-07-2015/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>07</raadnr></dossiernummer>
+      <titel>Raad voor Economische en Financiële Zaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2015</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HEINEN EN VAN HIJUM</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het Herstel- en Veerkrachtfonds, dat gefinancierd wordt met schulduitgiften door de Europese Commissie, een eenmalig crisisinstrument is;</al>
+            <al>constaterende dat nog steeds onduidelijk is hoe de rentelasten en aflossingen van het Herstel- en Veerkrachtfonds door de lidstaten zullen worden betaald;</al>
+            <al>overwegende dat zowel de Europese Commissie als de regeringsleiders zich hebben uitgesproken voor gemeenschappelijke schuldfinanciering ten behoeve van de financiering van nieuw te vormen Europese fondsen, waaronder een Europees Defensiefonds;</al>
+            <al>verzoekt de regering:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>•</li.nr>
+                <al>om in Europa uit te blijven dragen dat het Herstel- en Veerkrachtfonds een eenmalig crisisinstrument is;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>zich te verzetten tegen verdere gemeenschappelijke schuldfinanciering via nieuwe fondsen, waaronder dus dat Europees Defensiefonds;</al>
+              </li>
+              <li>
+                <li.nr>•</li.nr>
+                <al>en zich tevens actief in te zetten om belemmeringen voor zowel de Europese investeringsbank als de financiële sectoren om te investeren in de defensie-industrie weg te nemen;</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Heinen</al>
+              <al>Van Hijum</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

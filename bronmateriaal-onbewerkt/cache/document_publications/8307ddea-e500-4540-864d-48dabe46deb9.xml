@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34104-421/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 104</dossiernr>
+      </dossiernummer>
+      <titel>Langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">421</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RIKKERS-OOSTERKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat veel kinderen met een langdurige zorgbehoefte en hun ouders op dit moment worden geconfronteerd met onduidelijke en complexe procedures, waardoor zij van het kastje naar de muur worden gestuurd tussen de Wet maatschappelijke ondersteuning, de Wet langdurige zorg en de zorgverzekeraars;</al>
+            <al>overwegende dat ouders en verzorgers van kinderen met een zorgbehoefte regelmatig geen adequate ondersteuning krijgen en vastlopen in bureaucratische rompslomp;</al>
+            <al>verzoekt de regering om concreet in kaart te brengen welke stappen zij moet ondernemen om de bureaucratische obstakels te verminderen, zodat kinderen sneller de zorg krijgen die zij nodig hebben, zonder dat zij of hun ouders onterecht belemmerd worden door administratieve rompslomp;</al>
+            <al>verzoekt de regering deze situaties te verbeteren door duidelijke en praktische ondersteuning aan te bieden aan ouders van kinderen met een langdurige zorgbehoefte,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rikkers-Oosterkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

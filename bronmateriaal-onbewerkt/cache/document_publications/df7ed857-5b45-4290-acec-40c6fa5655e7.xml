@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3355/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3355</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Minister de motie van het lid Van Nispen (<extref doc="kst-36600-XX-29" soort="document" status="actief">36 600-XX, nr. 29</extref>), over uiterlijk 1 december met een plan komen om uitvoering te geven aan het uitgangspunt dat kinderen worden opgevangen op locaties met de juiste voorzieningen, niet heeft uitgevoerd;</al>
+            <al>overwegende dat ook andere moties die de Minister oproepen de situatie voor kinderen in de noodopvang snel te verbeteren, zoals de motie-Boomsma/Rajkowski (<extref doc="kst-19637-3334" soort="document" status="actief">19 637, nr. 3334</extref>) en de motie-Ceder/Boomsma (<extref doc="kst-36600-XX-41" soort="document" status="actief">36 600-XX, nr. 41</extref>), niet zijn uitgevoerd, en ook de rapportage over de motie-Podt (<extref doc="kst-19637-3089" soort="document" status="actief">19 637, nr. 3089</extref>) over de opvang van alleenstaande minderjarige vreemdelingen;</al>
+            <al>spreekt uit dat het niet uitvoeren van moties niet acceptabel is en dat de belangen van kinderen gerespecteerd moeten worden;</al>
+            <al>verzoekt de regering, in lijn met de eerder aangenomen moties, de goede opvang van kinderen in de asielopvang met de juiste voorzieningen volle prioriteit te geven, dit zo snel als mogelijk in orde te maken, de Kamer uiterlijk 1 maart hierover te informeren en vervolgens iedere maand over de voortgang te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Podt</al>
+              <al>Ceder</al>
+              <al>Piri</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

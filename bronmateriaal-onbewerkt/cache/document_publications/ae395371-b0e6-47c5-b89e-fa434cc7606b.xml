@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31289-584/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 289</dossiernr>
+      </dossiernummer>
+      <titel>Voortgezet Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">584</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID PATERNOTTE C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 579</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat sommige onvrije buitenlandse mogendheden ongewenste invloed uitoefenen op (voormalige) burgers en hun kinderen door middel van weekend- en avondscholen;</al>
+            <al>constaterende dat er weinig zicht is op weekend- en avondscholen met een antidemocratisch en/of anti-integratief karakter;</al>
+            <al>overwegende dat het wel wenselijk is om signaalgestuurd toezicht te houden op dit soort scholen en dat de regering werkt aan een wetsvoorstel om toezicht te houden op deze vorm van informeel onderwijs;</al>
+            <al>verzoekt de regering om in aanloop naar het wetsvoorstel informeel onderwijs alvast in overleg te gaan met dit soort landen die voor langdurig in Nederland verblijvende diaspora informeel onderwijs sponsoren, om te bekijken om hoeveel scholen en kinderen het gaat en om de komst van toezicht en de wenselijkheid van openbaarmaking van lesmateriaal te bespreken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>De Kort</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

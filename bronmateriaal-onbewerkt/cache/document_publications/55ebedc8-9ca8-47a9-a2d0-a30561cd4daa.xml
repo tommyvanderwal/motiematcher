@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2965/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2965</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland onder artikel 1 van het Genocideverdrag de plicht heeft om genocide te voorkomen;</al>
+            <al>constaterende dat het VN Special Committee in zijn laatste rapport tot de conclusie komt dat het Israëlisch beleid en de uitvoering daarvan in Gaza overeenkomen met de kenmerken van genocide;</al>
+            <al>constaterende dat er bij het Internationaal Gerechtshof een rechtszaak tegen Israël loopt op grond van het Genocideverdrag;</al>
+            <al>constaterende dat mensenrechtenorganisaties zoals Human Rights Watch concluderen dat Israël zich niet aan de tussentijdse bevelen van het Internationaal Gerechtshof houdt om genocide te voorkomen;</al>
+            <al>overwegende dat de signalen dat er genocide plaatsvindt in Gaza met de dag toenemen en niet meer genegeerd mogen worden onder de internationaalrechtelijke verplichting van Nederland om genocide te voorkomen;</al>
+            <al>spreekt uit dat er een genocide plaatsvindt in Gaza en verzoekt de regering om dat standpunt over te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

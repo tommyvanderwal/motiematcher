@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30252-181/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 252</dossiernr>
+      </dossiernummer>
+      <titel>Toekomstvisie agrarische sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">181</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het landbouwbeleid vooral inzet op besteding van belastinggeld aan dure technologische ingrepen om de problemen in de landbouwsector aan te pakken;</al>
+            <al>constaterende dat de focus op hoogtechnologische inzet, in plaats van op de transitie naar een biologisch natuurinclusief landbouwsysteem, het voor boeren op het erf juist onzekerder en complexer maakt;</al>
+            <al>constaterende dat sturen naar een biologisch en natuuurinclusief landbouwsysteem niet alleen integraal bijdraagt aan het oplossen van de verschillende problemen, maar uiteindelijk de boeren ook minder complexiteit en minder afhankelijkheid kan opleveren;</al>
+            <al>constaterende dat volgens het kabinetsbeleid in 2030 15% van het Nederlandse landbouwoppervlak voor biologische landbouw moet worden gebruikt, maar dat dit nog niet opschiet;</al>
+            <al>verzoekt de regering te verkennen hoe investeringen in (de transitie naar) biologische landbouw kunnen bijdragen aan minder complexiteit op het boerenerf, minder afhankelijkheid en meer nadruk op boerenvakmanschap, en hierover in 2025 aan de Kamer te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

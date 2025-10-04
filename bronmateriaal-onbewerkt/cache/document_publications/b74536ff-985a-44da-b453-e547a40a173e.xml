@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31839-1109"/>
+      <meta name="OVERHEIDop.ondernummer" content="1109"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31839"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Dral over jeugdbeschermingsmaatregelen voorkomen in situaties waarin die weinig effect zullen hebben"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.M. Dral"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Jeugdzorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Jeugdzorg; Motie; Motie van het lid Dral over jeugdbeschermingsmaatregelen voorkomen in situaties waarin die weinig effect zullen hebben"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Jongeren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 839</dossiernr>
+         </dossiernummer>
+         <titel>Jeugdzorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1109</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DRAL</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat een deel van de caseload in de jeugdzorg en jeugdbescherming bestaat uit problemen bij ouders, zoals armoede, schulden, psychische problematiek, verslaving, woningnood en vechtscheidingen;</al>
+                  <al>overwegende dat een aantal kabinetten al heeft erkend dat echtscheidingen niet via de inzet van jeugdzorg kunnen worden opgelost noch daar thuishoren;</al>
+                  <al>overwegende dat de inzet van jeugdzorg bij problemen bij ouders niet helpt bij de oplossing, maar enkel leidt tot extra kosten, langere wachtlijsten en verdere druk op de sector, die al kampt met personeelstekorten;</al>
+                  <al>verzoekt de regering om met de Raad voor de Kinderbescherming, de gecertificeerde instellingen en lokale teams in gesprek te gaan over hoe kan worden voorkomen dat er jeugdbeschermingsmaatregelen worden uitgesproken in situaties waarin de inzet van jeugdbescherming naar verwachting weinig effect zal hebben, en deze organisaties te vragen om de uitkomsten hiervan uiterlijk maart 2026 terug te rapporteren aan de regering;</al>
+                  <al>verzoekt de regering gemeenten te stimuleren om stevige lokale teams te organiseren die breed analyseren wat nodig is, bijvoorbeeld indien er primair sprake is van problematiek bij ouders (schulden, ggz, echtscheiding) en kinderen hierbij niet enkel richting jeugdzorg te verwijzen, en gemeenten te vragen om de resultaten hiervan uiterlijk maart 2026 terug te rapporteren aan de regering,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Dral</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

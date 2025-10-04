@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29697-164/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 697</dossiernr>
+      </dossiernummer>
+      <titel>Gebiedsgerichte economische perspectieven en Regionaal Economisch Beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">164</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WIJEN-NASS EN VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat carnaval in veel regio's, met name in Noord-Brabant, Limburg en delen van Gelderland en Zeeland, een diepgewortelde culturele traditie is;</al>
+            <al>overwegende dat scholen in deze regio's weliswaar de vrijheid hebben om af te wijken van de landelijke adviesdata voor de voorjaarsvakantie, maar dat dit in de praktijk leidt tot onduidelijkheid en organisatorische uitdagingen;</al>
+            <al>van mening dat een betere afstemming tussen de adviesdata voor de voorjaarsvakantie en de carnavalsperiode bijdraagt aan het behoud en de beleving van deze traditie zonder onnodige belasting voor onderwijsinstellingen en gezinnen;</al>
+            <al>verzoekt de regering om bij de vaststelling van de adviesdata voor de voorjaarsvakantie structureel rekening te houden met de carnavalsperiode,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Wijen-Nass</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

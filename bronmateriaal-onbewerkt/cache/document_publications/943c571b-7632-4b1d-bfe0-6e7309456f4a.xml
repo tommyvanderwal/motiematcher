@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-648/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">648</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKERMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is het Stagefonds Zorg per 2028 te beëindigen;</al>
+            <al>overwegende dat het stagefonds jaarlijks bijdraagt aan de realisatie van circa 150.000 stageplaatsen in de zorg, waarvan driekwart op mbo-niveau, en dat meer dan 20.000 leerbedrijven hier gebruik van maken;</al>
+            <al>overwegende dat goede begeleiding van stagiairs essentieel is voor het terugdringen van uitval en het behouden van voldoende instroom in de zorgsector;</al>
+            <al>overwegende dat de voorgenomen bezuiniging haaks staat op het voornemen van het kabinet personeelstekorten in de zorg gericht aan te pakken;</al>
+            <al>verzoekt de regering te waarborgen dat het aantal stageplekken in de zorgsector niet afneemt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Beckerman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

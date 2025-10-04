@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36594-2/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 594</dossiernr>
+      </dossiernummer>
+      <titel>Burgerinitiatief «Nicotinee'</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DANIËLLE JANSEN EN KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-12">12 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het verhogen van de wettelijke verkoopleeftijd naar 21 jaar bewezen effectief is in het beperken van de toegankelijkheid van nicotineproducten onder jongeren;</al>
+            <al>constaterende dat het grootste effect van een leeftijdsverhoging wordt verwacht bij adolescenten van 15 tot 17 jaar, omdat zij minder vaak vrienden of kennissen boven de 21 jaar hebben, juist in de leeftijd waarin de meeste jongeren beginnen met roken;</al>
+            <al>constaterende dat in de Verenigde Staten na de verhoging van de verkoopleeftijd van 18 naar 21 jaar de kans op roken in deze leeftijdsgroep met 39% is afgenomen;</al>
+            <al>constaterende dat uit wetenschappelijk onderzoek blijkt dat hoe later jongeren beginnen met roken, hoe kleiner de kans is dat zij verslaafd raken en de bijbehorende gezondheidsrisico's ondervinden;</al>
+            <al>verzoekt de regering een wetsvoorstel voor te bereiden waarin de leeftijdsgrens voor de verkoop van nicotineproducten vanaf 2028 stapsgewijs wordt verhoogd, met een jaarlijkse verhoging van één jaar, totdat de grens van 21 jaar is bereikt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

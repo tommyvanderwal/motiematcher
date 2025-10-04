@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2000/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2000</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BONTENBAL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat het optreden van Israël in overeenstemming moet zijn met het humanitair oorlogsrecht en het geweldgebruik ter zelfverdediging moet voldoen aan de vereisten van proportionaliteit en noodzakelijkheid;</al>
+            <al>overwegende dat het kabinet constateert dat het zeer complex is om een oordeel te vormen over de naleving van het humanitair oorlogsrecht in relatie tot concrete gevechtshandelingen zoals bombardementen;</al>
+            <al>overwegende dat het kabinet stelt dat gedegen en onafhankelijk onderzoek door vertegenwoordiging van bestaande instellingen nodig zal zijn om relevante feiten boven water te krijgen;</al>
+            <al>verzoekt de regering tijdens de Europese top te pleiten voor het toelaten van meer onafhankelijke waarnemers tot Gaza en de Westbank om ter plekke onderzoek te kunnen doen naar mogelijke schendingen van het internationaal humanitair recht door alle partijen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bontenbal</al>
+              <al>Van Campen</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

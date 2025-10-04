@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-08-983/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>08</raadnr></dossiernummer>
+      <titel>Milieuraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">983</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SOEPBOER EN WINGELAAR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-20">20 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Europese (milieu)wet- en regelgeving gevolgen kan hebben voor het voortbestaan van lokale tradities, zoals bijvoorbeeld paasvuren, carbidschieten en het inzamelen van oud ijzer en papier door verenigingen enzovoort;</al>
+            <al>constaterende dat implementatiewetgeving van Europese (milieu)wet- en regelgeving, gevolgen kan hebben voor het voortbestaan van lokale tradities;</al>
+            <al>verzoekt de regering het voortbestaan van lokale tradities standaard mee te wegen in haar afwegingskader en zich, waar dat van toepassing is, bij onderhandelingen over Europese wet- en regelgeving in te zetten voor het behoud daarvan;</al>
+            <al>verzoekt de regering bij de totstandkoming van landelijke (implementatie)wetgeving waar nodig uitzonderingsgronden in te bouwen om het voortbestaan van lokale tradities te waarborgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Soepboer</al>
+              <al>Wingelaar</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

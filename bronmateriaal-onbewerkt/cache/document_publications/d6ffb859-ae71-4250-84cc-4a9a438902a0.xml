@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-48/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">48</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BROMET EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-01">1 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het schrikbarend slecht gaat met onze nationale vogel, de grutto, en andere weidevogels in ons land;</al>
+            <al>overwegende dat het Aanvalsplan Grutto concrete maatregelen bevat om de weidevogelpopulatie in Nederland te herstellen en boeren hiertoe te belonen;</al>
+            <al>overwegende dat het enthousiasme onder boeren groot is, maar dat de benodigde aanpassingen in hun bedrijfsvoering alleen uitkomen als daar langjarige zekerheid over de financiële vergoeding tegenover staat;</al>
+            <al>constaterende dat zes jaar zekerheid, de duur van de huidige beheercontracten, hiervoor onvoldoende is en de Kamer eerder met grote meerderheid heeft gestemd voor meer langjarige beheercontracten;</al>
+            <al>verzoekt de regering om ten minste twintig jaar garant te staan voor het Aanvalsplan Grutto, mits provincies even zo lange beheercontracten afsluiten, zodat boeren zekerheid wordt geboden en de weidevogelpopulatie kan worden hersteld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bromet</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36563-11"/>
+      <meta name="OVERHEIDop.ondernummer" content="11"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36563"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Veltman over het Besluit capaciteitsverdeling aanpassen met het oog op juridisch bindende kaderovereenkomsten die vervoerders meerjarige zekerheid geven"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.N. Veltman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen; Motie; Motie van het lid Veltman over het Besluit capaciteitsverdeling aanpassen met het oog op juridisch bindende kaderovereenkomsten die vervoerders meerjarige zekerheid geven"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Spoor"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 563</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Koekkoek over Alle Seinen op Groen </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">11</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VELTMAN</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-22">22 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat nieuwe vervoerders alleen kunnen investeren in materieel en personeel als zij meerjarige zekerheid hebben over capaciteit op het spoor;</al>
+                  <al>constaterende dat het aanbod van extra treindiensten daardoor achterblijft;</al>
+                  <al>overwegende dat kaderovereenkomsten nodig zijn om die zekerheid te bieden en de vereiste prioriteit in capaciteit te regelen;</al>
+                  <al>overwegende dat het voor reizigers van belang is dat het huidige aanbod van binnenlands personenvervoer wordt beschermd maar dat de beschikbare spoorcapaciteit ook optimaal wordt benut;</al>
+                  <al>overwegende dat ProRail de onafhankelijkheid en expertise heeft om de mogelijkheden voor de aanpassing van het Besluit capaciteitsverdeling te onderzoeken;</al>
+                  <al>verzoekt de regering ProRail te verzoeken voorstellen uit te werken voor aanpassing van het Besluit capaciteitsverdeling, gericht op juridisch bindende kaderovereenkomsten die vervoerders meerjarige zekerheid geven, zodat de beschikbare spoorcapaciteit optimaal wordt benut en reizigers het beste aanbod krijgen, en de Kamer hierover voor het einde van het jaar te informeren met een concreet tijdpad,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Veltman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

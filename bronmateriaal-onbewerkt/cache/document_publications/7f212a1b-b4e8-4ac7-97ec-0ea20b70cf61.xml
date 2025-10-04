@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31477-107/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 477</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijden witwassen en terrorismefinanciering </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">107</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ERGIN EN VAN DER LEE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-30">30 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de uitvoering van de Wwft uit de hand is gelopen en inmiddels meer dan 1,4 miljard euro kost;</al>
+            <al>constaterende dat te veel Nederlanders worden onderworpen aan een vragenvuur vanwege de Wwft;</al>
+            <al>overwegende dat de oneerlijke bejegening van Nederlanders samenhangt met hoe alle ongebruikelijke transacties worden gemonitord;</al>
+            <al>overwegende dat met de invoering van het AML-pakket in 2027 wordt overgegaan naar het monitoren van alleen verdachte transacties;</al>
+            <al-groep>
+              <al>constaterende dat DNB in 2021 heeft geadviseerd om over te stappen van het monitoren van ongebruikelijke transacties naar verdachte transacties en daarbij heeft aangegeven dat de kwaliteit van meldingen zal toenemen en het monitoringssysteem scherper afgesteld kan worden;</al>
+              <al>van mening dat het in stand houden van de huidige situatie onnodig veel leed en ellende veroorzaakt bij Nederlanders;</al>
+            </al-groep>
+            <al>verzoekt de regering om bij de behandeling van het plan van aanpak in april te komen met een voorstel om de monitoring op een verantwoorde manier te wijzigen van ongebruikelijke transacties naar verdachte transacties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ergin</al>
+              <al>Van der Lee</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

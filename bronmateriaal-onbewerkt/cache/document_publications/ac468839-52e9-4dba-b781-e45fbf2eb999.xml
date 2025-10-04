@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32043-672/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 043</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst pensioenstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">672</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JOSEPH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de Wet toekomst pensioenen een hoorrecht voor verenigingen van slapers en gepensioneerden is geïntroduceerd ten aanzien van de door sociale partners op te stellen transitieplannen bij de overgang naar nieuwe pensioenregelingen;</al>
+            <al>overwegende dat sociale partners in het kader van dat hoorrecht verenigingen tijdig en serieus hebben betrokken, wat van toegevoegde waarde is geweest;</al>
+            <al>overwegende dat juist ook de komende tijd, bij de implementatie van de gemaakte afspraken alsook daarna, betrokkenheid van verenigingen van slapers en gepensioneerden (onder meer voor het draagvlak) van belang is;</al>
+            <al>verzoekt de regering te verkennen hoe verenigingen van slapers en gepensioneerden blijvend betrokken kunnen worden bij de implementatie van de gemaakte afspraken alsook daarna;</al>
+            <al>verzoekt de regering daarbij ook de uitkomsten van de onderzoeken naar hoorrecht te betrekken, en in het eerste kwartaal van 2025 de resultaten van de verkenning naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Inge van Dijk</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

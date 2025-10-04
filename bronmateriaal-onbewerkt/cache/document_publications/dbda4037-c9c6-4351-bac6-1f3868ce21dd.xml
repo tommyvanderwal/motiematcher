@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3113/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3113</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Raadsbesluit 2011/168/CFSP van 11 maart 2011 stelt dat lidstaten volledig meewerken aan implementatie van het Statuut van Rome en alles in het werk moeten stellen om de steun voor het Internationaal Strafhof wereldwijd te bevorderen;</al>
+            <al>overwegende dat het zich terugtrekken van Hongarije uit het Strafhof regelrecht indruist tegen dit Raadsbesluit;</al>
+            <al>overwegende dat besluiten van de Raad van de Europese Unie bindend zijn voor de lidstaten en een overtreding daarvan dus geldt als schending van het Europees recht;</al>
+            <al>overwegende dat dit daarbij een schending van artikel 2 van het Verdrag betreffende de werking van de Europese Unie is, omdat het ingaat tegen het respecteren van de rechtsstaat en mensenrechten;</al>
+            <al>overwegende dat Hongarije met het vertrek uit het Statuut van Rome het voornoemde Raadsbesluit en daarmee het Europese recht schendt;</al>
+            <al-groep>
+              <al>verzoekt de regering om onder artikel 259 VWEU een klacht tegen Hongarije</al>
+              <al>neer te leggen bij de Europese Commissie in verband met het besluit van Hongarije zich terug te trekken uit het Internationaal Strafhof,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+              <al>Piri</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-28828-151"/>
+      <meta name="OVERHEIDop.ondernummer" content="151"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="28828"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Bruyning over onderzoek naar fraude met valse ervaringscertificaten binnen het SKJ-register"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.H. Bruyning"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Fraudebestrijding in de zorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.title" scheme="" content="Fraudebestrijding in de zorg; Motie; Motie van het lid Bruyning over onderzoek naar fraude met valse ervaringscertificaten binnen het SKJ-register"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>28 828</dossiernr>
+         </dossiernummer>
+         <titel>Fraudebestrijding in de zorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">151</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BRUYNING</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-21">21 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er meldingen van fraude zijn binnen het SKJ-register, waarbij gebruik wordt gemaakt van valse ervaringscertificaten en dat deze fraudes de betrouwbaarheid van het register en de daar geregistreerde professionals schade toebrengen en daarmee mogelijk de kwaliteit van zorg beïnvloeden;</al>
+                  <al>overwegende dat het essentieel is voor de bescherming van de jeugd en de instandhouding van professionele standaarden dat het SKJ-register vrij is van onregelmatigheden en dat de rol van de IGJ cruciaal is in het bewaken en garanderen van de kwaliteit van de zorg- en jeugdhulpverlening;</al>
+                  <al>verzoekt de regering om de IGJ opdracht te geven grondig onderzoek te doen naar de oorzaken, aard en omvang van de fraude met valse ervaringscertificaten binnen het SKJ-register, om in samenwerking met relevante instanties maatregelen te treffen die de integriteit van het SKJ-register versterken en de Kamer binnen zes maanden te informeren over de bevindingen van het onderzoek en de getroffen maatregelen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Bruyning</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

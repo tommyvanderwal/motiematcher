@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36658-12"/>
+      <meta name="OVERHEIDop.ondernummer" content="12"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36658"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Timmermans en Mutluer over aanvullende maatregelen tegen femicide"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S. Mutluer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.C.G.M. Timmermans"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-22"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld; Motie; Motie van de leden Timmermans en Mutluer over aanvullende maatregelen tegen femicide"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 658</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid Mutluer over femicide – erkenning en aanpak van gendergerelateerd dodelijk geweld</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">12</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN TIMMERMANS EN MUTLUER</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-22">22 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat aan femicide vaak waarschuwingssignalen voorafgaan;</al>
+                  <al>overwegende dat deze signalen onvoldoende worden herkend en dat betere samenwerking, registratie, nazorg en bewustwording noodzakelijk zijn;</al>
+                  <al>spreekt uit dat Nederland aanvullende maatregelen tegen femicide moet nemen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om bij de uitwerking van wetgeving en beleid in ieder geval mee te nemen:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het invoeren van strafverzwarende omstandigheden bij partner- en familiedoding;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het expliciet strafbaar stellen van niet-fatale verwurging en het zo snel als mogelijk strafbaar stellen van psychisch geweld;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het versterken van de aanpak van stalking, onder meer door schrappen van het klachtvereiste en de inzet van elektronische beschermingsmiddelen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het borgen van kennis over intieme terreur in alle politie-eenheden, bij alle parketten en binnen de rechtspraak door onder andere de landelijke uitrol van Filomena;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het verbeteren van samenwerking en informatie-uitwisseling via een centraal registratiesysteem en risicotaxatie;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>de uitbreiding van het Landelijk Expertise Centrum Eergerelateerd Geweld met femicide;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>betere nazorg voor slachtoffers en nabestaanden, inclusief gecombineerde rechtszittingen en gespecialiseerde psychologische zorg;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>het uitbreiden van het hulpaanbod voor (potentiële) daders;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>een jaarlijkse nationale bewustwordingscampagne en structurele preventieprogramma's voor jongeren, met nadruk op de rol van mannen en vaders,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Timmermans</al>
+                     <al>Mutluer</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

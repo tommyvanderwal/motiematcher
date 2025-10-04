@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25232-87/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 232</dossiernr>
+      </dossiernummer>
+      <titel>Voetbalvandalisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">87</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het groepje raddraaiers dat voetbalwedstrijden verziekt, zorgt voor een gevoel van onveiligheid voor de supporters en voor het aanrichten van schade in en rond voetbalstadions;</al>
+            <al-groep>
+              <al>constaterende dat niet altijd te herleiden is wie precies verantwoordelijk is voor het aanrichten van de schade, maar dat dit wel een voorwaarde is om iemand hoofdelijk aansprakelijk te stellen voor de schade die hij veroorzaakt;</al>
+              <al>overwegende dat de inzet van slimme camera's en gezichtsherkenning in en rond voetbalstadions kunnen helpen om raddraaiers beter en sneller te identificeren;</al>
+            </al-groep>
+            <al>overwegende dat bij de efficiënte identificatie van relschoppers de schade verhaald kan worden op individuele personen, zodat benadeelden niet met de schade blijven zitten;</al>
+            <al>verzoekt de regering met een plan te komen in overleg met de betaalde voetbalorganisaties, KNVB, politie, gemeenten en het Openbaar Ministerie, om meer en slimmere camera's in te zetten in en rond stadions om relschoppers op de radar te krijgen;</al>
+            <al>verzoekt de regering tevens de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Eerdmans</al>
+              <al>Michon-Derkzen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

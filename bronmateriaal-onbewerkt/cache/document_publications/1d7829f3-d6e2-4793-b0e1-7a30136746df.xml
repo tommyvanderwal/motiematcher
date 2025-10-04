@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32013-295/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 013</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst financiële sector</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">295</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-10">10 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Minister van Financiën heeft toegezegd aan de slag te gaan met het initiëren van een code of conduct;</al>
+            <al>constaterende dat bepaalde groepen, zoals Nederlanders met een niet-westerse migratieachtergrond, onevenredig vaak het gevoel van discriminatie ervaren door financiële instellingen;</al>
+            <al>van mening dat het de hoogste tijd is om samen met financiële instellingen en hun cliënten verbetering te realiseren als het gaat om het waarborgen van een eerlijke behandeling;</al>
+            <al>verzoekt de regering als inzet te hanteren om in de code of conduct alle aanbevelingen uit het onderzoek van DNB over te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

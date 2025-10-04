@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-762/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">762</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DANIËLLE JANSEN EN KRUL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat zeer recent het onderzoek van RTL Nieuws nogmaals bevestigt dat in e-sigaretten schokkend hoge concentraties nicotine zitten, soms zelfs een hoeveelheid nicotine overeenkomend met 200 tot 400 sigaretten;</al>
+            <al>constaterende dat de damp van e-sigaretten giftige stoffen bevat, zoals formaldehyde, lood, nikkel, aceton en ijzer, die zeer schadelijk zijn voor het zich ontwikkelende brein;</al>
+            <al>constaterende dat het zeer recente onderzoek van het RIVM en de GGD'en laat zien dat steeds meer jongeren e-sigaretten gebruiken;</al>
+            <al>constaterende dat vooral wegwerp-e-sigaretten populair zijn onder jongeren omdat ze deze makkelijk in hun zak kunnen verstoppen, bijvoorbeeld op school;</al>
+            <al>overwegende dat onvoldoende handhavingscapaciteit geen reden mag zijn om nog meer jongeren verslaafd te laten raken en bloot te stellen aan giftige stoffen;</al>
+            <al>verzoekt de regering om, in navolging van België, zo snel mogelijk wegwerp-e-sigaretten te verbieden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

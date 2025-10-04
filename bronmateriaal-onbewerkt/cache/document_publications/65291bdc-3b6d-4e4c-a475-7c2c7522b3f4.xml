@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23645-826/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 645</dossiernr>
+      </dossiernummer>
+      <titel>Openbaar vervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">826</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN DE HOOP EN VEDDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 821</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er grote behoefte is aan het uitbreiden van het internationaal treinverkeer binnen de EU, zodat reizigers op een betaalbare en eenvoudige manier met de internationale trein kunnen reizen;</al>
+            <al>constaterende dat er, mede als gevolg van het feit dat lidstaten en spoorwegmaatschappijen onvoldoende samenwerken, nog steeds allerlei belemmeringen zijn, waardoor het voor reizigers vaak lastig is om op een eenvoudige manier per trein van het ene land naar het andere land te reizen;</al>
+            <al>overwegende dat de huidige Commissie zich heeft ingezet voor een EU-breed ticketsysteem, maar dat de wetgeving hiervoor nog niet is afgerond;</al>
+            <al>verzoekt de regering zich ervoor in te spannen dat het versterken van het internationaal treinverkeer, waaronder het afronden van de wetgeving voor een EU-breed ticketsysteem, een van de prioriteiten op het gebied van mobiliteit wordt van de komende Europese Commissie, en de Kamer te rapporteren over deze inspanningen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>De Hoop</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

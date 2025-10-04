@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-769/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">769</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ROODERKERK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-26">26 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Staatssecretaris de curriculumherziening voor de verbetering van basisvaardigheden wil uitstellen om tot minder kerndoelen te komen;</al>
+            <al>overwegende dat dit voornamelijk een cosmetische ingreep betreft, dit niet leidt tot een daadwerkelijk kleiner curriculum en resulteert in abstractere kerndoelen;</al>
+            <al>constaterende dat er een zorgvuldig proces is doorlopen met leraren en wetenschappers, en dat de doelen getest zijn op 200 scholen;</al>
+            <al>overwegende dat leraren, schoolleiders, leerlingen en schoolbesturen behoefte hebben aan concrete kerndoelen en dat zij zich hebben uitgesproken voor het oorspronkelijke proces zonder uitstel en het redigeren van de doelen;</al>
+            <al>van mening dat deze nieuwe kerndoelen noodzakelijk zijn voor het verbeteren van de basisvaardigheden en uitstel daarom onwenselijk is;</al>
+            <al>verzoekt de regering de curriculumherziening voor lezen, schrijven en rekenen niet uit te stellen en vast te houden aan het oorspronkelijke proces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rooderkerk</al>
+              <al>Pijpelink</al>
+              <al>Ergin</al>
+              <al>Ceder</al>
+              <al>Krul</al>
+              <al>Dassen</al>
+              <al>Kostić</al>
+              <al>Eerdmans</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

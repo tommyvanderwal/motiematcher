@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1189/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1189</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PETER DE GROOT EN BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op veel middelgrote en kleine regionale vliegvelden gewerkt en geëxperimenteerd wordt met elektrisch vliegen;</al>
+            <al>overwegende dat elektrisch vliegen een enorme kans biedt om schoon vervoer door de lucht als nieuwe modaliteit voor binnenlandse en kortere buitenlandse afstanden in te zetten;</al>
+            <al>overwegende dat de ontwikkeling van elektrisch vliegen voor innovaties, toeleverantie en ontwikkeling mooie economische kansen biedt;</al>
+            <al>overwegende dat de eerste grotere elektrische vliegtuigen rond 2035 operationeel zullen zijn en dit eisen stelt aan de infrastructuur op vliegvelden;</al>
+            <al>overwegende dat het voor de Nederlandse economie en de ambities rondom duurzaamheid van belang is dat Nederland voorloper is inzake elektrisch vliegen;</al>
+            <al>verzoekt de regering te starten om de nieuwe modaliteit elektrisch vliegen een goede plaats te geven in ons luchtruim en toekomstige infrastructuurbeslissingen;</al>
+            <al>verzoekt de regering met faciliterend beleid te komen, nationaal en internationaal, dat belemmeringen wegneemt en elektrisch kunnen vliegen mogelijk maakt samen met luchthavens, de Nederlandse maakindustrie en sector- en kennisinstellingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Peter de Groot</al>
+              <al>Bamenga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

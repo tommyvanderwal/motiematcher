@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30821-282"/>
+      <meta name="OVERHEIDop.ondernummer" content="282"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30821"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Wijen-Nass over een wettelijke grondslag voor preventief optreden tegen het online verheerlijken van terrorisme"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.J.M.H. Wijen-Nass"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nationale Veiligheid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.title" scheme="" content="Nationale Veiligheid; Motie; Motie van het lid Wijen-Nass over een wettelijke grondslag voor preventief optreden tegen het online verheerlijken van terrorisme"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 821</dossiernr>
+         </dossiernummer>
+         <titel>Nationale Veiligheid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">282</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WIJEN-NASS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-28">28 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de AIVD recent heeft vastgesteld dat de terroristische dreiging in toenemende mate van binnenuit komt, onder meer via online radicalisering van minderjarigen;</al>
+                  <al>overwegende dat het internet een broedplaats vormt voor zowel jihadistisch als rechts-extremistisch gedachtegoed;</al>
+                  <al>van mening dat verheerlijking van terrorisme in de onlinewereld actief en preventief moet worden tegengegaan;</al>
+                  <al>verzoekt de regering om in het wetsvoorstel Strafbaarstelling van de verheerlijking van terrorisme een wettelijke grondslag op te nemen die het mogelijk maakt om preventief op te treden tegen online-uitlatingen die terrorisme verheerlijken,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Wijen-Nass</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

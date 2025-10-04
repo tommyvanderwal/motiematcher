@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33652-100/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 652</dossiernr>
+      </dossiernummer>
+      <titel>Spoorbeveiligingssysteem European Rail Traffic Management System (ERTMS)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">100</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOUTKAN EN HEUTINK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering van plan is om de Zeeuwse lijn tussen Vlissingen en Goes in 2029 vier maanden te sluiten om het veiligheidssysteem ERTMS te kunnen testen;</al>
+            <al>constaterende dat het sluiten van deze lijn ervoor zorgt dat de gehele provincie Zeeland niet meer per trein bereikbaar zal zijn;</al>
+            <al>constaterende dat er nog zeker negen maanden lang verstoringen en overlast zullen zijn als gevolg van de test;</al>
+            <al>overwegende dat de Zeeuwse lijn tussen Goes en Vlissingen bestaat uit twee sporen;</al>
+            <al-groep>
+              <al>verzoekt de regering om de overlast die ontstaat vanwege de ERTMS-test op de Zeeuwse lijn tot een minimum te beperken;</al>
+              <al>verzoekt de regering tevens om een uitgebreide analyse uit te voeren over de vraag of het mogelijk is om een van de twee sporen op de Zeeuwse lijn open te houden, en deze analyse voor het zomerreces van 2025 naar de Kamer te sturen,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boutkan</al>
+              <al>Heutink</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

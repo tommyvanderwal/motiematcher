@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36163-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 163</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van Boek 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek in verband met de aanpassing van de termijn van de omkering van de bewijslast voor consumentenkoop van levende dieren (Aanpassingswet bewijslasttermijn consumentenkoop levende dieren)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TEUNISSEN</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-20">20 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Tweede Kamer in 2021 een motie heeft aangenomen waarmee de regering wordt verzocht een verbod in te stellen op alle dieronvriendelijke hulp- en trainingsmiddelen (motie-Graus <extref doc="kst-28286-1175" soort="document" status="actief">28 286, nr. 1175</extref>);</al>
+            <al>constaterende dat het voorgaande kabinet deze motie heeft uitgevoerd door een jarenlang onderzoek uit te zetten naar de beleving van de honden- en paardensector over bepaalde trainingsmiddelen;</al>
+            <al>constaterende dat, nu de resultaten van het onderzoek binnen zijn, de Staatssecretaris laat weten geen hulp- en trainingsmiddelen te zullen uitfaseren;</al>
+            <al>overwegende dat de motie-Graus hiermee niet is uitgevoerd;</al>
+            <al>verzoekt de regering alsnog te komen met een algemene maatregel van bestuur waarmee een verbod wordt ingesteld op alle dieronvriendelijke hulp- en trainingsmiddelen, conform de eerder aangenomen motie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Teunissen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

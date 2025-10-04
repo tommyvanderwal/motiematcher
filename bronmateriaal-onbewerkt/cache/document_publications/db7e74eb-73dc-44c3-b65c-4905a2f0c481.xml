@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-620/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">620</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-12">12 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het Nederlandse vestigingsklimaat onder druk staat en dat er verschillende bedrijven met de voet op de drempel staan om uit Nederland te vertrekken;</al>
+            <al>overwegende dat het vertrek van bedrijven schadelijk is voor de Nederlandse economie;</al>
+            <al>spreekt uit dat een gezond Nederlands vestigingsklimaat een belangrijke rol speelt in het verdienvermogen van Nederland en dit voor de Kamer een zeer hoge prioriteit heeft,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Martens-America</al>
+              <al>Zeedijk</al>
+              <al>Flach</al>
+              <al>Vermeer</al>
+              <al>Koekkoek</al>
+              <al>Sneller</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-20-2247"/>
+      <meta name="OVERHEIDop.ondernummer" content="2247"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-20"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Van der Werf c.s. over zich inzetten voor een groeipad naar defensie-uitgaven van 3,5% van het bruto binnenlands product (t.v.v. 21501-20-2175)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G. Boswijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.J. van der Werf"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Europese Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-03"/>
+      <meta name="DC.title" scheme="" content="Europese Raad; Motie (gewijzigd/nader); Gewijzigde motie van het lid Van der Werf c.s. over zich inzetten voor een groeipad naar defensie-uitgaven van 3,5% van het bruto binnenlands product (t.v.v. 21501-20-2175)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr>
+         </dossiernummer>
+         <titel>Europese Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">2247</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID VAN DER WERF C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 2175</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-03">3 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat tijdens de NAVO top in Den Haag gesproken zal worden over een nieuwe NAVO-norm van 5% bestaande uit 3,5% uitgaven aan defensie en 1,5% uitgaven aan civiele doelen zoals cyber en infrastructuur;</al>
+                  <al-groep>
+                     <al>overwegende dat de huidige NAVO-norm van 2% defensie-uitgaven onvoldoende is wanneer Europa in staat wil zijn haar eigen grondgebied te verdedigen tegen Rusland;</al>
+                     <al>overwegende dat Nederland reeds dagelijks wordt geconfronteerd met hybride en cyberaanvallen vanuit Rusland en China;</al>
+                  </al-groep>
+                  <al>verzoekt de regering zich in te zetten voor een groeipad naar defensie-uitgaven van 3,5% van het bruto binnenlands product, daarbij specifiek te kijken naar meer Europese samenwerking en het versterken van de Nederlandse defensie-industrie,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van der Werf</al>
+                     <al>Paternotte</al>
+                     <al>Boswijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

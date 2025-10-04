@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-261/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">261</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TSEGGAI EN KOOPS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat consumenten zo veel mogelijk moeten worden toe- en doorgeleid naar het legale kansspelaanbod en dat een volledig reclameverbod daar contraproductief voor zou kunnen uitpakken;</al>
+            <al>van mening dat kansspelaanbieders geen reclameruimte dienen te krijgen tenzij ze zich bewezen betrouwbaar en betrokken opstellen in het naleven van de regels over de zorgplicht;</al>
+            <al-groep>
+              <al>verzoekt de regering om in de nieuwe wet op de kansspelen een verbod op te nemen op het adverteren en in zoekmachines vindbaar maken van gokwebsites, tenzij de Kansspelautoriteit op basis van een zorgvuldige doorlichting een aanbieder bij uitzondering heeft gecertificeerd als</al>
+              <al>betrouwbare organisatie, het zogenoemde whitelisting,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tseggai</al>
+              <al>Koops</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

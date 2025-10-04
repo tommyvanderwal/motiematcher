@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1208/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1208</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID POSTMA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij het invullen van de resterende geluidshinderreductie van Schiphol een verdere exploitatiebeperking niet uitgesloten is;</al>
+            <al>overwegende dat historische rechten capaciteitsreductie bemoeilijken en de afgifte van nieuwe slots dit in de hand werkt;</al>
+            <al>overwegende dat afgenomen/opgegeven slots in beginsel in de slotpool vallen en door ACNL opnieuw gealloceerd moeten worden, waardoor steeds nieuwe historische rechten afgegeven moeten worden;</al>
+            <al>verzoekt de regering te onderzoeken of een zachte landing van eventuele verdere exploitatiebeperkingen mogelijk gemaakt kan worden door een grondslag te creëren voor ACNL om niet alle beschikbare slots te verlenen;</al>
+            <al>verzoekt de regering de Kamer hierover te informeren in het plan van aanpak voor de 20% geluidsreductie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Postma</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>De Hoop</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

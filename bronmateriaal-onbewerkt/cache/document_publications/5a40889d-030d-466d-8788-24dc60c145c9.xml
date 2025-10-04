@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36550-XVII-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 550</dossiernr>
+        <begrotingshoofdstuk>XVII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Wijziging van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2024 (wijziging samenhangende met de Voorjaarsnota)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-19">19 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de humanitaire crisis in Gaza enorm is, dat de meerderheid van de gebouwen, infrastructuur en voorzieningen is beschadigd en dat de wederopbouw van Gaza daarom een immense inspanning zal zijn;</al>
+            <al>overwegende dat de motie-Van Baarle is aangenomen die de regering</al>
+            <al>verzoekt om in afstemming met de VN-coördinator in internationaal verband proactief draagvlak te zoeken voor de totstandkoming van een internationaal herstelprogramma, gericht op het herstel en de wederopbouw van Gaza, en tevens een actieve voortrekkersrol te nemen in de realisatie en de uitvoering van dit programma;</al>
+            <al>overwegende dat de regering bij de Voorjaarsnota 20 miljoen euro heeft vrijgemaakt voor de wederopbouw van Gaza;</al>
+            <al>verzoekt de regering om in internationale afstemming tot een uitvoeringsplan te komen om, op het moment dat het mogelijk is, de gereserveerde middelen spoedig te kunnen benutten voor de wederopbouw van Gaza en hierbij te inventariseren welke organisaties in Nederland hier een aanvullende bijdrage aan kunnen leveren en praktisch kunnen bijdragen aan de wederopbouw van Gaza,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Baarle</al>
+              <al>Dobbe</al>
+              <al>Hirsch</al>
+              <al>Bamenga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

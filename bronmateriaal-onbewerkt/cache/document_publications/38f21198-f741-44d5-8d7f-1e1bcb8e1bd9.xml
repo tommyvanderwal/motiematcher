@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-416/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">416</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-12">12 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voor integriteitsschendingen duidelijke regels, normen en handhaving zijn vastgelegd in de Gedragscode Integriteit Rijk;</al>
+            <al>overwegende dat nu niet helder is vastgelegd welke sancties opgelegd kunnen worden in geval van discriminatie en/of racisme op de werkvloer;</al>
+            <al>constaterende dat ambtenaren die te maken hebben met discriminatie en/of racisme daardoor niet weten hoe hun eventuele melding daarvan opgepakt zal worden;</al>
+            <al>verzoekt de regering duidelijk rijksbreed vast te leggen welke escalatieladder afgelopen wordt en welke sancties opgelegd worden in het geval van racisme en/of discriminatie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bamenga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

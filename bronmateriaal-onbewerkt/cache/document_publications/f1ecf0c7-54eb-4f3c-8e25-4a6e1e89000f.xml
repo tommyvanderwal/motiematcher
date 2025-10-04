@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-19/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">19</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BECKER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van  <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aangenomen moties Becker (<extref doc="kst-35228-8" soort="document" status="actief">35 228, nr. 8</extref> en <extref soort="document" doc=" kst-32824-432" status="actief">32 824, nr. 432</extref>) stellen dat de regering de Taskforce Problematisch gedrag en ongewenste buitenlandse financiering heeft opgericht om gemeenten te ondersteunen bij de aanpak van problematisch gedrag, maar dat deze geen juridische definitie kent;</al>
+            <al>overwegende dat het advies van de landsadvocaat inzake informele scholing (<extref doc="kst-31293-653" soort="document" status="actief">31 293 en 31 289, nr. 653</extref>, bijlage 1) ruimte biedt voor een juridische definitie van problematisch gedrag;</al>
+            <al>constaterende dat de regering nu een juridische definitie van problematisch gedrag uitwerkt;</al>
+            <al>overwegende dat een zo specifiek mogelijk definitie een hogere juridische houdbaarheid heeft en meer aanleiding tot handhaving kan bieden;</al>
+            <al>spreekt uit dat het gezien de noodzaak van het aanpakken van anti-integratief, antirechtsstatelijk en antidemocratisch gedachtegoed cruciaal is om tot een juridisch houdbare definitie te komen;</al>
+            <al>verzoekt de regering om bij het uitwerken van een juridische definitie van problematisch gedrag ook op sectorniveau specifieke definities uit te werken om de handvatten voor handhaving te versterken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Becker</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36760-38"/>
+      <meta name="OVERHEIDop.ondernummer" content="38"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-08-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36760"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Bikker c.s. over een wijziging van het Reglement van Orde aan de Kamer voorleggen inzake de rol van de Koning in de verkenningsfase van de kabinetsformatie"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.N. van Vroonhoven"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D. Yesilgöz-Zegerius"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Bontenbal"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C. Stoffer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Bikker"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Kabinetscrisis 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-08-27"/>
+      <meta name="DC.title" scheme="" content="Kabinetscrisis 2025; Motie; Motie van het lid Bikker c.s. over een wijziging van het Reglement van Orde aan de Kamer voorleggen inzake de rol van de Koning in de verkenningsfase van de kabinetsformatie"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 760</dossiernr>
+         </dossiernummer>
+         <titel>Kabinetscrisis 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">38</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-08-27">27 augustus 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Nederland gebaat is bij een snelle formatie en een kabinet dat op een gedragen meerderheid berust;</al>
+                  <al>constaterende dat de Raad van State in 2023 geadviseerd heeft dat de Kamer de functie van verkenner toekent aan een vast ambt;</al>
+                  <al>constaterende dat het constitutionele staatshoofd, gelet op diens niet-politieke en onafhankelijke positie, met grote betrokkenheid op de ontstane politieke situatie, na ingewonnen advies, met gezag de formatie kan ordenen en bespoedigen;</al>
+                  <al>verzoekt het presidium nog voor het verkiezingsreces van de huidige Tweede Kamer een wijziging van het Reglement van Orde voor te leggen die ertoe leidt dat de Koning opnieuw leiding geeft aan de gesprekken in de verkenningsfase,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bikker</al>
+                     <al>Stoffer</al>
+                     <al>Bontenbal</al>
+                     <al>Yeşilgöz-Zegerius</al>
+                     <al>Van der Plas</al>
+                     <al>Van Vroonhoven</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

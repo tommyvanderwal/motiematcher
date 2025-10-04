@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-22343-415/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>22 343</dossiernr>
+      </dossiernummer>
+      <titel>Handhaving milieuwetgeving </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">415</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUIJSSE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat opkomende technologieën als sensortechnologie, satellietbeelden, AI en cloud ingezet kunnen worden om overheidsdiensten klantgerichter en effectiever te organiseren;</al>
+            <al>constaterende dat opkomende technologieën, mits de werking ervan aantoonbaar en juridisch geborgd is, ook toegepast kunnen worden door omgevingsdiensten;</al>
+            <al>verzoekt de regering een inventarisatie te doen bij welke diensten van omgevingsdiensten deze technologieën toegepast kunnen worden;</al>
+            <al>verzoekt de regering in de inventarisatie ook te betrekken welke eventuele partijen deze diensten zouden kunnen bieden;</al>
+            <al>verzoekt de regering de Kamer vóór het zomerreces te informeren met een brief over de inventarisatie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Buijsse</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

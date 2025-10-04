@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36486-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 486</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet langdurige zorg, de Wet financiering sociale verzekeringen, de Wet marktordening gezondheidszorg en de Algemene wet bestuursrecht, in verband met de uitbreiding en verdere uitwerking van de bekostigingsmogelijkheden met middelen vanuit het Fonds langdurige zorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUSHOFF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat mensen die terminaal ziek zijn de mogelijkheid moeten hebben om hun laatste levensfase thuis door te brengen of in hun eigen omgeving te sterven;</al>
+            <al>constaterende dat financiële redenen, zoals een omzetplafond of doelmatigheidseisen, een belemmering kunnen vormen bij het in zorg nemen van terminale patiënten, waardoor thuis sterven soms geen optie is;</al>
+            <al>overwegende dat omzetplafonds en doelmatigheidseisen tot het instrumentarium van zorgverzekeraars behoren om de zorg efficiënt en betaalbaar te houden, maar dat de inzet niet het ongewenste gevolg mag hebben dat mensen niet meer thuis kunnen sterven;</al>
+            <al>constaterende dat Zilveren Kruis besloten heeft om palliatief terminale zorg uit te sluiten van hun doelmatigheidsmodel en omzetplafonds binnen de Wijkverpleging;</al>
+            <al-groep>
+              <al>verzoekt de regering om in samenspraak met zorgverzekeraars te</al>
+              <al>bewerkstellingen dat budgetverruiming zoals die van Zilveren Kruis ter verbetering van de toegankelijkheid en kwaliteit van zorg in de laatste levensfase breder navolging kan vinden zodat mensen de laatste dagen van hun leven thuis kunnen doorbrengen,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bushoff</al>
+              <al>Slagt-Tichelman</al>
+              <al>Dijk</al>
+              <al>Diederik van Dijk</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36396-5/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 396</dossiernr>
+      </dossiernummer>
+      <titel>Initiatiefnota van het lid Tielen over Én Én: een verjongingskuur voor de basiszorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">5</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DEN HIL </titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-03-18">18 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat goede, betrouwbare informatie over beschikbaarheid, wachttijden en uitkomsten van zorg patiënten en zorgprofessionals helpt om samen te beslissen over passende zorg en ondersteuning en deze tijdig te kunnen organiseren;</al>
+            <al>constaterende dat blijkt dat er grote verschillen in uitkomsten van behandelingen en kwaliteit van zorg bestaan, dat die informatie voor patiënten niet tot nauwelijks beschikbaar en inzichtelijk is en dat de patiënt geen passende keuze kan maken;</al>
+            <al>constaterende dat het Zorginstituut, de IGJ en de NZa de wettelijke taak hebben om kwaliteitsinformatie en informatie over toegankelijkheid openbaar te maken voor patiënten en burgers en dat inzet in eerdere programma's, zoals Uitkomstgerichte Zorg en de Transparantiekalender, nog te weinig verbetering en inzicht hebben opgeleverd;</al>
+            <al>verzoekt de regering om met het Zorginstituut, de IGJ en de NZa steviger in te zetten op en toezicht te houden op transparantie over praktijkvariatie, en met zorginstellingen concrete afspraken te maken over begrijpelijke en inzichtelijke informatie voor patiënten over verschillen in:</al>
+            <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+              <li>
+                <li.nr>–</li.nr>
+                <al>ervaren en objectieve uitkomsten van zorg;</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>bijwerkingen en complicaties van behandelingen;</al>
+              </li>
+              <li>
+                <li.nr>–</li.nr>
+                <al>wachttijden,</al>
+              </li>
+            </lijst>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van den Hil</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31239-415/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 239</dossiernr>
+      </dossiernummer>
+      <titel>Stimulering duurzame energieproductie </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">415</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BONTENBAL C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de waterstofeconomie veel te traag van de grond komt;</al>
+            <al>overwegende dat Nederland te complexe eisen stelt aan de productie en het gebruik van waterstof;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de realisatietermijn van subsidies voor de productie van waterstof die gekoppeld zijn aan de oplevering van onder andere de Delta Rhine Corridor aan te passen aan de nieuwe oplevertermijnen en de realisatietermijnen voortaan adaptief te maken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>in stimuleringsregelingen blauwe waterstof niet alleen als vervanger van grijze waterstof te beschouwen, maar ook als vervanger van aardgas;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>regie te nemen om het probleem van nettarieven voor elektrolysers snel op te lossen door de ACM te verzoeken met een voorstel te komen in samenspraak met de waterstofbranche en netbeheerders;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de eis dat waterstof alleen als groen kan worden gekwalificeerd als de waterstof in nabijheid en gelijktijdig wordt opgewekt te versoepelen (waarbij nabijheid beperkt wordt tot de EU) en ook bij de Europese Commissie te pleiten voor een dergelijke versoepeling;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>bij de Europese Commissie te pleiten voor een gelijke behandeling van waterstof uit hernieuwbare bronnen en kernenergie,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Bontenbal</al>
+              <al>Erkens</al>
+              <al>Vermeer</al>
+              <al>Grinwis</al>
+              <al>Postma</al>
+              <al>Koekkoek</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

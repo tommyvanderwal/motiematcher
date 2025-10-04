@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-27858-721"/>
+      <meta name="OVERHEIDop.ondernummer" content="721"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="27858"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Podt over een plan van aanpak zodat uitgekochte boerderijen niet massaal worden ingezet voor intensieve, niet-essentiële teelten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Podt"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gewasbeschermingsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.title" scheme="" content="Gewasbeschermingsbeleid; Motie; Motie van het lid Podt over een plan van aanpak zodat uitgekochte boerderijen niet massaal worden ingezet voor intensieve, niet-essentiële teelten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Planten"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>27 858</dossiernr>
+         </dossiernummer>
+         <titel>Gewasbeschermingsbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">721</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PODT</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-03">3 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat er onder andere door de stoppersregelingen voor stikstof veel percelen van grasland veranderen in intensieve teelten, met name sier- en bollenteelt;</al>
+                  <al>overwegende dat het doel van de stoppersregeling bescherming van de natuur is, en sier- en bollenteelt een vergelijkbare, dan wel grotere, negatieve impact heeft op de gezondheid van Natura 2000-gebieden;</al>
+                  <al>overwegende dat dit een ondoelmatige besteding van miljarden belastinggeld is, de natuur verder verslechtert en dit niet uit te leggen is aan veehouders die hun bedrijf verkopen;</al>
+                  <al-groep>
+                     <al>verzoekt de regering om een plan van aanpak te maken om te zorgen dat uitgekochte boerderijen niet massaal omgezet worden in intensieve, niet-essentiële teelten zoals sier- en bollenteelt,</al>
+                     <al>en gaat over tot de orde van de dag</al>
+                     <al>Podt</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29398-1154/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 398</dossiernr>
+      </dossiernummer>
+      <titel>Maatregelen verkeersveiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1154</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VELTMAN EN OLGER VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de inhaalslag van praktijkexamens voor rijbewijs B naar aanleiding van de lockdown tijdens corona nog niet is afgerond en in sommige regio's leidt tot wachttijden met uitschieters van vijftien tot twintig weken;</al>
+            <al>overwegende dat het voor de ontwikkeling van rijschoolleerlingen onwenselijk is om zo lang te moeten wachten voordat zij examen kunnen doen;</al>
+            <al>overwegende dat een tussentijdse toets een waardevol instrument is dat voor een hoger slagingspercentage zorgt, en daarmee dus ook bijdraagt aan het verminderen van de wachttijden bij het CBR;</al>
+            <al>overwegende dat het tijdelijk schrappen van de tussentijdse toets een noodmaatregel is die het mogelijk maakt de achterstand in te lopen die anders nog jaren niet wordt opgelost, maar dat deze noodmaatregel niet langer mag worden ingezet dan strikt noodzakelijk;</al>
+            <al>verzoekt de regering de tussentijdse toets voor rijexamen B maximaal één jaar te schrappen, en korter waar mogelijk, en onverwijld met de rijscholenbranche aan de slag te gaan met de verbetermaatregelen uit het rapport-Roemer om de slagingspercentages te verbeteren;</al>
+            <al>verzoekt de regering vooruitlopend daarop het CBR de goed presterende rijscholen meer ruimte te laten geven bij het reserveren van examens, conform voorstel van het CBR, en parallel hieraan de benodigde wijziging van regelgeving in gang te zetten om goed presterende rijscholen meer voorrang te kunnen geven, en rijscholen te ondersteunen in hun uitdagingen die komen kijken bij het tijdelijk afschaffen van de tussentijdse toets,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Olger van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

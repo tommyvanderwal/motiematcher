@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1046/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1046</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BRUYNING EN CEDER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ervaringsdeskundigen unieke inzichten bieden die beleidsmakers kunnen helpen bij het ontwikkelen van effectiever jeugdbeleid, dat het huidige beleid vaak tekortschiet in het adresseren van de werkelijke behoeften en uitdagingen van jongeren, en dat het betrekken van ervaringsdeskundigen bij het beleidsvormingstraject kan leiden tot meer inclusieve en op maat gemaakte oplossingen;</al>
+            <al>overwegende dat het essentieel is dat beleid niet alleen over jongeren gaat, maar ook met hen wordt ontwikkeld;</al>
+            <al>verzoekt de regering om een structureel platform op te zetten waar ervaringsdeskundigen op het gebied van jeugdbeleid regelmatig kunnen bijdragen aan beleidsvorming en -evaluatie, om te zorgen voor een evenwichtige vertegenwoordiging van diverse groepen jongeren, waaronder die met verschillende achtergronden en ervaringen, om actief samen te werken met bestaande organisaties en netwerken die zich richten op jongerenparticipatie en ervaringsdeskundigheid, en om de Kamer regelmatig te informeren over de voortgang en resultaten van deze betrokkenheid van ervaringsdeskundigen bij het jeugdbeleid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

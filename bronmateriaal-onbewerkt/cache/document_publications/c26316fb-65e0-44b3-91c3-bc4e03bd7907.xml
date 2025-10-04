@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36449-15/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 449</dossiernr>
+      </dossiernummer>
+      <titel>Vereenvoudiging van de banenafspraak en de quotumregeling voor mensen met een arbeidsbeperking (Wet banenafspraak)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">15</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de opbouw van de huidige banenafspraak eindigt in 2026 en er nog geen afspraken gemaakt zijn over de periode daarna;</al>
+            <al>overwegende dat voor een inclusieve arbeidsmarkt een banenafspraak een noodzakelijk instrument is om zo veel mogelijk mensen met een arbeidsbeperking aan een baan te helpen;</al>
+            <al>verzoekt de regering in overleg met sociale partners, gemeenten en sociaal ontwikkelbedrijven een nieuwe banenafspraak te maken waarbij de ondersteuningsbehoefte van de persoon met een arbeidsbeperking centraal staat en het soort uitkering, doelgroep, werkgever of postcode hierbij geen criterium vormt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van Kent</al>
+              <al>Flach</al>
+              <al>Inge van Dijk</al>
+              <al>Paulusma</al>
+              <al>Lahlah</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

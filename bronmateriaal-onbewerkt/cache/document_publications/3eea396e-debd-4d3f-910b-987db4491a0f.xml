@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28362-78/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 362</dossiernr>
+      </dossiernummer>
+      <titel>Reikwijdte van artikel 68 Grondwet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">78</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CHAKOR</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat direct contact tussen Kamerleden en departementsambtenaren bijdraagt aan een transparante en efficiënte democratie en dat de werkgroep Informatieafspraken heeft aanbevolen om laagdrempelig contact mogelijk te maken tussen Kamerleden en ambtenaren;</al>
+            <al>overwegende dat de oekaze-Kok uit 1998 en de latere oekaze-Ollongren, die ambtenaren verbieden zelfstandig contact te hebben met Kamerleden zonder goedkeuring van de Minister, aan modernisering toe zijn;</al>
+            <al>constaterende dat de huidige Aanwijzingen inzake externe contacten van rijksambtenaren dit contact formeel beperken, terwijl bij decentrale overheden direct contact bij feitelijke informatieverstrekking de norm is;</al>
+            <al>overwegende dat het moderniseren van de huidige aanwijzingen kan bijdragen aan het verminderen van informatieverzoeken aan departementen;</al>
+            <al>verzoekt de regering te experimenteren met pilots waarin Kamerleden direct technische en feitelijke vragen kunnen stellen aan de ambtelijke organisatie, en hierover binnen drie maanden met een voorstel naar de Kamer te komen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Chakor</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

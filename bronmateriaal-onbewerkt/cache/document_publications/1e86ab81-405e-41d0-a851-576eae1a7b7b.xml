@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29023-580"/>
+      <meta name="OVERHEIDop.ondernummer" content="580"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29023"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Rooderkerk over een visie en strategie voor het omgaan met de verwachte groei en het verbruik van datacenters"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. Rooderkerk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Voorzienings- en leveringszekerheid energie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Voorzienings- en leveringszekerheid energie; Motie; Motie van het lid Rooderkerk over een visie en strategie voor het omgaan met de verwachte groei en het verbruik van datacenters"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 023</dossiernr>
+         </dossiernummer>
+         <titel>Voorzienings- en leveringszekerheid energie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">580</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID ROODERKERK</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat uit onderzoek van Netbeheer Nederland blijkt dat door de opkomst van kunstmatige intelligentie het elektriciteitsverbruik van datacentra mogelijk vergelijkbaar zal zijn met 40% tot 70% van de huidige totale Nederlandse elektriciteitsvraag;</al>
+                  <al>overwegende dat TenneT stelt dat deze extra groei onmogelijk is als we de huidige industrie, vervoer, woningen en bedrijven ook moeten elektrificeren;</al>
+                  <al>overwegende dat extra verzwaring van het elektriciteitsnet zal leiden tot nog hogere nettarieven voor huishoudens en bedrijven;</al>
+                  <al>overwegende dat kunstmatige intelligentie in toenemende mate een rol zal gaan spelen in de samenleving en economie;</al>
+                  <al>overwegende dat datacentra op eigen bodem een belangrijke rol spelen bij digitale strategische autonomie;</al>
+                  <al>overwegende dat datacenters door hun schaal en mogelijkheden tot inzet van buffers en vraagsturing een waardevolle rol kunnen spelen in het versterken van duurzame energie-infrastructuur;</al>
+                  <al>verzoekt de regering een strategie en visie te ontwikkelen zodat het energiesysteem kan omgaan met de verwachte groei en het verbruik van datacenters in Nederland,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Rooderkerk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25295-2157/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 295</dossiernr>
+      </dossiernummer>
+      <titel>Infectieziektenbestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2157</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID JOSEPH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-15">15 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er volgens het CBS sinds 2020 jaarlijks ongeveer 14.000 mensen meer zijn overleden dan verwacht;</al>
+            <al>constaterende dat ondanks reeds gedane onderzoeken nog steeds grote onduidelijkheid bestaat hoe deze hoge oversterfte verklaard kan worden;</al>
+            <al>overwegende dat er tot nu toe deelonderzoeken gedaan zijn over enkele jaren;</al>
+            <al>verzoekt de regering een onafhankelijke instantie groot integraal wetenschappelijk onderzoek op te starten naar de redenen en oorzaken van oversterfte sinds 2020, en de Kamer hierover zo spoedig mogelijk te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Joseph</al>
+              <al>Omtzigt</al>
+              <al>Agema</al>
+              <al>Dijk</al>
+              <al>Van der Plas</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

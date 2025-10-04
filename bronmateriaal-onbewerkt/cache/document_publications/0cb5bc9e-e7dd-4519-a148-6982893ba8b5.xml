@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-686/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">686</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIĆ</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een methodiek is ontwikkeld om de cumulatieve effecten van bestrijdingsmiddelen op mensen als gevolg van inname met voedsel te bepalen, maar dat dat nog niet is gebeurd voor de effecten op milieu en de daarin levende dieren;</al>
+            <al>overwegende dat cumulatie van bestrijdingsmiddelen wel zeer schadelijke effecten kan hebben op het milieu en dieren, zoals het recente onderzoek van het Leidse Centrum voor Milieuwetenschappen en het RIVM uitlicht;</al>
+            <al>overwegende dat de Minister aangeeft een veiligheidsfactor te willen gaan gebruiken zolang er nog geen wetenschappelijk onderbouwd richtsnoer is voor cumulatie;</al>
+            <al>overwegende dat dus kennis nodig is om deze schadelijke effecten op mens, milieu en op dieren te kunnen voorkomen;</al>
+            <al>overwegende dat het moeilijk is om volledige kennis te hebben, maar dat er wel een begin kan worden gemaakt, bijvoorbeeld met de effecten van de meest voorkomende cocktails van middelen op enkele belangrijke diersoorten;</al>
+            <al>verzoekt de regering het Ctgb opdracht te geven een stappenplan te maken voor de beoordeling van cumulatieve effecten van bestrijdingsmiddelen op dieren en het milieu,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

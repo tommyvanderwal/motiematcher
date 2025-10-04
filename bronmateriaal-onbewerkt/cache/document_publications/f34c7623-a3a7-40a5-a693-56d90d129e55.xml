@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-696/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">696</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VEDDER EN PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat door sectorpartijen wordt gewerkt aan een systeem van benchmarking waarmee telers samen kunnen werken aan het verder terugbrengen van het gebruik van gewasbeschermingsmiddelen en de milieu-impact van de toepassing daarvan;</al>
+            <al>constaterende dat de Minister hierover in gesprek is met de sector, maar het hoofdlijnenakkoord pas vanaf 2026 voorziet in financiering;</al>
+            <al>overwegende dat het, ook gezien de deadline van de Kaderrichtlijn Water, van belang is om zo snel mogelijk de hiervoor beschikbare middelen in te zetten en niet te wachten tot 2026;</al>
+            <al>verzoekt de regering ervoor te zorgen dat er reeds in 2025 financiële middelen beschikbaar komen voor benchmarking op het gebied van gewasbeschermingsmiddelen, bijvoorbeeld door voor dit doeleinde de uitgave van een klein deel van de middelen voor de agrarische sector uit het hoofdlijnenakkoord naar voren te halen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Podt</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25883-507/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 883</dossiernr>
+      </dossiernummer>
+      <titel>Arbeidsomstandigheden</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">507</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in Nederland het wettelijk asbestverbod van kracht werd in 1993;</al>
+            <al>constaterende dat de 30-jarige verjaringstermijn voor asbestslachtoffers in 2004 is afgeschaft als blootstelling aan asbest na 2004 heeft plaatsgevonden;</al>
+            <al>constaterende dat wanneer asbestslachtoffers de diagnose van een asbestziekte te horen krijgen, dat in de overgrote meerderheid van de gevallen gebeurt op een moment dat de laatste asbestblootstelling dateert van meer dan 30 jaar geleden en dat de vordering tot schadevergoeding daarmee al is verjaard voordat de schade zich heeft geopenbaard;</al>
+            <al>constaterende dat er sinds 1998 een Convenant Instituut Asbestslachtoffers is dat breed gedragen wordt door werkgevers, werknemers, verzekeraars, het Comité Asbestslachtoffers en de overheid, en dat aan het convenant in 2023 de bepaling is toegevoegd dat in asbestzaken geen beroep meer wordt gedaan op verjaring;</al>
+            <al>constaterende dat dit convenant niet bindend is voor individuele werkgevers die zich op verjaring kunnen blijven beroepen zolang de wet die mogelijkheid biedt, en dat in de Kamerbrief van 22 december 2022 de verjaring in asbestzaken is bestempeld als knelpunt dat kan leiden tot hardvochtige situaties;</al>
+            <al>overwegende dat het juridisch leed van asbestslachtoffers zo veel mogelijk moet worden voorkomen door in de wet op te nemen dat vorderingen van asbestslachtoffers niet kunnen verjaren zolang het asbestslachtoffer niet weet dat hij aan een asbestziekte lijdt;</al>
+            <al>spreekt uit dat de 30-jarige verjaringstermijn voor alle asbestslachtoffers moet vervallen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kisteman</al>
+              <al>Van Oostenbruggen</al>
+              <al>Patijn</al>
+              <al>Flach</al>
+              <al>Inge van Dijk</al>
+              <al>Van Kent</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

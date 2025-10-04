@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36450-41/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 450</dossiernr>
+      </dossiernummer>
+      <titel>Regels omtrent de instelling van het Adviescollege toetsing regeldruk (Instellingswet Adviescollege toetsing regeldruk) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">41</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voor wet- en regelgeving waarbij regeldrukeffecten voor het mkb worden verwacht, een mkb-toets wordt uitgevoerd;</al>
+            <al>overwegende dat de mkb-toets niet vraagt of de nieuwe wet- of regelgeving werkbaar is, terwijl ondernemers dit goed kunnen aangeven;</al>
+            <al>verzoekt de regering om samen met het Adviescollege toetsing regeldruk vragen op te stellen over de werkbaarheid van nieuwe wet- en regelgeving en deze vragen op te nemen in de mkb-toets,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Sneller</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

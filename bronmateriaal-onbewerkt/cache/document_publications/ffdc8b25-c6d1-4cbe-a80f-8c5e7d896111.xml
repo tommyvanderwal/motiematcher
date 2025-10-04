@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36560-23/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 560</dossiernr>
+      </dossiernummer>
+      <titel>Financieel jaarverslag van het Rijk 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">23</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN VAN HIJUM EN INGE VAN DIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 10</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende, dat burgers door een samenloop van verschillende betalingsregelingen van publieke en/of private schuldeisers onder het bestaansminimum terecht kunnen komen;</al>
+            <al/>
+            <al>overwegende, dat de Algemene Rekenkamer concludeert dat onder meer de Belastingdienst het bestaansminimum van burgers nog onvoldoende beschermt in situaties van meerdere schulden bij publieke en/of private partijen;</al>
+            <al/>
+            <al>verzoekt de regering om een rijksbrede en structurele oplossing in kaart te brengen voor burgers en kleine ondernemers met meerdere schulden en een beperkte betaalcapaciteit,</al>
+            <al/>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al/>
+            <al-groep>
+              <al>Van Hijum</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

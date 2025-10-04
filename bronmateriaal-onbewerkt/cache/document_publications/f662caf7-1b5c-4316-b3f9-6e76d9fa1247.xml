@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36602-122/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 602</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2025)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">122</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-12">12 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende de bedrijfsopvolgingsregeling een belangrijke rol speelt in het waarborgen van de continuïteit van familiebedrijven en het ondersteunen van een gezond ondernemersklimaat in Nederland;</al>
+            <al>constaterende dat bij de behandeling van het Belastingplan 2024 een amendement (<extref doc="kst-36421-11" soort="document" status="actief">36 421, nr. 11</extref>) is aangenomen waarvan de inwerkingtreding is opgeschort in afwachting van toetsing bij de Europese Commissie;</al>
+            <al>overwegende dat deze aangenomen en dus in beginsel te implementeren wetgeving enkele technische omissies bevat, waarmee het amendement een andere werking zou hebben dan door de indieners beoogd, bijvoorbeeld als het gaat om het al dan niet van toepassing zijn van de BOR op indirect gehouden werkmaatschappijen;</al>
+            <al>verzoekt de regering deze technische omissies in de wettekst van de Successiewet ten aanzien van de BOR zo spoedig mogelijk te repareren, en daarmee de wet in lijn te brengen met de oorspronkelijke bedoeling om de continuïteit van familiebedrijven te waarborgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Inge van Dijk</al>
+              <al>Stoffer</al>
+              <al>Van Eijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

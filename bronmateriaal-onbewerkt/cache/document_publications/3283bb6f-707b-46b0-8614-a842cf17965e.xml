@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-684/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">684</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er terecht veel aandacht is voor het micro- en kleinbedrijf;</al>
+            <al>overwegende dat daarnaast middenbedrijven een cruciale factor zijn in de samenwerking in ecosystemen, met kennisinstellingen en grote en kleine ondernemingen;</al>
+            <al>overwegende dat doorgroei van klein- naar middenbedrijf beperkt is;</al>
+            <al>overwegende dat in wet- en regelgeving regelmatig grenzen gerelateerd aan de bedrijfsomvang zijn opgenomen waaronder of waarboven een ander regime geldt en dat deze mogelijk een groeibelemmering kunnen worden;</al>
+            <al>verzoekt de regering om bij de aanpak van regeldruk de beoordeling van impact van wet- en regelgeving op het mkb en de positie van middenbedrijven mee te nemen;</al>
+            <al>verzoekt de regering een inventarisatie te maken van de verschillende grenzen gerelateerd aan bedrijfsomvang in EZ-beleid en wet- en regelgeving gericht op de versterking van de toekomstbestendigheid van het mkb en de Kamer hierover te informeren, en antwoord te geven op de vraag of deze verschillende grenzen nuttig zijn of dat de afkadering eenduidiger moet worden ten behoeve van vereenvoudiging voor ondernemers en het wegnemen van groeibelemmeringen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Inge van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

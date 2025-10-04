@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-751/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">751</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN WESTERVELD EN ROODERKERK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-02">2 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er brede overeenstemming is om praktijkonderwijs te zien als regulier voortgezet onderwijs, maar praktijkonderwijs toch vaak over het hoofd wordt gezien;</al>
+            <al>constaterende dat te vaak pas na invoering van nieuwe wet- en regelgeving blijkt dat dit negatief uitpakt voor het praktijkonderwijs, waardoor er weer uitzonderingsregels moeten komen;</al>
+            <al>overwegende dat het praktijkonderwijs hierdoor steeds een uitzonderingspositie krijgt, in plaats van een volwaardige plek;</al>
+            <al>verzoekt de regering om bij nieuwe onderwijswet- en -regelgeving een praktijkonderwijscheck uit te voeren, zodat vooraf duidelijk wordt hoe nieuwe regels uitpakken voor het praktijkonderwijs, om te voorkomen dat er steeds achteraf gerepareerd moet worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+      </dossiernummer>
+      <titel>Nota over de toestand van ’s Rijks Financiën</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-19">19 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet stoelt op een combinatie van politieke partijen waarbinnen jarenlang uitingen zijn gedaan die indruisen tegen het gelijkwaardigheidsbeginsel;</al>
+            <al>overwegende dat vertegenwoordigers van een politieke partij die de vrijheid van godsdienst wil inperken voor meer dan 1 miljoen Nederlandse moslims onderdeel uitmaken van de regering;</al>
+            <al>overwegende dat in de coalitie en in het kabinet vertegenwoordigers zitten die de meest verschrikkelijke uitingen hebben gedaan tegen onder andere vluchtelingen, Nederlanders met een migratieachtergrond, moslims en de rechterlijke macht;</al>
+            <al-groep>
+              <al>van mening dat niet genormaliseerd mag worden wat niet normaal is;</al>
+              <al>zegt het vertrouwen in het kabinet op,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-381/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">381</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-20">20 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland een Europese verplichting heeft voor de goede staat van instandhouding van meerdere soorten weide- en akkervogels en andere bodembroedende soorten;</al>
+            <al>overwegende dat Nederland substantiële oppervlaktes voor (agrarisch) natuurbeheer heeft aangewezen en daarvoor ook een substantiële bijdrage beschikbaar stelt;</al>
+            <al>overwegende dat vos, steenmarter en zwarte kraai het grootste deel van de predatie van weidevogels en andere bodembroedende soorten voor hun rekening nemen;</al>
+            <al>overwegende dat vos, zwarte kraai en steenmarter zich Europees wel in een goede staat van instandhouding bevinden;</al>
+            <al>overwegende dat ook andere soorten inheemse predatoren alsmede invasieve soorten als wasbeer en wasbeerhond grote impact kunnen hebben;</al>
+            <al>overwegende dat binnen Europa alleen in gebieden waar predatorenbeheer integraal onderdeel is van de beheersinspanningen voldoende jonge vogels vliegvlug worden om de populatie weidevogels en andere bodembroedende vogelsoorten niet verder terug te laten lopen;</al>
+            <al>roept de regering op de daarvoor geëigende methoden toe te staan om predatorenbeheer voor de te beheren soorten mogelijk te maken en de biotoopverbeterende maatregelen te blijven stimuleren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

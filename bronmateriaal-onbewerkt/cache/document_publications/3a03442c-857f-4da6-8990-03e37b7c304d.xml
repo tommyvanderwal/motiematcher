@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-30234-414"/>
+      <meta name="OVERHEIDop.ondernummer" content="414"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="30234"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Mohandis en Van Nispen over voorkomen dat er nog meer zwembaden sluiten"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Mohandis"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomstig sportbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.title" scheme="" content="Toekomstig sportbeleid; Motie; Motie van de leden Mohandis en Van Nispen over voorkomen dat er nog meer zwembaden sluiten"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Cultuur en recreatie | Sport"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>30 234</dossiernr>
+         </dossiernummer>
+         <titel>Toekomstig sportbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">414</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN MOHANDIS EN VAN NISPEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-03">3 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het zwembad Mosaqua in Gulpen-Wittem open kan blijven doordat er een nieuwe exploitant is gevonden, maar dat de gemeente alsnog voor een deel van de kosten opdraait;</al>
+                  <al>overwegende dat zowel het afstoten van een zwembad als een sluiting nadelig is voor een gemeente en haar inwoners;</al>
+                  <al>overwegende dat de aangenomen motie-Mohandis/Van Nispen (<extref doc="kst-36410-116" soort="document" status="actief">36 410, nr. 116</extref>) oproept om openbare zwembaden zo veel mogelijk in publieke handen te houden;</al>
+                  <al>overwegende dat we signalen ontvangen van zwembaden in nood, maar geen totaaloverzicht hebben van hoeveel zwembaden met sluiting worden bedreigd;</al>
+                  <al>verzoekt de regering gemeentes en provincies te ondersteunen om te voorkomen dat er nog meer zwembaden sluiten waardoor de bereikbaarheid en toegankelijkheid van zwembadwater onder druk komen te staan;</al>
+                  <al-groep>
+                     <al>verzoekt de regering te inventariseren hoeveel zwembaden op dit moment</al>
+                     <al>met sluiting worden bedreigd, en de Kamer hierover te informeren voor de zomer van 2026, maar het liefst eerder,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Mohandis</al>
+                     <al>Van Nispen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

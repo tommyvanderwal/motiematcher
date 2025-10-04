@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36321-13/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 321</dossiernr> (<rijkswetnr>R 2181</rijkswetnr>)</dossiernummer>
+      <titel>Goedkeuring van het op 18 november 2015 te Valletta tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Malta tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (<extref doc="trb-2015-196" soort="document" status="actief">Trb. 2015, 196</extref> en <extref doc="trb-2016-124" soort="document" status="actief">Trb. 2016, 124</extref>)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">13</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID IDSINGA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 11</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat op 18 november 2015 te Valletta een belastingverdrag tot stand is gekomen tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao en de Republiek Malta;</al>
+            <al>verzoekt de regering om de eerste periodieke OESO peer review na inwerkingtreding van dit verdrag naar de Kamer te sturen, voorzien van een toelichtende brief van de regering die in samenspraak met de regering van Curaçao is opgesteld;</al>
+            <al>verzoekt de regering om in deze toelichting expliciet aandacht te besteden aan de ontwikkeling van de economische banden tussen Curaçao en Malta landen als gevolg van dit belastingverdrag en tevens in te gaan op in welke economische sectoren deze ontwikkelingen hebben plaatsgevonden; dit alles in het licht van de gestelde motieven om dit verdrag te sluiten en de verwachtingen daaromtrent zoals opgetekend in de memorie van toelichting en nota’s;</al>
+            <al>verzoekt verder in deze toelichting te reflecteren op de vraag of het verdrag nog in lijn is met actuele internationale inzichten rondom belastingontwijking en -ontduiking en/of ongewenste neveneffecten zijn opgetreden.</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Idsinga</al>
+              <al>Van Eijk</al>
+              <al>White</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

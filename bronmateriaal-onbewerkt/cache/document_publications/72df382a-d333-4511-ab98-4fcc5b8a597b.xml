@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-1000/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1000</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat jeugdcriminaliteit een veelzijdig probleem is dat om vernieuwende en effectieve preventiestrategieën vraagt;</al>
+            <al>overwegende dat ervaringsdeskundigen waardevolle inzichten en praktijkkennis bezitten die kunnen bijdragen aan het voorkomen van jeugdcriminaliteit;</al>
+            <al>verzoekt de regering om de kennis over en goede ervaringen met de inzet van ervaringsdeskundigheid breder onder gemeenten te delen en binnen de lerende aanpak samen met de wetenschap hieraan specifieke aandacht te besteden en hierover te rapporteren;</al>
+            <al>verzoekt de regering om te onderzoeken hoe ervaringsdeskundigheid effectief kan worden ingezet bij de preventie van jeugdcriminaliteit, en de Kamer te informeren over de bevindingen en mogelijke implementatie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Lahlah</al>
+              <al>Van der Werf</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

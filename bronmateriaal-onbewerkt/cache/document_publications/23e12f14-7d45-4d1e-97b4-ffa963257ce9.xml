@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24557-262/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 557</dossiernr>
+      </dossiernummer>
+      <titel>Kansspelen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">262</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOOPS EN TSEGGAI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het vrijgeven van de online gokmarkt, in combinatie met het vrijgeven van de reclamemogelijkheden daarvoor, geleid heeft tot misstanden;</al>
+            <al>overwegende dat de Kansspelautoriteit beschikt over onvoldoende handhavingsinstrumenten ter zake het illegale online kansspelaanbod én ter zake illegale reclames voor zowel het legale als illegale online kansspelaanbod;</al>
+            <al>overwegende dat het bestrijden en onderdrukken van reclame voor illegale kansspelen de hoogste prioriteit heeft en dat overheidsbrede samenwerking met dat expliciete doel tot op heden ontbreekt;</al>
+            <al>verzoekt de regering het ertoe te leiden dat de Kansspelautoriteit op de kortst mogelijke termijn maximale samenwerking creëert met andere toezichthouders, zoals de opsporingsinstanties, de Belastingdienst en De Nederlandsche Bank;</al>
+            <al>verzoekt de regering daartoe de mogelijkheden tot informatieuitwisseling en informatiedeling tussen die toezichthouders te maximaliseren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Koops</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

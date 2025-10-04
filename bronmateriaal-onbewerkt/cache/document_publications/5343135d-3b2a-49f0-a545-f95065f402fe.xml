@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33037-616"/>
+      <meta name="OVERHEIDop.ondernummer" content="616"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33037"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van der Plas over de rekenkundige ondergrens van 1 mol zo snel mogelijk invoeren"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="C.A.M. van der Plas"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Mestbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Mestbeleid; Motie; Motie van het lid Van der Plas over de rekenkundige ondergrens van 1 mol zo snel mogelijk invoeren"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Landbouw | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 037</dossiernr>
+         </dossiernummer>
+         <titel>Mestbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">616</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het afromen van dier- en fosfaatrechten veel ondernemers raakt die ook door de stikstofproblematiek in problemen zijn gekomen;</al>
+                  <al>constaterende dat deze ondernemers kunnen worden geholpen als nieuwe wetenschappelijke kennis zo snel mogelijk wordt toegepast;</al>
+                  <al>constaterende dat het expertoordeel voor invoering van de rekenkundige ondergrens wetenschappelijk robuust en goed onderbouwd is;</al>
+                  <al>constaterende dat met een pakket aan reductiemaatregelen, waaronder vrijwillige uitkoopregelingen, doelsturing en bedrijfsspecifieke emissiereductie het kabinet de stikstofuitstoot gaat terugdringen;</al>
+                  <al>constaterende dat ondanks alle maatregelen die ofwel in uitvoering zijn, ofwel in uitvoering komen, Nederland nog steeds op slot zit;</al>
+                  <al>constaterende dat partijen van links tot rechts de woningbouw willen lostrekken, steden en regio's bereikbaar willen maken of houden, goed willen zorgen voor de natuur en onze nationale veiligheid willen beschermen;</al>
+                  <al>constaterende dat het stikstofslot PAS-melders, woningbouw, Defensie, infrastructuur en agrarisch natuurbeheer op slot zet;</al>
+                  <al>overwegende dat PAS-melders, woningbouw, Defensie, aanleg en onderhoud van wegen en spoor, en natuurherstel geen vertraging kunnen hebben;</al>
+                  <al>verzoekt de regering de rekenkundige ondergrens van 1 mol zo snel mogelijk in te voeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van der Plas</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

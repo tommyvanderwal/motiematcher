@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31288-1178/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 288</dossiernr>
+      </dossiernummer>
+      <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1178</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN MARTENS-AMERICA</titel>
+      <datumtekst>Voorgesteld  <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog geen duidelijk beeld bestaat van de Europese samenwerking tussen landen en instellingen om kennisveiligheid te waarborgen, met name ten opzichte van onvrije landen;</al>
+            <al>constaterende dat Nederland al jaren toewerkt naar een screeningswet die moet voldoen aan een veiligheidsbehoefte, zoals die ook in veel bevriende landen bestaat;</al>
+            <al>overwegende dat er een gezamenlijk Europees belang is om universiteiten en onderzoeksinstellingen te wapenen tegen zowel cyberaanvallen als tegen weglek van kennis;</al>
+            <al-groep>
+              <al>verzoekt de regering kennisveiligheid te gaan agenderen voor de Raad Concurrentievermogen;</al>
+              <al>verzoekt de regering voorts te streven naar een kennisveiligheidsplatform met belangrijke onderzoekspartners als België, Frankrijk, Duitsland, Denemarken en het Verenigd Koninkrijk, en hiertoe eind dit jaar een conferentie te organiseren,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Martens-America</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

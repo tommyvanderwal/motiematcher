@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35746-35/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 746</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Wet dieren in verband met actualisering van de diergezondheidsregels en enkele technische aanpassingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">35</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID FLACH C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 23</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-19">19 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering voornemens is het individueel huisvesten van kalfjes vanaf zeven dagen na de geboorte te verbieden;</al>
+            <al>overwegende dat wetenschappelijk onderzoek laat zien dat het weerstandsniveau van kalfjes rond de leeftijd van zeven dagen op een minimumniveau zit;</al>
+            <al>overwegende dat zeker in de eerste twee weken na de geboorte de gezondheid van kalfjes kwetsbaar is en individuele aandacht nodig is;</al>
+            <al>verzoekt de regering ruimte te geven aan dierhouders om met het oog op de diergezondheid kalfjes tenminste tot twee weken na de geboorte individueel te huisvesten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

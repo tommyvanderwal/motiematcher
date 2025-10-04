@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31305-442/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 305</dossiernr>
+      </dossiernummer>
+      <titel>Mobiliteitsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">442</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HOUWELINGEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering de wetgeving voor zero-emissiezones na 2030 wellicht wil uitbreiden om ook fossiele personenauto's te kunnen verbieden in de desbetreffende zones;</al>
+            <al>overwegende dat een nieuwe auto met brandstofmotor doorgaans zo'n vijftien tot twintig jaar meegaat;</al>
+            <al>overwegende dat het belangrijk is zekerheid te bieden aan consumenten die nu overwegen een personenauto met een brandstofmotor te kopen, zodat ze hun nieuwe auto in ieder geval gedurende de economische levensduur kunnen blijven gebruiken en in de toekomst niet geweerd zullen worden uit zero-emissiezones;</al>
+            <al>spreekt uit dat het in ieder geval onwenselijk is om de brandstofauto's vóór 2040 op te nemen in de regels omtrent zero-emissiezones,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Houwelingen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

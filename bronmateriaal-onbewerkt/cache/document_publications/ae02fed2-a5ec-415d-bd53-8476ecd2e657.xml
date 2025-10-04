@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36180-124/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 180</dossiernr>
+      </dossiernummer>
+      <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">124</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KAMMINGA EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-14">14 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er nog steeds grote zorgen zijn over het onafhankelijk functioneren van UNRWA door de verwevenheid met Hamas, waarbij uit onderzoek is gebleken dat ten minste zeven UNRWA-medewerkers mogelijk betrokken zijn geweest bij de aanslagen van 7 oktober 2023;</al>
+            <al>constaterende dat er door een onafhankelijk onderzoek structurele problemen zijn geconstateerd binnen UNRWA en een vijftigtal aanbevelingen zijn gedaan om dit verder tegen te gaan;</al>
+            <al>overwegende dat het niet alleen kwetsbaar is maar ook onwenselijk dat de humanitaire hulpverlening in Gaza en de ondersteuning van Palestijnen zo afhankelijk zijn van één enkele organisatie en diversificatie essentieel is;</al>
+            <al>overwegende dat, gelet op de schrijnende humanitaire situatie in Gaza maar ook in Libanon, een zorgvuldige transitie nodig is om de continuïteit van humanitaire hulp te waarborgen;</al>
+            <al>verzoekt de regering om in internationaal verband volop in te zetten op verdere diversificatie van de hulpverlening aan de Palestijnen en daarmee de afhankelijkheid van UNRWA in de regio te verminderen, en verzoekt de regering voorts de Nederlandse financiële steun aan UNRWA gedurende deze mandaatperiode te verminderen en de vrijgekomen middelen in te zetten, bij voorkeur via het UNOCHA-clustersysteem, om zo de humanitaire hulp in de regio te kunnen waarborgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kamminga</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

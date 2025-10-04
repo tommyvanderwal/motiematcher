@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29689-1302"/>
+      <meta name="OVERHEIDop.ondernummer" content="1302"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-19"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29689"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Paulusma en Bushoff over het gordelroosvaccin opnemen in een structureel vaccinatieprogramma"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.J. Bushoff"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W. Paulusma"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Herziening Zorgstelsel"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.title" scheme="" content="Herziening Zorgstelsel; Motie; Motie van de leden Paulusma en Bushoff over het gordelroosvaccin opnemen in een structureel vaccinatieprogramma"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 689</dossiernr>
+         </dossiernummer>
+         <titel>Herziening Zorgstelsel</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1302</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN PAULUSMA EN BUSHOFF</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-18">18 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>constaterende dat:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>gordelroos een ernstige, pijnlijke aandoening is die vooral ouderen en mensen met een verminderde afweer treft, maar waarvoor een effectief vaccin beschikbaar is;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>dit vaccin momenteel niet standaard wordt vergoed of opgenomen is in het Rijksvaccinatieprogramma;</al>
+                        </li>
+                     </lijst>
+                     <al>overwegende dat opname in een structureel vaccinatieprogramma de volksgezondheid bevordert en toekomstige zorgkosten kan beperken;</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>verzoekt de regering om:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>het vaccin op te nemen in een structureel vaccinatieprogramma, bijvoorbeeld via het Rijksvaccinatieprogramma of een aanvullend publiek vaccinatieprogramma, en dit door te zetten ongeacht sluiting van het AZWA;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>daarbij gebruik te maken van de beschikbare middelen binnen het AZWA voor dekking van de kosten,</al>
+                        </li>
+                     </lijst>
+                     <al>en gaat over tot de orde van de dag.</al>
+                  </al-groep>
+                  <al-groep>
+                     <al>Paulusma</al>
+                     <al>Bushoff</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

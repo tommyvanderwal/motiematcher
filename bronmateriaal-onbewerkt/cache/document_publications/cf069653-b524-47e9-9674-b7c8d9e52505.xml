@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31239-409/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 239</dossiernr>
+      </dossiernummer>
+      <titel>Stimulering duurzame energieproductie </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">409</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID GRINWIS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-06">6 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er momenteel Europese normen bestaan voor het gebruik van hernieuwbare waterstof in de industrie, maar dat er geen normen zijn die verderop in de keten het gebruik hiervan verplichten;</al>
+            <al-groep>
+              <al>constaterende dat bedrijven die verplicht zijn hernieuwbare waterstof te gebruiken moeite hebben om de meerkosten hiervan door te berekenen, wat</al>
+              <al>kan leiden tot een concurrentieel nadeel;</al>
+            </al-groep>
+            <al>overwegende dat het stellen van eisen aan het gebruik van hernieuwbare waterstof in eindproducten, zoals staal in auto's, bedrijven van halffabricaten de mogelijkheid biedt om de extra kosten door te berekenen en zo stimuleert om meer hernieuwbare waterstof te gebruiken;</al>
+            <al>overwegende dat het stimuleren van het gebruik van schone halffabricaten bijdraagt aan de Nederlandse en Europese autonomie en toekomstbestendigheid van haar industrie;</al>
+            <al>verzoekt de regering om in Europees verband en in de verdere uitwerking van de Clean Industrial Deal te pleiten voor stimulering van de vraagkant, onder meer met normen die het gebruik van hernieuwbare waterstof verderop in de keten bevorderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Bontenbal</al>
+              <al>Kröger</al>
+              <al>Rooderkerk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

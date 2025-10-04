@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29984-1193/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 984</dossiernr>
+      </dossiernummer>
+      <titel>Spoor: vervoer- en beheerplan</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1193</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OLGER VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de laatste maanden de verstoringen en uitval van treinen sterk toenemen en dat de jaarcijfers van de NS over 2023 een neerwaartse spiraal laten zien en actuele cijfers geen optimistisch beeld geven;</al>
+            <al>constaterende dat de bodemwaarden voor de hsl bij lange na niet gehaald worden en de prestaties qua punctualiteit en zitplaatsgarantie bij de NS sterk verslechteren;</al>
+            <al>overwegende dat de aan NS en ProRail verleende concessies mogelijkheden bieden om meer grip uit te oefenen bij achterblijvende prestaties door hen op te dragen programma's op te stellen en uit te voeren;</al>
+            <al>overwegende dat er geen eenduidig beeld is van de oorzaken van de hierboven geconstateerde trends;</al>
+            <al>verzoekt de regering NS en ProRail onder verscherpt toezicht te stellen door een programma onder de concessie op te leggen waarin zij gericht op zoek moeten gaan naar de oorzaken van de problemen en met een verbeteraanpak moeten komen en voor het zomerreces een eerste plan van aanpak op te leveren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Olger van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

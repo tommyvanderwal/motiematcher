@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-22112-4128"/>
+      <meta name="OVERHEIDop.ondernummer" content="4128"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="22112"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Piri over de refoulementbeoordeling niet schrappen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="K.P. Piri"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Motie; Motie van het lid Piri over de refoulementbeoordeling niet schrappen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>22 112</dossiernr>
+         </dossiernummer>
+         <titel>Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">4128</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID PIRI</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Nederlandse inzet bij de nieuwe Terugkeerverordening is om de refoulementbeoordeling uit de terugkeerprocedure te schrappen;</al>
+                  <al>constaterende dat in de asielprocedure in principe alleen een refoulementbeoordeling plaatsvindt ten aanzien van het land van herkomst;</al>
+                  <al>constaterende dat als in het terugkeerbesluit een ander «land van eerder verblijf» of een «returnhub» wordt opgenomen, er wat betreft die landen dus geen refoulementbeoordeling zal plaatsvinden;</al>
+                  <al>overwegende dat dit kan leiden tot mensenrechtenschendingen, omdat sommige landen wel veilig zijn, maar niet voor iedereen, bijvoorbeeld vanwege seksuele geaardheid of geloofsovertuiging;</al>
+                  <al>verzoekt de regering om dit standpunt te heroverwegen en de refoulementbeoordeling niet uit de terugkeerprocedure te schrappen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Piri</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

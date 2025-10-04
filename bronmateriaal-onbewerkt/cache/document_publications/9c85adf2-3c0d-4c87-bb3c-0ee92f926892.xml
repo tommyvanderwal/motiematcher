@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3188/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3188</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELDKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat momenteel naar aanleiding van de resultaten van een recente factfindingmissie de toetreding van Bulgarije tot Schengen wordt bezien;</al>
+            <al>overwegende dat één EU-lidstaat (Oostenrijk) momenteel een gefaseerde toetreding van Bulgarije bepleit (Air Schengen) waarbij nog niet direct toepassing op de landgrenzen plaatsvindt;</al>
+            <al>verzoekt het kabinet om een eventueel onderhandelingsresultaat te kunnen steunen, waaruit blijkt dat Bulgarije gefaseerd toetreedt tot de Schengenzone, bijvoorbeeld door middel van een Raadsbesluit waarbij eerst alleen de luchtgrenzen worden geopend, waarna onder leiding van de Commissie een aanvullende evaluatie wordt uitgevoerd en aan de Raad wordt gecommuniceerd, voordat openen van landsgrenzen plaatsvindt, en dit binnen de EU (Oostenrijk, Commissie, EU-voorzitterschap) kenbaar te maken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Veldkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

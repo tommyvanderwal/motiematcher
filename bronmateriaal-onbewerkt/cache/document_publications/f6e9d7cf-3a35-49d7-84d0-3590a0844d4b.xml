@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1364/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1364</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN HOLMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er in toenemende mate aandacht is voor ontwikkelingen in de dierenzorg, waaronder voor een gebrek aan transparantie over de vaststelling van tarieven;</al>
+            <al>overwegende dat er frustraties ontstaan over de hoogte van tarieven of de invulling van diergeneeskundige handelingen, terwijl klanten tegelijkertijd steeds meer van de dierenzorg verwachten en de werkdruk onder dierenartsen is toegenomen;</al>
+            <al>overwegende dat het daarom in het belang van zowel dierenartsen als diereneigenaren is dat de beroepsgroep tot eenduidige en heldere afspraken over dierenwelzijn, kwaliteit en tarieven komt;</al>
+            <al>overwegende dat de beroepsgroep van dierenartsen momenteel geen instrumenten heeft voor zelfregulering en bovendien een groeiend coördinatieprobleem heeft;</al>
+            <al>verzoekt de regering om met de beroepsgroep te komen tot een stelsel waarmee de dierenartsenbranche komt te beschikken over een instrumentarium voor zelfregulering op het gebied van dierenwelzijnscriteria, kwaliteitsborging en tarievenopbouw,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Holman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

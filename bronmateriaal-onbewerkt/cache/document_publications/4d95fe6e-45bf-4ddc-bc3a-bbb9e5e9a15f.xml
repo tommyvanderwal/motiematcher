@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXIII-40/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">40</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit het rapport Het Windmolendrama van onderzoeksjournalist Elze van Hamelen blijkt dat windturbines mogelijk gezondheidsklachten, geluidsoverlast en ecologische schade veroorzaken;</al>
+            <al>overwegende dat er geen uitgebreid veldonderzoek is verricht naar gezondheidsklachten door laagfrequent geluid van windturbines en dat de huidige geluidsnorm mogelijk onvoldoende bescherming biedt;</al>
+            <al>overwegende dat windturbines negatieve ecologische effecten kunnen hebben, waaronder schade aan vogel- en insectenpopulaties, die nog onvoldoende zijn onderzocht;</al>
+            <al>overwegende dat er zorgen zijn over de onafhankelijkheid van adviesbureaus betrokken bij milieueffectrapportages en dat onafhankelijke wetenschappers noodzakelijk zijn voor objectieve beoordeling van gezondheids- en milieueffecten;</al>
+            <al>verzoekt de regering een moratorium in te stellen op de verdere uitrol van windturbines op land met een tiphoogte van meer dan 50 meter, totdat onafhankelijk onderzoek de gezondheids- en milieueffecten voldoende heeft vastgesteld;</al>
+            <al>verzoekt de regering een diepgaand veldonderzoek te doen naar laagfrequent geluid en de ecologische impact, en de betrokkenheid van onafhankelijke wetenschappers zonder belangen in de windindustrie te vergroten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Vermeer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

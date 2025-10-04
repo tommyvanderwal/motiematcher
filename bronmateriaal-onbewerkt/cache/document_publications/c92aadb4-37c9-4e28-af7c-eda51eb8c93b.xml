@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-877/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">877</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit onderzoek van Patiëntenfederatie Nederland blijkt dat 18% van de patiënten ervaart onnodig medicatie te krijgen en 20% van de patiënten ervaart te veel medicatie te krijgen en dat het gesprek hierover beter moet;</al>
+            <al>van mening dat zorgverleners vanwege hun nauwe verbondenheid een belangrijke rol vervullen in het tegengaan van verspilling;</al>
+            <al>verzoekt de regering om aanvullend op de bestaande aanpak van geneesmiddelenverspilling samen met apothekers, huisartsen en patiënten te komen tot een voorstel voor een jaarlijkse medicatie-evaluatie ter stimulering van de therapietrouw;</al>
+            <al>verzoekt de regering tevens om samen met voorschrijvers, wijkverpleegkundigen en patiëntenverenigingen te komen tot afspraken over hoe «samen beslissen over medicatie» meer ruimte krijgt in de spreekkamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Tielen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

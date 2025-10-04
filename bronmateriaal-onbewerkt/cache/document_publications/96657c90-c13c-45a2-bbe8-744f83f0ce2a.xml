@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36592-49"/>
+      <meta name="OVERHEIDop.ondernummer" content="49"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36592"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van de leden Wijen-Nass en Diederik van Dijk over inventariseren hoe investeringen in infrastructuur kunnen worden toegerekend aan de aanvullende 1,5% voor nationale weerbaarheid binnen de NAVO-systematiek (t.v.v. 36592-41)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.J.M.H. Wijen-Nass"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Defensienota 2024 - Sterk, slim en samen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Defensienota 2024 - Sterk, slim en samen; Motie (gewijzigd/nader); Gewijzigde motie van de leden Wijen-Nass en Diederik van Dijk over inventariseren hoe investeringen in infrastructuur kunnen worden toegerekend aan de aanvullende 1,5% voor nationale weerbaarheid binnen de NAVO-systematiek (t.v.v. 36592-41)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Defensie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 592</dossiernr>
+         </dossiernummer>
+         <titel>Defensienota 2024 – Sterk, slim en samen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">49</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN DE LEDEN WIJEN-NASS EN DIEDERIK VAN DIJK TER VERVANGING VAN DIE GEDRUKT ONDER NR. 41</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Nederland heeft uitgesproken de krijgsmacht realistisch, planmatig en stapsgewijs te willen versterken, onder andere door de NAVO-norm te gebruiken;</al>
+                  <al>constaterende dat tussen verschillende landen verschillend geteld wordt om hun bestedingen aan NAVO te kwantificeren;</al>
+                  <al>constaterende dat Nederland investeringen wil doen in infrastructuur op het gebied van spoorlijnen, (water)wegen, (lucht)havens et cetera die ook door Defensie zijn te gebruiken om in geval van dreiging of oorlog sneller inzetbaar te zijn;</al>
+                  <al>verzoekt de regering om te inventariseren of en hoe dergelijke investeringen kunnen worden toegerekend aan de aanvullende 1,5% voor nationale weerbaarheid binnen de NAVO-systematiek en infrastructuurprojecten binnen Nederland aan te merken die hier onderdeel van zouden kunnen uitmaken</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Wijen-Nass</al>
+                     <al>Diederik van Dijk</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

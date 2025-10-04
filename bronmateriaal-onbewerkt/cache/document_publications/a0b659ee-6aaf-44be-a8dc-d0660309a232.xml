@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3052/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3052</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KAHRAMAN EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-13">13 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat president Trump, voor gesproken te hebben met president Zelensky, contact heeft gehad met Vladimir Poetin over een bestand van de agressieoorlog van Rusland tegen Oekraïne;</al>
+            <al>overwegende dat de Amerikaanse Minister van defensie, Pete Hegseth, heeft uitgesproken dat Oekraïne het door Rusland bezette grondgebied en zijn wens om lid te worden van de NAVO moet opgeven;</al>
+            <al>overwegende dat dit zorgt voor een nieuwe realiteit waarbij nu meer dan ooit Oekraïne onverminderd gesteund moet worden;</al>
+            <al>spreekt uit dat bij onderhandelingen niet gesproken mag worden over Oekraïne zonder Oekraïne, en niet over Europa zonder Europa;</al>
+            <al>spreekt uit dat het kabinet moet inzetten op een actieve Nederlandse rol bij mogelijke aankomende onderhandelingen en de naoorlogse regelingen;</al>
+            <al>verzoekt het kabinet op korte termijn, zoals bij de München Security Conference, proactief gesprekken aan te gaan met zowel Oekraïne, Verenigde Staten en andere (Europese) bondgenoten over de naoorlogse soevereiniteit en veiligheid van Oekraïne;</al>
+            <al>verzoekt het kabinet Oekraïne zowel militair als niet-militair onverminderd te blijven steunen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kahraman</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

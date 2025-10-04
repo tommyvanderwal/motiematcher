@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34682-219/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 682</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Omgevingsvisie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">219</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MEULENKAMP EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat langdurige bezwaar- en beroepsprocedures leiden tot forse vertraging van woningbouwprojecten;</al>
+            <al>overwegende dat de bouw van woningen aanzienlijk sneller moet plaatsvinden om de woningnood te bestrijden;</al>
+            <al>overwegende dat binnen het programma STOER voorstellen worden gedaan om het bestuursrecht bij bouwzaken aan te passen, maar zaken ten aanzien van omgevingsplannen alleen te laten behandelen door de Raad van State;</al>
+            <al>constaterende dat de motie van de leden Grinwis en Meulenkamp over het Duitse model (<extref doc="kst-36600-XXII-50" soort="document" status="actief">36 600-XXII, nr. 50</extref>) met een ruime meerderheid is aangenomen;</al>
+            <al>constaterende dat de regering een onderzoek doet naar het Duitse verlofstelsel voor woningbouwprojecten waarbij sprake is van een vorm van voortoetsing, waardoor enkel zaken waarbij sprake is van fundamentele rechtsvragen van algemeen belang of waarbij wordt afgeweken van eerdere rechterlijke uitspraken, toegelaten worden voor beroep bij de Raad van State;</al>
+            <al>verzoekt de regering om als de uitkomsten van het onderzoek naar het Duitse verlofstelsel positief zijn, een scenario uit te werken voor de behandeling van het programma STOER, zodat we de juridische procedures omtrent woningbouw aanzienlijk kunnen versnellen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Meulenkamp</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

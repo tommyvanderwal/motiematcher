@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-410/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">410</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN MEULENKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet werkt aan een brede beëindigingsregeling voor agrarische ondernemingen;</al>
+            <al>overwegende dat hierbij ook aandacht moet zijn voor doorstart van een onderneming op locatie, na omschakeling naar andere functie, maar dat belemmerende wet- en regelgeving dit vaak in de weg zit;</al>
+            <al>overwegende dat met bijvoorbeeld de zogenaamde «Rood-voor-Roodregeling» verouderde agrarische bebouwing kan worden gesloopt en de sloopmeters in worden gezet voor de bouw van een nieuwe woning;</al>
+            <al>verzoekt de regering in overleg met en met respect voor de bevoegdheden van decentrale overheden belemmeringen weg te nemen;</al>
+            <al>verzoekt de regering daarbij specifiek om regelingen zoals «Rood voor Rood» als voorbeeld te gebruiken;</al>
+            <al>verzoekt de regering de Kamer hierover voor het derde kwartaal, Q3, te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Meulenkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

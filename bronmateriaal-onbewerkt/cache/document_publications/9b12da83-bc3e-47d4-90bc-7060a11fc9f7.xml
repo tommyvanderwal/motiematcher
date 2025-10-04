@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27879-100/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 879</dossiernr>
+      </dossiernummer>
+      <titel>Versterking van de positie van de consument</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">100</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ZEEDIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat een sterk en onafhankelijk maatschappelijk middenveld van cruciaal belang is voor een gezonde en goed functionerende samenleving en een sterke culturele en sportinfrastructuur;</al>
+            <al>constaterende dat de regering voornemens is om uitvoering te geven aan de consumentenagenda door een aantal generieke maatregelen op het vlak van telemarketing en colportage in te voeren;</al>
+            <al>overwegende dat een aantal van deze maatregelen een negatief effect heeft op ideële of charitatieve instellingen;</al>
+            <al>verzoekt de regering in het kader van de consumentenagenda ideële of charitatieve instellingen, kerken, uitgevers van kranten, weekbladen en tijdschriften alsmede loterijen die afdragen aan goede doelen, cultuur, welzijn of sport uit te zonderen van overige aanvullende maatregelen die in de consumentenagenda zijn geformuleerd en een negatief effect hebben op hun fondsenwerving dan wel verkoop,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Zeedijk</al>
+              <al>Thijssen</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

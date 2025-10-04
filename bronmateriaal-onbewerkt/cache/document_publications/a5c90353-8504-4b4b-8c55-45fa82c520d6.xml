@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27925-975/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 925</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding internationaal terrorisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">975</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATEROTTE EN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat middels de motie-Belhaj c.s. uit 2021 de Kamer het kabinet heeft verzocht om onder andere mensen een vluchtoord in Nederland te bieden die langdurig Nederlandse militairen en diplomaten in Afghanistan hebben beveiligd;</al>
+            <al>constaterende dat het kabinet dit jaar duidelijk heeft gemaakt dat het dit middels een aanvullende regeling gaat faciliteren en dat ambassadebeveiligers en Afghan Security Guards, die Nederlandse militairen en diplomaten hebben beveiligd, naar Nederland mogen komen;</al>
+            <al>overwegende dat de Nederlandse regering op basis van een langdurig traject een concrete verwachting heeft gecreëerd bij voormalige bewakers van onze ambassade en ISAF-missie die zich bedreigd voelen, en dat er sinds 28 juni 168 verzoeken zijn gedaan om van die regeling gebruik te maken;</al>
+            <al-groep>
+              <al>overwegende dat onze enige partner in de Task Force Uruzgan, Australië, op basis van uitvoerig onderzoek concludeert dat Afghan Security Guards door hun werk voor de TFU bedreigd worden, en dat Australië daarom de</al>
+              <al>overkomst van alle bewakers heeft gefaciliteerd;</al>
+              <al>betreurt het beleid van het kabinet, gericht op het niet eerbiedigen van de gewekte verwachtingen bij bewakers die met gevaar voor eigen leven Nederlanders hebben beveiligd, en dat hun alsnog geen weg naar vrijheid en veiligheid biedt,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

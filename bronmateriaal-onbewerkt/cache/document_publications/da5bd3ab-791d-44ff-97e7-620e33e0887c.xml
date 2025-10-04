@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1297/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1297</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PETER DE GROOT </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>overwegende dat veel mensen geen betaalbare woning kunnen vinden;</al>
+              <al>overwegende dat de komende jaren 981.000 woningen moeten worden gebouwd;</al>
+            </al-groep>
+            <al>constaterende dat er ook na 2030 nieuwe grootschalige woonwijken moeten worden gebouwd;</al>
+            <al>constaterende dat de aanleg van grootschalige woningbouwlocaties de woningnood terugdringt en dat het bouwen op grote schaal goedkoper is;</al>
+            <al>verzoekt de regering nieuwe grootschalige woningbouwlocaties te onderzoeken, waaronder in Zeeland, Limburg en in de Noordelijke provincies, en deze aan te wijzen;</al>
+            <al>verzoekt de regering in ieder geval Amsterdam-Noord boven de A10, Amersfoort-Noord, Nijkerk-Zuid, Arnhem-Zuid, Zwolle Vechtpoort en de doorontwikkeling van Oosterwold in Flevoland in overweging te nemen als nieuwe grootstedelijke woningbouwlocaties,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Peter de Groot</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

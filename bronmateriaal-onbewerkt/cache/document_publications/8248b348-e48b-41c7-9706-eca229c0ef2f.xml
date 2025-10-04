@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-1994/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1994</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIRI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-12">12 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het van essentieel belang is dat het conflict niet overslaat naar de Westelijke Jordaanoever en Oost-Jeruzalem;</al>
+            <al>constaterende dat de Israëlische Minister van Nationale Veiligheid Ben-Gvir en de Minister van Financiën Smotrich zich al jaren schuldig maken aan provocaties, racisme, terreur en oproepen tot geweld tegen Palestijnen;</al>
+            <al>constaterende dat Ben-Gvir, verantwoordelijk voor de grenspolitie in de bezette gebieden, sinds 7 oktober duizenden automatische vuurwapens heeft uitgedeeld aan kolonisten, pleit voor immuniteit voor militairen die op Palestijnen schieten, en onlangs een wet heeft voorgesteld om de doodstraf te introduceren voor Palestijnen;</al>
+            <al>constaterende dat Smotrich openlijk pleit voor de annexatie van de Palestijnse gebieden, alle Palestijnen bestempelt als nazi's, extra geld heeft vrijgemaakt voor nog meer illegale nederzettingen en de overdracht van belastinggelden aan de Palestijnse Autoriteit heeft stopgezet;</al>
+            <al>verzoekt de regering om te pleiten voor het sanctioneren van Ministers Ben-Gvir en Smotrich door hen op de EU-sanctielijst te zetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Christine Teunissen</al>
+              <al>Koekkoek</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

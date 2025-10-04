@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29628-1261"/>
+      <meta name="OVERHEIDop.ondernummer" content="1261"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29628"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Diederik van Dijk en Eerdmans over zich onthouden van het in ambtelijke hoedanigheid organiseren of faciliteren van bijeenkomsten zoals iftars"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="B.J. Eerdmans"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.J.H. (Diederik) van Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Politie"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-28"/>
+      <meta name="DC.title" scheme="" content="Politie; Motie; Motie van de leden Diederik van Dijk en Eerdmans over zich onthouden van het in ambtelijke hoedanigheid organiseren of faciliteren van bijeenkomsten zoals iftars"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Politie, brandweer en hulpdiensten"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 628</dossiernr>
+         </dossiernummer>
+         <titel>Politie</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1261</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN EERDMANS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-28">28 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Gedragscode lifestyle-neutraliteit van de politie voorschrijft dat de politie zich zichtbaar neutraal opstelt;</al>
+                  <al>overwegende dat er door sommige politie-eenheden iftars worden georganiseerd of gefaciliteerd in het kader van «verbinding met de wijk» of «diversiteit», hoewel deze bijeenkomsten in de kern religieus van aard zijn;</al>
+                  <al>overwegende dat het organiseren van dergelijke bijeenkomsten schuurt met het principe van lifestyleneutraliteit, wat afbreuk kan doen aan het vertrouwen in de onpartijdigheid van de politie;</al>
+                  <al>verzoekt de regering erop toe te zien dat de politie zich in lijn met haar eigen gedragscode onthoudt van het organiseren of actief faciliteren van bijeenkomsten zoals iftars, wanneer dit gebeurt in ambtelijke hoedanigheid of onder verantwoordelijkheid van het korps,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Diederik van Dijk</al>
+                     <al>Eerdmans</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

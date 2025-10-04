@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-338/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">338</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Nederlandse landbouw voor ingrijpende hervormingen staat die een grote impact zullen hebben;</al>
+            <al>overwegende dat burgers en boeren erop moeten kunnen vertrouwen dat ze eerlijk worden geïnformeerd door de Minister die voor deze ingrijpende hervormingen verantwoordelijk is en dat die Minister boeren niet opnieuw valse hoop geeft;</al>
+            <al>constaterende dat Minister Wiersma beloftes aan boeren heeft gedaan waarvan zij wist dat ze die niet kon waarmaken;</al>
+            <al>constaterende dat Minister Wiersma heeft gezegd «persoonlijke taboes» te hebben en heeft aangekondigd op te stappen als er moeilijke beslissingen genomen moeten worden;</al>
+            <al>spreekt uit dat het van cruciaal belang is dat de Minister van Landbouw met een open blik kijkt naar maatregelen die nodig zijn en bereid is deze te verdedigen, ook als deze tegen haar persoonlijke voorkeuren indruisen;</al>
+            <al>zegt het vertrouwen in Minister Wiersma op,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-128/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">128</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SARIS C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het actieplan Nederland Beweegt! veelbelovende eerste resultaten oplevert en in 2025 afloopt, en de voortzetting van dit programma nog niet is gewaarborgd;</al>
+            <al>constaterende dat er vanuit het Sportakkoord II regionale krachtige structuren/platformen zijn ontstaan, waaruit zowel sport als bewegen regionaal worden gestimuleerd in samenwerking met stakeholders in verschillende sectoren;</al>
+            <al>constaterende dat in 2025 een evaluatie plaatsvindt van het Sportakkoord II;</al>
+            <al>constaterende dat een meer regionaal gerichte aanpak, zoals Achterhoek in Beweging en Zeeland aantonen dat samenwerking tussen aanbieders en gemeenten kan leiden tot meer impact zonder direct afhankelijk te zijn van extra financiële middelen;</al>
+            <al>constaterende dat slimmer omgaan met de beschikbare middelen door betere samenwerking en kennisdeling een versnelling kan betekenen in het behalen van GALA-doelen en Sportakkoord II-ambities;</al>
+            <al>overwegende dat regionale samenwerking en betere afstemming tussen aanbieders, gemeenten en kennisinstellingen kansen bieden om de beschikbare middelen efficiënter en effectiever in te zetten;</al>
+            <al>overwegende dat onder het motto «regionaal wat kan, lokaal wat moet» gemeenten en regio’s worden gestimuleerd om maatwerk te leveren en goede voorbeelden uit te wisselen, wat ook kan bijdragen aan kostenbesparingen en een hogere maatschappelijke opbrengst;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>bij de evaluatie van het Sportakkoord en Nederland Beweegt en de verkenning naar de mogelijkheden van een nieuwe sport- en beweegwet in 2025 te onderzoeken hoe de verbinding tussen het Sportakkoord II, GALA-doelen en lokaal beleid verder kan worden versterkt;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>de meer regionaal gerichte aanpak te stimuleren en een centrale plek te geven;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>gemeenten en regio’s te ondersteunen bij het optimaliseren van samenwerking en afstemming tussen sportaanbieders, welzijnsorganisaties en zorgverleners om met minder middelen meer te bereiken,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Saris</al>
+              <al>Van den Hil</al>
+              <al>Rikkers-Oosterkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

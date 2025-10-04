@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VI-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MICHON-DERKZEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-21">21 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat relschoppers tegenwoordig beter zijn georganiseerd en voorbereid op confrontaties met de ME;</al>
+            <al>constaterende dat de aard, duur en intensiteit van rellen een zware druk leggen op politieagenten die onder loodzware omstandigheden hun werk doen;</al>
+            <al>overwegende dat de politie zorgen heeft uitgesproken of de beschikbare uitrusting en verdedigingsmiddelen nog wel volstaan bij de uitoefening van de taak van de ME;</al>
+            <al>overwegende dat de Minister onlangs 13,5 miljoen structureel ter beschikking heeft gesteld voor verbetering van de aanpak van openbareordeverstoringen;</al>
+            <al>verzoekt de regering in overleg met de politie te onderzoeken of de uitrusting en de gewelds- en verdedigingsmiddelen van de Mobiele Eenheid kunnen worden uitgebreid, en de Kamer hierover in het voorjaar van 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Helder</al>
+              <al>Diederik van Dijk</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

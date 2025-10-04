@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-224/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">224</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERKENS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat niet alleen de Nederlandse overheid voorbereid moet zijn op mogelijke crises met grote maatschappelijke effecten, maar ook de Nederlandse burgers zelf;</al>
+            <al>constaterende dat de dreiging van een oorlog aanwezig is en dat we volgens vele experts in een preconflictfase zitten, waarbij een conflict vermijdbaar is, maar niet uit te sluiten is;</al>
+            <al>overwegende dat andere Europese landen, zoals Zweden en Finland, al actieve informatiecampagnes richting hun burgerbevolking zijn gestart;</al>
+            <al>verzoekt de regering om burgers beter te informeren over hoe men moet handelen in crises en om hiervoor campagnes te starten vanaf dit najaar op beeld en schrift via verschillende kanalen, waarbij we leren van de aanpak in Finland en Zweden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Erkens</al>
+              <al>Tuinman</al>
+              <al>Six Dijkstra</al>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

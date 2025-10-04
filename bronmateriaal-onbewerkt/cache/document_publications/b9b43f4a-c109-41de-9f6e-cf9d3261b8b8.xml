@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36463-16"/>
+      <meta name="OVERHEIDop.ondernummer" content="16"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-25"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36463"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Mutluer over een jaarlijkse rapportage over beroepsverboden"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S. Mutluer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.title" scheme="" content="Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II); Motie; Motie van het lid Mutluer over een jaarlijkse rapportage over beroepsverboden"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 463</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van het Wetboek van Strafrecht en het Wetboek van Strafvordering en enige andere wetten in verband met verdere versterking van de strafrechtelijke aanpak van ondermijnende criminaliteit (versterking strafrechtelijke aanpak ondermijnende criminaliteit II)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">16</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MUTLUER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-24">24 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de verruiming van de mogelijkheid tot ontzetting uit ambt of beroep bedoeld is om te voorkomen dat veroordeelden functies bekleden van waaruit zij criminele netwerken kunnen faciliteren;</al>
+                  <al>overwegende dat de naleving van zo'n beroepsverbod nu grotendeels afhankelijk is van het vragen van een vog door werkgevers, terwijl dit niet in alle sectoren verplicht of gebruikelijk is;</al>
+                  <al>overwegende dat hiermee het risico bestaat dat een beroepsverbod in de praktijk onvoldoende effectief kan worden gehandhaafd;</al>
+                  <al>verzoekt de regering jaarlijks aan de Kamer te rapporteren hoeveel beroepsverboden zijn opgelegd, op welke wijze toezicht op de naleving plaatsvindt, wat de effectiviteit hiervan is en op welke wijze deze naleving kan worden geoptimaliseerd,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Mutluer</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

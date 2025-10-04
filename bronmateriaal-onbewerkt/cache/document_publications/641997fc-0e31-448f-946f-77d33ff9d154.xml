@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34225-48/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 225</dossiernr>
+      </dossiernummer>
+      <titel>Toekomst van de Nederlandse onderzeedienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">48</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID STOFFER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is een (voorlopig) besluit te nemen over de gunning van de bouw van onderzeeboten voor de Koninklijke Marine;</al>
+            <al>overwegende dat een demissionair kabinet terughoudendheid past in het nemen van dergelijke omvangrijke en strategische besluiten, zeker wanneer die onomkeerbaar zijn;</al>
+            <al>overwegende dat in het licht van de veranderde geopolitieke omstandigheden en veiligheidssituatie actualisatie van de Defensie Industrie Strategie (DIS) noodzakelijk is;</al>
+            <al>overwegende dat met deze miljardenorder enorme belangen samenhangen, met name voor onze Nederlandse defensie, maritieme maakindustrie, strategische autonomie, (regionale) economie en werkgelegenheid;</al>
+            <al>verzoekt de regering geen besluit te nemen over de gunning van onderzeeboten en dit over te laten aan een volgend kabinet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stoffer</al>
+              <al>Pool</al>
+              <al>Tuinman</al>
+              <al>Eerdmans</al>
+              <al>Van Houwelingen</al>
+              <al>Van Kent</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

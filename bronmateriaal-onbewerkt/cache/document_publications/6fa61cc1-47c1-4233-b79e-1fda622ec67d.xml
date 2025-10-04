@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-30-620/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>30</raadnr></dossiernummer>
+      <titel>Raad voor Concurrentievermogen </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">620</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID THIJSSEN C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 617</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>Constaterende dat Draghi in zijn rapport over het Europese concurrentievermogen stelt dat de EU een langzame doodstrijd voert,</al>
+            <al>Constaterende dat Draghi in zijn rapport over het Europese concurrentievermogen als aanbeveling stelt dat er de komende 10 jaar € 750 miljard tot € 800 miljard extra aan investeringen gedaan moeten worden,</al>
+            <al>Constaterende dat het kabinet vasthoudt aan de doelstelling op 3% van het nationaal inkomen te besteden aan onderzoek en innovatie en dat de Adviesraad voor Wetenschap, Technologie en Innovatie stelt dat op deze manier deze doelstelling niet gehaald gaat worden,</al>
+            <al>Verzoekt de regering in Europa te pleiten voor meer investeringen in onderzoek en innovatie</al>
+            <al-groep>
+              <al>Thijssen</al>
+              <al>Dassen</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

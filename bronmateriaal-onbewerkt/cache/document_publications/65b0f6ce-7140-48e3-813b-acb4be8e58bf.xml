@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36760-31"/>
+      <meta name="OVERHEIDop.ondernummer" content="31"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-08-28"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36760"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Jetten en Van Vroonhoven over bij de RBZ-Raad inzetten op een EU-handelsembargo voor de illegale nederzettingen en anders een nationaal embargo invoeren en in dat geval blijven zoeken naar draagvlak bij gelijkgestemde landen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.N. van Vroonhoven"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="R.A.A. Jetten"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Kabinetscrisis 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-08-27"/>
+      <meta name="DC.title" scheme="" content="Kabinetscrisis 2025; Motie; Motie van de leden Jetten en Van Vroonhoven over bij de RBZ-Raad inzetten op een EU-handelsembargo voor de illegale nederzettingen en anders een nationaal embargo invoeren en in dat geval blijven zoeken naar draagvlak bij gelijkgestemde landen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 760</dossiernr>
+         </dossiernummer>
+         <titel>Kabinetscrisis 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">31</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN JETTEN EN VAN VROONHOVEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-08-27">27 augustus 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat Israëlische nederzettingen in Palestijns gebied onder het internationaal recht als illegaal worden beschouwd;</al>
+                  <al>overwegende dat de regering-Netanyahu met het E1-plan voor forse uitbreiding van de nederzettingen een tweestatenoplossing onmogelijk maakt;</al>
+                  <al-groep>
+                     <al>overwegende dat handelsbeleid een Europese competentie is, maar lidstaten de ruimte hebben voor het instellen van nationale wet- en regelgeving om mensenrechten te beschermen en het internationale recht te handhaven;</al>
+                     <al>verzoekt het kabinet bij de Raad Buitenlandse Zaken van 29 en 30 augustus in te zetten op een EU-handelsembargo voor de illegale nederzettingen;</al>
+                  </al-groep>
+                  <al>verzoekt het kabinet om, indien hier bij de RBZ geen overeenstemming over wordt bereikt, zo spoedig mogelijk een nationaal embargo in te voeren;</al>
+                  <al>verzoekt bij invoering van een nationaal embargo onverkort door te gaan met het zoeken van draagvlak voor een breder embargo met gelijkgestemde landen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Jetten</al>
+                     <al>Van Vroonhoven</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

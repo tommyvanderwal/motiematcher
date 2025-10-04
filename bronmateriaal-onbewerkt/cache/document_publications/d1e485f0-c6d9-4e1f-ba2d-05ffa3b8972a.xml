@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35968-33/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 968</dossiernr>
+      </dossiernummer>
+      <titel>Intrekking van de Archiefwet 1995 en vervanging door een nieuwe Archiefwet (Archiefwet 20.)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">33</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER VELDE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-11">11 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de nieuwe Archiefwet 20xx de regels voor archivering aanscherpt, maar dat met name bij overheidsorganen in de zin van de Archiefwet 1995 situaties kunnen ontstaan waarbij een archivaris naast toezicht en inspectie op niet-overgebrachte archieven tevens toezicht moet houden op zijn of haar eigen archief;</al>
+            <al-groep>
+              <al>overwegende dat transparantie en betrouwbaarheid van overheidsarchieven ook bij overheidsorganen in de zin van de Archiefwet 1995 gebaat zijn een strikt en onafhankelijk toezicht;</al>
+              <al>spreekt uit dat het onwenselijk is dat een archivaris tegelijkertijd toezichthouder is op zijn of haar eigen archief binnen het eigen overheidsorgaan;</al>
+            </al-groep>
+            <al>verzoekt de regering de mogelijkheid te onderzoeken dat er bij alle instellingen, inclusief overheidsorganen in de zin van de Archiefwet 1995, een duidelijke scheiding komt tussen de rol van de archivaris en de rol van de toezichthouder, zodat onafhankelijk toezicht gewaarborgd is,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Velde</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

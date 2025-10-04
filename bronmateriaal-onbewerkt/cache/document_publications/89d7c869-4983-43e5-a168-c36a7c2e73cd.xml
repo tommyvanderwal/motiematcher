@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-929/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">929</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DANIËLLE JANSEN EN TIELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat dure medicijnen vaak in hoge doseringen worden voorgeschreven, mede omdat farmaceuten in hun eigen onderzoek standaard een relatief hoge dosis hanteren om zo gunstig mogelijke resultaten te verkrijgen;</al>
+            <al>overwegende dat lagere doseringen of minder frequente toediening in veel gevallen even effectief kunnen zijn, en dat datagedreven onderzoek hiernaar kan leiden tot aanzienlijke besparingen en minder bijwerkingen voor patiënten;</al>
+            <al>constaterende dat medische centra momenteel zelf onderzoek moeten doen naar doelmatig gebruik van dure geneesmiddelen, maar dat de financiering hiervan een belemmering vormt;</al>
+            <al>overwegende dat de besparingen die voortkomen uit doelmatiger medicijngebruik ingezet kunnen worden voor nieuw en verder onderzoek;</al>
+            <al>constaterende dat het kabinet destijds heeft geconcludeerd geen fonds te willen dat van bovenaf geneesmiddelontwikkelingstrajecten financiert, maar wel expertise wil ontsluiten en verbinden;</al>
+            <al>verzoekt de regering om, in het licht van de huidige zorgkosten en de noodzaak van doelmatiger medicijngebruik, opnieuw te onderzoeken hoe besparingen uit doelmatigheidsonderzoek opnieuw geïnvesteerd kunnen worden in verder onderzoek naar efficiënter medicijngebruik,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Daniëlle Jansen</al>
+              <al>Tielen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31936-1158/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 936</dossiernr>
+      </dossiernummer>
+      <titel>Luchtvaartbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1158</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN OLGER VAN DIJK EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in de aanstaande luchtruimherziening aangestuurd wordt op een vierde aanvliegroute naar Schiphol;</al>
+            <al>overwegende dat deze vierde aanvliegroute naar verwachting zal leiden tot concentratie van geluidsoverlast bij nieuwe groepen omwonenden in de provincies Gelderland en Utrecht;</al>
+            <al>overwegende dat in het commissiedebat Luchtvaart van 27 juni 2023 een procedure is toegezegd om de Kamer de gelegenheid te geven om een politiek debat te voeren over de luchtruimherziening;</al>
+            <al>verzoekt de regering een externe commissie in te stellen bestaande uit experts en omwonenden die de nut en noodzaak van een vierde aanvliegroute zal beoordelen in het licht van de veranderende omstandigheden;</al>
+            <al>verzoekt de regering de bevindingen van deze commissie mee te sturen met het voorlopig ontwerp van de hoofdstructuur van de luchtruimherziening in 2025, zodat de Kamer dit mee kan nemen in de besluitvorming,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Olger van Dijk</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

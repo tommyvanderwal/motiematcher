@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26448-815/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 448</dossiernr>
+      </dossiernummer>
+      <titel>Structuur van de uitvoering werk en inkomen (SUWI)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">815</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN INGE VAN DIJK EN FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-01">1 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat een goed functionerende uitvoeringsorganisatie een basisvoorwaarde is voor een succesvolle hervorming van de WIA;</al>
+            <al>overwegende dat het huidige disfunctioneren van het UWV in de uitvoering van de WIA niet alleen te wijten is aan de complexiteit van wet- en regelgeving;</al>
+            <al-groep>
+              <al>overwegende dat er momenteel onderzoek wordt gedaan naar de sturings- en samenwerkingsrelatie binnen en tussen het UWV en het Ministerie van</al>
+              <al>Sociale Zaken en Werkgelegenheid;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een breed onderzoek in te stellen naar het functioneren van het UWV bij de uitvoering van de WIA, leidend tot concrete oplossingsrichtingen, waarbij de lopende onderzoeken in samenhang worden betrokken;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>daarbij in ieder geval aandacht te besteden aan regionale verschillen in de kwaliteit van de uitvoering, de wijze waarop (kwaliteit van) de toerekening van uitkeringen aan werkgevers plaatsvindt, de tevredenheid van cliënten en de wijze waarop zij in de totstandkoming van de beoordeling worden «gehoord, gezien en betrokken», de kwaliteit van de aansturing van het UWV door de raad van bestuur van het UWV, alsook de diverse managementlagen daaronder en de positie van verzekeringsartsen binnen het UWV;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>bij dat onderzoek in ieder geval de perspectieven te betrekken van een brede selectie van cliënten van het UWV, sociale partners en medewerkers van het UWV in alle lagen en posities,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

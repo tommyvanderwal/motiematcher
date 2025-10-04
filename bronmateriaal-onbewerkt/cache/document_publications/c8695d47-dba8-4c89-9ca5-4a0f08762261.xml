@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31839-1044/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 839</dossiernr>
+      </dossiernummer>
+      <titel>Jeugdzorg</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1044</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BRUYNING C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-11">11 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de overgang van jeugdzorg naar volwassenenzorg voor veel jongeren op hun 18de verjaardag nog steeds problematisch en onvoldoende gecoördineerd verloopt, wat kan leiden tot ontsluiting van zorg en ondersteuning;</al>
+            <al-groep>
+              <al>constaterende dat een «warme overdracht», waarbij zorgverleners uit de jeugd- en volwassenenhoek goed samenwerken en informatie gedeeld wordt, essentieel is voor een soepele overgang en continuïteit van zorg;</al>
+              <al>ervan overtuigd dat de Big Five-benadering, een set van vijf kwaliteitsstandaarden voor het zorgtraject, succesvol kan bijdragen aan de verbetering van deze overgang, met daarbij aandacht voor de jongere als persoon, inclusief mentale gezondheid, sociale steunnetwerken, onderwijs/werk en woonplek;</al>
+            </al-groep>
+            <al-groep>
+              <al>roept de regering op:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>te onderzoeken of het concept van de warme overdracht als standaardprocedure wordt opgenomen in de afspraken tussen gemeenten en jeugdzorginstellingen, zodat elke jongere een vloeiende overgang kan ervaren, zonder plotselinge onderbrekingen van hun zorgtraject;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>gemeenten aan te sporen de implementatie van de Big Five aan te houden als een essentiële voorwaarde voor het afbouwen van jeugdzorg en het voorkomen van zorgvacuüms, met als doel de jongere centraal te stellen in hun transitie;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>de effectiviteit en implementatie van deze maatregelen periodiek te evalueren, via de monitoring van de Hervormingsagenda Jeugd, en bij te sturen waar nodig, in nauwe samenspraak met betrokken zorgprofessionals en de jongeren en hun families zelf,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Van den Hil</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

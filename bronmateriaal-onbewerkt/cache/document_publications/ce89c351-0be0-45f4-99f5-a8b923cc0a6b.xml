@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36584-17/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 584</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Handelsregisterwet 2007 en de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter beperking van de toegang tot informatie over uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten alsmede van de toegang tot informatie over uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Wijzigingswet beperking toegang UBO-registers)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">17</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AUKJE DE VRIES</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-10">10 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de administratieve lasten en regeldruk als gevolg van de Anti-witwasrichtlijn doorgeslagen zijn;</al>
+            <al>overwegende dat er te vaak gelijksoortige informatie aangeleverd moet worden;</al>
+            <al>constaterende dat de huidige vulgraad van het UBO-register 80% is;</al>
+            <al>van mening dat het wenselijk is dat er een toegankelijk, up-to-date en kwalitatief goed en compleet gevuld UBO-register is waar poortwachters op kunnen vertrouwen;</al>
+            <al>verzoekt de regering actie te ondernemen om de vulgraad van het UBO-register te verhogen;</al>
+            <al>verzoekt de regering te onderzoeken of er gegevensuitwisseling mogelijk kan worden gemaakt tussen het Handelsregister van de Kamer van Koophandel en het UBO-register en tussen de Basisregistratie Personen en het UBO-register, en de Tweede Kamer daarover voor het zomerreces 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aukje de Vries</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2904/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2904</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN HOUWELINGEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Nederlandse regering meermaals heeft laten weten dat de oorlog in Oekraïne ook «onze oorlog» is;</al>
+            <al>constaterende dat de Nederlandse regering meermaals heeft laten weten dat, mocht Oekraïne deze oorlog verliezen, de gevolgen voor Nederland niet te overzien zijn;</al>
+            <al>constaterende dat de oorlog voor Oekraïne moeizaam verloopt;</al>
+            <al>constaterende dat veel militaire experts zelfs van mening zijn dat Oekraïne deze oorlog onmogelijk kan winnen;</al>
+            <al>constaterende dat Oekraïne een groot tekort heeft aan militairen;</al>
+            <al>constaterende dat president Macron al openlijk heeft gesproken over het sturen van NAVO-troepen naar Oekraïne;</al>
+            <al>constaterende dat Rusland te kennen heeft gegeven de NAVO als een oorlogvoerende partij te zullen gaan beschouwen zodra er NAVO-troepen in Oekraïne worden ingezet;</al>
+            <al>overwegende dat dit zou kunnen betekenen dat Nederland in oorlog geraakt met Rusland;</al>
+            <al>overwegende dat Rusland een kernmacht is en een directe oorlog tussen Nederland (of de NAVO) en Oekraïne dus de totale vernietiging van Nederland zou kunnen betekenen;</al>
+            <al>constaterende dat de Minister van Defensie twee weken geleden, gevraagd of Nederlandse soldaten wellicht ooit in Oekraïne ingezet zouden kunnen gaan worden, het volgende zei: «Op dit moment vraagt Oekraïne daar helemaal niet om»;</al>
+            <al>verzoekt de regering geen Nederlandse gevechtseenheden (zoals infanterie, het Korps Mariniers of de Luchtmobiele Brigade) naar Oekraïne te sturen om mee te vechten in deze oorlog mocht Oekraïne daar in de toekomst wel om vragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Houwelingen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

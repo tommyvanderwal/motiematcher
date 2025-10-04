@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29911-461/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 911</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding georganiseerde criminaliteit </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">461</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-19">19 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat vliegvelden logistieke knooppunten zijn, die criminelen misbruiken voor illegale praktijken zoals drugssmokkel en mensenhandel;</al>
+            <al>constaterende dat het Team Ondermijning Luchthaven een nuttig en lokaal initiatief is op Eindhoven Airport, met als doel het opsporen van georganiseerde criminaliteit door informatie te verzamelen en te delen met bijvoorbeeld de KMar;</al>
+            <al>overwegende dat samenwerken en informatie delen op het gebied van georganiseerde criminaliteit essentieel is om luchthavens weerbaarder te maken en houden en te beschermen tegen de georganiseerde misdaad;</al>
+            <al>verzoekt de regering om op Nederlandse burgerluchthavens een Team Ondermijning Luchthaven in te stellen en daarbij gebruik te maken van de ervaringen op Eindhoven Airport;</al>
+            <al>verzoekt de regering om te onderzoeken welke middelen de burgerluchthavens op dit moment hebben om criminaliteit zoals drugssmokkel en mensenhandel effectief op te sporen, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boswijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

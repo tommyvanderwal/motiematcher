@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-382/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">382</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TIMMERMANS EN ELLIAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening dat de aanpak van online haat en discriminatie van essentieel belang is in de aanpak van antisemitisme, discriminatie en racisme;</al>
+            <al>constaterende dat de Digital Services Act regelt dat onlineplatformen moeten optreden tegen onlinehaat, maar dat het ontbreken van een EU-brede definitie van hatespeech de effectieve aanpak van onlinehaat in de weg staat;</al>
+            <al>overwegende dat de Digital Services Act nog niet voldoende is ingericht om de algoritmes die draaien op interactie en ophef aan te pakken, terwijl die antisemitisme, discriminatie en racisme in de hand werken;</al>
+            <al>verzoekt de regering om druk uit te oefenen in de Europese Raad om hatespeech en hatecrimes zo snel mogelijk toe te voegen aan de lijst van misdrijven van de EU, zodat optimaal opgetreden kan worden tegen online antisemitisme, discriminatie en racisme;</al>
+            <al>verzoekt de regering om in de Raad op te roepen tot een concrete aanpak van polariserende algoritmes die het verspreiden van onlinehaat op sociale media belonen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Timmermans</al>
+              <al>Ellian</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

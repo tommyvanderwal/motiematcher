@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-24446-97"/>
+      <meta name="OVERHEIDop.ondernummer" content="97"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="24446"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Inge van Dijk over geld van de Defensiebegroting overhevelen naar EZ ten behoeve van ESA, innovatieve ruimtevaartprojecten en doorontwikkeling van NL Space Campus"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I. (Inge) van Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Ruimtevaartbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-02"/>
+      <meta name="DC.title" scheme="" content="Ruimtevaartbeleid; Motie; Motie van het lid Inge van Dijk over geld van de Defensiebegroting overhevelen naar EZ ten behoeve van ESA, innovatieve ruimtevaartprojecten en doorontwikkeling van NL Space Campus"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Verkeer | Luchtvaart"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Onderzoek en wetenschap"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>24 446</dossiernr>
+         </dossiernummer>
+         <titel>Ruimtevaartbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">97</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID INGE VAN DIJK</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-02">2 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de Nederlandse bijdrage aan het European Space Agency relatief gezien een van de laagste is, terwijl we hét Europese centrum voor ruimtevaarttechnologie en -onderzoek, ESTEC, huisvesten;</al>
+                  <al>constaterende dat de voorbereidingen voor de Ministeriële Conferentie van ESA over onder meer nieuwe projecten en onderzoek eind dit jaar in volle gang zijn;</al>
+                  <al>overwegende dat de lange-termijn ruimtevaartagenda een uitstekende leidraad is voor huidig en toekomstig ruimtevaartbeleid en dat deze agenda aangeeft dat er 60 miljoen tot 140 miljoen euro per jaar extra nodig is;</al>
+                  <al>overwegende dat ruimtevaartonderzoek en -industrie militair en civiel-strategisch steeds belangrijker worden;</al>
+                  <al>overwegende dat de Minister-President aangaf dat de nieuwe NAVO-norm ook ruimte geeft om daaruit aan defensiegerelateerde uitgaven te doen;</al>
+                  <al>verzoekt de regering vooruitlopend daarop geld vrij te maken op de begroting van Defensie «26 en verder, en dit over te hevelen naar EZ ten behoeve van ESA, innovatieve ruimtevaartprojecten en doorontwikkeling van de NL Space Campus;</al>
+                  <al>verzoekt de regering de Kamer periodiek te informeren over de uitvoering van de LTR en over de Nederlandse inzet in ESA en EU Space Programme,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Inge van Dijk</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25295-2177/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 295</dossiernr>
+      </dossiernummer>
+      <titel>Infectieziektenbestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2177</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DANIËLLE JANSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-10">10 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de factfindingmissie van de Wereldgezondheidsorganisatie in Wuhan, China van 2021 niet duidelijk heeft gemaakt wat de oorsprong is van het SARS-CoV-2-virus en dat de omstandigheden van de uitbraak in de winter van 2019/2020 in Wuhan nooit zijn opgehelderd;</al>
+            <al>overwegende dat de deelnemers van deze missie hebben verklaard onvoldoende toegang en mandaat te hebben gekregen om het benodigde recherchewerk te verrichten en dat aanvullend onderzoek nodig is om de oorsprong van het coronavirus te vinden;</al>
+            <al>overwegende dat er zowel aanwijzingen zijn voor een zoönotische oorsprong van het coronavirus als voor een laboratoriumoorsprong en dat tot op heden geen van deze oorzaken zijn uitgesloten;</al>
+            <al>overwegende dat in de Verenigde Staten virologen hebben opgeroepen om de risico's van onderzoek naar ziekteverwekkers met pandemisch potentieel waarbij virulentie, gastheerbereik, immuunontwijking, antibiotica- of vaccinresistentie en/of besmettelijkheid wordt verhoogd of dat anderszins het risico op een uitbraak in zich draagt, beter af te wegen tegen de veiligheidsmaatregelen, de alternatieven voor en de opbrengsten van dit type onderzoek;</al>
+            <al>overwegende dat lab-ongelukken eerder hebben geresulteerd in menselijke besmettingen met SARS-1, anthrax en influenza;</al>
+            <al>overwegende dat het WHO-pandemieverdrag in zijn huidige staat met name nadruk legt op zoönotische risico's en nauwelijks aandacht besteedt aan het belang van bioveiligheid in laboratoria;</al>
+            <al>verzoekt de regering om zich ervoor in te spannen dat de WHO voor de preventie van nieuwe pandemieën evenveel aandacht schenkt aan de «One Health»-aanpak als aan het verkleinen van de risico's van onderzoek naar ziekteverwekkers met pandemisch potentieel;</al>
+            <al>verzoekt de regering de WHO aan te sporen een vervolg te geven aan de fact-finding mission in Wuhan om alsnog de oorsprong van het coronavirus op te helderen, en hierover de Kamer binnen vier maanden te berichten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Daniëlle Jansen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29826-256/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 826</dossiernr>
+      </dossiernummer>
+      <titel>Industriebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">256</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID KOSTIĆ C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 251</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-25">25 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er geld van burgers mogelijk wordt ingezet voor de maatwerkafspraken met Tata Steel,</al>
+            <al>overwegende dat het daarom extra belangrijk is om te kunnen meten dat de afspraken m.b.t. de gezondheid daadwerkelijk worden nagekomen,</al>
+            <al>overwegende dat daarvoor onafhankelijke en zorgvuldige metingen nodig zijn die er nu nog niet zijn en daarvoor diverse moties van de Kamer zijn aangenomen (o.a. Teunissen c.s.);</al>
+            <al>verzoekt de regering in de mogelijke maatwerkafspraken met Tata Steel adequate middelen te reserveren voor toezicht en handhaving op de gemaakte afspraken;</al>
+            <al>en gaat over tot de orde van de dag,</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Grinwis</al>
+              <al>Thijssen</al>
+              <al>Koekkoek</al>
+              <al>Postma</al>
+              <al>Eerdmans</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

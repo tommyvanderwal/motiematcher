@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34843-100/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 843</dossiernr>
+      </dossiernummer>
+      <titel>Seksuele intimidatie en geweld</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">100</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat binnen de gemeenschap van Jehova's getuigen misstanden plaatsvinden, zoals het intern afdoen van seksueel misbruik en het ontmoedigen hier aangifte van te doen en het sociaal doodverklaren van mensen die uit de gemeenschap van Jehova's getuigen stappen, met ernstige psychische gevolgen;</al>
+            <al>constaterende dat diverse onderzoeken in het verleden niet tot structurele veranderingen hebben geleid;</al>
+            <al>spreekt uit dat de wet geldt voor iedereen en dat een beroep op vrijheid van godsdienst of levensovertuiging niet met zich meebrengt dat er vrijheid is om seksueel misbruik onder het tapijt te vegen en intern af te doen en dat de vrijheid van godsdienst juist ook met zich meebrengt de vrijheid om niet langer te geloven of deel uit te maken van een geloofsgemeenschap;</al>
+            <al>verzoekt de regering te bezien wat er concreet gedaan kan worden voor slachtoffers van deze misstanden van misbruik en sociaal doodverklaren en met voorstellen naar de Kamer te komen;</al>
+            <al>verzoekt de regering voorts naar effectieve manieren te zoeken om deze praktijken binnen besloten gemeenschappen te stoppen om nieuwe slachtoffers te voorkomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Nispen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

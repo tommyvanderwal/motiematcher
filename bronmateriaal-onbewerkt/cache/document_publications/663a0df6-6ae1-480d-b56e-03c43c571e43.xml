@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-745/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">745</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-04">4 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemeenten verplicht zijn om ieder jaar een overleg te organiseren met de houders van kinderopvangorganisaties en met schoolbesturen in het primair en voortgezet onderwijs;</al>
+            <al>constaterende dat een vijfde van de gemeentes geen overleg voert over de Lokale Educatieve Agenda;</al>
+            <al>constaterende dat dit aantal verder toeneemt;</al>
+            <al>constaterende dat steeds minder doelgroepkinderen deelnemen aan vve;</al>
+            <al>overwegende dat onderwijsachterstanden steeds meer toenemen;</al>
+            <al>verzoekt de regering om met een plan te komen waarmee deze negatieve tendens wordt doorbroken met als doel dat meer doelgroepkinderen gebruik gaan maken van vve,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kisteman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

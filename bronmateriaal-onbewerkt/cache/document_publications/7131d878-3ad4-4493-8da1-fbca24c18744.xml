@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29911-450/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 911</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding georganiseerde criminaliteit </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">450</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MICHON-DERKZEN EN PETER DE GROOT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-26">26 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat woningcorporaties een belangrijke rol kunnen vervullen bij het vroeg signaleren van ondermijnende activiteiten, maar momenteel slechts zeer beperkt iets kunnen doen, onder andere omdat zij geen strafrechtelijke persoonsgegevens mogen verwerken;</al>
+            <al>van mening dat woningcorporaties na het aangaan van huurovereenkomsten gegevens van strafrechtelijke aard moeten kunnen registreren en delen met de politie en gemeente;</al>
+            <al>van mening dat woningcorporaties moeten kunnen beschikken over relevante informatie over strafrechtelijke gedragingen van huurders;</al>
+            <al>van mening dat woningcorporaties relevante informatie voorzien van adequate privacywaarborgen moeten kunnen delen met politie en gemeenten, voor zover het verwerken van die gegevens noodzakelijk is voor het effectief kunnen aanpakken van ondermijning;</al>
+            <al>verzoekt de regering de mogelijkheden te verkennen voor het maken van een specifieke wettelijke grondslag voor woningcorporaties voor het verwerken van persoonsgegevens van strafrechtelijke aard, bijvoorbeeld bij de uitwerking van het wetsvoorstel Gegevensdeling woningcorporaties, en de Kamer voor het einde van het jaar te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Michon-Derkzen</al>
+              <al>Peter de Groot</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

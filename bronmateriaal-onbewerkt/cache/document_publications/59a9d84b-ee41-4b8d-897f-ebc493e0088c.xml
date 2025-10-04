@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34352-317/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 352</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering en evaluatie Participatiewet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">317</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN MOHANDIS EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat veel mensen geen gebruik maken van armoederegelingen, terwijl zij hier wel echt recht op hebben;</al>
+            <al>constaterende dat meer mensen de weg naar armoederegelingen weten te vinden als gemeenten hen op de regelingen kunnen wijzen, maar dat er juridische obstakels zijn om burgers proactief te benaderen;</al>
+            <al>verzoekt de regering te onderzoeken op welke wijze inkomensondersteunende regelingen van gemeenten, zoals een stadspas, ambtshalve verstrekt kunnen worden zonder het gevaar dat dit nadelige invloed heeft op te toekenning van toeslagen of andere inkomenscomponenten, en de Kamer hierover voor Prinsjesdag te informeren;</al>
+            <al>verzoekt de regering te onderzoeken hoe gemeenten de mogelijkheid kunnen krijgen om inwoners die recht hebben op armoederegelingen in beeld te krijgen en actief te benaderen, door gegevensuitwisseling met de Belastingdienst en op grond van de Gemeentewet,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mohandis</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

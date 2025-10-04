@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-A-31/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">31</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat knooppunt Hoevelaken, A1/A28, op dit moment op nummer drie in de file-top tien van Rijkswaterstaat staat en dat files hier leiden tot grote economische schade;</al>
+            <al>overwegende dat knooppunt Hoevelaken een centrale schakel is in het wegennetwerk van Nederland;</al>
+            <al>constaterende dat de aanpak van knooppunt Hoevelaken al decennia op zich laat wachten en er in 2013 al bestuurlijke afspraken zijn gemaakt;</al>
+            <al>constaterende dat het kabinet resterende rijksbudgetten van de gepauzeerde wegprojecten allereerst behoudt voor de herstart van de projecten;</al>
+            <al>constaterende dat het kabinet elk jaar een project uit de lijst van zeventien gepauzeerde projecten wil opstarten en in het voorjaar van 2025 zal besluiten welk project als eerste wordt opgestart;</al>
+            <al>overwegende dat als een gefaseerde aanpak van het knooppunt Hoevelaken kansrijk is, aan de uitvoering van dit project prioriteit kan worden gegeven;</al>
+            <al>verzoekt de regering om knooppunt Hoevelaken als topprioriteit uit de lijst van zeventien gepauzeerde projecten te behandelen en een plan van aanpak op te stellen voor een mogelijk gefaseerde aanpak vanaf 2025, in lijn met het ontwerptracébesluit van 2018 en eerder gemaakte bestuurlijke afspraken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Stoffer</al>
+              <al>Olger van Dijk</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

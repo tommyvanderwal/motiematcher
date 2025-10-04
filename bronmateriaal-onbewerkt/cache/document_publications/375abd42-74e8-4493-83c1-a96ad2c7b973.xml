@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-467/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">467</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aandeel mannen in het onderwijs al jaren afneemt en in 2022 nog maar 13% van de leraren man was;</al>
+            <al>constaterende dat de instroom van mannen op de pabo laag is en de uitval op zowel de pabo als op school hoog, met als gevolg dat van de 400 startende pabostudenten er na vijf jaar werkervaring maar 13 meesters over zijn;</al>
+            <al>overwegende dat leerlingen naast vrouwelijke ook mannelijke rolmodellen nodig hebben;</al>
+            <al>overwegende dat er goede praktijkvoorbeelden zijn om meesters aan te trekken en te behouden, zoals rolmodellen bij studievoorlichting en tijdens de opleiding, en meer mogelijkheden voor specialisatie;</al>
+            <al>verzoekt de regering om in overleg met onderwijsorganisaties tot concrete afspraken te komen om het aandeel mannen voor de klas te verhogen, daar een concreet doel voor te stellen, bijvoorbeeld 30% meesters in 2035, en daar jaarlijks over te rapporteren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ceder</al>
+              <al>De Kort</al>
+              <al>Krul</al>
+              <al>Stoffer</al>
+              <al>Soepboer</al>
+              <al>Van Zanten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

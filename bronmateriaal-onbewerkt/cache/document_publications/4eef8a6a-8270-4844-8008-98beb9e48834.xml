@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33529-1320"/>
+      <meta name="OVERHEIDop.ondernummer" content="1320"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-26"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33529"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Holman over aan bewoners van de 13 onder de Sociale en Economische Agenda’s van Nij Begun vallende gemeenten 3 miljoen euro per gemeente rechtstreeks beschikbaar stellen voor verbetering van de leefbaarheid (t.v.v. 33529-1315)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Gaswinning"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-25"/>
+      <meta name="DC.title" scheme="" content="Gaswinning; Motie (gewijzigd/nader); Gewijzigde motie van het lid Holman over aan bewoners van de 13 onder de Sociale en Economische Agenda’s van Nij Begun vallende gemeenten 3 miljoen euro per gemeente rechtstreeks beschikbaar stellen voor verbetering van de leefbaarheid (t.v.v. 33529-1315)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Energie"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 529</dossiernr>
+         </dossiernummer>
+         <titel>Gaswinning</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1320</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID HOLMAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 1315</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-25">25 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er de komende 30 jaar vanuit de Sociale en Economische Agenda’s van Nij Begun 2x 100 miljoen Euro per jaar beschikbaar komt;</al>
+                  <al>overwegende dat het goed zou zijn als bewoners van de 13 desbetreffende Groningse en Drentse gemeenten in het eerste jaar een deel van deze gelden zelf zouden kunnen besteden aan doelen die zij belangrijk vinden in hun dorpen;</al>
+                  <al>verzoekt de regering om aan de bewoners van de 13 onder de Sociale en Economische Agenda’s van Nij Begun vallende gemeenten, in het eerste jaar 3 miljoen Euro per gemeente rechtstreeks beschikbaar te stellen voor verbetering van de leefbaarheid, bijvoorbeeld via een stichting van bewoners;</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Holman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

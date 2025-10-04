@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1615/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1615</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-30">30 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de schade door wolven in Nederland de afgelopen jaren opgelopen is tot ongekende hoogte, ook daar waar wolfwerende hekken zijn gezet en andere schadebeperkende maatregelen zijn genomen;</al>
+            <al>overwegende dat de wolvenpopulatie in Nederland de afgelopen jaren bijna exponentieel is toegenomen;</al>
+            <al>overwegende dat de wolvenroedels territoria hebben die tot ruim over de grenzen van Nederland kunnen strekken en aanwas van genetisch materiaal van over de grens dus veelvuldig voorkomt, waardoor de populatie blijft groeien;</al>
+            <al>overwegende dat Frankrijk komend jaar 209 wolven mag afschieten;</al>
+            <al>verzoekt de regering om te onderzoeken of het mogelijk is om via een derogatiebeleid voor wolven in Nederland probleemwolven te identificeren, te verjagen en te bejagen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32802-88/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 802</dossiernr>
+      </dossiernummer>
+      <titel>Toepassing van de Wet open overheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">88</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN CHAKOR EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-05">5 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij overheden de uitvoerbaarheid bij omvangrijke Woo-verzoeken onder druk staat;</al>
+            <al>overwegende dat in de huidige Woo pas aan het eind van de behandeltermijn overleg met verzoeker is voorzien;</al>
+            <al>van mening dat bij omvangrijke Woo-verzoeken vroegtijdig overleg tussen de verzoeker en de overheidsorganisaties kan leiden tot wederzijds inzicht over het verzoek, gezamenlijk bekeken kan worden waarop de informatievraag precies ziet en daarmee kan leiden tot een betere afhandeling;</al>
+            <al>verzoekt de regering te onderzoeken hoe bij overheidsorganisaties bevorderd kan worden dat dit overleg tot stand gaat komen, te bezien of de Woo daarvoor moet worden aangepast en daarbij de desbetreffende adviezen van het Adviescollege Openbaarheid en Informatiehuishouding te betrekken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Chakor</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-657/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">657</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PIERIK EN VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het College voor de toelating van gewasbeschermingsmiddelen en biociden (Ctgb) een positief advies heeft uitgebracht over de vrijstelling voor het gebruik van Exirel bij de teelten van druif, pruim en blauwe bes en Tracer voor de teelten van pruim en druif;</al>
+            <al>constaterende dat eerder een motie van het lid Van der Plas c.s. (<extref doc="kst-21501-32-1639" soort="document" status="actief">21 501-32, nr. 1639</extref>) is aangenomen waarin de Minister werd opgeroepen het gebruik van Exirel en Tracer bij andere soorten fruit waarvan de oogst vernietigd dreigt te worden toe te staan en dat de Minister de uitvoering van dit tweede deel van de motie in afwachting van het advies van het Ctgb heeft opgeschort;</al>
+            <al>overwegende dat telers van zacht fruit gezien het vroege voorjaar zijn geconfronteerd met een vroegtijdige en actieve aanwezigheid van de suzukivlieg, wat hun teelten ernstig bedreigt;</al>
+            <al>overwegende dat een spoedige vrijstelling van deze middelen kritiek is om onherstelbare schade aan de teelten en de economische positie van de telers te voorkomen;</al>
+            <al>verzoekt de Minister om met de grootst mogelijke spoed de vrijstelling voor het gebruik van Exirel en Tracer voor de teelten van druiven en andere soorten zacht fruit te verlenen, en hiermee invulling te geven aan de eerder aangenomen motie van het lid Van der Plas,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Pierik</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

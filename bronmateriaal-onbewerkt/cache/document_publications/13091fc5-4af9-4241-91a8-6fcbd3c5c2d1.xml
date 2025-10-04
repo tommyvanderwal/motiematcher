@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34352-334/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 352</dossiernr>
+      </dossiernummer>
+      <titel>Uitvoering en evaluatie Participatiewet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">334</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID LAHLAH C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 332</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-28">28 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al-groep>
+              <al>overwegende dat door het verlagen van de algemene heffingskorting en het verhogen</al>
+              <al>van de arbeidskorting de lonen van medewerkers in de sociaal ontwikkelbedrijven erop</al>
+              <al>achteruitgaan;</al>
+            </al-groep>
+            <al-groep>
+              <al>overwegende dat zij vaak niet meer uren kunnen werken, omdat zij al werken naar</al>
+              <al>maximale capaciteit;</al>
+            </al-groep>
+            <al-groep>
+              <al>constaterende dat nu het Belastingplan is vastgesteld, de cao de enige weg is om deze</al>
+              <al>financiële achteruitgang te repareren;</al>
+            </al-groep>
+            <al-groep>
+              <al>verzoekt de regering als stelselverantwoordelijke voor de uitvoering van de</al>
+              <al>Participatiewet de regie te nemen door met oplossingen te komen voor de financiële</al>
+              <al>achteruitgang voor medewerkers van sociaal ontwikkelbedrijven als bijeffect van het</al>
+              <al>Belastingplan, en de Kamer hier bij de voorjaarsbesluitsvorming over te informeren,</al>
+            </al-groep>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Ceder</al>
+              <al>Van Kent</al>
+              <al>Dassen</al>
+              <al>Flach</al>
+              <al>Kostić</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

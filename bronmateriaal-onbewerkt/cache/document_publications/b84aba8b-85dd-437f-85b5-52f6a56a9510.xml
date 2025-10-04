@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3331/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3331</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN ZANTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland rond de 840 grensovergangen heeft en dat deze gecontroleerd worden met een capaciteit van 50 fte;</al>
+            <al>constaterende dat er veel aan gelegen is om de capaciteit bij de Koninklijke Marechaussee ten behoeve van grensbewaking te verhogen;</al>
+            <al>constaterende dat het dienjaar van Defensie een groot succes is, waarbij dit jaar al 625 jongeren een bijdrage leveren aan onze veiligheid en dit in de komende jaren door kan groeien naar 4.000 per jaar;</al>
+            <al>verzoekt de Minister van Asiel en Migratie in overleg te treden met Defensie om te bezien hoe het succes van het dienjaar in de toekomst mede ingezet kan worden om te ondersteunen bij de grensbewakingstaak van de Marechaussee,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Zanten</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

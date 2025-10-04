@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36450-37/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 450</dossiernr>
+      </dossiernummer>
+      <titel>Regels omtrent de instelling van het Adviescollege toetsing regeldruk (Instellingswet Adviescollege toetsing regeldruk) </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">37</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KISTEMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij negen indicatorbedrijven in beeld is gebracht met een nulmeting wat de regeldrukkosten zijn;</al>
+            <al>overwegende dat er al jaren wordt gesproken over minder regels, maar het maar niet concreet wordt;</al>
+            <al>overwegende dat ondernemers ontzettend veel geld kwijt zijn aan regeldrukkosten en dit geld niet kunnen investeren in hun bedrijf of kunnen gebruiken om de lonen van hun werknemers te verhogen;</al>
+            <al>constaterende dat er door het in beeld brengen van de nulmeting concreet gestuurd kan worden op vermindering van de regeldrukkosten;</al>
+            <al>verzoekt de regering de regeldrukkosten voor de gehele sector van de negen indicatorbedrijven eind 2026 met 20% te hebben verminderd of aanpassing in wetgeving in gang te hebben gezet om deze reductie te behalen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kisteman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

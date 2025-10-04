@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31311-268/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 311</dossiernr>
+      </dossiernummer>
+      <titel>Zelfstandig ondernemerschap</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">268</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er onrust en onduidelijkheid bestaat over de voorgestelde inbeddingscriteria voor zelfstandigen in de Wet verduidelijking beoordeling arbeidsrelaties en rechtsvermoeden;</al>
+            <al>overwegende dat er breed maatschappelijk overeenstemming is over de invoering van een rechtsvermoeden op basis van een uurtarief, omdat het bijdraagt aan het tegengaan van schijnzelfstandigheid en uitbuiting;</al>
+            <al>verzoekt de regering genoemd wetsvoorstel te splitsen in een voorstel gericht op inbeddingscriteria en een voorstel gericht op het rechtsvermoeden;</al>
+            <al>verzoekt de regering prioriteit te geven aan het onderdeel rechtsvermoeden, en dit zo spoedig mogelijk aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Van Oostenbruggen</al>
+              <al>Aartsen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

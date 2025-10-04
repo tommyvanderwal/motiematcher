@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29023-476/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 023</dossiernr>
+      </dossiernummer>
+      <titel>Voorzienings- en leveringszekerheid energie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">476</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOPS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-28">28 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de bouw van aardgasvrije woningen door het hogere elektriciteitsverbruik in combinatie met de krapte op het elektriciteitsnet, de problemen rond netcongestie verergert en daarmee de woningbouw zelf in gevaar kan brengen;</al>
+            <al>constaterende dat colleges van burgemeester en wethouders de bevoegdheid hebben om gemotiveerd af te wijken van de bouw van aardgasvrije woningen door het aanwijzen van gebieden «waar aansluiting op het gastransportnet strikt noodzakelijk is om zwaarwegende redenen van algemeen belang» (artikel 10, zevende lid, onderdeel a, van de Gaswet);</al>
+            <al>verzoekt de regering colleges van burgemeester en wethouders te stimuleren gebruik te maken van hun bevoegdheid om af te wijken van de bouw van aardgasvrije woningen, in ieder geval totdat de problemen rond netcongestie structureel zijn opgelost,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kops</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

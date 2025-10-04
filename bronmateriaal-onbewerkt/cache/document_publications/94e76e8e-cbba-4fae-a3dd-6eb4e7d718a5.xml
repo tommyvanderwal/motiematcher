@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36624-13"/>
+      <meta name="OVERHEIDop.ondernummer" content="13"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-17"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36624"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Westerveld c.s. over een financieringsregeling voor het onderzoeksdeel, de organisatie en de kennisdeling binnen de topreferente ggz"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.H. Bikker"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.E.M. Dobbe"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="E.M. Westerveld"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Initiatiefnota van het lid De Korte over een kritische reflectie op euthanasie bij psychisch lijden van jonge mensen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-16"/>
+      <meta name="DC.title" scheme="" content="Initiatiefnota van het lid De Korte over een kritische reflectie op euthanasie bij psychisch lijden van jonge mensen; Motie; Motie van het lid Westerveld c.s. over een financieringsregeling voor het onderzoeksdeel, de organisatie en de kennisdeling binnen de topreferente ggz"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Jongeren"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Ethiek"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 624</dossiernr>
+         </dossiernummer>
+         <titel>Initiatiefnota van het lid De Korte over een kritische reflectie op euthanasie bij psychisch lijden van jonge mensen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">13</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WESTERVELD C.S.</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-06-16">16 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er 100.000 wachtplekken zijn in de ggz;</al>
+                  <al>constaterende dat er enorme wachtlijsten zijn voor gespecialiseerde hulp en er onvoldoende behandelcapaciteit is voor mensen met multiproblematiek, met uitzichtloosheid en ondraaglijk lijden tot gevolg;</al>
+                  <al>constaterende dat topreferente zorg, inclusief onderzoek en consultatie, een essentiële rol kan spelen in het verminderen van wachttijden in de ggz;</al>
+                  <al>constaterende dat alleen het behandeldeel van de topreferente ggz wordt gefinancierd, maar niet het onderzoeksdeel, de organisatie en het delen van kennis;</al>
+                  <al>verzoekt de regering om, net zoals bij topreferente kankerzorg, ook een afzonderlijke financieringsregeling te maken voor het onderzoeksdeel, de organisatie en kennisdeling binnen de topreferente ggz, en de Kamer voor de begroting van 2026 te informeren over de plannen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Westerveld</al>
+                     <al>Dobbe</al>
+                     <al>Bikker</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

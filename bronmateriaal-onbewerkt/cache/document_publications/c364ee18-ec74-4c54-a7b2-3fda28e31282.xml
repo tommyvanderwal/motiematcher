@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32847-1282/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 847</dossiernr>
+      </dossiernummer>
+      <titel>Integrale visie op de woningmarkt</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1282</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VIJLBRIEF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-12">12 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bij de Woontop is afgesproken 100.000 woningen per jaar te bouwen, maar dat gemeenten hiervoor 50% moeten bijdragen aan de onrendabele toppen;</al>
+            <al>overwegende dat deze afspraak voor veel gemeenten onder druk staat, omdat vanaf 2026 onder andere de miljardenbezuiniging van het ravijnjaar moet worden opgevangen;</al>
+            <al>verzoekt de regering zorg te dragen dat gemeenten in staat zijn om op realistische wijze te kunnen voldoen aan hun bijdrage die afgesproken is om 100.000 woningen per jaar te kunnen bouwen, en de Kamer met de Voorjaarsnota te informeren hoe dit zeker is gesteld,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vijlbrief</al>
+              <al>Grinwis</al>
+              <al>Boswijk</al>
+              <al>Flach</al>
+              <al>De Hoop</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36715-8"/>
+      <meta name="OVERHEIDop.ondernummer" content="8"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36715"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Van Campen en Bontenbal over onderzoek doen naar de Russische en Belarussische beïnvloeding en het handelen van de Nederlandse overheid hiertegen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Bontenbal"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.A.H. van Campen"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Staat van de Europese Unie 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Staat van de Europese Unie 2025; Motie; Motie van de leden Van Campen en Bontenbal over onderzoek doen naar de Russische en Belarussische beïnvloeding en het handelen van de Nederlandse overheid hiertegen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 715</dossiernr>
+         </dossiernummer>
+         <titel>Staat van de Europese Unie 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">8</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VAN CAMPEN EN BONTENBAL</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat in Polen een onderzoekscommissie heeft vastgesteld dat Rusland en Belarus subtiel het vertrouwen ondermijnen in democratische instellingen, de Poolse regering, de NAVO en de EU;</al>
+                  <al>overwegende dat deze onderzoekscommissie heeft aangetoond dat de Poolse overheid gebrekkig handelt tegen de campagnes van Rusland en Belarus;</al>
+                  <al>overwegende dat deze informatie ook relevant is in het licht van de Nederlandse verkiezingen, in navolging van de beïnvloeding van de verkiezingen in Roemenië en Polen;</al>
+                  <al>verzoekt de regering een commissie op te richten die onderzoek doet naar de Russische en Belarussische beïnvloeding en die specifiek toetst of de Nederlandse overheid effectief hiertegen handelt, en hierover halfjaarlijks aan de Kamer te rapporteren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Van Campen</al>
+                     <al>Bontenbal</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

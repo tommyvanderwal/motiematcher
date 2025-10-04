@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-225/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">225</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-30">30 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er in heel Europa voor het online maatschappelijk debat een grote afhankelijkheid bestaat van Amerikaanse en Chinese commerciële socialemediaplatforms;</al>
+            <al>constaterende dat deze platforms een poortwachtersfunctie hebben in een markt waarin het zeer moeilijk is voor alternatieve platforms om in te stappen;</al>
+            <al>overwegende dat algoritmes die ophef, polarisatie en verslaving aanjagen onderdeel zijn van het verdienmodel van big tech;</al>
+            <al>overwegende dat buitenlandse mogendheden deze algoritmes aangrijpen om propaganda te verspreiden en democratische processen te verstoren;</al>
+            <al>overwegende dat de Digital Markets Act en de Digital Services Act op Europees niveau tot stand zijn gekomen;</al>
+            <al>roept de regering op zich in Europees verband maximaal in te zetten voor snelle uitvoering, effectieve handhaving en op basis van een evaluatie eventuele aanscherpingen van deze wetgeving om te zorgen voor interoperabiliteit van berichten op grote socialemediaplatforms op basis van open protocollen, het mogelijk maken voor alternatieve platforms om in de markt te stappen en het ontwikkelen en toepassen van transparante aanbevelingsalgoritmes op basis van publieke waarden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

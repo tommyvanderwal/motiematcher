@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36449-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 449</dossiernr>
+      </dossiernummer>
+      <titel>Vereenvoudiging van de banenafspraak en de quotumregeling voor mensen met een arbeidsbeperking (Wet banenafspraak)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat banen pas meetellen voor de banenafspraak wanneer het werk plaatsvindt bij «reguliere» bedrijven of overheidsinstellingen;</al>
+            <al>overwegende dat de Arbeidsinspectie signaleert dat werkgevers door de arbeidsmarktkrapte vaak onvoldoende ruimte hebben om invulling te geven aan de begeleidingsbehoefte van werknemers die onder de banenafspraak vallen;</al>
+            <al>overwegende dat het centraal stellen van het werk zelf, in plaats van de plek waar het werk plaatsvindt, nieuwe mogelijkheden kan creëren voor mensen met een afstand tot de arbeidsmarkt;</al>
+            <al>overwegende dat dit kan door bedrijven te stimuleren (een deel van) hun productie bij werkontwikkelbedrijven neer te leggen, zodat ook dat werk meetelt voor de banenafspraak;</al>
+            <al>verzoekt de regering te onderzoeken hoe de banenafspraak ruimer kan worden ingevuld door niet langer uitsluitend de werkplek, maar vooral het werk zelf als criterium te hanteren, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Lahlah</al>
+              <al>Ceder</al>
+              <al>Van Kent</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

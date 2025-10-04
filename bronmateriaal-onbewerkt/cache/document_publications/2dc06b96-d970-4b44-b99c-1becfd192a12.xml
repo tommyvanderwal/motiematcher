@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36600-VI-153"/>
+      <meta name="OVERHEIDop.ondernummer" content="153"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36600-VI"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Mutluer c.s. over uitspreken dat de Kamer onder bepaalde voorwaarden instemt met decharge voor de jaarverantwoording 2024 van JenV"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. van Nispen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.C. Sneller"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.P.J. van Eijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M. Aardema"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="W.J. Koops"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S. Mutluer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-11"/>
+      <meta name="DC.title" scheme="" content="Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025; Motie; Motie van het lid Mutluer c.s. over uitspreken dat de Kamer onder bepaalde voorwaarden instemt met decharge voor de jaarverantwoording 2024 van JenV"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Financiën | Begroting"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 600</dossiernr>
+            <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+         </dossiernummer>
+         <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">153</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID MUTLUER C.S. </titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-06-11">11 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>gelezen het rapport van de Algemene Rekenkamer en de jaarverantwoording van het Ministerie van Justitie en Veiligheid over 2024;</al>
+                  <al>constaterende dat het Ministerie van Justitie en Veiligheid in 2024 de meeste onvolkomenheden van alle ministeries kende;</al>
+                  <al>constaterende dat deze onvolkomenheden betrekking hebben op het functioneren van de strafrechtketen, waaronder de doorlooptijden van zaken, het informeren van slachtoffers, het uitvoeren van uitvoeringstoetsen en fouten in de tenaamstelling van veroordeelden;</al>
+                  <al-groep>
+                     <al>spreekt uit dat de Kamer instemt met decharge voor de jaarverantwoording 2024 van het Ministerie van Justitie en Veiligheid, onder de voorwaarde dat bij de begroting voor 2026 concreet wordt uitgewerkt:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe essentiële informatie over doorlooptijden van individuele strafzaken ketenbreed beschikbaar kan worden gemaakt, eventueel met nieuwe wetgeving;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe bij elk beleids- en wetsvoorstel voortaan standaard een uitvoeringstoets wordt uitgevoerd en met de Kamer wordt gedeeld, en dat als hiervan wordt afgeweken, het ministerie dit duidelijk moet toelichten en verantwoorden («comply or explain»-principe);</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe het Openbaar Ministerie en de bewindspersonen ervoor zorgen dat slachtoffers de informatie krijgen waarop zij (wettelijk) recht hebben;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe fouten bij het verkeerd vermelden van namen van veroordeelden worden hersteld en hoe herhaling in de toekomst wordt voorkomen;</al>
+                        </li>
+                        <li>
+                           <li.nr>–</li.nr>
+                           <al>hoe de bewindspersonen hun wettelijke bevoegdheid om aanwijzingen te geven en regie te voeren inzetten ter bevordering van de bedrijfsvoering, zoals de logistiek verbeteren, definities harmoniseren en sturingsinformatie beter bijhouden, zonder daarbij de onafhankelijkheid van ketenpartners of de inhoudelijke behandeling van zaken aan te tasten;</al>
+                        </li>
+                     </lijst>
+                     <al>verzoekt de regering de Kamer hierover tijdig vóór de begrotingsbehandeling te informeren,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Mutluer</al>
+                     <al>Koops</al>
+                     <al>Aardema</al>
+                     <al>Van Eijk</al>
+                     <al>Sneller</al>
+                     <al>Van Nispen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

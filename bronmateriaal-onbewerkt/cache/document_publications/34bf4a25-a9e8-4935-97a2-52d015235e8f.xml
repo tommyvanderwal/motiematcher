@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2055/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2055</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TUINMAN EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-19">19 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Raad van december 2023 heeft bepaald dat Bosnië en Herzegovina aan acht criteria moet voldoen, zoals bijvoorbeeld de rechtsstaat, migratie en corruptiebestrijding, alvorens de toetredingsonderhandelingen geopend worden;</al>
+            <al>constaterende dat uit rapportage van de Europese Commissie van 12 maart blijkt dat Bosnië en Herzegovina vooruitgang heeft geboekt op alle opgestelde criteria, maar dat aan een aantal nog niet volledig voldaan is;</al>
+            <al>constaterende dat de Europese Commissie op 12 maart 2024 desondanks een aanbeveling heeft gedaan om de toetredingsonderhandelingen tussen Bosnië en Herzegovina en EU-lidstaten te openen;</al>
+            <al>verzoekt de regering vast te houden aan het principe van strikt voldoen aan de harde voorwaarden die voortkomen uit de Kopenhagencriteria met het opstellen van het onderhandelingsraamwerk;</al>
+            <al>verzoekt de regering dat de EU-landen geen onderhandelingsgesprekken kunnen openen indien Bosnië en Herzegovina niet voldoet aan de in december 2023 opgestelde acht criteria, en pas in te stemmen met het onderhandelingsraamwerk als de voorwaarden voldoende objectief en stevig zijn geformuleerd;</al>
+            <al>verzoekt de regering om de dialoog aan te gaan met 26 andere EU-landen om steun te mobiliseren voor strikt en fair beleid, zodat Nederland niet weer geïsoleerd komt te staan in de vervolgbesluitvorming over EU-uitbreiding,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tuinman e</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

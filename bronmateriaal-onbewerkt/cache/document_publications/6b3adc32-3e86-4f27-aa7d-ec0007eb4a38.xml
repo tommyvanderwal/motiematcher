@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32793-725/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 793</dossiernr>
+      </dossiernummer>
+      <titel>Preventief gezondheidsbeleid </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">725</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER PLAS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-29">29 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat ook in Nederland steeds meer ziekenhuizen overgaan of overwegen over te gaan tot het aanbieden van plantaardige voeding en het aanbieden van dierlijke eiwitten willen verminderen dan wel op termijn mogelijk willen staken;</al>
+            <al>overwegende dat, zeker voor zieke of oudere mensen, dierlijke eiwitten van belang zijn voor herstel, welzijn en het tegengaan van ondervoeding en mensen recht hebben op een vrije keuze;</al>
+            <al>overwegende dat uit onderzoek van het Maastricht UMC+ blijkt dat spiereiwitten anderhalve keer sneller worden aangemaakt na het eten van een vleesmaaltijd in vergelijking met een veganistische maaltijd;</al>
+            <al>verzoekt de regering erop toe te zien dat in ziekenhuizen dierlijke eiwitten niet van het menu verdwijnen, dat dit aanbod zichtbaar aanwezig blijft op de menu's en dat mensen er niet apart naar hoeven te vragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van der Plas</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

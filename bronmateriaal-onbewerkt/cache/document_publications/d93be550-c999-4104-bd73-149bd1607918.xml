@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31288-1216"/>
+      <meta name="OVERHEIDop.ondernummer" content="1216"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31288"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Rajkowski over overleg met colleges van bestuur om bij zware overtredingen van de huisregels altijd in te grijpen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="Q.M. Rajkowski"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid; Motie; Motie van het lid Rajkowski over overleg met colleges van bestuur om bij zware overtredingen van de huisregels altijd in te grijpen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Hoger onderwijs"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Onderwijs en wetenschap | Onderzoek en wetenschap"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 288</dossiernr>
+         </dossiernummer>
+         <titel>Hoger Onderwijs-, Onderzoek- en Wetenschapsbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1216</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID RAJKOWSKI</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat een sociaal en veilig onderwijs- en onderzoeksklimaat op onderwijsinstellingen een randvoorwaarde is om de academische vrijheid te borgen, te beschermen en uit te oefenen;</al>
+                  <al>constaterende dat zware overtredingen van de huisregels van onderwijsinstellingen, zoals vernieling van eigendom, intimidatie van personeel of studenten, of dreiging met geweld, tot onveilige situaties leiden, die de academische vrijheid beïnvloeden of beperken;</al>
+                  <al>van mening dat de academische vrijheid een onmisbaar principe is;</al>
+                  <al>verzoekt de regering om in overleg te gaan met diverse colleges van bestuur om te bezien wat zij nodig hebben om bij zware overtredingen van de huisregels altijd in te grijpen, en de Kamer hierover uiterlijk Q1 2026 te informeren;</al>
+                  <al>verzoekt de regering voorts deze colleges te vragen altijd sancties te verbinden aan het overtreden van die huisregels, bijvoorbeeld door het doen van aangifte, zodat de schade bij vernielingen verhaald kan worden of fysieke intimidatie en geweld aangepakt kunnen worden,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Rajkowski</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

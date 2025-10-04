@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29279-900/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 279</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsstaat en Rechtsorde</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">900</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SIX DIJKSTRA EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het regeerprogramma is opgenomen dat bezien wordt hoe financiering in de strafrechtketen minder kan worden gebaseerd op output en producten en meer gericht op het effectief samenwerken en presteren in de keten;</al>
+            <al>constaterende dat de huidige financiering in de rechtspraak grotendeels is gebaseerd op output, waarbij sprake is van een productiegerelateerde bijdrage (prijs maal volume) en een lumpsumbijdrage voor de vaste kosten en dat bij het ontwerp van dit bekostigingssysteem onder andere is gekeken naar welke tijd een rechter besteedt aan een gemiddelde zaak binnen een bepaald segment;</al>
+            <al-groep>
+              <al>overwegende dat deze wijze van financiering ertoe leidt dat voor de meeste rechtszaken vooraf wordt bepaald binnen hoeveel minuten deze moeten worden afgedaan en dat dit weinig ruimte biedt om verder te kijken dan de juridische kant van de zaak;</al>
+              <al>van mening dat het wenselijk zou zijn als in ieder geval in zaken waarin sprake is van multiproblematiek en/of verwarde personen bij de berechting meer tijd en aandacht kan worden gegeven aan het oplossen van de onderliggende problematiek zodat rechters meer ruimte krijgen voor het leveren van maatwerk;</al>
+            </al-groep>
+            <al>verzoekt de regering om binnen de rechtspraak experimenten te bevorderen waarin ervaring kan worden opgedaan met een maatwerkbehandeling van dergelijke zaken, waarbij rechters meer regie kunnen nemen bij het (duurzaam) oplossen van de onderliggende problematiek,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29240-163/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 240</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheid op school </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">163</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>van mening van geen enkel middel onbenut moet worden gelaten om de onderwijsinstellingen veilig te houden voor alle studenten en dat elk veiligheidsincident er een te veel is;</al>
+            <al>constaterende dat in toenemende mate sprake is van forse veiligheidsincidenten op universiteiten, zoals intimidatie, grensoverschrijdend gedrag en geweld;</al>
+            <al>constaterende dat de onderwijsinspectie toezicht houdt op hoger onderwijs, maar dat er op dit moment geen wettelijke plicht bestaat voor de hogeronderwijsinstellingen om incidenten of misstanden te melden en de inspectie hier momenteel dus onvoldoende toezicht op houdt;</al>
+            <al>overwegende dat de veiligheid en schoolklimaat onderdeel zijn van de waarderingskaders van de onderwijsinspectie voor zowel primair- als voortgezetonderwijsscholen en de inspectie hierop herstelopdrachten kan geven;</al>
+            <al>spreekt uit dat een vergelijkbare manier van toezicht door de inspectie op het veiligheidsbeleid van universiteiten wenselijk is en gezien de toenemende incidenten proportioneel is;</al>
+            <al>verzoekt de regering om een pilot uit te werken waarin de onderwijsinspectie op korte termijn toezicht kan houden en herstelopdrachten kan geven op veiligheidsbeleid van hogeronderwijsinstellingen, parallel aan hoe dit toezicht binnen het funderend onderwijs is vormgegeven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Martens-America</al>
+              <al>Eerdmans</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

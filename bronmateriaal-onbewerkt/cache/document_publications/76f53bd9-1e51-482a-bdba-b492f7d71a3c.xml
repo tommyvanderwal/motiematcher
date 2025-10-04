@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-670/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">670</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN PODT EN GRINWIS TER VERVANGING VAN DIE GEDRUKT ONDER NR. 666</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat professioneel pesticidengebruik in verband wordt gebracht met de ziekte van Parkinson maar het RIVM-onderzoek dat hiernaar loopt nog jaren duurt;</al>
+            <al>constaterende dat in Duitsland, Italië en Frankrijk, na jaren onderzoek, Parkinson als beroepsziekte is aangewezen voor boeren;</al>
+            <al>van mening dat boeren die gewerkt hebben met goedgekeurde bestrijdingsmiddelenmiddelen geholpen dienen te worden als blijkt dat zij daardoor Parkinson hebben gekregen;</al>
+            <al>overwegende dat er een onafhankelijke commissie is die ziektes kwalificeert als beroepsziekten en er reeds een tegemoetkomingsregeling is opgezet voor stoffengerelateerde beroepsziekten (TSB);</al>
+            <al>overwegende dat er vanaf 2024 extra geld beschikbaar is in de TSB omdat er rekening is gehouden met een mogelijke uitbreiding van het aantal beroepsziekten;</al>
+            <al>verzoekt de regering om samen met de onafhankelijke commissie te bezien of Parkinson op korte termijn gekwalificeerd kan worden als beroepsziekte en deze te laten vallen onder de TSB,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Podt</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

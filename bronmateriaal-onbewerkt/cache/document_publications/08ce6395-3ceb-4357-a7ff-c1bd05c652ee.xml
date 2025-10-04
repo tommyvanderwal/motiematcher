@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-V-48/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>V</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Buitenlandse Zaken (V) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">48</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BREKELMANS EN VELDKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-14">14 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland kwetsbaar is voor internationale veiligheidsdreigingen, geopolitieke spanningen en druk door autocratische grootmachten;</al>
+            <al>overwegende dat de samenwerking tussen overheid en bedrijfsleven omtrent nationale veiligheid en geopolitieke weerbaarheid op dit moment vaak nog ad hoc is en niet altijd optimaal verloopt;</al>
+            <al>overwegende dat in sommige gevallen een spanning kan bestaan tussen nationale veiligheid en economische belangen, en hierin een juiste balans gevonden dient te worden;</al>
+            <al>overwegende dat zowel het beschermen van onze nationale veiligheid als het versterken van onze geopolitieke weerbaarheid een gezamenlijke inspanning vergt van de Nederlandse overheid (inclusief betrokkenheid van inlichtingendiensten) en bedrijven (met name in strategische sectoren);</al>
+            <al>verzoekt de regering een geopolitieke raad in te richten, bestaande uit betrokken ministeries, inlichtingendiensten en relevante afgevaardigden uit het bedrijfsleven (in het bijzonder strategische sectoren), die regelmatig overleg voert over het beschermen van onze nationale veiligheid en het versterken van onze geopolitieke weerbaarheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Brekelmans</al>
+              <al>Veldkamp</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

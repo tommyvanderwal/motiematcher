@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1483/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1483</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WINGELAAR C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de hersteloperatie kinderopvangtoeslag gericht is op het herstellen van onrecht en het verhelpen van financiële problemen door onterechte terugvorderingen;</al>
+            <al>constaterende dat de regeling voor schuldovername momenteel hoofdzakelijk is beperkt tot formele schulden die opeisbaar zijn en vastgelegd in een notariële akte, waardoor veel aantoonbaar gerelateerde, maar informeel vastgelegde schulden buiten de regeling vallen;</al>
+            <al>overwegende dat de Afdeling bestuursrechtspraak van de Raad van State in zijn uitspraak van 15 mei 2024 (ECLI:NL:RVS:2024:2045), met name in</al>
+            <al>overwegingen 19 tot 22, heeft benadrukt dat toepassing van de regeling in lijn moet zijn met de rechtsbeginselen van gelijkheid en evenredigheid en dat het uitsluiten van bepaalde informele schulden daarmee in strijd kan zijn;</al>
+            <al>verzoekt de regering om genoemde overwegingen vast te leggen in relevante regelgeving, zodat ook niet in een notariële akte vastgelegde schulden die aantoonbaar samenhangen met de toeslagenaffaire in aanmerking komen voor schuldovername;</al>
+            <al>en verzoekt de regering de Kamer hier binnen een maand over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Wingelaar</al>
+              <al>Inge van Dijk</al>
+              <al>Dijk</al>
+              <al>Haage</al>
+              <al>Vijlbrief</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

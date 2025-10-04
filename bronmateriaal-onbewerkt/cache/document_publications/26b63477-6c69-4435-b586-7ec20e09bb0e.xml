@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VI-70/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Justitie en Veiligheid (VI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">70</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DIEDERIK VAN DIJK EN BIKKER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-08">8 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de norm één wijkagent op 5.000 inwoners wettelijk is vastgelegd zodat wijkagenten in de haarvaten van de samenleving kunnen opereren teneinde zich in te zetten voor lokale verankering en criminaliteitspreventie;</al>
+            <al>overwegende dat wijkagenten niet aan hun werk toekomen omdat ze moeten bijspringen in de noodhulp of bij demonstraties en dat daarmee de norm uit het referentiekader GGP die ervoor zorgt dat wijkagenten voor 80% zijn vrijgesteld voor het werken «in of voor de wijk» niet gehaald wordt;</al>
+            <al>verzoekt de regering te bevorderen dat wijkagenten daadwerkelijk 80% van hun tijd hun eigenlijke werkzaamheden in of voor de wijk kunnen uitoefenen, en de Kamer hier voor de zomer van 2024 over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

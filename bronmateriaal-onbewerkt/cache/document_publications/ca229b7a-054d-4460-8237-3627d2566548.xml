@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29628-1203/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 628</dossiernr>
+      </dossiernummer>
+      <titel>Politie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1203</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SNELLER EN MUTLUER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-24">24 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het TOOI inlichtingen mag verzamelen over burgers op grond van artikel 3 Politiewet, mits er niet meer dan een geringe inbreuk wordt gemaakt op het grondrecht van bescherming van de persoonlijke levenssfeer;</al>
+            <al>constaterende dat het vanwege het algemene karakter van artikel 3 voor veel bevoegdheden waarvan TOOI gebruikmaakt onduidelijk is of deze een geringe of verregaandere inbreuk maken op de grondrechten van burgers;</al>
+            <al>overwegende dat er, in afwachting van de verkenning door de Minister van Justitie en Veiligheid en een eventueel daaruit volgend wetgevingstraject, op korte termijn helderheid moet komen over de kaders waarbinnen TOOI mag opereren en dat een brede groep fracties in de gemeenteraad van Amsterdam hiertoe een initiatiefvoorstel heeft ingediend;</al>
+            <al-groep>
+              <al>verzoekt de regering om samen met regioburgemeesters een landelijk kader vast te stellen voor de uitoefening van bevoegdheden en inlichtingenmethoden door TOOI en in dit kader minimaal vast te leggen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>welke bevoegdheden TOOI kan inzetten op grond van artikel 3 Politiewet;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>welke door de burgemeester bepaalde doelen de inzet van een bevoegdheid rechtvaardigen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>voor de inzet van welke bevoegdheden voorafgaande toestemming nodig is van het gezag;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>dat onderzocht dient te worden wanneer burgers ingelicht kunnen worden of zij voorwerp waren van een onderzoek en op welke manier hun persoonsgegevens daarbij zijn verwerkt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>welke rechtsbescherming de burger heeft om tegen gebruikmaking van bevoegdheden in verweer te komen,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Sneller</al>
+              <al>Mutluer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36708-26"/>
+      <meta name="OVERHEIDop.ondernummer" content="26"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-18"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36708"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Haage c.s. over jaarlijkse doelstellingen voor het terugdringen van terugvorderingen en niet-gebruik van toeslagen (t.v.v. 36708-19)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.A. Vijlbrief"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.A. Grinwis"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P. Dijk"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.W. Haage"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toeslagen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-17"/>
+      <meta name="DC.title" scheme="" content="Toeslagen; Motie (gewijzigd/nader); Gewijzigde motie van het lid Haage c.s. over jaarlijkse doelstellingen voor het terugdringen van terugvorderingen en niet-gebruik van toeslagen (t.v.v. 36708-19)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Bestuur | Parlement"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Sociale zekerheid | Gezin en kinderen"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 708</dossiernr>
+         </dossiernummer>
+         <titel>Toeslagen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">26</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID HAAGE C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 19</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-17">17 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat elk jaar meer dan een half miljoen mensen te maken krijgen met hoge terugvorderingen van de Dienst Toeslagen;</al>
+                  <al>constaterende dat de Inspectie belastingen, toeslagen en douane de noodklok luidt omdat mensen hun dagelijkse basale kosten niet meer kunnen betalen door de hoge betalingsregelingen;</al>
+                  <al>constaterende dat er volgens het Centraal Planbureau in 2021 meer dan 1 miljard aan toeslagen voor zorg, huur en kinderopvang niet werd aangevraagd en dit vooral zelfstandigen en gepensioneerden treft;</al>
+                  <al>constaterende dat de staatsecretaris wel de ambitie heeft om deze aantallen terug te dringen, maar er geen doelstelling op staat;</al>
+                  <al>overwegende dat hervormingen van het toeslagenstelsel nog ver vooruit worden geschoven;</al>
+                  <al>overwegende dat dé les van het toeslagenschandaal is dat hoge terugvorderingen mensen enorm in de vernieling hebben gebracht;</al>
+                  <al-groep>
+                     <al>overwegende dat mensen zo onder het sociaal minimum kunnen zakken;</al>
+                     <al>verzoekt de regering jaarlijkse doelstellingen te formuleren op het niet-gebruik van toeslagen en het terugdringen van het aantal hoge terugvorderingen,</al>
+                  </al-groep>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Haage</al>
+                     <al>Dijk</al>
+                     <al>Grinwis</al>
+                     <al>Vijlbrief</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

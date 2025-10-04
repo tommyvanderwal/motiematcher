@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36395-12/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 395</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Politiewet 2012 in verband met een delegatiegrondslag voor een algemene maatregel van bestuur over de bewapening en uitrusting van buitengewoon opsporingsambtenaren</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">12</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MUTLUER</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat groene boa's in de buitengebieden steeds vaker geconfronteerd worden met criminele activiteiten, wildtroperij, geweld en agressie;</al>
+            <al>overwegende dat de aanvraag voor het gebruik van een vuurwapen terecht vooraf wordt getoetst door Justis met advies van het Openbaar Ministerie en de politie;</al>
+            <al>overwegende dat de toegepaste toetsingscriteria in de praktijk als te rigide worden ervaren met ruimte voor wisselende beoordelingen;</al>
+            <al>verzoekt de regering om onderzoek te doen naar de toepassing van die toetsingscriteria door Justis bij vuurwapenaanvragen van groene boa's, en de resultaten en mogelijke aanpassingen te betrekken bij het nieuwe boa-stelsel,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mutluer</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

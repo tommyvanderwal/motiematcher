@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-88/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">88</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-14">14 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de visserij verantwoordelijk wordt gemaakt voor compensatie van de natuurschade veroorzaakt door het Havenbedrijf Rotterdam, terwijl het Havenbedrijf primair verantwoordelijk is voor het naleven van de voorschriften bij de vergunningverlening;</al>
+            <al>van mening dat uitvoering geven aan de rechterlijke uitspraak moet gebeuren op een wijze waarbij de visserij zo veel mogelijk tegemoet wordt gekomen en zo nodig adequaat wordt gecompenseerd, rekening houdend met het feit dat de visserij part noch deel heeft aan de aanleg van de Tweede Maasvlakte, maar die tegelijkertijd juridisch steekhoudend is;</al>
+            <al>van mening dat bij de te nemen maatregelen als uitgangspunten genomen moeten worden dat 2.146 hectare habitat is verdwenen en dat daarvoor compensatie geldt in plaats van de eerdergenoemde 2.455 hectare, dat juridisch geen harde eisen worden gesteld aan de tijdscompensatie en dat dit minimaal moet worden ingevuld, en dat het na overleg met de visserij aan te wijzen gebied qua locatie waar mogelijk de visserij ontziet, zoals in het Brouwershavense Gat, het gebied boven de Bollen van de Ooster en aan de westzijde van de Hinderplaat;</al>
+            <al>van mening dat er met het (aangepaste) voorgenomen besluit definitieve duidelijkheid moet komen voor vissers, het Havenbedrijf en natuurorganisaties over de vereiste natuurcompensatie;</al>
+            <al>overwegende dat monitoring van de visserijeffecten binnen en buiten de gesloten gebieden van belang is, zodat de daadwerkelijke impact van de visserij ten opzichte van de natuurlijke dynamiek in beeld gebracht kan worden en de gebiedssluiting geëvalueerd kan worden;</al>
+            <al>verzoekt de regering om een aangepast voorgenomen besluit te maken voor de vereiste natuurcompensatie uitgaande van de bovenstaande uitgangspunten en deze gelijktijdig met het besluit over een adequaat en uitgewerkt compensatiepakket aan de Kamer voor te leggen;</al>
+            <al>verzoekt de regering om de vergunning van het Havenbedrijf Rotterdam op dit besluit aan te passen en op het besluit overeenstemming met de Europese Commissie te bereiken;</al>
+            <al>verzoekt de regering ervoor te zorgen dat deze gebiedssluiting meegenomen wordt in het kader van het Noordzeeakkoord ten behoeve van 15% bodembescherming in 2030,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Meulenkamp</al>
+              <al>Van der Plas</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

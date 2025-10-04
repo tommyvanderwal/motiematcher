@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-25883-535"/>
+      <meta name="OVERHEIDop.ondernummer" content="535"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="25883"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Kisteman en Flach over handhaving op de gevarensymbolen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A.J. Flach"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="A. Kisteman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Arbeidsomstandigheden"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Arbeidsomstandigheden; Motie; Motie van de leden Kisteman en Flach over handhaving op de gevarensymbolen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Werk | Arbeidsomstandigheden"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>25 883</dossiernr>
+         </dossiernummer>
+         <titel>Arbeidsomstandigheden</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">535</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN KISTEMAN EN FLACH</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat de eisen aan een RI&amp;E-rapport met het certificatieschema uit 2022 enorm zijn aangescherpt;</al>
+                  <al>overwegende dat voor het toetsen van de betrouwbaarheid (1.4, tabel 1) van de RI&amp;E eisen gelden die voor het kleine mkb niet of nauwelijks uitvoerbaar zijn, waaronder op het niveau van alle componenten in een product;</al>
+                  <al>overwegende dat deze eisen in de praktijk zodanig worden geïnterpreteerd dat in alle gevallen, dus ook door kleine bedrijven, voor alle componenten waarmee gewerkt wordt dergelijke beoordelingen moeten worden uitgevoerd;</al>
+                  <al>overwegende dat een dergelijke eis voor grote organisaties al nauwelijks haalbaar is en voor kleine organisaties compleet onuitvoerbaar en onbetaalbaar;</al>
+                  <al>constaterende dat het draagvlak om op basis van deze eisen werk te maken van gezond werken met gevaarlijke stoffen, zeker in het mkb, geheel ontbreekt;</al>
+                  <al>verzoekt de regering ervoor te zorgen dat gehandhaafd wordt op naleving van de gevarensymbolen op het etiket van het product waarmee gewerkt wordt, ervan uitgaande dat deze voldoende waarschuwing geven om gezond en veilig werken te garanderen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Kisteman</al>
+                     <al>Flach</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

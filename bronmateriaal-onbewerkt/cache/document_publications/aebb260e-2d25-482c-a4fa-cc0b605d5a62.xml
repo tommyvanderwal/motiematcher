@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28638-243/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 638</dossiernr>
+      </dossiernummer>
+      <titel>Mensenhandel </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">243</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HELDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Valkenburgse zedenzaak, waarbij een minderjarig slachtoffer tot seks met meerdere volwassen mannen werd gedwongen, tot de conclusie heeft geleid dat dergelijke situaties niet met een taakstraf mogen worden afgedaan;</al>
+            <al>constaterende dat in dat kader artikel 22b, lid 1 in het Wetboek van Strafrecht is opgenomen, inhoudende dat een taakstraf niet wordt opgelegd bij veroordeling voor een misdrijf waarvoor een gevangenisstraf van 6 jaar of meer is gesteld en waarbij sprake is van een ernstige inbreuk op de lichamelijke integriteit van het slachtoffer;</al>
+            <al>constaterende dat de rechterlijke macht in uitspraken in vergelijkbare zedenzaken waarin sprake is van seksueel misbruik van minderjarigen tot veel lagere straffen komt dan het Openbaar Ministerie heeft geëist en nog steeds een taakstraf oplegt in deze gevallen, in combinatie met slechts één dag onvoorwaardelijke gevangenisstraf, en daarmee bewust het doel van het taakstrafverbod in deze kwesties miskent door misbruik te maken van de uitzondering van artikel 22b, lid 3 Wetboek van Strafrecht;</al>
+            <al>verzoekt de regering om in het kader van het beschermen van de lichamelijke integriteit van minderjarigen de uitzondering van artikel 22b, lid 3 Sr ingeval van seksueel misbruik van minderjarigen uit de wet te halen, dan wel een minimumstraf in te voeren voor seksueel misbruik van minderjarigen, waarbij het doel is dat de dader voor een termijn die in verhouding staat tot het betreffende strafbare feit achter de tralies verdwijnt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Helder</al>
+              <al>Diederik van Dijk</al>
+              <al>Veltman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XXII-37/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XXII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening (XXII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">37</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID WELZIJN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-24">24 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het op korte termijn bereiken van een bouwstroom van 100.000 woningen een tour de force is, terwijl die wel nodig is om de woningnood te verlichten;</al>
+            <al>overwegende dat met het huidige wettelijke instrumentarium niet altijd kan worden ingespeeld op nieuwe weerbarstige problemen bij grootschalige woningbouwprojecten zoals netcongestie, drinkwateraansluitingen, geluidsnormeringen, waterproblematiek, vergunningverlening voor toeleveranciers van klei, grind en zand, nieuwe Europese verordeningen et cetera, om die het hoofd te bieden;</al>
+            <al>constaterende dat er diverse bouwplannen vertragen vanwege een samenloop van haperende interbestuurlijke samenwerking, langjarige juridische procedures, bovenbeschreven problematiek en uitvoeringsproblemen;</al>
+            <al>constaterende dat er bestuurlijk lef nodig is om impasses te doorbreken;</al>
+            <al>verzoekt de regering om door te pakken en het wettelijk instrumentarium optimaal te benutten om tot versnelling van woningbouwprojecten te komen, lerend van de Crisis- en herstelwet, om deze wooncrisis aan te pakken,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Welzijn</al>
+              <al>Vijlbrief</al>
+              <al>Grinwis</al>
+              <al>Peter de Groot</al>
+              <al>De Hoop</al>
+              <al>Vedder</al>
+              <al>Wijen-Nass</al>
+              <al>Beckerman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

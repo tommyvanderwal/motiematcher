@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35334-316/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 334</dossiernr>
+      </dossiernummer>
+      <titel>Problematiek rondom stikstof en PFAS</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">316</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN VEDDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-09-25">25 september 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat Nederland inmiddels vijf jaar gebukt gaat onder een stikstofslot, waardoor PAS-melders en interim-mers geen zicht hebben op het verkrijgen van een vergunning, en woningbouw- en infrastructuurprojecten stilliggen;</al>
+            <al>overwegende dat de motie-Holman c.s. (<extref doc="kst-30252-133" soort="document" status="actief">30 252, nr. 133</extref>) over voortaan een rekenkundige ondergrens van 1 mol per hectare per jaar te hanteren niet is uitgevoerd;</al>
+            <al>verzoekt de regering aan te geven hoe PAS-melders een oplossing geboden gaat worden;</al>
+            <al>verzoekt de regering aan te geven hoe zij, naast het uitvoeren van de motie-Holman, een verlaging van de stikstofemissie gaat realiseren om Nederland van het stikstofslot af te halen, en beide voor 1 december 2024 voor te leggen aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

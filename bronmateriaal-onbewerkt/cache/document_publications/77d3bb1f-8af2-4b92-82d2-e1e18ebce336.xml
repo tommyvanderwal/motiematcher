@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-90/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">90</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat volgens de VNG, de PO-raad en de VO-raad er een tekort van 1,2 miljard euro per jaar is om de achterstand in onderwijshuisvesting in te halen;</al>
+            <al>constaterende dat onderwijshuisvestingsmiddelen voor zowel schoolbesturen als gemeenten niet geoormerkt zijn;</al>
+            <al>constaterende dat in het IBO Onderwijshuisvesting uit 2021 wordt aanbevolen om budgetten te stroomlijnen door het oormerken van gemeentelijke budgetten;</al>
+            <al>constaterende dat uit onderzoek van de Rekenkamer uit 2016 blijkt dat er sprake was van onderbesteding door gemeenten;</al>
+            <al>overwegende dat budgettaire prioritering van middelen een aanzienlijke bijdrage kan leveren aan de gewenste kwaliteitsslag van schoolgebouwen;</al>
+            <al>verzoekt de regering om een effectenverkenning uit te voeren van het oormerken van onderwijshuisvestingsmiddelen gericht naar de impact op de landelijke verbeteropgave onderwijshuisvesting,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ergin</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

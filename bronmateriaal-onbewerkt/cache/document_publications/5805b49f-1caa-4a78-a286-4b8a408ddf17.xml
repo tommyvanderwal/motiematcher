@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1348/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1348</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN HOLMAN EN VAN CAMPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat er heel veel diertransporten zijn van en naar Nederland;</al>
+            <al>overwegende dat diertransporten een groot risico vormen bij het verspreiden van dierziekten en het binnenhalen van zieke dieren, die ziektes als varkenspest en mond- en klauwzeer kunnen veroorzaken;</al>
+            <al>overwegende dat uit het oogpunt van dierwaardigheid langeafstandstransporten onwenselijk zijn;</al>
+            <al>verzoekt de regering zich actief in te zetten voor een forse daling van het aantal diertransporten om het risico op een pandemie of ziekte-uitbraak te verkleinen;</al>
+            <al>verzoekt de regering zich in te zetten om uit oogpunt van dierenwelzijn zich in het bijzonder in te zetten voor het verminderen van langeafstandstransporten anders dan hoogwaardig fokmateriaal,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

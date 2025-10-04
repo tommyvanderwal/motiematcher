@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2898/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2898</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN BREKELMANS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Russische agressie in Oekraïne toeneemt en de Oekraïners ook vechten voor onze vrijheid en veiligheid;</al>
+            <al>overwegende dat Rusland een overmacht heeft in de lucht en het daarmee cruciaal is om Oekraïne te ondersteunen bij het realiseren van een gelaagde en geïntegreerde luchtverdediging op de grond en een wendbare luchtmacht;</al>
+            <al>overwegende dat het daarnaast zowel legitiem als noodzakelijk is dat Oekraïne in staat is om militaire doelen op Russisch grondgebied te bestrijden;</al>
+            <al>verzoekt de regering in NAVO-verband te pleiten voor een strategie om een robuust luchtafweersysteem op te bouwen voor de lange termijn;</al>
+            <al>verzoekt de regering tevens om tijdens de RBZ en de NAVO-ministeriële zich actief in te zetten voor commitment van de EU en de NAVO-lidstaten voor het opheffen van restricties om geleverde wapens in te zetten op legitieme militaire doelen in Rusland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Brekelmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

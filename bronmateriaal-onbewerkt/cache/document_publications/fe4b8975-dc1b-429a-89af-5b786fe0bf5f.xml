@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29509-81/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 509</dossiernr>
+      </dossiernummer>
+      <titel>Palliatieve zorg </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">81</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN SLAGT-TICHELMAN EN JOSEPH TER VERVANGING VAN DIE GEDRUKT ONDER NR. 79</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-04">4 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat wijkverpleegkundigen vaak medische hulpmiddelen of spoedhulpmiddelen nodig hebben bij het verlenen van zorg als bijvoorbeeld katheters en wondverzorgingsmateriaal;</al>
+            <al>constaterende dat hier vaak nog een aparte brief of handtekening van de huisarts voor nodig is – onnodige administratieve lasten;</al>
+            <al>constaterende dat in geval van katheterisatie dit een voorbehouden handeling is die onder de Wet BIG valt, waarbij een verpleegkundige dit mag verrichten bij een patiënt nadat zij daartoe opdracht heeft gekregen en als zij daartoe bekwaam is;</al>
+            <al>overwegende dat wijkverpleegkundigen experts zijn in hun vak, die zeggenschap verdienen over hun werk;</al>
+            <al>overwegende dat huisartsen ontlast kunnen worden met administratieve lasten als zij niet per se als tussenpersoon nodig zijn in de aanvraag van hulpmiddelen;</al>
+            <al>verzoekt de regering te regelen dat wijkverpleegkundigen zonder tussenkomst van de huisarts direct medische hulpmiddelen en spoedhulpmiddelen kunnen aanvragen – in geval van spoed bijvoorbeeld via een spoedlijn – en dit praktisch in te richten en snel met het werkveld te implementeren;</al>
+            <al>verzoekt de regering hierbij in geval van voorbehouden handelingen het pragmatisch zo te regelen dat tussenkomst van de opdrachtgever niet noodzakelijk hoeft te zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>Joseph</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

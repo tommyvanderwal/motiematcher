@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36766-10"/>
+      <meta name="OVERHEIDop.ondernummer" content="10"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36766"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bamenga en Thijssen over de investeringshorizon van de RED III-wetgeving verlengen tot 2040"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J. Thijssen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-29"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad; Motie; Motie van de leden Bamenga en Thijssen over de investeringshorizon van de RED III-wetgeving verlengen tot 2040"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 766</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">10</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BAMENGA EN THIJSSEN</titel>
+         <datumtekst>Voorgesteld tijdens het wetgevingsoverleg van <datum isodatum="2025-09-29">29 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat RED III-regelgeving nu slechts tot 2030 is vastgelegd;</al>
+                  <al>overwegende dat bedrijven die investeren in hernieuwbare brandstoffen behoefte hebben aan een langjarige horizon om hun investeringen terug te verdienen en nieuwe projecten aan te gaan;</al>
+                  <al>overwegende dat er brede steun in het veld is voor een langere looptijd van de RED III en Duitsland heeft gekozen voor een looptijd van 2040;</al>
+                  <al>verzoekt de regering om de investeringshorizon van de RED III-wetgeving te verlengen tot 2040 om een gelijk speelveld in Europa te waarborgen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bamenga</al>
+                     <al>Thijssen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

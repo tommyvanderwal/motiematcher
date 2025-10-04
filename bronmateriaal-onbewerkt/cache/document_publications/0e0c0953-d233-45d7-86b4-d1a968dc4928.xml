@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-3008/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3008</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DOBBE EN VAN DER BURG</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-22">22 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de oorlog in Sudan nu al bijna twee jaar duurt, met groot menselijk leed tot gevolg en zonder uitzicht op verbetering;</al>
+            <al>constaterende dat verschillende onderzoeken uitwijzen dat de Verenigde Arabische Emiraten wapens leveren aan de RSF in Darfur, tegen het geldende wapenembargo in;</al>
+            <al>constaterende dat de Kamer eerder moties aannam die opriepen tot het stoppen met het leveren van wapens aan landen die aan vechtende partijen in Sudan doorvoeren en tot een VN-wapenembargo voor heel Sudan;</al>
+            <al>verzoekt de regering om bij de RBZ te pleiten voor maatregelen richting de Verenigde Arabische Emiraten en andere landen die wapens of financiële steun leveren aan strijdende partijen in Sudan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dobbe</al>
+              <al>Van der Burg</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

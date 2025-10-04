@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-J-20/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>J</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Deltafonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">20</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIERIK</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-11-18">18 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is opgenomen dat de normen in de Nederlandse wateren in lijn gebracht worden met de omliggende landen;</al>
+            <al>overwegende dat de normen in Duitsland en België doorgaans veel ruimer zijn dan in Nederland en dit een ongelijke situatie veroorzaakt;</al>
+            <al>overwegende dat dit een complex onderwerp is waarbij er sprake is van vele verschillende soorten wateren en verschillende bevoegde gezagen;</al>
+            <al>overwegende dat deze verdeelde bevoegdheid tot vertraging en onduidelijkheid leidt;</al>
+            <al>constaterende dat de Minister van IenW eindverantwoordelijke is als het gaat om de waterkwaliteit;</al>
+            <al>constaterende dat de aanpassing van de normen voor KRW-wateren via de stroomgebiedbeheerplannen zal plaatsvinden;</al>
+            <al>overwegende dat er daarnaast wateren zijn die niet onder het KRW-regime vallen of niet direct, zoals de overige wateren;</al>
+            <al>verzoekt de regering om het voortouw te nemen in het zo spoedig mogelijk aanpassen van de nitraatnormen in de oppervlaktewateren die niet onder het KRW-regime vallen en in de overige wateren waar dat kan, en die in lijn te brengen met de soepelere normen in Duitsland en België,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Pierik</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

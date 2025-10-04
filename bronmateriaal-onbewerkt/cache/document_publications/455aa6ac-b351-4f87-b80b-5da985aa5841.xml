@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-91/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">91</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SOEPBOER EN CEDER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het ontstaan van extra overhead, bijvoorbeeld in de vorm van nieuwe governancelagen, in het verleden een onbedoeld en ongewenst neveneffect gebleken is bij de inzet van subsidiegelden ten behoeve van het onderwijs;</al>
+            <al>overwegende dat, zeker in tijden van schaarste, de kosten van ongewenste overhead tot een absoluut minimum beperkt moeten worden, zodat kostbare middelen volledig kunnen worden ingezet voor de kwaliteit van het primaire proces van het onderwijs en niets anders;</al>
+            <al>overwegende dat verschillende regio's verschillende behoeften hebben en de onderwijsregio's in veel gevallen niet als een helpende aanpak worden gezien;</al>
+            <al>verzoekt de regering de huidige regeling onderwijsregio's terug te brengen tot een structurele stimuleringsregeling voor regionale samenwerking, zonder extra bestuurslagen en governancestructuren op te tuigen, en de (nieuwe) middelen die daarmee vrijkomen structureel te investeren in het herstel van de kwaliteit van het primaire onderwijsproces,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Soepboer</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

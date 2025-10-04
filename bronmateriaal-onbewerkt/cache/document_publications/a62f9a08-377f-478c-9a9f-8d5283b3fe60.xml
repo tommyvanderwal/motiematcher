@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29477-880/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 477</dossiernr>
+      </dossiernummer>
+      <titel>Geneesmiddelenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">880</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN SYNHAEVE EN PAULUSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-07">7 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Europese landen maatregelen nemen om geneesmiddelentekorten te ondervangen, bijvoorbeeld door het instellen van voorraadverplichtingen;</al>
+            <al>overwegende dat het snel opbouwen van grote voorraden in landen een verstorend effect heeft op de Europese geneesmiddelenmarkt;</al>
+            <al>van mening dat exportverboden ook niet bijdragen aan de solidariteit tussen de Europese lidstaten;</al>
+            <al>verzoekt de Minister om haar Europese collega's op te roepen tot afspraken over solidariteit bij het voorkomen en oplossen van geneesmiddelentekorten, door het in ogenschouw houden van de mogelijke negatieve effecten van nationale maatregelen op de geneesmiddelenmarkt in andere Europese lidstaten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Synhaeve</al>
+              <al>Paulusma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

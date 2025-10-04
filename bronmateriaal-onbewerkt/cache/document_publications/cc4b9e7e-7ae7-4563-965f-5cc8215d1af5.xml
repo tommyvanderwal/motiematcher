@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-695/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">695</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VEDDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat weerbare teelten en rassen, innovaties op het terrein van gewasbescherming en projecten die verantwoord gebruik bevorderen bijdragen aan de verduurzaming van gewasbescherming en het terugdringen van normoverschrijdingen in het oppervlaktewater;</al>
+            <al>constaterende dat het Uitvoeringsprogramma Toekomstvisie Gewasbescherming 2030 hierop inzet en dat sectorpartijen, overheid en maatschappelijke organisaties hebben uitgesproken om dit programma te continueren;</al>
+            <al>constaterende dat in het regeerprogramma is opgenomen dat het uitvoeringsprogramma wordt voortgezet, maar er in de begroting nog geen specifiek budget voor is vrijgemaakt;</al>
+            <al>verzoekt de regering vanuit de beschikbare middelen voor de agrarische sector uit het hoofdlijnenakkoord minimaal 20 miljoen euro per jaar beschikbaar te maken voor de uitvoering van het Uitvoeringsprogramma Toekomstvisie Gewasbescherming 2030, en, waar mogelijk, een deel van deze middelen naar voren te halen voor 2025;</al>
+            <al>verzoekt de regering deze financiële middelen in ieder geval in te zetten voor de continuering van de subsidieregeling voor geïntegreerde gewasbescherming, stimulering van biologische en laagrisicomiddelen, innovaties en projecten die bijdragen aan een verantwoord gebruik en vermindering van de milieu-impact,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-209/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">209</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID TIMMERMANS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-02">2 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het nodig is om de weerbaarheid van onze democratie te versterken en de Kamer daarbij ook naar de eigen regelgeving moet kijken;</al>
+            <al>overwegende dat we hierbij lessen kunnen trekken uit de maatregelen die in omliggende landen zijn genomen voor het versterken van de weerbaarheid van het parlement tegen ongewenste beïnvloeding;</al>
+            <al>overwegende dat de Raad van State naar aanleiding van de aangenomen motie-Klaver adviseert dat onderzoek naar de financiële integriteit van zittende Kamerleden door de Kamer zelf moet worden georganiseerd;</al>
+            <al>verzoekt het Presidium al dan niet via een werkgroep een democratische weerbaarheidstoets te (laten) uitvoeren en te onderzoeken hoe de Kamer de interne regelgeving en het toezicht op Kamerleden en Kamerfracties kan versterken om ongewenste beïnvloeding te voorkomen;</al>
+            <al>verzoekt het Presidium daarbij te betrekken hoe de Kamer onafhankelijk onderzoek kan (laten) verrichten naar ongewenste beïnvloeding van Kamerleden en Kamerfracties, en binnen een maand opties aan de Kamer voor te leggen,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Timmermans</al>
+              <al>Bikker</al>
+              <al>Paternotte</al>
+              <al>Koekkoek</al>
+              <al>Van Baarle</al>
+              <al>Dijk</al>
+              <al>Stoffer</al>
+              <al>Omtzigt,</al>
+              <al>Eerdmans</al>
+              <al>Hermans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

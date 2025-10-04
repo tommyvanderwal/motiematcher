@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31293-797/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 293</dossiernr>
+      </dossiernummer>
+      <titel>Primair Onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">797</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID ROODERKERK C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 791</titel>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Inspectie van het Onderwijs slecht zicht heeft op de onderwijskwaliteit, met meer dan 1.000 basisscholen die een onvoldoende zouden moeten krijgen maar die niet krijgen;</al>
+            <al>overwegende dat laagdrempelig contact en bezoek van belang is voor het signaleren van problemen en het verbeteren van de kwaliteit op alle scholen;</al>
+            <al>constaterende dat er vanaf 2022 jaarlijks 15,5 miljoen euro extra is geïnvesteerd in de inspectie om vierjaarlijkse schoolbezoeken mogelijk te maken;</al>
+            <al>verzoekt de regering ervoor te zorgen dat alle scholen periodiek, de vier jaar zo dicht mogelijk benaderend, fysiek bezocht worden door de inspectie;</al>
+            <al>verzoekt de regering verder hierover jaarlijks aan de Kamer te rapporteren en de uitwerking hiervan zo spoedig mogelijk aan de Kamer voor te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Rooderkerk</al>
+              <al>Soepboer</al>
+              <al>Krul</al>
+              <al>Beckerman</al>
+              <al>Westerveld</al>
+              <al>Oostenbrink</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

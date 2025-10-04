@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-02-2944/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr></dossiernummer>
+      <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2944</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER BURG C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-10">10 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat terreurorganisatie Hezbollah kort na de terreurdaad van Hamas op 7 oktober het vuur opende op Israël en dat er sindsdien veel Israëli moesten vertrekken uit Noord-Israël;</al>
+            <al>overwegende dat de terreurorganisatie Hezbollah, gesteund door Iran, een grote bedreiging is voor de staat Israël en dat mede daarom militaire acties tegen Hezbollah geoorloofd zijn;</al>
+            <al>overwegende dat Hezbollah het land Libanon gijzelt en dat het ook in het belang van Libanon is om Hezbollah te verzwakken dan wel uit te schakelen;</al>
+            <al>overwegende dat een stabiele Libanese staat van belang is voor de stabiliteit in de regio en voor het tegengaan van grote migratiestromen;</al>
+            <al>verzoekt de regering om in de Raad voor het belang te pleiten van een langetermijnplan voor een stabiele Libanese staat en hierover met Israël en relevante Libanese politieke actoren in dialoog te gaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Burg</al>
+              <al>Boswijk</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

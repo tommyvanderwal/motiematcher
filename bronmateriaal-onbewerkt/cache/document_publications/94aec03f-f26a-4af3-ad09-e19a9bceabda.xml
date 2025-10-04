@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36755-46"/>
+      <meta name="OVERHEIDop.ondernummer" content="46"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36755"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Holman over met de Regio Foodvalley een gebiedsdoel voor stikstof vaststellen (t.v.v. 36755-26)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Holman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten)"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-30"/>
+      <meta name="DC.title" scheme="" content="Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten); Motie (gewijzigd/nader); Gewijzigde motie van het lid Holman over met de Regio Foodvalley een gebiedsdoel voor stikstof vaststellen (t.v.v. 36755-26)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Bestuursrecht"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Ruimte en infrastructuur | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 755</dossiernr>
+         </dossiernummer>
+         <titel>Wijziging van de Omgevingswet (maatwerkaanpak PAS-projecten)</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">46</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID HOLMAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 26</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-30">30 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat ...</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Het kabinet in haar startpakket stikstof naast generiek beleid kiest voor een regionale maatwerkaanpak voor de Veluwe en de Peel</al>
+                     </li>
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Er in Regio Foodvalley een grote opgave ligt op het gebied van stikstof, maar ook op het gebied van natuurherstel en kwaliteit van bekensystemen. En dat deze opgave in een gebied groter dan 500m rondom de Veluwe speelt.</al>
+                     </li>
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Met het oppakken van deze opgave in deze regio effectief resultaat geboekt kan worden, zoals ook aangegeven door Erisman in het rapport «Naar een ontspannen Nederland»</al>
+                     </li>
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>RFV zelf een aanbod heeft gedaan aan Minister Wiersma om als regio/ gebied onder een regionaal stikstof plafond te gaan komen waarbij de regio met ondernemers afspraken maakt over de bijdragen die zij met hun bedrijf leveren</al>
+                     </li>
+                  </lijst>
+                  <al>overwegende dat ...</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Regio Foodvalley, die van grote invloed is op de Veluwe, zelf vraagt om een gebiedsdoel/emissieplafond voor stikstof van maximaal 2 kiloton in 2035,</al>
+                     </li>
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Dat vervolgens regionaal vertaald wordt naar heldere doelen per deelsector en, waar nodig, bedrijfsnormen binnen de veehouderij, zodat voor iedere ondernemer duidelijk is wat er verwacht wordt en waardoor ondernemers op basis van eigen vakmanschap oplossingen kiezen die passen bij hun bedrijf</al>
+                     </li>
+                  </lijst>
+                  <al>verzoek de regering om ...</al>
+                  <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>met Regio Foodvalley een gebiedsdoel/emissieplafond voor stikstof vast te stellen en te onderzoeken hoe je dit doel vast kan leggen in de Omgevingswet.</al>
+                     </li>
+                     <li>
+                        <li.nr>•</li.nr>
+                        <al>Te kijken welke middelen beschikbaar kunnen worden gesteld hiervoor uit de bij de voorjaarsnota gereserveerde middelen van 300 miljoen voor de aanpak Veluwe / de Peel en de 2,6 miljard euro die is overgeheveld naar de LVVN-begroting voor de jaren 2028 t/m 2030»</al>
+                     </li>
+                  </lijst>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Holman</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

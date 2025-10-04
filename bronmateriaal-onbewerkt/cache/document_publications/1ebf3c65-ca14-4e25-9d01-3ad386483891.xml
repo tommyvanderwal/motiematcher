@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35207-93/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 207</dossiernr>
+      </dossiernummer>
+      <titel>China</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">93</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KAHRAMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de dalai lama dit jaar zijn 90ste verjaardag zal vieren waardoor het gesprek over zijn opvolger als hoofd van het Tibetaans boeddhisme op gang is gekomen;</al>
+            <al>overwegende dat er onder de Tibetanen en de Tibetaanse regering in ballingschap zorgen leven over de inmenging van de Chinese Communistische Partij bij het aanwijzen van een opvolger;</al>
+            <al>van mening dat inmenging in Tibetaanse gebruiken met betrekking tot hun geestelijk leider ongewenst is;</al>
+            <al>spreekt uit dat de Chinese Communistische Partij geen stem mag hebben in de opvolging van de dalai lama;</al>
+            <al>verzoekt het kabinet dit signaal in bilaterale en multilaterale gremia uit te dragen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kahraman</al>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

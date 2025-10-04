@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1406/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1406</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-13">13 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de afhandeling van bezwaren in het kader van de hersteloperatie veel te lang duurt, onder meer door een tekort aan personeel;</al>
+            <al>constaterende dat de bezwaarafhandeling tot voor kort volledig was geconcentreerd in Utrecht, dat er recent een team in Zwolle is gestart en dat er plannen zijn om ook in Leeuwarden een locatie te openen;</al>
+            <al>overwegende dat het beter spreiden van de fysieke locaties over het land kan leiden tot het aantrekken van meer personeel, waardoor de bezwaarafhandeling kan worden versneld, én dat het leidt tot een overheid die dichter bij de burger staat;</al>
+            <al>verzoekt de regering te bezien of en hoe het openen van meer fysieke locaties verspreid over het land, zeker voor het afhandelen van bezwaren, kan bijdragen aan het versnellen van de hersteloperatie, en de Kamer daar in de volgende voortgangsrapportage over te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Flach</al>
+              <al>Inge van Dijk</al>
+              <al>Grinwis</al>
+              <al>Stultiens</al>
+              <al>Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

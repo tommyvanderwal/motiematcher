@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28684-761/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 684</dossiernr>
+      </dossiernummer>
+      <titel>Naar een veiliger samenleving</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">761</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BIKKER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-28">28 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Nederland wordt overspoeld door cobra's en aanverwante explosieven, die nota bene in Europese landen als Italië worden geproduceerd;</al>
+            <al>overwegende dat ook in andere Europese landen, zoals Duitsland, de opvattingen veranderen als gevolg van vuurwerkexcessen;</al>
+            <al>overwegende dat eerdere verzoeken van de Kamer tot Europese afspraken, zoals de motie-Mutluer/Michon-Derkzen, helaas nog niet tot tastbare resultaten hebben geleid;</al>
+            <al>verzoekt de regering om met een kopgroep van gelijkgestemde landen alles op alles te zetten om te komen tot een Europees verbod op zwaar vuurwerk als cobra's en, zolang dit Europese verbod nog niet gerealiseerd is, ook bilateraal, en desnoods unilateraal, met producerende landen als Italië, Polen en Tsjechië én doorvoerende landen te komen tot afspraken om de productie, doorvoer en invoer van cobra's en soortgelijke explosieven aan banden te leggen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bikker</al>
+              <al>Diederik van Dijk</al>
+              <al>Boswijk</al>
+              <al>Van Nispen</al>
+              <al>Michon-Derkzen</al>
+              <al>Mutluer</al>
+              <al>Van der Werf</al>
+              <al>Eerdmans</al>
+              <al>Dassen</al>
+              <al>El Abassi</al>
+              <al>Kostić</al>
+              <al>Bruyning</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-24587-1066"/>
+      <meta name="OVERHEIDop.ondernummer" content="1066"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-05"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="24587"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bruyning en Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.H. Bruyning"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Justitiële Inrichtingen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-04"/>
+      <meta name="DC.title" scheme="" content="Justitiële Inrichtingen; Motie; Motie van de leden Bruyning en Ceder"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>24 587</dossiernr>
+         </dossiernummer>
+         <titel>Justitiële Inrichtingen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1066</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BRUYNING EN CEDER</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-04">4 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat jongeren op Bonaire, Saba en Sint-Eustatius recht hebben op dezelfde jeugdbescherming als jongeren in Europees Nederland, dat de jeugdhulp en jeugdbescherming op de BES-eilanden structureel tekortschieten door een gebrek aan passende infrastructuur, deskundigheid en voorzieningen, dat jongeren daar regelmatig terechtkomen in instellingen die niet toegerust zijn op hun specifieke problematiek, dat de hulpverlening vaak te laat komt, versnipperd is of geheel ontbreekt en dat bovendien op de BES-eilanden, evenals op andere eilanden binnen het Koninkrijk zoals Curaçao, jeugdstrafzittingen vanaf 16 jaar in beginsel openbaar zijn, terwijl in Europees Nederland deze zittingen tot 18 jaar standaard besloten zijn;</al>
+                  <al>overwegende dat alle kinderen binnen het Koninkrijk aanspraak moeten kunnen maken op gelijke bescherming van hun rechten en privacy, ongeacht hun woonplaats;</al>
+                  <al>verzoekt de regering met een concreet plan te komen voor het verbeteren van de jeugdzorginfrastructuur op Bonaire, Saba en Sint-Eustatius, inclusief het vergroten van lokale deskundigheid en het realiseren van passende voorzieningen, en in overleg met de regeringen van Caribisch Nederland en het Caribisch deel van het Koninkrijk te onderzoeken hoe de rechtspositie van jongeren bij strafzittingen kan worden geharmoniseerd met de Nederlandse standaard, waarbij zittingen tot 18 jaar in beginsel besloten zijn, en de Kamer hierover voor het einde van het jaar te informeren,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bruyning</al>
+                     <al>Ceder</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

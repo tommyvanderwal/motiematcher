@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-25087-333/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>25 087</dossiernr>
+      </dossiernummer>
+      <titel>Internationaal fiscaal (verdrags)beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">333</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN IDSINGA EN VAN EIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>verzoekt de regering zich actief te blijven inspannen, bijvoorbeeld door middel van het vormen van een kopgroep met andere welwillende landen zoals Frankrijk, voor de invoering van een wereldwijde minimumbelasting ten aanzien van zogenaamde hypermobile wealthy individuals, en de Kamer voor het zomerreces van 2024 te informeren over de stand van zaken en de vervolgstappen;</al>
+            <al>verzoekt verder de regering als terugvaloptie een pakket mogelijke maatregelen uit te werken, en de Kamer daarover uiterlijk in het najaar van 2024 te berichten, op basis waarvan Nederlandse belastingheffing mogelijk is direct na emigratie naar een land met geen of een laag tarief aan belasting of een anderszins ruimhartig regime, om te voorkomen dat deze personen hun belastingdruk door fiscaal gedreven emigratie onaanvaardbaar kunnen verlagen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Idsinga</al>
+              <al>Van Eijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

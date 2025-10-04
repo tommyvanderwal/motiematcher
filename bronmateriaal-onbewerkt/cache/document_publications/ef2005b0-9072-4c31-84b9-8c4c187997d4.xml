@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30486-36/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 486</dossiernr>
+      </dossiernummer>
+      <titel>Evaluatie Embryowet</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">36</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BEVERS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-11">11 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overheid advies heeft gevraagd over de leeftijdsgrenzen waarop donorkinderen informatie over de donor kunnen krijgen;</al>
+            <al>constaterende dat verschillende bijeenkomsten met betrokken partijen belangrijke inzichten hebben opgeleverd over de mogelijke consequenties van het laten vervallen van de leeftijdsgrens;</al>
+            <al>van mening dat het eventueel aanpassen of loslaten van de leeftijdsgrenzen in de Wet donorgegevens kunstmatige bevruchting (Wdkb) grote zorgvuldigheid behoeft, en het op dit moment onvoldoende duidelijk is of dit op een zorgvuldige manier kan;</al>
+            <al>verzoekt de regering geen verdere stappen te zetten en de leeftijdsgrenzen in de wet niet aan te passen, totdat meer inzicht is verkregen in de ervaring en behoeften van donorkinderen, ouders, donoren en de betrokken gezinnen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bevers</al>
+              <al>Diederik van Dijk</al>
+              <al>Eerdmans</al>
+              <al>Bikker</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

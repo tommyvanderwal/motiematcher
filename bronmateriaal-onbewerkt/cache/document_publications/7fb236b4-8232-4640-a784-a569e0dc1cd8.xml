@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-33576-458"/>
+      <meta name="OVERHEIDop.ondernummer" content="458"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-07-07"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="33576"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Veltman en Michon-Derkzen over structureel voorzien in adequaat toezicht door groene boa's"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="I.J.M. Michon-Derkzen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.N. Veltman"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Natuurbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-07-03"/>
+      <meta name="DC.title" scheme="" content="Natuurbeleid; Motie; Motie van de leden Veltman en Michon-Derkzen over structureel voorzien in adequaat toezicht door groene boa's"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Natuur en milieu | Natuur- en landschapsbeheer"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>33 576</dossiernr>
+         </dossiernummer>
+         <titel>Natuurbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">458</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VELTMAN EN MICHON-DERKZEN</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-07-03">3 juli 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat groene boa's een cruciale rol spelen in het toezicht op natuurgebieden en het buitengebied;</al>
+                  <al>overwegende dat adequaat toezicht en handhaving van essentieel belang zijn voor het behoud en de bescherming van natuur en het tegengaan van verslechtering van de natuur;</al>
+                  <al>constaterende dat de minimale uitvoering van toezichts- en handhavingstaken bij terreinbeherende organisaties onder druk staat;</al>
+                  <al>verzoekt de regering zich ervoor in te zetten dat, binnen het beschikbare budget voor natuur en/of het Agrarisch Natuur- en Landschapsbeheer, de noodzakelijke middelen beschikbaar komen om structureel te voorzien in adequaat toezicht en handhaving door groene boa's,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Veltman</al>
+                     <al>Michon-Derkzen</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

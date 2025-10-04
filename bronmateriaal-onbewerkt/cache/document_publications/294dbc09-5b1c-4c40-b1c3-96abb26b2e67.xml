@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31409-475/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 409</dossiernr>
+      </dossiernummer>
+      <titel>Zee- en binnenvaart</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">475</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PETER DE GROOT EN SOEPBOER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-14">14 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de vaargeul tussen Holwerd en Ameland de levensader is van het eiland en de komende jaren van essentieel belang is voor de bereikbaarheid van het eiland;</al>
+            <al>overwegende dat de natuurlijke ligging van de vaargeul in het wantij van de Waddenzee ervoor zorgt dat dichtslibben en te laag water zorgen voor onvoldoende diepte om af te varen;</al>
+            <al>overwegende dat een combinatie van steeds minder afvaarten en het ontbreken van een functionerende watertaxidienst zowel de bereikbaarheid als de leefbaarheid van Ameland onder druk zet;</al>
+            <al>verzoekt de regering om in aanloop naar de uitkomsten van de gestarte MIRT-verkenning inzake de bereikbaarheid van Ameland te bezien wat nodig is om de vaargeul ook in de tussentijd de gehele dag goed bevaarbaar te houden en deze maatregelen voor 1 mei terug te koppelen aan de Kamer,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Peter de Groot</al>
+              <al>Soepboer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

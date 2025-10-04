@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-35749-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>35 749</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Vreemdelingenwet 2000 teneinde te voorzien in herziening van de regels voor niet tijdig beslissen op aanvragen op grond van de Vreemdelingenwet 2000 (Wet herziening regels niet tijdig beslissen in vreemdelingenzaken)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-18">18 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Wet herziening regels niet tijdig beslissen in vreemdelingenzaken een streep zet door de bestuurlijke dwangsommen in asielzaken, maar de rechterlijke dwangsom in stand houdt;</al>
+            <al>overwegende dat de EU-Procedurerichtlijn geen verplichting bevat tot het opleggen van een rechterlijke dwangsom bij niet tijdig beslissen;</al>
+            <al>overwegende dat het EU-Handvest lidstaten de ruimte biedt zelf invulling te geven aan effectieve rechtsbescherming van burgers met als doel afdwingbaarheid van de procedure te borgen;</al>
+            <al>overwegende dat zicht op hoe andere lidstaten invulling geven aan het beginsel van effectieve rechtsbescherming voor vreemdelingen in hun wetgeving noodzakelijk is, om zo te kunnen beoordelen op welke alternatieve wijze in de Nederlandse wetgeving invulling kan worden gegeven aan dit beginsel met oog op mogelijke afschaffing dan wel beperking van de rechterlijke dwangsom in asielzaken;</al>
+            <al>verzoekt de regering te verkennen hoe andere lidstaten invulling geven aan genoemd beginsel en de Kamer over de uitkomsten van deze verkenning te informeren voor de begrotingsbehandeling,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Brekelmans</al>
+              <al>Van Oostenbruggen</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

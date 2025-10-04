@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36592-29"/>
+      <meta name="OVERHEIDop.ondernummer" content="29"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-09"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36592"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Ellian en Peter de Groot over Lelystad Airport openen voor groothandelsverkeer"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P.C. (Peter) de Groot"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="U. Ellian"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Defensienota 2024 - Sterk, slim en samen"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-08"/>
+      <meta name="DC.title" scheme="" content="Defensienota 2024 - Sterk, slim en samen; Motie; Motie van de leden Ellian en Peter de Groot over Lelystad Airport openen voor groothandelsverkeer"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Defensie"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 592</dossiernr>
+         </dossiernummer>
+         <titel>Defensienota 2024 – Sterk, slim en samen</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">29</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN ELLIAN EN PETER DE GROOT</titel>
+         <datumtekst>Voorgesteld tijdens het notaoverleg van <datum isodatum="2025-09-08">8 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het Nationaal Programma Ruimte voor Defensie, Lelystad Airport als voorkeurslocatie aanwijst voor stationering van F-35's;</al>
+                  <al>constaterende dat de gewenste operationele voordelen voor Defensie alleen te behalen zijn als Lelystad Airport voor groothandelsverkeer opengesteld wordt;</al>
+                  <al>constaterende dat er alleen bestuurlijk draagvlak in Flevoland is indien sprake is van militair medegebruik en Lelystad Airport dus geopend wordt voor groot handelsverkeer;</al>
+                  <al>verzoekt de regering bij het definitieve besluit over het NPRD, waaronder het stationeren van jachtvliegtuigen op Lelystad Airport, tevens te besluiten dat Lelystad Airport geopend wordt voor groothandelsverkeer,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Ellian</al>
+                     <al>Peter de Groot</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

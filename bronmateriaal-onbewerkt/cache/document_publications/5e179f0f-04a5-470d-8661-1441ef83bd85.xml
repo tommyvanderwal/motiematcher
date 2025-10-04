@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-VIII-114/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">114</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MOHANDIS</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat onder meer het Commissariaat voor de Media en de Wetenschappelijke Raad voor het Regeringsbeleid (WRR) waarschuwen voor de toenemende dominantie van internationale streamingdiensten en sociale media, terwijl Nederlandse televisiezenders steeds minder kijkers trekken;</al>
+            <al>overwegende dat onder meer door de Raad voor Cultuur in 2018 en de WRR in 2024 de noodzaak wordt benadrukt dat de Nederlandse mediabedrijven gaan samenwerken in onder meer de modernisering van het prominentiebeleid voor het aanbod van publieke én private producenten en dat er een onderlinge samenwerking tussen de grote Nederlandse omroepen wordt bewerkstelligd om de gezamenlijke weerbaarheid van de Nederlandse omroepen tegenover de bigtechbedrijven en internationale streamers te versterken;</al>
+            <al>verzoekt de regering om in samenspraak met onder andere de NPO, RTL en Talpa te onderzoeken wat op dit vlak nu al gedaan kan worden en die concrete acties op korte termijn in gang te zetten;</al>
+            <al>verzoekt de regering daarnaast om onder meer met de NPO, RTL en Talpa te onderzoeken hoe de Mediawet en andere relevante regelgeving kunnen worden hervormd zodat Nederlandse publieke én private media-aanbieders tussen steeds dominantere buitenlandse mediaplatforms meer kunnen samenwerken en gezamenlijk kunnen investeren en opereren in een online strategie om journalistiek en programma's vindbaar te houden voor kijkers en de Nederlandse omroepen economisch te versterken, en de Kamer door middel van een bouwstenenbrief over deze noodzakelijke hervorming van de Mediawet in het eerste kwartaal van 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Mohandis</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

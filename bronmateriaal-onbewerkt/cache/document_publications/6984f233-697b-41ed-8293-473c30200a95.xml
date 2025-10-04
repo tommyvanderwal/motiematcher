@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XVI-54/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">54</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-25">25 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aantal ouderen in Nederland aanzienlijk groeit en steeds meer ouderen met een complexe zorgvraag thuis blijven wonen;</al>
+            <al>constaterende dat overbelaste huisartsen de regie voeren over de zorg voor ouderen met complexe multidomeinproblematiek;</al>
+            <al>constaterende dat er geen vergoeding is voor specialisten ouderengeneeskunde om op te treden als regiebehandelaar voor ouderen buiten het verpleeghuis;</al>
+            <al>overwegende dat specialisten ouderengeneeskunde beter zijn toegerust voor het bieden van deze zorg;</al>
+            <al>overwegende dat huisartsen ontlast kunnen worden als specialisten ouderengeneeskunde de primaire behandelaar zijn van ouderen met een complexe zorgvraag;</al>
+            <al>verzoekt de regering onderzoek uit te laten voeren naar de wijze waarop aanpassingen in de bekostiging kunnen bijdragen aan het mogelijk maken van de specialist ouderengeneeskunde als regiebehandelaar teneinde betere medische zorg te bieden aan de groeiende groep kwetsbare ouderen en patiënten met complexe zorgvragen in de thuissituatie,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Slagt-Tichelman</al>
+              <al>Ergin</al>
+              <al>Paulusma</al>
+              <al>Bikker</al>
+              <al>Krul</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

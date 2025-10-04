@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31066-1469/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 066</dossiernr>
+      </dossiernummer>
+      <titel>Belastingdienst</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1469</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN VROONHOVEN EN INGE VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-27">27 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat uit het verkennend onderzoek blijkt dat meerdere systemen bij de Belastingdienst, Toeslagen en Douane vergelijkbaar zijn met het onrechtmatig gebruikte Risico Analyse Model (RAM) en dat niet of beperkt is vastgesteld of zij voldoen aan de geldende wettelijke kaders;</al>
+            <al>overwegende dat ook het UWV als uitvoeringsinstantie beschikt over grote hoeveelheden gevoelige persoonsgegevens en ingrijpende besluiten neemt over het al dan niet toekennen van uitkeringen, maar de systemen van het UWV niet onderzocht zijn;</al>
+            <al-groep>
+              <al>verzoekt de regering om:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>te onderzoeken of ook het UWV algoritmes of systemen in gebruik heeft die vergelijkbaar zijn met het RAM;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>alle algoritmes en gegevenssystemen die vergelijkbaar zijn gebleken met het RAM bij de Belastingdienst, de Dienst Toeslagen, de Douane en het UWV uiterlijk voor de zomer te beoordelen op rechtmatigheid;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de uitkomsten hiervan aan de Kamer te rapporteren;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>betrokken burgers conform de AVG te informeren indien hun gegevens onrechtmatig zijn verwerkt in de afgelopen zes jaar;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>tot slot de betrokken algoritmes vast te leggen in het algoritmeregister,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Van Vroonhoven</al>
+              <al>Inge van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

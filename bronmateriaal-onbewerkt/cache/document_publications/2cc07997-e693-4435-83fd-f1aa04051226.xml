@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XIII-27/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">27</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID INGE VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat onlinewinkeldiensten het «buy now, pay later»-model naar de fysieke winkelstraat willen brengen, zodat ook in fysieke winkels achteraf betalen mogelijk wordt;</al>
+            <al>overwegende dat de introductie van buy now, pay later bij onlinewinkels heeft geleid leidt tot ongeremd consumentisme, terwijl kwetsbare consumenten en in het bijzonder jongeren onvoldoende worden beschermd tegen de risico's, zoals het ontstaan van problematische schulden;</al>
+            <al>overwegende dat uit het ibo Problematische schulden blijkt dat problematische schulden de samenleving jaarlijks 8,5 miljard kosten en dat daarmee de rekening terechtkomt bij de maatschappij terwijl «buy now, pay later»-diensten profiteren;</al>
+            <al>verzoekt de regering ervoor te zorgen dat het «buy now, pay later»-model niet wordt ingevoerd in fysieke winkels, en waar nodig maatregelen te nemen om een ongelijk speelveld tussen online en fysieke winkels te verminderen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Inge van Dijk</al>
+              <al>Grinwis</al>
+              <al>Thijssen</al>
+              <al>Flach</al>
+              <al>Kisteman</al>
+              <al>Zeedijk</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

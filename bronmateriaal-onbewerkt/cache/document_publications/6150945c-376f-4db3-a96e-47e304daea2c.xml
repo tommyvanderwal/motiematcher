@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XIV-43/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XIV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit (XIV) en het Diergezondheidsfonds (F) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">43</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MEULENKAMP C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-02-01">1 februari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de groente- en zaadveredeling zorgt voor de ontwikkeling van nieuwe zaden en planten die productiever en beter bestand zijn tegen extreem weer, verzilting en ziekten;</al>
+            <al>constaterende dat de Nederlandse groente- en zaadveredelingsbedrijven wereldwijd hierin een extreem belangrijke rol spelen;</al>
+            <al>constaterende dat de wereldbevolking de komende decennia verder zal toenemen;</al>
+            <al>overwegende dat de Wet vifo een veiligheidstoets bevat voor investeringen, fusies en overnames waarmee risico's voor de nationale veiligheid beheerst kunnen worden, zoals het ontstaan van strategische afhankelijkheden;</al>
+            <al>van mening dat de Nederlandse groente- en zaadveredeling van essentieel belang is voor de voedselproductie en deze bedrijven derhalve als vitale en strategische bedrijven beschermd zouden moeten worden;</al>
+            <al>verzoekt de regering om een voorstel uit te werken om de Nederlandse groente- en zaadveredeling onder de reikwijdte van de Wet Vifo te laten vallen, bijvoorbeeld door per AMvB de sector aan te wijzen als vitale sector of door groente- en zaadtechnologie als sensitieve technologie aan te wijzen,</al>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Meulenkamp</al>
+              <al>Grinwis</al>
+              <al>Flach</al>
+              <al>Vedder</al>
+              <al>Bromet</al>
+              <al>Beckerman</al>
+              <al>Tjeerd de Groot</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

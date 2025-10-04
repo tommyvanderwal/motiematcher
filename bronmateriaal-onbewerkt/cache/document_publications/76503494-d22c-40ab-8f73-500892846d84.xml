@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27858-660/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 858</dossiernr>
+      </dossiernummer>
+      <titel>Gewasbeschermingsbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">660</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HOLMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat met de daling van toegestane middelen het belangrijk is dat er voldoende en betaalbare alternatieven voor hen beschikbaar zijn;</al>
+            <al>constaterende dat de biocontrolsector een snelgroeiende sector is in Europa, waar zo'n 129 groene gewasbeschermingsmiddelen in de pijplijn zitten;</al>
+            <al>overwegende dat de Minister aangeeft zich onverminderd in te zetten voor het stimuleren van het op de markt brengen van biologische alternatieven voor chemische gewasbescherming;</al>
+            <al>verzoekt de regering om actief bij de Europese Commissie te bevorderen dat de beoordelingskaders voor de goedkeuring en toelating van deze effectieve groene middelen meer worden toegesneden op de aard en kenmerken van deze middelen, mede door een kopgroep te vormen met andere lidstaten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Nijhof-Leeuw</al>
+              <al>Vedder</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

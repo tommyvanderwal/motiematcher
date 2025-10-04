@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29911-487"/>
+      <meta name="OVERHEIDop.ondernummer" content="487"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-09-24"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29911"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Wijen-Nass over een single point of contact bij het Landelijk Expertisecentrum Persoonsvermissingen"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.J.M.H. Wijen-Nass"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Bestrijding georganiseerde criminaliteit"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-09-23"/>
+      <meta name="DC.title" scheme="" content="Bestrijding georganiseerde criminaliteit; Motie; Motie van het lid Wijen-Nass over een single point of contact bij het Landelijk Expertisecentrum Persoonsvermissingen"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Openbare orde en veiligheid | Criminaliteit"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 911</dossiernr>
+         </dossiernummer>
+         <titel>Bestrijding georganiseerde criminaliteit </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">487</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID WIJEN-NASS</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-09-23">23 september 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat er in Nederland circa 1.400 langdurige vermissingszaken en circa 1.000 zaken met onbekende doden openstaan;</al>
+                  <al>overwegende dat deze zaken vaak niet onder de verantwoordelijkheid van het coldcaseteam vallen omdat die niet als misdrijf zijn aangemerkt, waardoor die tussen wal en schip kunnen raken;</al>
+                  <al>overwegende dat nabestaanden hierdoor onnodig lang in onzekerheid blijven en dat de coördinatie tussen politie, convenantpartners en andere instanties versnipperd en ontoereikend is;</al>
+                  <al>overwegende dat een single point of contact (SPOC) bij het Landelijk Expertisecentrum Persoonsvermissingen (LOEP) kan zorgen voor een centraal aanspreekpunt, betere afstemming en effectievere inzet van capaciteit en expertise;</al>
+                  <al>verzoekt de regering te voorzien in een SPOC bij het LOEP, dat fungeert als landelijk coördinatiepunt voor langdurige vermissingen en onbekende doden, zodat nabestaanden, politie en convenantpartners een duidelijk aanspreekpunt hebben en wordt geborgd dat zaken niet blijven liggen maar actief worden opgevolgd,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Wijen-Nass</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

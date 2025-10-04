@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-26/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">26</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat segregatie in ons land ertoe leidt dat verschillende bevolkingsgroepen elkaar onvoldoende ontmoeten in de buurt, op school en in het dagelijks leven waardoor er minder begrip is voor, en contact tussen, mensen is;</al>
+            <al-groep>
+              <al>verzoekt de regering uiterlijk voor de Voorjaarsnota met een kabinetsvisie te komen hoe segregatie bestreden kan worden en waarin in ieder geval de volgende punten mee worden genomen:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het aansturen op «gemengde scholen» waardoor kinderen van ouders met een verschillende sociaaleconomische status elkaar vaker tegen blijven komen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het stimuleren van «gemengde wijken» waar huur- en koopwoningen van verschillende prijsklassen worden gebouwd waardoor mensen met verschillende inkomens elkaar blijven ontmoeten;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het ondersteunen van wijkagenten, conciërges op school, jongerenwerkers en leraren om sociale controle te stimuleren,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al>Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

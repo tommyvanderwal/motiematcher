@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-129/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">129</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SARIS</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-12-02">2 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering in 2025 wil verkennen om beleidsdoelen op het terrein van sport en bewegen te realiseren en verantwoordelijkheden wil vastleggen om te komen tot een sport- en beweegwet;</al>
+            <al>constaterende dat de Nederlandse Sportraad in zijn rapport uit 2021 de taakverdeling en verantwoordelijkheden voor alle stakeholders in het beweegbeleid heeft onderzocht;</al>
+            <al>constaterende dat het Sportakkoord 2.0 en het GALA in 2026 aflopen en er nu noodzaak is om na te denken over een alternatieve visie voor het toekomstige sport- en beweegbeleid, mochten deze akkoorden niet het gewenste resultaat opleveren zonder kostbare tijd te verspillen;</al>
+            <al>overwegende dat de huidige initiatieven als het Sportakkoord 2.0 en het GALA te vrijblijvend zijn in hun interventies;</al>
+            <al>overwegende dat de verantwoordelijkheid voor voldoende bewegen en de samenwerking tussen de sectoren en de ministeries kan worden bevorderd;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>te verkennen of de taken en verantwoordelijkheden in het sport- en beweegbeleid voor alle lagen van de overheid vast kunnen worden gelegd (inclusief regionale samenwerking) en de aanbevelingen uit het rapport van de Nederlandse Sportraad uit 2021 hierin mee te nemen;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>in gesprek te gaan met de ministeries van VWS, SZW, BZK, I&amp;W, EZ, VRO en OCW over een gezamenlijke aanpak van de beweegarmoede en hoe deze ministeries dit het best in hun beleid onder kunnen brengen;</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>voor het herfstreces van 2025 de Kamer hierover te informeren,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+              <al>Saris</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

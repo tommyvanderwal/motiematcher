@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24095-590/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 095</dossiernr>
+      </dossiernummer>
+      <titel>Frequentiebeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">590</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN POSTMA EN IDSINGA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de overgang van FM naar DAB leidt tot gedeeld gebruik van frequenties door publieke en commerciële regionale zenders;</al>
+            <al>constaterende dat steeds meer luisteraars overstappen van FM naar DAB;</al>
+            <al>overwegende dat commerciële zenders niet investeren in minder rendabele gebieden zoals de Wadden, waardoor digitale dekking van publieke regionale omroepen daar in het gedrang komt;</al>
+            <al>overwegende dat regionale publieke omroepen een belangrijke basisvoorziening vormen voor nieuws, cultuur en noodcommunicatie in de regio;</al>
+            <al>van mening dat publieke regionale omroepen in staat moeten zijn een volwaardige dekking in hun provincie te realiseren;</al>
+            <al>verzoekt de regering de regie te nemen om voor regionale publieke omroepen volledige dekking voor DAB in hun gehele uitzendgebied te garanderen, zodat zij in alle delen van de provincie goed te ontvangen zijn,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Postma</al>
+              <al>Idsinga</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

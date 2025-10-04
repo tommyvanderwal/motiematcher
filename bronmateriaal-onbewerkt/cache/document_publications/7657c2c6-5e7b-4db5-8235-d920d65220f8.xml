@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-298/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">298</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN GRINWIS EN KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-13">13 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Kamer de regering in 2021 heeft verzocht zich in Europees verband in te zetten voor een vrijstelling van btw voor kringloopwinkels (Kamerstuk <extref doc="kst-32852-147" soort="document" status="actief">32 852, nr. 147</extref>);</al>
+            <al>constaterende dat dit volgens de Btw-richtlijn in bepaalde gevallen mogelijk is en lidstaten als Oostenrijk, Denemarken, België, Italië, Frankrijk en Finland hier gebruik van maken en een verlaagd btw-tarief of zelfs een nultarief hanteren;</al>
+            <al>overwegende dat het kabinet aangeeft (Kamerstuk <extref doc="kst-36418-135" soort="document" status="actief">36 418, nr. 135</extref>) dat het mogelijk is een verlaagd btw-tarief te rekenen voor kringloopwinkels als zij erkend worden als liefdadigheidsinstelling en in het sociale domein actief zijn;</al>
+            <al>overwegende dat er bij kringloopwinkels al veel mensen met een afstand tot de arbeidsmarkt werken en dat toegang tot tweedehands spullen van groot belang is voor mensen met een kleinere portemonnee;</al>
+            <al>verzoekt de regering, na overleg met de kringloopbranche, uit te werken hoe het btw-tarief voor (bepaalde) kringloopwinkels kan worden verlaagd van 21% naar 9% of 0%, inclusief de voor- en nadelen, en deze uitwerking voor de behandeling van het Belastingplan aan de Kamer te doen toekomen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Grinwis</al>
+              <al>Kostić</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

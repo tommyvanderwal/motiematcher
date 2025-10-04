@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-31765-922"/>
+      <meta name="OVERHEIDop.ondernummer" content="922"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="31765"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Dijk c.s. over een nationaal centrum voor geboortezorg en innovatie in de stadsregio Parkstad Limburg"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H.M. Krul"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="T.J. Bushoff"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.P. Dijk"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Kwaliteit van zorg"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-21"/>
+      <meta name="DC.title" scheme="" content="Kwaliteit van zorg; Motie; Motie van het lid Dijk c.s. over een nationaal centrum voor geboortezorg en innovatie in de stadsregio Parkstad Limburg"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Zorg en gezondheid | Organisatie en beleid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>31 765</dossiernr>
+         </dossiernummer>
+         <titel>Kwaliteit van zorg</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">922</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID DIJK C.S.</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-21">21 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat in een aantal regio's het geboortecentrum sluit of wordt afgeschaald, waaronder in Heerlen;</al>
+                  <al>constaterende dat op dit moment in het geboortecentrum in Heerlen bevallingen plaatsvinden die qua kwetsbaarheid slechter scoren dan gemiddeld, zoals moeders die een drie keer lagere sociaaleconomische-status-score hebben;</al>
+                  <al>overwegende dat de basis voor een gezond en kansrijk leven gelegd wordt tijdens de zwangerschap en rond de geboorte en dit nog meer het geval is in regio's met een lagere SES-status;</al>
+                  <al>overwegende dat de lokale overheid in de stadsregio Parkstad Limburg kenbaar heeft gemaakt financieel te willen bijdragen, bijvoorbeeld aan een nationaal centrum voor geboortezorg en innovatie, dat kennis kan opleveren voor het hele land;</al>
+                  <al>verzoekt de Minister een verkenning te starten om een nationaal centrum voor geboortezorg en innovatie te vormen in de stadsregio Parkstad Limburg en dit centrum een voorbeeld te laten zijn bij de versterking van de geboortezorg elders in het land;</al>
+                  <al>verzoekt het kabinet tevens hier zorgverzekeraars en nationale, provinciale en regionale partners bij te betrekken voor zowel de opzet als de financiering ervan,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Dijk</al>
+                     <al>Bushoff</al>
+                     <al>Krul</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

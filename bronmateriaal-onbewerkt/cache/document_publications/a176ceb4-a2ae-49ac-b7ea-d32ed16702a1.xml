@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2068/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2068</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BOSWIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-16">16 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat elektrische auto's tot de meest geavanceerde consumentenelektronica behoren, met een constante datastroom op het gebied van verkeersveiligheid en entertainment;</al>
+            <al>overwegende dat er steeds meer Chinese elektrische auto's de Europese markt op komen en dat er veel vragen leven over cyberveiligheidsaspecten rondom Chinese elektrische auto's;</al>
+            <al>overwegende dat China inmiddels restricties heeft opgelegd over waar in China Tesla's nog mogen rijden en parkeren, uit angst voor de nationale veiligheid;</al>
+            <al>verzoekt de regering op korte termijn een analyse te doen van de risico's van elektrische auto's voor de nationale veiligheid;</al>
+            <al>verzoekt de regering indien zulke risico's geconstateerd worden opties aan te dragen om deze te mitigeren en daarin de optie van gebiedsverboden bij bijvoorbeeld militaire complexen, kritieke infrastructuur en overheidsgebouwen mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Paternotte</al>
+              <al>Van Campen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

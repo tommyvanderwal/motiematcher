@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27923-479/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 923</dossiernr>
+      </dossiernummer>
+      <titel>Werken in het onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">479</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-27">27 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat leraren in de eerste jaren voor de klas relatief snel uitvallen;</al>
+            <al>overwegende dat het lerarentekort een fundamentele bedreiging vormt voor de onderwijskwaliteit en daarmee de kansen van leerlingen;</al>
+            <al>overwegende dat het voor de onderwijskwaliteit wenselijk is dat leraren zich kunnen blijven ontwikkelen na de initiële opleiding;</al>
+            <al>verzoekt de regering te verkennen hoe wettelijk geborgd kan worden dat leraren de eerste drie jaar voor de klas na de initiële opleiding ondersteund kunnen worden door hun lerarenopleiding, bijvoorbeeld door middel van intervisie, meekijk- en terugkomdagen en begeleiding,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Paternotte</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

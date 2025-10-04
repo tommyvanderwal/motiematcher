@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2180/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2180</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-29">29 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat voor het op orde brengen van de collectieve afschrikking en verdediging binnen Europa extra financiering nodig is en dat hiertoe verschillende financieringsvormen onderzocht worden;</al>
+            <al>overwegende dat voordat er een definitief besluit wordt genomen de Kamer volledig geïnformeerd moet zijn over de consequenties en randvoorwaarden van de financieringsmodellen die hiervoor onderzocht worden;</al>
+            <al>verzoekt de regering met een open houding de discussie over aanvullende financiering voor Europese defensiesamenwerking in te gaan;</al>
+            <al-groep>
+              <al>verzoekt de regering ten behoeve van een zorgvuldige behandeling in de Kamer bij ieder financieringsmodel dat voorgelegd wordt inzichtelijk te maken hoe in ieder geval de volgende randvoorwaarden ingepast kunnen worden:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>landen moeten vooraf concrete plannen indienen voor de besteding van de middelen;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>terugbetaling moet via de EU-begroting plaatsvinden over een langere periode;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een aanzienlijk deel van de middelen moet besteed worden aan defensiematerieel «made in Europe»;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>nieuwe financiële instrumenten moeten gepaard gaan met een herziening van prioriteiten binnen de EU-begroting;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>financiering moet deels ook komen uit andere bronnen, zoals het Europees Investeringsfonds en resterende middelen uit het coronaherstelfonds;</al>
+                </li>
+              </lijst>
+              <al>verzoekt de regering de Kamer hierover te raadplegen voordat hier onomkeerbare afspraken over gemaakt worden,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Boswijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

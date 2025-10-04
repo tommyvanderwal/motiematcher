@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36476-4/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 476</dossiernr>
+      </dossiernummer>
+      <titel>Staat van de Europese Unie 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">4</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in Georgië een foreign agents law is aangenomen en dat deze sterk lijkt op de omstreden wet die sinds 2012 geldt in Rusland, waarmee de oppositie daar monddood is gemaakt;</al>
+            <al>constaterende dat deze wet vanuit diverse EU-instanties en EU-instituten is veroordeeld en dat Georgië nog recent kandidaat-lidstaat is geworden;</al>
+            <al>van mening dat de grootschalige protesten die zijn uitgebroken in Georgië door pro-EU-demonstranten een strijd tonen voor vrijheid, veiligheid en democratie;</al>
+            <al>verzoekt de regering om samen met andere EU-lidstaten maximaal druk te zetten op Georgië om deze wet terug te draaien, om Georgië geen verdere voortgang te laten boeken in het uitbreidingsproces als het na de Georgische nationale verkiezingen in oktober op dit pad verdergaat, en in het uiterste geval te pleiten voor het tijdelijk bevriezen van het EU-toetredingsproces van Georgië,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Boswijk</al>
+              <al>Tuinman</al>
+              <al>Kahraman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

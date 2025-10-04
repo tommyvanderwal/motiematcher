@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3385/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3385</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN EERDMANS EN VELTMAN TER VERVANGING VAN DIE GEDRUKT ONDER NR. 3374</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-18">18 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat 92% van de boetes voor zwartrijders op het traject van en naar Aanmeldcentrum Ter Apel niet worden betaald,</al>
+            <al>constaterende dat door de aangenomen motie Eerdmans (29628–1249) een pilot is gestart met Spoorwegpolitie op het traject Zwolle-Emmen,</al>
+            <al>constaterende dat de motie Veltman c.s. (<extref doc="kst-23645-823" soort="document" status="actief">23 645 nr 823</extref>) verzoekt om regionale reisverboden mogelijk te maken om agressie en geweld in het openbaar vervoer tegen te gaan,</al>
+            <al>verzoekt het kabinet in samenspraak met Arriva ervoor zorg te dragen dat zwartrijders van en naar Ter Apel na twee overtredingen een reisverbod te geven,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Eerdmans</al>
+              <al>Veltman</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

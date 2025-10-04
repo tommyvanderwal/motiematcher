@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36625-7/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 625</dossiernr>
+      </dossiernummer>
+      <titel>Najaarsnota 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">7</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN AUKJE DE VRIES EN GRINWIS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-18">18 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de inflatie in Nederland weliswaar niet meer zo hoog is als enige tijd geleden, maar met 3,8% in november nog steeds te hoog is en hoger dan in de eurozone;</al>
+            <al-groep>
+              <al>overwegende dat de inflatie in Nederland ook langzamer daalt dan in andere Europese landen;</al>
+              <al>constaterende dat inflatie dé koopkrachtkiller voor hardwerkende Nederlanders en middeninkomens is;</al>
+            </al-groep>
+            <al-groep>
+              <al>constaterende dat een hoge inflatie op termijn ook funest is voor onze</al>
+              <al>concurrentiepositie en dat een op de vijf bedrijven inmiddels al aangeeft te overwegen Nederland te verlaten;</al>
+            </al-groep>
+            <al>overwegende dat er diverse redenen voor een hoge inflatie zijn, zoals loonstijgingen, een hoge overheidsconsumptie ofwel hoge overheidsuitgaven, maar ook overheidsbeslissingen, zoals sommige belastingen en het ECB-beleid;</al>
+            <al>verzoekt de regering te komen met een nadere analyse van de te hoge Nederlandse inflatie en mogelijke acties om die aan te pakken, en de Tweede Kamer daarover te informeren in het eerste kwartaal 2025,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Aukje de Vries</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

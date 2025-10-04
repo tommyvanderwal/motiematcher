@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36180-128/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 180</dossiernr>
+      </dossiernummer>
+      <titel>Doen waar Nederland goed in is – Strategie voor Buitenlandse Handel en Ontwikkelingssamenwerking</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">128</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BAMENGA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 121</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-19">19 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het in tijden van forse bezuinigingen op ODA-middelen des te belangrijker is dat de resterende middelen effectief en doelmatig worden besteed;</al>
+            <al>constaterende dat 46% van de populatie in lage- en middeninkomenslanden uit kinderen bestaat, maar slechts 12% van de ODA-middelen wereldwijd kindgericht wordt besteed, en dit de effectiviteit van ontwikkelingshulp ondermijnt;</al>
+            <al>constaterende dat recent onderzoek aantoont dat kindgerichte ontwikkelingsinterventies een zeer hoge return on investment opleveren en brede, langdurige economische ontwikkeling stimuleren voor de volledige gemeenschap;</al>
+            <al>constaterende dat de huidige Youth at Heart-strategie van het Ministerie van Buitenlandse Zaken zich richt op jongeren van 15–35 jaar en daardoor kwetsbare kinderen slechts gedeeltelijk bedient;</al>
+            <al>verzoekt de regering de Youth at Heart-strategie uit te breiden naar een Child &amp; Youth at Heart-strategie, waardoor de belangen van kinderen onder de 15 jaar sterker worden verankerd binnen de door deze regering gekozen beleidsprioriteiten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bamenga</al>
+              <al>Dobbe</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

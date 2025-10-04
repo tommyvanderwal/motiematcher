@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2124/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2124</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-15">15 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Rekenkamer een historisch hoog foutenpercentage van 5,6% in EU-uitgaven heeft gevonden;</al>
+            <al>overwegende dat dit percentage zo snel mogelijk naar beneden moet naar maximaal de goedkeuringsdrempel van 2% en dat bij nieuwe besluiten over Europese fondsen en het Meerjarig Financieel Kader het geboden is meer in te zetten op een betere verantwoording over de afgedragen middelen van de lidstaten;</al>
+            <al>verzoekt de regering voor de komende begrotingsjaren zowel bij de Europese Commissie als de relevante EU-instellingen en afzonderlijke lidstaten aan te dringen op een betere verantwoording van EU-uitgaven, en de Kamer over deze inzet te informeren;</al>
+            <al>verzoekt de regering voorts dit zwaar mee te laten wegen bij komende besluiten en gesprekken over een nieuw Meerjarig Financieel Kader, door in te zetten op een meer doelmatige en doeltreffende inzet van middelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Diederik van Dijk</al>
+              <al>Van Campen</al>
+              <al>Ceder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

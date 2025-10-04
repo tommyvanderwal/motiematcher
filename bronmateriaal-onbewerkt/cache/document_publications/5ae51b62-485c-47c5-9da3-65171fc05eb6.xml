@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2192/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2192</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TIMMERMANS EN JETTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-05">5 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de afgelopen weken de veiligheidssituatie in Europa fundamenteel is veranderd en dat dit ook serieuze consequenties heeft voor onze nationale veiligheid;</al>
+            <al>overwegende dat in die context meerdere Europese regeringen reeds stappen hebben genomen op het terrein van de versterking van defensie en extra steun voor Oekraïne;</al>
+            <al>overwegende dat Nederland het gastland is voor de NAVO-top in juni;</al>
+            <al>verzoekt het kabinet om binnen een maand met een visie op de toekomstige ontwikkeling van onze krijgsmacht te komen en een herziene nationale veiligheidsstrategie met de Kamer te delen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Timmermans</al>
+              <al>Jetten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

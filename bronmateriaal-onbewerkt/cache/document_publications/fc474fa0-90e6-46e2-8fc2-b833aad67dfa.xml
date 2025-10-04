@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-19637-3488"/>
+      <meta name="OVERHEIDop.ondernummer" content="3488"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="19637"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Gewijzigde motie van het lid Ceder over verkennen hoe het Vreemdelingenbesluit moet worden aangepast zodat een ambtshalve toets op artikel 8 EVRM bij minderjarigen verplicht wordt (t.v.v. 19637-3482)"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="D.G.M. Ceder"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Vreemdelingenbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Vreemdelingenbeleid; Motie (gewijzigd/nader); Gewijzigde motie van het lid Ceder over verkennen hoe het Vreemdelingenbesluit moet worden aangepast zodat een ambtshalve toets op artikel 8 EVRM bij minderjarigen verplicht wordt (t.v.v. 19637-3482)"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Migratie en integratie | Organisatie en beleid"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Recht | Staatsrecht"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>19 637</dossiernr>
+         </dossiernummer>
+         <titel>Vreemdelingenbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3488</ondernummer>
+         </stuknr>
+         <titel>GEWIJZIGDE MOTIE VAN HET LID CEDER TER VERVANGING VAN DIE GEDRUKT ONDER NR. 3482</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>overwegende dat asielprocedures jarenlang voortduren, o.a. door lange wachtlijsten bij de IND en doordat naast individuen ook de Staat geregeld in beroep gaat, waardoor kinderen geworteld raken in de Nederlandse samenleving;</al>
+                  <al>overwegende dat het uitzetten van gewortelde kinderen niet goed gaat en tevens Nederlandssprekende, goed opgeleide kinderen die de Nederlandse normen en waarden onderschrijven en een grote bijdrage aan de personele tekorten kunnen bijdragen die in veel sectoren alleen maar zullen oplopen;</al>
+                  <al>overwegende dat er naast kinderen met een asielverleden ook vele schoolgaande kinderen zonder asielverleden die een bijdrage kunnen leveren aan de samenleving bijv. bij UWV-krapteberoepen en de motie van der Plas (29 861–102) hier al eerder aandacht voor vroeg;</al>
+                  <al>overwegende dat dit dossier om de paar jaar een groot politiek punt wordt en zonder structurele oplossing weer een paar jaar vooruit wordt geschoven;</al>
+                  <al>verzoekt de regering te verkennen hoe het Vreemdelingenbesluit moet worden aangepast zodat een ambtshalve toets op artikel 8 EVRM bij minderjarigen verplicht wordt en daarin de belangen van het kind waaronder geworteldheid in de Nederlandse samenleving expliciet worden gewogen en tevens te verkennen hoe een uitwerking van deze ambtshalve toetsing in de vreemdelingencirculaire en de werkinstructie van de IND moet worden uitgewerkt, waarin wordt uitgewerkt wat artikel 8 EVRM voor minderjarige kinderen betekent op een wijze dat een aanzuigende werking voorkomen wordt;</al>
+                  <al>verzoekt de regering tevens juridisch uit te werken dat perspectief op een positieve bijdrage aan de Nederlandse samenleving ook een overweging van toekenning kan zijn;</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Ceder</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

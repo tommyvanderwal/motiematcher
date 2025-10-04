@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31524-630/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 524</dossiernr>
+      </dossiernummer>
+      <titel>Beroepsonderwijs en Volwassenen Educatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">630</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MARTENS-AMERICA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de wettelijke taak van het mbo zoals beschreven in artikel 1.2.1, lid 2, en in artikel 7.1.3, lid 1, van de Wet educatie en beroepsonderwijs (WEB) op diverse manieren wordt geïnterpreteerd;</al>
+            <al>overwegende dat een eenduidige interpretatie van dit wetsartikel van belang is om duidelijkheid te krijgen over de taak van het beroepsonderwijs en de doorstroom naar het hoger onderwijs;</al>
+            <al>van mening dat de overstap van het mbo naar het hbo mogelijk moet zijn, maar dat een bewuste keuze voor het mbo niet ontmoedigd moet worden door het systeem wettelijk in te richten op doorstroom naar hoger onderwijs;</al>
+            <al>verzoekt de regering te inventariseren en in kaart te brengen hoe deze wettelijke taak qua doorstroom van het mbo naar het hbo wordt geïnterpreteerd;</al>
+            <al>verzoekt de regering voorts in kaart te brengen welke wetsverandering er nodig zou zijn om deze wettelijke taak aan te passen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Martens-America</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

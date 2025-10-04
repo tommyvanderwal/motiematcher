@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24515-760/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 515</dossiernr>
+      </dossiernummer>
+      <titel>Preventie en bestrijding van stille armoede en sociale uitsluiting </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">760</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN DE LEDEN PALMEN EN MOHANDIS TER VERVANGING VAN DIE GEDRUKT ONDER NR. 742</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-23">23 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gemeenten lokale belastingen dit jaar verhogen met gemiddeld 8,5%;</al>
+            <al>constaterende dat mensen die amper rond kunnen komen niet in aanmerking komen voor een kwijtschelding wanneer zij een bescheiden spaarpot hebben, omdat de vermogensgrenzen voor lokale belastingen lager liggen dan de vermogensgrenzen in de Participatiewet;</al>
+            <al>constaterende dat artikel 255, vierde lid, van de Gemeentewet voor gemeenteraden de bevoegdheid schept om ruimere vermogensnormen te hanteren voor kwijtschelding van gemeentelijke belastingen;</al>
+            <al>overwegende dat het Nibud het belang van een financiële buffer benadrukt omdat dit problemen voorkomt op individueel en op maatschappelijk niveau en dat sparen daarom niet afgestraft zou moeten worden;</al>
+            <al>constaterende dat deze maatregel voor het Rijk kostenneutraal is omdat deze gecompenseerd – indien nodig – kan worden binnen het gemeentelijke belastingdomein;</al>
+            <al>verzoekt de regering, de Regeling kwijtschelding belastingen medeoverheden voor 1 september 2024 aan te passen en daarin te bepalen dat de vermogensnorm voor kwijtschelding verruimd Kan worden tot maximaal de vermogensnorm in de Participatiewet,</al>
+            <al>verzoekt de regering de Kamer te informeren over de wettelijke mogelijkheden en implicaties voor het volledig gelijktrekken van de vermogensgrenzen, en daarbij de maatschappelijke baten van de preventieve werking van een financiële buffer mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Palmen</al>
+              <al>Mohandis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

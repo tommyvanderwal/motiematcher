@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XV-44/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XV</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Sociale Zaken en Werkgelegenheid (XV) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">44</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID LAHLAH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-28">28 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de envelop Groepen in de knel wordt aangewend voor het uitvoeren van het ibo-basispakket op het gebied van schulden;</al>
+            <al>constaterende dat deze maatregelen ten dele direct ten goede komen aan mensen in de knel, maar dat hier ook regulerend beleid onder valt, waaronder leeftijdsverificatie voor krediet, het verlagen van aanmaningskosten op verkeersboetes en het sturen van kosteloze betalingsherinneringen van verkeersboetes;</al>
+            <al>van mening dat deze envelop gebruikt moet worden om kwetsbare groepen in de samenleving direct te ondersteunen;</al>
+            <al>verzoekt de regering om de envelop Groepen in de knel niet te gebruiken voor regulerend beleid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Lahlah</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

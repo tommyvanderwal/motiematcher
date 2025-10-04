@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32637-683/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 637</dossiernr>
+      </dossiernummer>
+      <titel>Bedrijfslevenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">683</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN MEETELEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-10">10 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat steeds meer mkb-ondernemers aangewezen zijn op non-bancaire kredietverstrekkers voor financiering;</al>
+            <al>overwegende dat ondernemers erop moeten kunnen vertrouwen dat zij via de FinancieringsGids worden doorgestuurd naar betrouwbare kredietverstrekkers;</al>
+            <al>verzoekt de regering om in gesprek te gaan met de SMF, de Stichting MKB Financiering, om strengere criteria en controlemechanismen in te stellen voor keurmerken voor non-bancaire kredietverstrekkers, zodat ondernemers verzekerd zijn van eerlijke en transparante financiering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Meetelen</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

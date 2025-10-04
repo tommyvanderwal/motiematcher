@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-32-1676/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>32</raadnr></dossiernummer>
+      <titel>Landbouw- en Visserijraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1676</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOSTIC</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-17">17 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat wereldwijd elke minuut 30 voetbalvelden aan bos verdwijnen;</al>
+            <al>constaterende dat uit onderzoek blijkt dat financiële instellingen steeds meer geld blijven steken in activiteiten die bijdragen aan de massale kap van bomen;</al>
+            <al>constaterende dat het sinds 2015 om meer dan 395 miljard dollar gaat en dat financiële instellingen daarmee een drijvende kracht zijn achter ontbossing;</al>
+            <al>constaterende dat bossen vitaal zijn voor al het leven op aarde en voor onze voedselvoorziening;</al>
+            <al>constaterende dat financiële instellingen niet onder de EUDR-Ontbossingsverordening vallen en daarmee niet verantwoordelijk worden gehouden voor hun grote negatieve bijdrage aan ontbossing, terwijl dat van andere sectoren wel wordt verwacht;</al>
+            <al>overwegende dat er mogelijk volgend jaar een voorstel komt vanuit de EU om de financiële sector wel onder de EUDR-Ontbossingsverordening te laten vallen;</al>
+            <al>verzoekt de regering zich in Europees verband ervoor in te zetten dat wordt geregeld dat ook financiële instellingen onder de EUDR-Ontbossingsverordening gaan vallen, zodat ook de financiële instellingen eerlijk bijdragen aan de oplossing,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Kostić</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

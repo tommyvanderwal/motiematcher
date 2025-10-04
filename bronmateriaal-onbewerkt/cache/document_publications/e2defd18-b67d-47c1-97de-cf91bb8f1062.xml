@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30821-265/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 821</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Veiligheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">265</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KOEKKOEK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Digital Services Act (DSA) en de Digital Markets Act (DMA) zijn bedoeld om een eerlijk digitaal speelveld te creëren en fundamentele rechten en vrijheden te beschermen;</al>
+            <al>overwegende dat effectieve handhaving van deze wetgeving essentieel is om misbruik door grote onlineplatforms te voorkomen;</al>
+            <al>overwegende dat zowel de Europese Commissie als nationale toezichthouders voldoende capaciteit en middelen nodig hebben om deze taken goed uit te voeren;</al>
+            <al>verzoekt de regering zich in te zetten voor een verhoging van de middelen voor de handhaving van de DSA en DMA, zowel op Europees als nationaal niveau,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Koekkoek</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

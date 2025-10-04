@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1320/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1320</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SIX DIJKSTRA C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-13">13 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de Verenigde Staten momenteel een zeer agressieve en onvoorspelbare handelspolitiek bedrijven richting hun nauwe bondgenoten en de Amerikaanse president expliciet heeft aangegeven dat Europese regulering van Amerikaanse technologie kan rekenen op een tegenreactie vanuit de Verenigde Staten;</al>
+            <al>overwegende dat de Nederlandse overheid op het vlak van digitale technologie, en in het bijzonder cloudtechnologie, eenzijdig afhankelijk is van een select aantal zeer grote Amerikaanse bedrijven, waarbij deze afhankelijkheid door de Verenigde Staten ingezet kan worden als economisch drukmiddel;</al>
+            <al>overwegende dat Nederland en de EU een groot aantal capabele en welwillende IT-dienstverleners kennen die de dataopslag en digitale dienstverlening van de Nederlandse overheid kunnen onderhouden en faciliteren, maar er leiderschap en coördinatie vanuit de overheid vereist is om deze diensten af te nemen;</al>
+            <al>verzoekt de regering om als doelstelling te hanteren dat de continuïteit van de Nederlandse digitale overheid niet rechtstreeks afhankelijk is van partijen vanuit de Verenigde Staten, en deze door te vertalen in het departementale beleid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Six Dijkstra</al>
+              <al>Kathmann</al>
+              <al>Van der Werf</al>
+              <al>Koekkoek</al>
+              <al>Ceder</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

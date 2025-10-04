@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-400/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">400</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BAMENGA </titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-12">12 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de staatscommissie tegen discriminatie en racisme dit jaar een pilot is gestart met een doorlichtingsinstrument voor overheids- en uitvoeringsinstanties om discriminatie en etnisch profileren in de werkwijze en organisatiecultuur tegen te gaan;</al>
+            <al>overwegende dat de eindevaluatie van dit instrument plaatsvindt in 2026;</al>
+            <al>overwegende dat een bredere toepassing van dit instrument de private sector kan helpen om ook daar discriminatie en etnisch profileren te verminderen;</al>
+            <al>verzoekt de regering om bij de eindevaluatie mee te nemen op welke manier dit instrument ook aangeboden kan worden ter ondersteuning voor het uitbannen van discriminatie in de private sector;</al>
+            <al>verzoekt de regering tevens om tijdens de looptijd van de pilot geleerde lessen direct proactief te delen met werkgevers,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Bamenga</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

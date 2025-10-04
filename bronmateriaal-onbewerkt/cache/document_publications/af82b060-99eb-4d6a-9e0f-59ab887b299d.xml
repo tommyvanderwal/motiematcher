@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28325-272/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 325</dossiernr>
+      </dossiernummer>
+      <titel>Bouwregelgeving </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">272</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PATERNOTTE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er op dit moment 425.000 huishoudens te maken hebben met enige vorm van funderingsschade;</al>
+            <al>constaterende dat als we niets doen dit op kan lopen tot 1 miljoen huishoudens in 2050;</al>
+            <al>overwegende dat het een enorme impact heeft op gezinnen wanneer de vloer letterlijk onder je voeten wegzakt;</al>
+            <al>overwegende dat de Raad voor de leefomgeving en infrastructuur concrete handvatten biedt om aan de grote zorgen van bewoners tegemoet te komen;</al>
+            <al-groep>
+              <al>van mening dat de rijksoverheid huishoudens, gebouweigenaren, die te maken krijgen met enige vorm van funderingsschade zou moeten helpen door:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het oprichten van een landelijk loket voor funderingsproblematiek;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>uit te werken hoe deze huishoudens lokaal geholpen kunnen worden met een funderingsonderzoek en een helder advies over het vervolgtraject;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>samen met marktpartijen financieringsmogelijkheden uit te werken zodat de schade hersteld kan worden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>onderzoek en innovatie te stimuleren zodat herstel goedkoper wordt;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>het opzetten van regionaal onderzoek, zodat funderingsproblematiek voorkomen kan worden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>maatregelen te nemen om toekomstige huiseigenaren zo veel mogelijk te beschermen tegen nieuwe gevallen van funderingsschade;</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <al>verzoekt de regering zo snel mogelijk met bovenstaande punten aan de slag te gaan, en de Kamer voorafgaand aan de behandeling van de begroting van Binnenlandse Zaken over de voortgang hiervan te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>De Hoop</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+              <al>Beckerman</al>
+              <al>Dassen</al>
+              <al>Teunissen</al>
+              <al>Peter de Groot</al>
+              <al>Vermeer</al>
+              <al>Welzijn</al>
+              <al>Madlener</al>
+              <al>Eerdmans</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

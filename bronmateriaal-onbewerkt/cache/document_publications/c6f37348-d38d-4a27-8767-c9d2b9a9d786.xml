@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-07-2026/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>07</raadnr></dossiernummer>
+      <titel>Raad voor Economische en Financiële Zaken</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2026</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID MOOIMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-04">4 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie voornemens is om via het instrument van macrofinanciële bijstand een pakket van 5 miljard euro aan Egypte te verstrekken;</al>
+            <al>constaterende dat de financiering plaatsvindt door het lenen van geld op de kapitaalmarkt, waarvoor lidstaten van de Europese Unie, waaronder Nederland, garant staan;</al>
+            <al>overwegende dat middels macrofinanciële bijstand aan steeds meer landen omvangrijke financiële pakketten worden toegekend en dat de exposure en risico's voor Nederland groter worden;</al>
+            <al>overwegende dat het instrument in eerste instantie als uitzonderlijk middel voor financiële ondersteuning aan landen in tijden van crisis bedoeld was, maar dat de inzet hiervan breder en frequent lijkt te worden toegepast;</al>
+            <al-groep>
+              <al>verzoekt de regering:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>een grondige analyse uit te (laten) voeren van de inzet van macrofinanciële bijstand met specifieke aandacht voor de mate van uitzonderlijkheid, doelmatigheid, en het Nederlands belang bij het instrument, alsmede een beoordeling van de langetermijnimpact en financiële risico's voor Nederland;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de Kamer te voorzien van een gedetailleerd overzicht van de reeds aangegane verplichtingen van Nederland in het kader van macrofinanciële bijstand, inclusief een opsomming per land en de omvang waarvoor Nederland garant staat, zowel in termen van leningen als giften,</al>
+                </li>
+              </lijst>
+            </al-groep>
+            <?xpp ep?>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Mooiman</al>
+              <al>Flach</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

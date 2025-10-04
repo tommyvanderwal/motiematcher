@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36476-3/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 476</dossiernr>
+      </dossiernummer>
+      <titel>Staat van de Europese Unie 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID KLAVER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-16">16 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de huidige Europese sancties onvoldoende effectief zijn geweest in het afremmen van de winst op Russische energie;</al>
+            <al>overwegende dat de Russische energiesector een belangrijke bijdrage levert aan de Russische oorlogskas;</al>
+            <al>overwegende dat de VS de import van Russisch uranium reeds heeft gestopt;</al>
+            <al>overwegende dat bedrijven in Nederland nog steeds direct en indirect Russisch uranium importeren;</al>
+            <al>verzoekt de regering om in Europees verband te pleiten voor beperkende maatregelen wat betreft import vanuit Rusland in het nucleaire domein, de inperking van import van Russisch LNG, en om het olieprijsplafond in effectiviteit te maximaliseren;</al>
+            <al>verzoekt de regering vooruitlopend op Europese maatregelen op Russisch uranium maatregelen te onderzoeken wat betreft banden met Rusland in het nucleaire domein met het Nederlandse bedrijfsleven, inclusief de import van uranium,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Klaver</al>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

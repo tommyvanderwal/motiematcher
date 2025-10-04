@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29240-166/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 240</dossiernr>
+      </dossiernummer>
+      <titel>Veiligheid op school </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">166</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HEITE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij demonstraties die uitmonden in rellen niet alleen de sociale veiligheid, maar ook de fysieke veiligheid van Joodse studenten in het geding is;</al>
+            <al>constaterende dat Joodse studenten in sommige gevallen onveilig zijn geweest of zich onveilig hebben gevoeld;</al>
+            <al>van mening dat het nodig is dat besturen van instellingen bij grote maatschappelijke of politieke druk één lijn kunnen trekken;</al>
+            <al>verzoekt de regering om te onderzoeken op welke wijze centrale regie op sturingsinformatie en veiligheidsbeleid de fysieke veiligheid van Joodse studenten bij universiteiten kan verbeteren, met behoud van autonomie van de instellingen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Heite</al>
+              <al>Eerdmans</al>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+              <al>Martens-America</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XVI-173/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">173</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het condoomgebruik in Nederland de afgelopen jaren blijft afnemen, vooral onder jongeren;</al>
+            <al>constaterende dat het aantal soa's daarentegen blijft toenemen, vooral onder jongeren;</al>
+            <al>constaterende dat er veel misinformatie is over anticonceptie;</al>
+            <al>constaterende dat een brede coalitie van jongerenorganisaties, waaronder NJR, LSVb, LAKS, JOB, JOVD, JBBB, JS, CDJA, DWARS, PINK! en Jonge Democraten, op 5 november 2024 een manifest voor seksuele gezondheid heeft aangeboden aan de Tweede Kamer;</al>
+            <al>constaterende dat de regering al heeft uitgesproken de opdracht aan het RIVM te hebben gegeven om in samenwerking met Soa Aids Nederland onderzoek te doen naar effectieve interventies voor het stimuleren van het condoomgebruik;</al>
+            <al>constaterende dat er naast condoomgebruik ook andere anticonceptiemethoden zijn;</al>
+            <al-groep>
+              <al>overwegende dat de voorkeur voor een anticonceptiemethode kan verschillen</al>
+              <al>per persoon;</al>
+            </al-groep>
+            <al>verzoekt de regering om in het onderzoek naar effectieve interventies voor het stimuleren van het condoomgebruik ook andere anticonceptiemethoden mee te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

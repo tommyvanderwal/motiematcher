@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32623-334/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 623</dossiernr>
+      </dossiernummer>
+      <titel>Actuele situatie in Noord-Afrika en het Midden-Oosten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">334</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID CEDER C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-09">9 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er recent massa-executies van minderheden hebben plaatsgevonden en die onvoldoende bescherming krijgen;</al>
+            <al>overwegende dat er grote zorgen leven vanuit minderheidsgemeenschappen over of de overgangsregering van Al-Jolani in staat is om groeperingen onder controle te houden;</al>
+            <al>overwegende dat er vrees leeft bij de gemeenschappen over hun veiligheid en rechtsgelijkheid en de instabiele situatie ook kan leiden tot migratiestromen;</al>
+            <al-groep>
+              <al>verzoekt de regering om zich in EU-verband hard te maken voor voorwaardelijke verdere normalisatie van de betrekkingen met het Syrische regime, met als harde voorwaarden dat:</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de regering de veiligheid en gelijke rechten van alle minderheden kan garanderen, waaronder de alawieten, druzen, christenen en Koerden;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>de religieuze vrijheden ondanks de overgangsgrondwet gebaseerd op de sharia gerespecteerd blijven;</al>
+                </li>
+                <li>
+                  <li.nr>•</li.nr>
+                  <al>zowel deze minderheden als de Syrische Arabische partijen die niet onder controle staan van HTS worden uitgenodigd om deel te nemen aan en medezeggenschap te krijgen over het transitieproces naar een vrij en veilig Syrië,</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag.</al>
+            </al-groep>
+            <al-groep>
+              <al>Ceder</al>
+              <al>Van der Burg</al>
+              <al>Stoffer</al>
+              <al>Boswijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

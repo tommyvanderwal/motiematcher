@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31793-258/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 793</dossiernr>
+      </dossiernummer>
+      <titel>Internationale klimaatafspraken </titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">258</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-03-21">21 maart 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Europese Commissie met steun van onze regering wil inzetten op extra maatregelen voor verduurzaming van de gebouwde omgeving;</al>
+            <al>constaterende dat de regering zich wil inzetten voor extra maatregelen voor de sectoren landbouw en landgebruik en voor volledige afschaffing van fossiele subsidies, wat direct ons belastingstelsel raakt;</al>
+            <al>van mening dat de regering vanuit het oogpunt van subsidiariteit terughoudend moet zijn ten aanzien van Europese regels voor sectoren die minder gevoelig zijn voor internationale concurrentie en samenwerking, zoals gebouwde omgeving en landgebruik, en ten aanzien van maatregelen die ons belastingstelsel raken;</al>
+            <al>verzoekt de regering vanuit het oogpunt van subsidiariteit zich zeer terughoudend op te stellen als het gaat om extra inzet voor de sectoren gebouwde omgeving, landbouw en landgebruik en als het gaat om maatregelen die ons belastingstelsel raken, als mogelijke uitwerking van eventuele nieuwe klimaatdoelen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

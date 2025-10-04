@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36471-79/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 471</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsformatie 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">79</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN JETTEN EN BONTENBAL</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-07-04">4 juli 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in het hoofdlijnenakkoord is afgesproken de btw op boeken, kranten, cultuur en sport te verhogen;</al>
+            <al>overwegende dat de drempel tot cultuur en sport voor Nederlanders zo hoger wordt;</al>
+            <al>overwegende dat er hiermee ook een inhoudelijk onverklaarbaar verschil ontstaat tussen dagrecreatie – waar geen btw-verhoging op komt – en cultuur en sport, en dit daarmee zal leiden tot eindeloze procedures bij de Belastingdienst;</al>
+            <al>verzoekt de regering om cultuur en sport niet anders te behandelen dan dagrecreatie;</al>
+            <al>verzoekt de regering daarom ook de btw-verhoging op cultuur en sport te heroverwegen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Jetten</al>
+              <al>Bontenbal</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29544-1294"/>
+      <meta name="OVERHEIDop.ondernummer" content="1294"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-03"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29544"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Vermeer en Rikkers-Oosterkamp over de handhaving door de Belastingdienst uitsluitend richten op structureel misbruik en schijnzelfstandigheid"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="M.G.F. Rikkers-Oosterkamp"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="H. Vermeer"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Arbeidsmarktbeleid"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.title" scheme="" content="Arbeidsmarktbeleid; Motie; Motie van de leden Vermeer en Rikkers-Oosterkamp over de handhaving door de Belastingdienst uitsluitend richten op structureel misbruik en schijnzelfstandigheid"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Werk | Werkgelegenheid"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 544</dossiernr>
+         </dossiernummer>
+         <titel>Arbeidsmarktbeleid</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">1294</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN VERMEER EN RIKKERS-OOSTERKAMP</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-02">2 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat zelfstandigen zonder personeel (zzp'ers) onvoldoende duidelijkheid ervaren over hun positie vanwege uitblijvende wetgeving;</al>
+                  <al>overwegende dat de inzet van zzp'ers van vitaal belang is voor het functioneren van de Nederlandse economie, in het bijzonder in sectoren als zorg, onderwijs en IT;</al>
+                  <al>overwegende dat het huidige handhavingsbeleid mogelijk leidt tot onzekerheid bij bonafide ondernemers, terwijl schijnzelfstandigheid en misbruik wel moeten worden aangepakt;</al>
+                  <al>overwegende dat duidelijkheid belangrijk is om opdrachtgevers en zelfstandigen helderheid te geven;</al>
+                  <al>verzoekt het kabinet te onderzoeken hoe de handhaving door de Belastingdienst zodanig kan worden ingericht dat deze zich uitsluitend richt op structureel misbruik en schijnzelfstandigheid, met prioriteit bij kwetsbare situaties, en er geen jacht wordt gemaakt op bonafide ondernemers;</al>
+                  <al>verzoekt het kabinet te onderzoeken of een verlenging van de zachte landing met één jaar nodig en wenselijk is, en hier voor het kerstreces over te rapporteren;</al>
+                  <al>verzoekt het kabinet om te onderzoeken op welke wijze de communicatie richting zzp'ers en opdrachtgevers kan worden verbeterd, zodat zij vooraf weten waar zij aan toe zijn,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Vermeer</al>
+                     <al>Rikkers-Oosterkamp.</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

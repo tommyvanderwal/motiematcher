@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-20-2134/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>20</raadnr></dossiernummer>
+      <titel>Europese Raad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">2134</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN PATERNOTTE EN DASSEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-17">17 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er gesprekken hebben plaatsgevonden tussen de Franse president Macron en de Poolse premier Tusk over een Europese vredesmacht in Oekraïne;</al>
+            <al>overwegende dat duurzame vrede na beëindiging van de Russische invasie alleen mogelijk is indien er een brede vredesmacht is die met voldoende afschrikking een nieuwe oorlog kan voorkomen;</al>
+            <al>spreekt uit dat de Kamer een Nederlandse rol ziet om samen met NAVO-partners te zorgen voor bescherming van naoorlogse stabiliteit in Oekraïne;</al>
+            <al>verzoekt de regering om zich constructief op te stellen ten aanzien van de Franse en Poolse ideeën over een naoorlogse vredesmacht in Oekraïne en hierover met deze landen in gesprek te gaan,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Paternotte</al>
+              <al>Dassen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

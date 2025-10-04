@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1362/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1362</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KOSTIĆ EN GRAUS</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-05">5 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Tweede Kamer in 2021 bijna unaniem heeft verzocht om stappen te zetten om het levend koken van kreeften en krabben te verbieden (<extref doc="kst-35925-XIV-67" soort="document" status="actief">35 925-XIV, nr. 67</extref>);</al>
+            <al>constaterende dat de Staatssecretaris onlangs liet weten dat hij nog minstens vier jaar lang onderzoek laat uitvoeren naar alternatieven voor de horeca, en dat hij daarna nog gaat overwegen hoe er een einde kan komen aan het levend koken van kreeften en krabben;</al>
+            <al>overwegende dat een groeiend aantal restaurants al is gestopt met het levend koken van kreeften en krabben en zij hiermee laten zien dat er beschikbare alternatieven zijn;</al>
+            <al>overwegende dat onder meer de Stichting Promotie Oosterscheldekreeft en de Kring van de Oosterscheldekreeft zich hebben uitgesproken voor een verbod op het levend koken van kreeften;</al>
+            <al>overwegende dat steeds meer landen het levend koken van kreeften en krabben al hebben verboden of hier wetgeving voor voorbereiden;</al>
+            <al>verzoekt de regering om niet nog vier jaar lang te wachten, maar al eerder over te gaan tot een verbod op het levend koken van kreeften en krabben,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kostić</al>
+              <al>Graus</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

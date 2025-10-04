@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32140-190/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 140</dossiernr>
+      </dossiernummer>
+      <titel>Herziening Belastingstelsel</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">190</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN IDSINGA EN VERMEER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-05-23">23 mei 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er een wetsvoorstel is voorbereid met de citeertitel Wet werkelijk rendement box 3;</al>
+            <al>constaterende dat de Kamer hierover op 18 april een debat heeft gevoerd en dat naar aanleiding daarvan ook een brief van de Staatssecretaris is ontvangen op 15 mei 2024 waarin punten zijn geadresseerd en waarbij het de bedoeling was om daarover op 22 mei een vervolgdebat te houden om inhoudelijke en politieke punten verder te bespreken, maar dat dit vanwege het plenaire debat over de formatie is geannuleerd en is uitgesteld tot 11 juni;</al>
+            <al>overwegende dat het huidige forfaitaire systeem van box 3 ter discussie staat in verschillende juridische procedures, met mogelijk grote financiële gevolgen voor de schatkist;</al>
+            <al>overwegende dat de Staatssecretaris in zijn hiervoor genoemde brief aangeeft dat om het schema voor inwerkingtreding per 2027 nog te kunnen halen het conceptwetsvoorstel begin juni 2024 in een ambtelijk voorportaal moet worden besproken, ter voorbereiding van de behandeling in de ministerraad eind juni, voor de adviesaanvraag bij de Raad van State, en dat dit betekent dat nog deze maand besloten moet worden of het wetsvoorstel de verdere procedure kan voortzetten gelet op de beoogde datum voor inwerkingtreding per 1 januari 2027;</al>
+            <al>verzoekt de regering het voorbereidingsproces voort te zetten, zodat de beoogde invoeringsdatum van het nieuwe box 3-regime op basis van werkelijk rendement per 1 januari 2027 gehaald worden,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Idsinga</al>
+              <al>Vermeer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

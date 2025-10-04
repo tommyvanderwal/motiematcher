@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-24587-947/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>24 587</dossiernr>
+      </dossiernummer>
+      <titel>Justitiële Inrichtingen</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">947</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN UITERMARK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de DJI heeft besloten dat niet de indicatiestelling van reclasseringsorganisaties leidend is voor de vraag of specifieke ambulante begeleiding voor cliënten met psychische problematiek gecombineerd met verslaving en eventueel verstandelijke beperking leidend is, maar dat alléén de aanwezigheid van de diagnose DSM-5 daarvoor doorslaggevend is;</al>
+            <al>constaterende dat van de door reclasseringsorganisaties geïndiceerde groep met zogenoemde PSY-indicatie, minder dan 50% van de gevallen daadwerkelijk in bezit is van een DSM-5 en vanwege zorgvermijding en het vroegere milieu vaak niet is gediagnosticeerd en men daar ook niet voor openstaat, omdat het voor hen vanwege uiteenlopende redenen niet mogelijk is deze diagnose te bewerkstelligen;</al>
+            <al>overwegende dat deze reclassanten gebaat zijn bij deze hulp, dat de organisaties die deze hulp bieden, dit qua capaciteit ook willen en kunnen, en dat dit zorgt voor een afname van de recidive;</al>
+            <al>verzoekt de regering te waarborgen dat mensen bij wie geen DSM-5-diagnose vastgesteld is, maar voor wie wel een PSY-indicatie is afgegeven door de reclassering, wel te blijven begeleiden in hun psychische hulpvraag, omdat dit bijdraagt aan de veiligheid,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Uitermark</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

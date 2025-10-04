@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-A-32/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>A</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">32</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld tijdens het Notaoverleg van <datum isodatum="2024-11-25">25 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het dagelijks dichtslibt en dit tot files en gevaarlijke situaties leidt op de A12 ter hoogte van de afslag Reeuwijk en Bodegraven, de aansluiting N11;</al>
+            <al>constaterende dat dit leidt tot slechte bereikbaarheid voor hulpdiensten en ov;</al>
+            <al>constaterende dat de huidige situatie enkele gevaarlijke fietsoversteekplaatsen kent;</al>
+            <al>overwegende dat het probleem al jaren door Rijk en regio wordt erkend en dat wordt gewerkt aan een langetermijnoplossing, maar dat er geen zicht is op een oplossing op de korte termijn of middellange termijn voor de doorstroming van het wegverkeer;</al>
+            <al>overwegende dat de Minister met regio’s in gesprek gaat over mitigerende maatregelen voor kleinere projecten en de bijbehorende restbudgetten ter verbetering van de weginfrastructuur of de doorstroming;</al>
+            <al>overwegende dat de regiogemeenten als oplossing voor de korte en de middellange termijn een korte lus voorstellen voor de aansluiting van de A12 naar de N11 vanuit de richting Den Haag, met gebruik van de bestaande tunnelbak bij Bodegraven;</al>
+            <al>verzoekt de regering met de regio in overleg te treden over de optie van een korte lus voor de verbinding van de A12 naar de N11, en dit te betrekken bij de gesprekken over kleinere maatregelen in het kader van de inzet van restbudgetten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Vedder</al>
+              <al>Grinwis</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

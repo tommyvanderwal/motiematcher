@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-21501-28-276/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>21 501</dossiernr>-<raadnr>28</raadnr></dossiernummer>
+      <titel>Defensieraad</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">276</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DASSEN EN PATERNOTTE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-26">26 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de aangekondigde 150 miljard euro aan Europese defensieleningen (het SAFE-instrument) gebruikt kunnen worden voor investeringen in de Moldavische defensie-industrie, maar enkel voor eindproducten die voor ten minste 65% uit EU-onderdelen bestaan;</al>
+            <al>constaterende dat voor Oekraïne een uitzondering op deze regel is gemaakt, waarmee ook defensieproducten kunnen worden aangekocht die voor een groter deel uit Oekraïense onderdelen bestaan;</al>
+            <al>overwegende dat de opschaling van de Moldavische defensie-industrie vanwege directe Russische dreiging jegens Moldavië maximaal gestimuleerd zou moeten worden;</al>
+            <al>verzoekt de regering te bepleiten dat defensie-investeringen via het SAFE-instrument op dezelfde manier van toepassing zijn op Moldavië als op Oekraïne,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dassen</al>
+              <al>Paternotte</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

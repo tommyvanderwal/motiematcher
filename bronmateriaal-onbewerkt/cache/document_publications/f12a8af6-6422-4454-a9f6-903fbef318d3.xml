@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-XVI-64/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>XVI</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">64</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KRUL EN WESTERVELD</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-25">25 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de motie-Werner c.s. over een meerjarige nationale strategie voor mensen met een handicap (<extref doc="kst-36200-XVI-70" soort="document" status="actief">36 200 XVI, nr. 70</extref>) bijna Kamerbreed is aangenomen;</al>
+            <al>constaterende dat er het afgelopen jaar met vereende krachten door verschillende partijen aan de uitwerking van de nationale strategie van het VN-verdrag is gewerkt;</al>
+            <al>constaterende dat de Tweede Kamer op 5 juli 2023 een voortgangsbrief heeft ontvangen waarin de verwachting werd uitgesproken om in november 2023 de strategie en een eerste aanzet tot de werkagenda naar de Tweede Kamer te sturen;</al>
+            <al>verzoekt de regering de nationale strategie en werkagenda voor het voorjaarsreces van 2024 naar de Tweede Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Krul</al>
+              <al>Westerveld</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

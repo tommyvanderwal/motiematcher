@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-19637-3329/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>19 637</dossiernr>
+      </dossiernummer>
+      <titel>Vreemdelingenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">3329</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PODT</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet voornemens is een tweetal wetsvoorstellen aan te bieden aan de Afdeling advisering van de Raad van State;</al>
+            <al>constaterende dat verschillende organisaties, waaronder de Raad voor de rechtspraak en de Nederlandse orde van advocaten, hebben aangegeven een onrealistische termijn te hebben gekregen om hun advies uit te brengen;</al>
+            <al>constaterende dat deze organisaties ook de zeer ongebruikelijke vraag hebben gekregen om de wetsvoorstellen vertrouwelijk te behandelen;</al>
+            <al>constaterende dat andere organisaties, zoals het COA en de Adviesraad Migratie, helemaal geen adviesvraag hebben gekregen;</al>
+            <al>overwegende dat onzorgvuldige wetgevingsprocessen leiden tot slechte en onuitvoerbare wetgeving, die niet zal leiden tot de gewenste resultaten;</al>
+            <al>overwegende dat de controlerende taak van de Kamer wordt gehinderd door de vertrouwelijkheid van de wetsvoorstellen, doordat het parlement geen inzage heeft in de gedane wijzigingen naar aanleiding van de adviezen;</al>
+            <al>verzoekt het kabinet om de conceptvoorstellen zoals voorgelegd ter consultatie openbaar te maken;</al>
+            <al>verzoekt het kabinet tevens om de conceptvoorstellen, als ze naar de Raad van State worden gestuurd, ook voor te leggen aan de organisaties die nog geen kans hebben gehad om te adviseren, waaronder het COA, de Adviesraad Migratie en VluchtelingenWerk Nederland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Podt</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-32852-335/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>32 852</dossiernr>
+      </dossiernummer>
+      <titel>Grondstoffenvoorzieningszekerheid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">335</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID BUIJSSE C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-06">6 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat circulaireplasticsbedrijven in Nederland in zwaar weer verkeren door sterke concurrentie van virgin plastics uit China;</al>
+            <al>constaterende dat de chemische industrie de technologie in huis heeft om grootschalig plastics chemisch te recyclen, wat belangrijk is voor het halen van de klimaatdoelen en het verminderen van onze afhankelijkheid van fossiele grondstoffen;</al>
+            <al>constaterende dat de circulaireplasticsindustrie en de afvalbranche een plan willen maken om ervoor te zorgen dat in Nederland geproduceerd plastic recyclaat zo snel mogelijk en zo veel mogelijk toegepast en bijgemengd wordt in de keten;</al>
+            <al>roept de regering op om, onder leiding van de Regeringsvertegenwoordiger Circulaire Economie en met de bedrijven uit de plasticbranche, de afvalverwerkingsbranche en de chemische industrie, een circulaireplasticstafel in te stellen, met de opdracht in gesprek te gaan en waar mogelijk afspraken te maken binnen de bestaande budgettaire kaders, en de Kamer hierover voor de zomer te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Buijsse</al>
+              <al>Wingelaar</al>
+              <al>Pierik</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

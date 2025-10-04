@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30950-385/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 950</dossiernr>
+      </dossiernummer>
+      <titel>Racisme en Discriminatie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">385</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-25">25 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er verschrikkelijke gevallen zijn geweest van vernielingen en bekladdingen van Joodse instellingen in Nederland, wat onacceptabele uitingen van antisemitisme zijn;</al>
+            <al>overwegende dat ook andere religieuze gemeenschappen, zoals de moslimgemeenschap, te kampen hebben met vernielingen en bekladdingen van religieuze instellingen;</al>
+            <al>overwegende dat er een systeem van bewaken en beveiligen is, waarin een getrapte verantwoordelijkheid van betrokkenen, gemeenten en landelijke overheid is opgenomen;</al>
+            <al>van mening dat religieuze gemeenschappen in Nederland zich veilig moeten weten en dat zicht op of de overheid in hun veiligheidsbehoeften voorziet, kan helpen om dit te bewerkstelligen;</al>
+            <al>verzoekt de regering om te onderzoeken hoe religieuze gemeenschappen het systeem van bewaken en beveiligen ervaren ten behoeve van de veiligheid van hun religieuze instellingen, en hoe zij de contacten ervaren met verantwoordelijken binnen de keten,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Van Baarle</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

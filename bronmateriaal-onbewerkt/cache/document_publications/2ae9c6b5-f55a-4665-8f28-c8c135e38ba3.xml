@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31753-297/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 753</dossiernr>
+      </dossiernummer>
+      <titel>Rechtsbijstand</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">297</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN NISPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-15">15 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de Vereniging Sociale Advocatuur Nederland voorstellen heeft gedaan om op de korte termijn het tekort in de sociale advocatuur aan te pakken;</al>
+            <al-groep>
+              <al>overwegende dat deze voorstellen een oplossing kunnen bieden voor bepaalde regio's en rechtsgebieden;</al>
+              <al>constaterende dat de commissie-Van der Meer II een aanbeveling doet om indien nodig effectieve maatregelen te treffen bij tekorten per regio of rechtsgebied;</al>
+            </al-groep>
+            <al>verzoekt de regering de Raad voor Rechtsbijstand opdracht te geven het aanbod aan sociale advocatuur per regio en rechtsgebied te monitoren en de mogelijkheid te geven om bij gesignaleerde tekorten in overleg met de NOvA de noodzakelijke maatregelen te treffen, en de Kamer hierover te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Lahlah</al>
+              <al>Wijen-Nass</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

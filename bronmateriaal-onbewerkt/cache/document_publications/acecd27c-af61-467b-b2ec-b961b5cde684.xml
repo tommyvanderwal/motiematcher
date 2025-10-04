@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33836-109/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 836</dossiernr>
+      </dossiernummer>
+      <titel>Personen- en familierecht</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">109</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN TSEGGAI EN VAN NISPEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-03">3 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat het voor (interlandelijk) geadopteerden van groot belang is om alle informatie die is verbonden aan hun adoptie te verkrijgen en die ook beschikbaar te houden;</al>
+            <al>constaterende dat een eerdere motie is aangenomen die de regering verzocht te zorgen voor laagdrempelige en onbeperkte toegang tot het eigen dossier;</al>
+            <al>overwegende dat uit juridische analyse blijkt dat juridische belemmeringen kúnnen worden weggenomen maar dit niet nog jaren op zich mag laten wachten;</al>
+            <al>verzoekt de regering er ook binnen de bestaande regels alles aan te doen de belemmeringen weg te nemen en het inzagerecht te verruimen, en nog voor de zomer de Kamer hierover te informeren;</al>
+            <al>verzoekt de regering voorts dat als blijkt dat wijziging van de wet noodzakelijk is, dit los te koppelen van het wetsvoorstel waarmee interlandelijke adoptie wordt afgebouwd, maar dit zo spoedig mogelijk te realiseren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Tseggai</al>
+              <al>Van Nispen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

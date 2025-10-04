@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36651-22/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 651</dossiernr>
+      </dossiernummer>
+      <titel>Geweldsincidenten in Amsterdam</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">22</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID YEŞILGÖZ-ZEGERIUS C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-13">13 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat in de nacht van 7 op 8 november 2024 via besloten telegramgroepen excessief geweld tegen Joden werd georganiseerd en verheerlijkt;</al>
+            <al>constaterende dat Telegram niet of nauwelijks toezicht houdt en/of ingrijpt op deze en andere strafbare uitingen;</al>
+            <al>overwegende dat de politie momenteel slechts beperkte mogelijkheden heeft om undercover mee te kijken in besloten telegramgroepen;</al>
+            <al>overwegende dat de politie al eerder heeft geadviseerd om maatregelen te treffen om Telegram beter te laten meewerken aan opsporingsonderzoeken;</al>
+            <al>verzoekt de regering de politie uiterlijk begin volgend jaar meer mogelijkheden te bieden undercover mee te kijken in (besloten) telegramgroepen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Yeşilgöz-Zegerius</al>
+              <al>Van der Plas</al>
+              <al>Wilders</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27625-680/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 625</dossiernr>
+      </dossiernummer>
+      <titel>Waterbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">680</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PETER DE GROOT C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-08">8 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat jaarlijks 100.000 nieuwe woningen gerealiseerd moeten worden om de grote woningnood aan te pakken, wat een topprioriteit van kabinet en Kamer is;</al>
+            <al>constaterende dat woningbouw in het gedrang kan komen door een te rigide invulling van het goede principe water en bodem sturend;</al>
+            <al>overwegende dat Nederland een rijke en innovatieve traditie kent in de omgang met uitdagingen op het gebied van water;</al>
+            <al>overwegende dat bij woningbouwplannen «rekening wordt gehouden» met water en bodem, wat meer balans moet brengen in de ruimtelijke-ordeningsafweging van water en bodem sturend;</al>
+            <al>verzoekt de regering het Ruimtelijk afwegingskader klimaatadaptieve gebouwde omgeving, de Landelijke maatlat groene en klimaatadaptieve gebouwde omgeving en de Landelijke Strategie en Interbestuurlijke Uitvoeringsagenda 2023–2024, met respect voor de lange termijn, nadrukkelijk te toetsen op te vergaande beperkingen en randvoorwaarden voor woningbouwplannen, om te voorkomen dat het oplossen van de woningbouwopgave onevenredig bemoeilijkt wordt,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Peter de Groot</al>
+              <al>Grinwis</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

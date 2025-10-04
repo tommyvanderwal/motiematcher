@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1299/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1299</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN DER WERF C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-20">20 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat problematisch socialmediagebruik de afgelopen jaren gestegen is, een derde van de kinderen twee of meer symptomen van telefoonverslaving heeft en de mentale en fysieke gezondheid van jongeren onder andere door het verdienmodel van verslavende social media onder druk staan;</al>
+            <al>constaterende dat factchecking en contentmoderatie door veel techbedrijven worden afgeschaald, waardoor kwetsbare kinderen nog meer in aanraking komen met schadelijke content en desinformatie;</al>
+            <al>overwegende dat uit recente onderzoeken blijkt dat 70% tot 80% van de ouders voorstander is van een minimumleeftijd van 15 voor social media en ouders behoefte hebben aan duidelijkheid om thuis het gesprek daarover aan te gaan;</al>
+            <al>overwegende dat een verslavend ontwerp voor alle leeftijden schadelijk is, maar dat je, net als bij andere verslavende middelen zoals nicotine en gokkasten, in elk geval de meest kwetsbaren, wier brein nog niet volgroeid en weerbaar is, hiertegen moet beschermen;</al>
+            <al>van mening dat techbedrijven er niet in slagen om een gezonde en veilige omgeving te bieden voor kinderen omdat ze veel geld verdienen aan hun tijd en aandacht, en daarom geen belang hebben bij het stellen van leeftijdsgrenzen noch het handhaven daarop;</al>
+            <al-groep>
+              <al>verzoekt de regering om vanuit gezondheidsperspectief binnen de richtlijnen voor verantwoord socialmedia- en schermgebruik te komen tot (gedifferentieerde) leeftijdsgrenzen voor socialmediaplatforms, en specifiek daarbinnen vast te stellen hoe een onderbouwde leeftijdsgrens, zoals de door andere landen geopperde 15 jaar, als norm gesteld kan worden voor social media die gebruikmaken van verslavende technieken;</al>
+              <al>verzoekt de regering op basis hiervan zich met gelijkgestemde landen in te spannen voor heldere regels voor techbedrijven om de gezondheid van jongeren te beschermen en daarbij aan te sturen op uniformering en handhaving van leeftijdsgrenzen voor social media,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van der Werf</al>
+              <al>Six Dijkstra</al>
+              <al>Krul</al>
+              <al>Ceder</al>
+              <al>Stoffer</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36584-16/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 584</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Handelsregisterwet 2007 en de Implementatiewet registratie uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies ter beperking van de toegang tot informatie over uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten alsmede van de toegang tot informatie over uiteindelijk belanghebbenden van trusts en soortgelijke juridische constructies (Wijzigingswet beperking toegang UBO-registers)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">16</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID AUKJE DE VRIES</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2025-02-10">10 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat gegevens in het UBO-register nu kunnen worden afgeschermd bij personen met politiebescherming;</al>
+            <al>overwegende dat de Anti-witwasrichtlijn meer ruimte biedt om mensen die bedreigd worden te beschermen en in het Handelsregister gegevens bij concrete of waarschijnlijke dreiging kunnen worden afgeschermd;</al>
+            <al>verzoekt de regering aanvullende maatregelen uit te werken om gegevens van mensen die met bedreiging te maken krijgen te beschermen, hierbij in elk geval de mogelijkheden die in het Handelsregister bestaan te betrekken, en de Kamer hierover voor 1 mei 2025 te informeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Aukje de Vries</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

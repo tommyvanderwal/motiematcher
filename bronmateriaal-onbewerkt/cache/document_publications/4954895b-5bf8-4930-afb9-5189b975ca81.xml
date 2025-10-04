@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33836-93/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 836</dossiernr>
+      </dossiernummer>
+      <titel>Personen- en familierecht</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">93</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN NISPEN EN TSEGGAI</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-04-11">11 april 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering excuses heeft aangeboden voor het falende adoptiebeleid van de Nederlandse Staat maar de vervolgstappen om geadopteerden te compenseren en ondersteuning te bieden beperkt zijn geweest, terwijl de commissie-Joustra juist had aanbevolen dat de overheid zich maximaal in moest spannen om de gevolgen van de misstanden (die niet terug te draaien zijn) zo goed mogelijk te verzachten;</al>
+            <al>verzoekt de regering met voorstellen te komen om meer hulp en ondersteuning te bieden aan geadopteerden die dat wensen, zoals hulp bij en een vergoeding voor het herstellen van de oorspronkelijke naam, nationaliteit en correcte geboorteakte en psychologische hulp voor wie dat nodig heeft;</al>
+            <al>verzoekt de regering tevens te zorgen voor laagdrempelige en onbeperkte toegang tot het eigen dossier van geadopteerden;</al>
+            <al>verzoekt de regering voorts te stoppen met het doorprocederen tegen geadopteerden die in het gelijk zijn gesteld door een rechter en in ieder geval hen financieel te compenseren voor de procedure,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Nispen</al>
+              <al>Tseggai</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

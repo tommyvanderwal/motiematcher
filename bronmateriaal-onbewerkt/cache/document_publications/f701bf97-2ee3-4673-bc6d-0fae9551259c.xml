@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36327-66/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 327</dossiernr>
+      </dossiernummer>
+      <titel>Vaststelling van het nieuwe Wetboek van Strafvordering (Wetboek van Strafvordering)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">66</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN ELLIAN EN SNELLER</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-03-19">19 maart 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat een belangrijke doelstelling van het nieuwe Wetboek van Strafvordering is dat strafzaken beter voorbereid op zitting komen en de strafzaak dus zo «zittingsklaar» mogelijk moet zijn;</al>
+            <al>constaterende dat deze beweging naar voren niet afdwingbaar is omdat de rechter-commissaris geen mogelijkheden heeft om consequenties te verbinden aan het te laat indienen van onderzoekswensen;</al>
+            <al>van mening dat om dit nieuwe wetboek tot een succes te maken de beweging naar voren steviger verankerd moet zijn door bijvoorbeeld het noodzaakcriterium aan te scherpen of op andere wijze een sanctie te kunnen verbinden in de situatie dat onderzoekswensen al bij de rechter-commissaris hadden kunnen worden ingediend;</al>
+            <al>verzoekt de regering om bij de tweede aanvullingswet de beweging naar voren duidelijker te verankeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Ellian</al>
+              <al>Sneller</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

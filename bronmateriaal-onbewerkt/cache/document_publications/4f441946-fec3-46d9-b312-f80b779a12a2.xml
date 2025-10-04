@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29754-703/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 754</dossiernr>
+      </dossiernummer>
+      <titel>Terrorismebestrijding</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">703</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID DIEDERIK VAN DIJK</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2023-12-21">21 december 2023</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er sinds het uitbreken van de oorlog in Israël een huiveringwekkende stijging van antisemitische incidenten in Nederland plaatsvindt;</al>
+            <al>constaterende dat er demonstraties plaatsvinden waarbij antisemitische leuzen gescandeerd worden en terreur verheerlijkt wordt;</al>
+            <al>overwegende dat de context van de leus «From the river to the sea …» rechtstreeks uit het handvest van Hamas komt en oproept tot het uitroeien van alle Joden wereldwijd;</al>
+            <al>overwegende dat het Wetboek van Strafrecht de mogelijkheid biedt om hiertegen op te treden, maar dat de politie en het OM hier zeer terughoudend in zijn vanwege de context;</al>
+            <al>verzoekt de regering om in navolging van Duitsland en Oostenrijk het scanderen van de leus «From the river to the sea …» bij demonstraties altijd in terroristische context te plaatsen en dit in het handelingsperspectief op te nemen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Diederik van Dijk</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

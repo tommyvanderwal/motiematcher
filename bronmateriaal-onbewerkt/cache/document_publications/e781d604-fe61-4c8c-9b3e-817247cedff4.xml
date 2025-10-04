@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-34682-226/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>34 682</dossiernr>
+      </dossiernummer>
+      <titel>Nationale Omgevingsvisie</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">226</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID BOOMSMA C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 217</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-08">8 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat bepaalde industrieën met schaarse kenmerken zoals bereikbaarheid via het water en/of veel milieuruimte onder druk staat door planvorming voor transformatie maar met bijbehorende infrastructuur niet of bijna niet kunnen worden verplaatst,</al>
+            <al>overwegende dat ruimte voor een deel van deze bedrijvigheid van nationaal belang is voor strategische autonomie en/of het duurzaam verdienvermogen van Nederland,</al>
+            <al>overwegende dat geopolitieke ontwikkelingen het noodzakelijk maken om het strategische belang van industriële capaciteit goed te borgen en veilig te stellen,</al>
+            <al>overwegende dat onzekerheid die ruimtelijke druk met zich meebrengt dat bedrijven niet of minder kunnen investeren in verduurzaming,</al>
+            <al-groep>
+              <al>verzoekt de Minister</al>
+              <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>om in de Nota Ruimte als doelstelling op te nemen dat voldoende ruimte wordt gereserveerd voor kadegebonden bedrijven en bedrijven met hoge milieucategorie van strategisch belang en uit te werken hoe die terreinen kunnen worden behouden en geborgd</al>
+                </li>
+                <li>
+                  <li.nr>–</li.nr>
+                  <al>Daar onder te scharen de 5 industrieclusters van nationaal belang, de maritieme maakindustrie, en de mainports/zeehavens</al>
+                </li>
+              </lijst>
+              <al>en gaat over tot de orde van de dag,</al>
+            </al-groep>
+            <al-groep>
+              <al>Boomsma</al>
+              <al>Meulenkamp</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

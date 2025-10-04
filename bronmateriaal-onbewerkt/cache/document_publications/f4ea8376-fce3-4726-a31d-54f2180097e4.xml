@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36541-11/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 541</dossiernr>
+      </dossiernummer>
+      <titel>Wijziging van de Tabaks- en rookwarenwet in verband met de invoering van een registratieplicht voor verkooppunten van tabaksproducten en aanverwante producten</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">11</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID SLAGT-TICHELMAN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-02-05">5 februari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat mensen, bijvoorbeeld leraren en conciërges, zich machteloos voelen buiten de schoolpoort om rookvrije en gezonde omgevingen te creëren;</al>
+            <al>overwegende dat ook KWF aandacht vraagt voor een handelingsperspectief van scholen bij minderjarigen met sigaretten en vapes;</al>
+            <al>constaterende dat vanuit Pharos een training is ontwikkeld voor het naleven van het rookbeleid die goed gewaardeerd werd door de afnemers, zoals wijkcentra, sportcentra, bedrijven of scholen;</al>
+            <al>verzoekt de regering met Pharos in gesprek te gaan over hoe de training beter ingezet kan worden om scholen te helpen om een rookvrije omgeving te creëren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Slagt-Tichelman</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

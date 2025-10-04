@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XX-34/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Asiel en Migratie (XX) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">34</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN VAN ZANTEN EN BOOMSMA</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-07">7 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er groepen asielzoekers en statushouders zijn die om verschillende redenen afreizen naar het land van herkomst;</al>
+            <al>constaterende dat wij mensen in Nederland opvangen die vluchten voor een specifiek gevaar, zoals bijvoorbeeld vervolging of oorlog;</al>
+            <al>overwegende dat wanneer mensen terugreizen naar het land van herkomst, zij daarmee zelf aantonen dat dit gevaar niet dermate groot is dat zij opvang behoeven in een ander land;</al>
+            <al>verzoekt de regering asielprocedures stop te zetten en verblijfsvergunningen voor bepaalde tijd in te trekken wanneer blijkt dat asielzoekers of statushouders afreizen naar het land van herkomst, tenzij anders is besloten door de IND vanwege zwaarwegende belangen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Zanten</al>
+              <al>Boomsma</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

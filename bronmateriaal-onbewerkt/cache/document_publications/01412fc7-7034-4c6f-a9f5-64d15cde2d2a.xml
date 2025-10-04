@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-VIII-64/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>VIII</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Onderwijs, Cultuur en Wetenschap (VIII) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">64</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN STULTIENS EN ERGIN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-01-18">18 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat er voor leerlingen in een leerwerktraject in het vmbo vaak alleen een reis- en onkostenvergoeding beschikbaar is;</al>
+            <al>constaterende dat 16% van de mbo-studenten en 44% van de hbo- en wo-studenten ook geen stagevergoeding ontvangt;</al>
+            <al>constaterende dat er al jarenlang wordt geprobeerd om werkgevers op hun welwillendheid aan te spreken en met een passende vergoeding te komen, maar dat dit lang niet in alle sectoren gebeurt;</al>
+            <al>overwegende dat niet alle leerlingen en studenten het zich kunnen permitteren om onbetaald stage te lopen en dat een wettelijke minimumstagevergoeding daarom zou kunnen bijdragen aan kansengelijkheid;</al>
+            <al>verzoekt daarom de regering om de invoering van zo'n minimale stagevergoeding te onderzoeken en daarbij te kijken naar de kosten van deze maatregel en de gevolgen voor de uitvoering,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Stultiens</al>
+              <al>Ergin</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

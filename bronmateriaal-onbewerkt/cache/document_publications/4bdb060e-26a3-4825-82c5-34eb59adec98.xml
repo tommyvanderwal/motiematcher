@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-26643-1184/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>26 643</dossiernr>
+      </dossiernummer>
+      <titel>Informatie- en communicatietechnologie (ICT)</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1184</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN KATHMANN EN VAN DER WERF</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-11">11 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het aantal cybersecurityincidenten jaar op jaar toeneemt;</al>
+            <al>constaterende dat cybersecuritysoftware, zoals antivirusproducten, wachtwoordmanagers en VPN's, dikwijls geld kost;</al>
+            <al>constaterende dat mensen die minder te besteden hebben daardoor ook minder cyberveilig zijn;</al>
+            <al>overwegende dat een goede cyberveiligheid voor iedereen bereikbaar moet zijn;</al>
+            <al>verzoekt de regering om een lijst te publiceren van betrouwbare, gratis opensource-cybersecuritysoftware die Nederlanders kunnen gebruiken om hun cyberveiligheid te verbeteren en deze op laagdrempelige wijze onder de aandacht te brengen bij relevante doelgroepen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Kathmann</al>
+              <al>Van der Werf</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

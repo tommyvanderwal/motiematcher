@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36410-X-29/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 410</dossiernr>
+        <begrotingshoofdstuk>X</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2024</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">29</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BOSWIJK EN DIEDERIK VAN DIJK</titel>
+      <datumtekst>Voorgesteld tijdens het Wetgevingsoverleg van <datum isodatum="2024-01-29">29 januari 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Defensie reeds in 2018 een voorstel uitgewerkt heeft voor de oprichting van een tankbataljon, op basis van de prioritaire capaciteitendoelstellingen van de NAVO;</al>
+            <al>overwegende dat de veiligheidssituatie sindsdien verder verslechterd is, de behoefte aan zware gevechtscapaciteiten toegenomen is en de NAVO significante tekortkomingen vaststelt bij Nederland als het gaat om het leveren van een zware en medium infanteriebrigade;</al>
+            <al>constaterende dat Duitsland een aantal partnerlanden, waaronder Nederland, uitgenodigd heeft om deel te nemen aan de gezamenlijke verwerving van tanks via het Europese Leopard 2A8 Procurement Initiative en zich samen met Nederland in wil zetten voor een Nederlands tankbataljon binnen de Duits-Nederlandse samenwerking;</al>
+            <al>overwegende dat uit de productvergelijking in 2018 bleek dat de Leopard 2A7+-gevechtstank als enige aan de operationele en levertijdeisen voldeed en de modernere Leopard 2A8-tank voordelen kent op het gebied van levertijd, prijs en Europese interoperabiliteit;</al>
+            <al>overwegende dat snelle besluitvorming over de oprichting van een tankbataljon wenselijk en mogelijk is, op basis van de reeds uitgewerkte plannen en het minimale beslag op de verwervingscapaciteit bij Defensie;</al>
+            <al>verzoekt de regering de Kamer uiterlijk 1 juli te informeren over de behoeftestelling voor de oprichting van een tankbataljon, door middel van een A-brief,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Boswijk</al>
+              <al>Diederik van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36600-XX-59/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 600</dossiernr>
+        <begrotingshoofdstuk>XX</begrotingshoofdstuk>
+      </dossiernummer>
+      <titel>Vaststelling van de begrotingsstaat van het Ministerie van Asiel en Migratie (XX) voor het jaar 2025</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">59</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID OUWEHAND</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-04-02">2 april 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de inwoners van Nederland recht hebben op een kabinet waarin ze vertrouwen kunnen hebben, zeker gezien de enorme uitdagingen waar Nederland voor staat, zoals de klimaatcrisis, de natuurcrisis, veiligheid in Europa en ongelijkheid en sociale onrechtvaardigheid;</al>
+            <al>constaterende dat onder leiding van deze Minister-President het kabinet al sinds de start burgers tegen elkaar ophitst, racistisch gedachtegoed van bewindspersonen accepteert, oplossingen voor de problemen waar Nederland voor staat actief saboteert en daarmee een spoor van chaos en wanorde achterlaat;</al>
+            <al-groep>
+              <al>constaterende dat de Minister-President onacceptabel gedrag van zijn eigen Minister niet normeert, een niet-functionerende Minister laat zitten en laat gebeuren dat het landsbelang volledig ondergeschikt raakt aan partijpolitieke belangen van de vier coalitiefracties;</al>
+              <al>zegt het vertrouwen in de Minister-President op,</al>
+            </al-groep>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Ouwehand</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

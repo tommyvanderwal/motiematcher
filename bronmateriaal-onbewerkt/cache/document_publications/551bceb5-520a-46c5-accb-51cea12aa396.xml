@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-29389-137/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>29 389</dossiernr>
+      </dossiernummer>
+      <titel>Vergrijzing en het integrale ouderenbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">137</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID RIKKERS-OOSTERKAMP</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-27">27 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat leegstand van logeerbedden leidt tot het risico dat aanbieders bedden voor andere doeleinden inzetten, waardoor er geen garantie is dat logeeropvang beschikbaar is voor mantelzorgers wanneer dit nodig is;</al>
+            <al>constaterende dat gemeenten tegen het probleem aanlopen dat mantelzorgers moeilijk te vinden zijn, omdat de gegevens niet gedeeld mogen worden;</al>
+            <al>verzoekt de regering in overleg te treden met de Vereniging van Nederlandse Gemeenten (VNG) en Zorgverzekeraars Nederland om te komen tot een aanpak die ervoor zorgt dat mantelzorgers actiever geïnformeerd worden over de beschikbaarheid en mogelijkheden van logeerzorg,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Rikkers-Oosterkamp</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

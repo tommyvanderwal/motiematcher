@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-36471-92/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>36 471</dossiernr>
+      </dossiernummer>
+      <titel>Kabinetsformatie 2023</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">92</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN DASSEN EN JETTEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-07-04">4 juli 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat bij een op de drie Nederlandse scholen een aanzienlijk deel van de leerlingen opgroeit in een gezin met een laag inkomen;</al>
+            <al>overwegende dat het Programma Schoolmaaltijden ervoor zorgt dat leerlingen niet met honger in de klas zitten;</al>
+            <al>overwegende dat uit onderzoek van Erasmus MC blijkt dat de schoolmaaltijden zorgen voor het verbeteren van de gezondheid en het welbevinden van kinderen, de sociale samenhang in de wijk en de concentratie in de klas;</al>
+            <al>overwegende dat uit een enquête van het Jeugdeducatiefonds en het Rode Kruis blijkt dat 99% van de scholen aangeeft dat het van belang is dat dit programma wordt verlengd en wanneer dat niet gebeurt, er weer kinderen met honger in de klas zitten;</al>
+            <al-groep>
+              <al>overwegende dat 350.000 kinderen op 2.100 scholen het risico lopen de schoollunches te verliezen en zij voor aankomend jaar zekerheid verdienen;</al>
+              <al>van mening dat geen enkel kind met honger in de klas mag zitten;</al>
+            </al-groep>
+            <al>verzoekt de regering in het uitwerken van het regeerprogramma het Programma Schoolmaaltijden te waarborgen en hier zo spoedig mogelijk, liefst voor het nieuwe schooljaar, actief over te communiceren zodat alle scholen en kinderen binnen de doelgroep duidelijkheid krijgen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Dassen</al>
+              <al>Jetten</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33552-131/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 552</dossiernr>
+      </dossiernummer>
+      <titel>Slachtofferbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">131</ondernummer></stuknr>
+      <titel>MOTIE VAN DE LEDEN BRUYNING EN PALMEN</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-11-06">6 november 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat de wet verschillende slachtofferrechten bevat voor slachtoffers in de zin van het Wetboek van Strafvordering, maar dat deze in de praktijk niet altijd naar behoren worden nageleefd;</al>
+            <al>van mening dat het voor de positie van slachtoffers van groot belang is dat de bestaande slachtofferrechten in de praktijk door alle organisaties die hiermee te maken hebben, worden nageleefd;</al>
+            <al-groep>
+              <al>van mening dat het van positieve invloed zou zijn op het naleven van de slachtofferrechten als de Inspectie JenV actief toezicht zou kunnen houden op het al dan niet naleven van slachtofferrechten door de betrokken organisaties;</al>
+              <al>constaterende dat hiervoor op dit moment geen juridisch basis bestaat;</al>
+            </al-groep>
+            <al>verzoekt de regering een wettelijke grondslag te creëren op basis waarvan de Inspectie JenV actief toezicht kan houden op het naleven van slachtofferrechten, zowel op de kwaliteit van de uitvoering als op persoonsniveau, door alle organisaties die hier in de praktijk mee te maken hebben/hier een taak in hebben,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Bruyning</al>
+              <al>Palmen</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

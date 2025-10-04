@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-36715-19"/>
+      <meta name="OVERHEIDop.ondernummer" content="19"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-06-13"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="36715"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Van Baarle over bepleiten dat Israël uit de VN gezet wordt"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="S.R.T. van Baarle"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Staat van de Europese Unie 2025"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-06-12"/>
+      <meta name="DC.title" scheme="" content="Staat van de Europese Unie 2025; Motie; Motie van het lid Van Baarle over bepleiten dat Israël uit de VN gezet wordt"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>36 715</dossiernr>
+         </dossiernummer>
+         <titel>Staat van de Europese Unie 2025</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">19</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID VAN BAARLE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-06-12">12 juni 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al-groep>
+                     <al>constaterende dat Israëlische Ministers en Permanente Vertegenwoordigers bij de VN hebben gezegd dat:</al>
+                     <lijst type="expliciet" start="1" level="single" nr-sluiting=".">
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de VN een Hamashandlanger zijn;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de VN Joden fysiek uit willen roeien;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>Hitler trots zou zijn op de VN;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de hoogste rechtbank van de VN een antisemitisch theater van absurditeit, een politiek circus en een bolwerk van Hamas-aanhangers is;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>de secretaris-generaal van de VN voor Israël een persona non grata is;</al>
+                        </li>
+                        <li>
+                           <li.nr>•</li.nr>
+                           <al>Israël moet overwegen zelf uit de VN te stappen;</al>
+                        </li>
+                     </lijst>
+                     <al>overwegende dat Israël structureel het VN-Handvest schendt en dat artikel 6 van het VN-Handvest de mogelijkheid biedt om een land uit de VN te zetten;</al>
+                  </al-groep>
+                  <al>verzoekt de regering om te bepleiten dat Israël uit de VN gezet wordt,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Van Baarle</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

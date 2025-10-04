@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-21501-02-3155"/>
+      <meta name="OVERHEIDop.ondernummer" content="3155"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-05-23"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="21501-02"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van de leden Bamenga en Paternotte over in contact treden met de Commissie over mogelijke stappen inzake het besluit van Hongarije zich terug te trekken uit het Internationaal Strafhof"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="J.M. Paternotte"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="P. Bamenga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2024-2025"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-05-22"/>
+      <meta name="DC.title" scheme="" content="Raad Algemene Zaken en Raad Buitenlandse Zaken; Motie; Motie van de leden Bamenga en Paternotte over in contact treden met de Commissie over mogelijke stappen inzake het besluit van Hongarije zich terug te trekken uit het Internationaal Strafhof"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Internationaal | Europese zaken"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>21 501</dossiernr>-<raadnr>02</raadnr>
+         </dossiernummer>
+         <titel>Raad Algemene Zaken en Raad Buitenlandse Zaken </titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">3155</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN DE LEDEN BAMENGA EN PATERNOTTE</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-05-22">22 mei 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat het Raadsbesluit 2011/168/CFSP van 21 maart 2011 stelt dat lidstaten volledig meewerken aan implementatie van het Statuut van Rome en alles in het werk moeten stellen om de steun voor het Internationaal Strafhof wereldwijd te bevorderen;</al>
+                  <al>overwegende dat het Hongaarse parlement een wet heeft aangenomen om het Internationaal Strafhof te verlaten en dit regelrecht indruist tegen het bovengenoemde Raadsbesluit;</al>
+                  <al>overwegende dat besluiten van de Raad van de Europese Unie bindend zijn voor de lidstaten en een overtreding daarvan dus geldt als schending van het Europees recht;</al>
+                  <al>overwegende dat dit daarbij een schending van artikel 2 van het Verdrag betreffende de werking van de Europese Unie is, omdat het ingaat tegen het respecteren van de rechtsstaat en mensenrechten;</al>
+                  <al>overwegende dat Hongarije met het vertrek uit het Statuut van Rome het voornoemde Raadsbesluit en daarmee het Europees recht schendt;</al>
+                  <al>verzoekt de regering om een proactieve rol te nemen en in contact te treden met de Commissie over mogelijke stappen in verband met het besluit van Hongarije om zich terug te trekken uit het Internationaal Strafhof,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al-groep>
+                     <al>Bamenga</al>
+                     <al>Paternotte</al>
+                  </al-groep>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

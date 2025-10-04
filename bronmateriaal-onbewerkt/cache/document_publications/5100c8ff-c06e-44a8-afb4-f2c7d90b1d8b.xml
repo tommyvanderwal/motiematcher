@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-30196-837/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>30 196</dossiernr>
+      </dossiernummer>
+      <titel>Duurzame ontwikkeling en beleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">837</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID FLACH</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2025-01-23">23 januari 2025</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de regering als uitgangspunt genomen heeft dat geen subsidies verstrekt worden voor maatregelen die wettelijk verplicht zijn;</al>
+            <al>van mening dat voor een betere en voortvarende uitvoering van de complexe energiebesparingsplicht, zeker bij verlenging van de terugverdientermijn, steunregelingen nodig zijn;</al>
+            <al>overwegende dat het Europese staatssteunkader ruimte biedt voor steunregelingen ten behoeve van energiebesparing, mits sprake is van maatregelen, zoals de energiebesparingsplicht, die verdergaan dan de toepasselijke Europese normen;</al>
+            <al>verzoekt de regering de ruimte te nemen die het staatssteunkader biedt om, waar nodig, financiële steunregelingen in te zetten voor voortvarende toepassing van de energiebesparingsplicht,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al>Flach</al>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

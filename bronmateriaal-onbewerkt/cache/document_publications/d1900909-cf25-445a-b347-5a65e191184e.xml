@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-28286-1341/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>28 286</dossiernr>
+      </dossiernummer>
+      <titel>Dierenwelzijn</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">1341</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VAN CAMPEN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-16">16 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat de onlangs door beide Kamers aangenomen Wet dieren vraagt om AMvB's die gericht zijn op het uiterlijk in 2040 bewerkstelligen van een dierwaardige wijze van het houden van dieren;</al>
+            <al>constaterende dat artikel 10.10 lid 3 stelt dat deze AMvB's niet later «dan één jaar na de inwerkingtreding van de wet van 29 mei 2024» naar de Kamer gestuurd dienen te worden;</al>
+            <al>constaterende dat helderheid omtrent deze AMvB's van belang is voor ondernemers die keuzes willen maken over de toekomst van hun bedrijfsvoering;</al>
+            <al>constaterende dat dierwaardigheid volgens de zes leidende principes van de Raad voor Dieraangelegenheden (RDA) is uitgewerkt in de quickscan van de Universiteit Utrecht, hetgeen de basis zou vormen voor het convenant Dierwaardige veehouderij;</al>
+            <al>verzoekt de regering conform de gewijzigde Wet dieren voortvarend aan de slag te gaan met het maken van keuzes over de invulling van de AMvB's, bij voorkeur via het convenant Dierwaardige veehouderij;</al>
+            <al>verzoekt de regering deze AMvB's wetenschappelijk te laten toetsen en de Kamer regelmatig te informeren over de voortgang,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Van Campen</al>
+              <al>Podt</al>
+              <al>Bromet</al>
+              <al>Grinwis</al>
+              <al>Holman</al>
+              <al>Graus</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

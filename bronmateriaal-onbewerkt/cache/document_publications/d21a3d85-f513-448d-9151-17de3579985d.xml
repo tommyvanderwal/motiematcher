@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <metadata>
+      <meta name="DC.identifier" scheme="OVERHEIDop.ParlID" content="kst-29502-202"/>
+      <meta name="OVERHEIDop.ondernummer" content="202"/>
+      <meta name="DCTERMS.available" scheme="DCTERMS.W3CDTF" content="2025-10-02"/>
+      <meta name="DC.type" scheme="OVERHEIDop.KamerstukTypen" content="Motie"/>
+      <meta name="OVERHEIDop.dossiernummer" content="29502"/>
+      <meta name="OVERHEIDop.configuratie" scheme="" content="https://repository.officiele-overheidspublicaties.nl/MasterConfiguraties/MC-OEP-Kamerstuk-Web/1.10/xml/MC-OEP-Kamerstuk-Web.xml"/>
+      <meta name="OVERHEIDop.documenttitel" scheme="" content="Motie van het lid Idsinga over zorgen dat PostNL zijn wettelijke taak blijft uitvoeren totdat de Postwet is gewijzigd"/>
+      <meta name="OVERHEIDop.indiener" scheme="" content="F.L. Idsinga"/>
+      <meta name="OVERHEIDop.dossiertitel" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector"/>
+      <meta name="DCTERMS.alternative" scheme="" content=""/>
+      <meta name="OVERHEIDop.vergaderjaar" scheme="" content="2025-2026"/>
+      <meta name="DC.creator" scheme="OVERHEID.StatenGeneraal" content="Tweede Kamer der Staten-Generaal"/>
+      <meta name="DC.type" scheme="OVERHEIDop.Parlementair" content="Kamerstuk"/>
+      <meta name="DCTERMS.issued" scheme="DCTERMS.W3CDTF" content="2025-10-01"/>
+      <meta name="DC.title" scheme="" content="Toekomstige ontwikkeling van de Nederlandse postsector; Motie; Motie van het lid Idsinga over zorgen dat PostNL zijn wettelijke taak blijft uitvoeren totdat de Postwet is gewijzigd"/>
+      <meta name="DCTERMS.language" scheme="DCTERMS.RFC4646" content="nl"/>
+      <meta name="OVERHEIDop.doctype" scheme="" content="Officiële Publicaties, versie 1.1"/>
+      <meta name="DC.type" scheme="OVERHEID.Informatietype" content="officiële publicatie"/>
+      <meta name="OVERHEIDop.publicationName" scheme="" content="Kamerstuk"/>
+      <meta name="OVERHEID.organisationType" scheme="OVERHEID.Organisatietype" content="staten generaal"/>
+      <meta name="OVERHEID.category" scheme="OVERHEID.TaxonomieBeleidsagenda" content="Economie | Overige economische sectoren"/>
+      <meta name="OVERHEIDop.versieInformatie" content=""/>
+   </metadata>
+   <kamerstuk>
+      <kamerstukkop>
+         <tekstregel inhoud="vergaderjaar">Vergaderjaar 2025-2026</tekstregel>
+         <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+         <tekstregel inhoud="kamernummer">2</tekstregel>
+         <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+      </kamerstukkop>
+      <dossier>
+         <dossiernummer>
+            <dossiernr>29 502</dossiernr>
+         </dossiernummer>
+         <titel>Toekomstige ontwikkeling van de Nederlandse postsector</titel>
+      </dossier>
+      <stuk>
+         <stuknr>Nr. <ondernummer kamer="2">202</ondernummer>
+         </stuknr>
+         <titel>MOTIE VAN HET LID IDSINGA</titel>
+         <datumtekst>Voorgesteld <datum isodatum="2025-10-01">1 oktober 2025</datum>
+         </datumtekst>
+         <algemeen>
+            <vrije-tekst>
+               <tekst status="goed">
+                  <al>De Kamer,</al>
+                  <al>gehoord de beraadslaging,</al>
+                  <al>constaterende dat PostNL publiekelijk heeft aangekondigd de postvoorziening te zullen versoberen en zelfs heeft gemeld te willen worden ontslagen van de wettelijke verplichting om de Universele Postdienst (UPD) uit te voeren;</al>
+                  <al>overwegende dat de UPD een publieke taak is die door wet aan PostNL is opgedragen en waarvan de continuïteit van groot maatschappelijk belang is;</al>
+                  <al>overwegende dat burgers, bedrijven en kwetsbare groepen, waaronder werknemers van postbedrijven, waaronder regionale, daarvan de dupe dreigen te worden;</al>
+                  <al>verzoekt de regering om er met alle beschikbare juridische en bestuurlijke middelen voor te zorgen dat PostNL zijn wettelijke taak blijft uitvoeren totdat de Postwet is gewijzigd en daarbij de continuïteit, betrouwbaarheid en toegankelijkheid van de postvoorziening onder alle omstandigheden te waarborgen,</al>
+                  <al>en gaat over tot de orde van de dag.</al>
+                  <al>Idsinga</al>
+               </tekst>
+            </vrije-tekst>
+         </algemeen>
+      </stuk>
+   </kamerstuk>
+</officiele-publicatie>

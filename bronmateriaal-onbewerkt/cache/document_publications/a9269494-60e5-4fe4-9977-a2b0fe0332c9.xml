@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-31497-487/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>31 497</dossiernr>
+      </dossiernummer>
+      <titel>Passend onderwijs</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">487</ondernummer></stuknr>
+      <titel>GEWIJZIGDE MOTIE VAN HET LID WESTERVELD C.S. TER VERVANGING VAN DIE GEDRUKT ONDER NR. 478</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-18">18 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat Samen naar School-klassen een prachtig initiatief zijn waar kinderen met en zonder beperking met elkaar leren en spelen op een school in de buurt;</al>
+            <al>constaterende dat veel initiatieven in het voortgezet onderwijs nog tegen knelpunten in wet- en regelgeving aanlopen, zoals de eis voor het behalen van een landelijk erkend diploma;</al>
+            <al>constaterende dat sommige leerlingen niet aan die eisen kunnen voldoen vanwege hun beperking;</al>
+            <al>constaterende dat er steeds meer behoefte is aan Samen naar School-klassen op het vo en initiatieven zoals de Monnikskap;</al>
+            <al>verzoekt de regering om Samen naar School-klassen in het vo verder te stimuleren door een analyse te maken van de knelpunten en een plan te maken om deze weg te nemen, waaronder de benodigde aanpassingen in wet- en regelgeving, en dit plan voor het einde van het jaar naar de Kamer te sturen,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Westerveld</al>
+              <al>Beckerman</al>
+              <al>Ceder</al>
+              <al>De Kort</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

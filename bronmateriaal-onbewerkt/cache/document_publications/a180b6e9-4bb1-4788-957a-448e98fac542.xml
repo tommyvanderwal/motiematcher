@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-27925-974/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>27 925</dossiernr>
+      </dossiernummer>
+      <titel>Bestrijding internationaal terrorisme</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">974</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID PIRI C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-10-23">23 oktober 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>constaterende dat het kabinet heeft besloten om de eerdere toezegging aan een beperkte, afgebakende groep van minder dan 200 Afghaanse beveiligers van de Nederlandse missie terug te draaien;</al>
+            <al>overwegende dat Nederland een ereschuld heeft naar de Afghanen die gedurende twintig jaar onmisbaar zijn geweest voor het werk van de Nederlandse diplomaten en militairen;</al>
+            <al>overwegende dat er aanhoudende zorgelijke berichten zijn over het gevaar dat deze mensen lopen voor vervolging door de Taliban vanwege hun associatie met de Nederlandse missie;</al>
+            <al>roept het kabinet op om alsnog een modaliteit te vinden om deze beperkte en afgebakende groep Afghaanse oud-medewerkers en hun gezinnen bescherming te bieden in Nederland,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Piri</al>
+              <al>Paternotte</al>
+              <al>Boswijk</al>
+              <al>Ceder</al>
+              <al>Dobbe</al>
+              <al>Van Baarle</al>
+              <al>Teunissen</al>
+              <al>Koekkoek</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

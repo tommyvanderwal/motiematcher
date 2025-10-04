@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-23645-822/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2023-2024</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>23 645</dossiernr>
+      </dossiernummer>
+      <titel>Openbaar vervoer</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">822</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID VELTMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-06-05">5 juni 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat agressie en geweld in het openbaar vervoer onacceptabel zijn;</al>
+            <al>overwegende dat het kunnen controleren van de identiteit van overlastgevers in het ov door boa’s nodig is om snel en adequaat te kunnen optreden;</al>
+            <al>overwegende dat de huidige wijze van identiteitscontrole door boa’s in het ov zeer tijdrovend is en regelmatig leidt tot zeer gevaarlijke situaties voor boa’s, conducteurs en reizigers;</al>
+            <al>constaterende dat het aantal geweldsincidenten in het openbaar vervoer toeneemt en dat er in het belang van de veiligheid niet langer kan worden gewacht;</al>
+            <al>verzoekt de regering om zo spoedig mogelijk de identiteitscheck door gekwalificeerde boa’s in het ov in te voeren,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Veltman</al>
+              <al>Heutink</al>
+              <al>Olger van Dijk</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>

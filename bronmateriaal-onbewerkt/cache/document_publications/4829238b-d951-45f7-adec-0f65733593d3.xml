@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<officiele-publicatie xsi:noNamespaceSchemaLocation="http://technische-documentatie.oep.overheid.nl/repository/schemas/op-consolidated/op-consolidated_2014-05-15/xsd/op-xsd-2014-05-15.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <meta name="OVERHEIDop.externMetadataRecord" scheme="" content="https://zoek.officielebekendmakingen.nl/kst-33576-414/metadata.xml"/>
+  </metadata>
+  <kamerstuk>
+    <kamerstukkop>
+      <tekstregel inhoud="vergaderjaar">Vergaderjaar 2024-2025</tekstregel>
+      <tekstregel inhoud="kameraanduiding">Tweede Kamer der Staten-Generaal</tekstregel>
+      <tekstregel inhoud="kamernummer">2</tekstregel>
+      <tekstregel inhoud="documenttype">Kamerstukken</tekstregel>
+    </kamerstukkop>
+    <dossier>
+      <dossiernummer>
+        <dossiernr>33 576</dossiernr>
+      </dossiernummer>
+      <titel>Natuurbeleid</titel>
+    </dossier>
+    <stuk>
+      <stuknr>Nr. <ondernummer kamer="2">414</ondernummer></stuknr>
+      <titel>MOTIE VAN HET LID HOLMAN C.S.</titel>
+      <datumtekst>Voorgesteld <datum isodatum="2024-12-19">19 december 2024</datum></datumtekst>
+      <algemeen>
+        <vrije-tekst>
+          <tekst status="goed">
+            <al>De Kamer,</al>
+            <al>gehoord de beraadslaging,</al>
+            <al>overwegende dat in het hoofdlijnenakkoord is afgesproken dat we PAS-melders gaan legaliseren;</al>
+            <al>overwegende dat we geen drie jaar de tijd gaan krijgen om de problemen op te lossen omdat er op zeer korte termijn al een tsunami van handhavingsverzoeken zal gaan komen;</al>
+            <al>constaterende dat het huidige plan van aanpak dat niet gaat bewerkstelligen;</al>
+            <al>overwegende dat een concreet plan dat aangeeft hoe de noodzakelijke emissies gerealiseerd gaan worden, noodzakelijk is om een doorbraak te bewerkstelligen die Nederland van het stikstofslot trekt;</al>
+            <al>verzoekt de Minister zo spoedig mogelijk, in elk geval voor het volgende commissiedebat Stikstof, te komen met een aanvullend plan, dat mogelijk maakt dat de PAS-melders wel worden gelegaliseerd,</al>
+            <al>en gaat over tot de orde van de dag.</al>
+            <al-groep>
+              <al>Holman</al>
+              <al>Van Campen</al>
+              <al>Vedder</al>
+            </al-groep>
+          </tekst>
+        </vrije-tekst>
+      </algemeen>
+    </stuk>
+  </kamerstuk>
+</officiele-publicatie>
