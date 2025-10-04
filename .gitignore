@@ -1,0 +1,15 @@
+# Local virtual environments
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# IDE and tooling caches
+.vscode/
+.idea/
+*.swp
+
+# Large extracted snapshots recreated locally (archives tracked separately)
+bronmateriaal-onbewerkt/current/zaak_current/*.json
+!bronmateriaal-onbewerkt/current/zaak_current/*.zip
